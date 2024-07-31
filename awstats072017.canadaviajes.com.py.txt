@@ -1,0 +1,1575 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201707 will be lost/reset.
+# Last config file used to build this data file was /home/canadavi/tmp/awstats/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2700                
+POS_VISITOR 20476               
+POS_DAY 46858               
+POS_DOMAIN 3611                
+POS_LOGIN 4405                
+POS_ROBOT 4560                
+POS_WORMS 5111                
+POS_EMAILSENDER 5242                
+POS_EMAILRECEIVER 5385                
+POS_SESSION 47752               
+POS_SIDER 47956               
+POS_FILETYPES 5520                
+POS_DOWNLOADS 5734                
+POS_OS 6119                
+POS_BROWSER 6475                
+POS_SCREENSIZE 9059                
+POS_UNKNOWNREFERER 9133                
+POS_UNKNOWNREFERERBROWSER 9599                
+POS_ORIGIN 9802                
+POS_SEREFERRALS 9948                
+POS_PAGEREFS 10137               
+POS_SEARCHWORDS 10796               
+POS_KEYWORDS 10989               
+POS_MISC 2362                
+POS_ERRORS 11077               
+POS_CLUSTER 4261                
+POS_SIDER_404 11209               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170801000644 825 207863 9212654909158
+FirstTime 20170701004538
+LastTime 20170731231721
+LastUpdate 20170801013341 825 0 824 0 0
+TotalVisits 313                 
+TotalUnique 245                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 840                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 162 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 277 7566548 68 166 1845126
+1 3 31 595086 19 48 1083204
+2 0 1 39965 34 50 424689
+3 1 36 338782 40 66 704888
+4 22 239 8102723 36 62 612515
+5 24 194 2587631 53 101 972444
+6 28 581 18915195 34 98 884192
+7 48 940 23550676 42 121 1416497
+8 60 1247 21519273 25 144 1827573
+9 90 2215 39184833 82 261 2369342
+10 75 1384 35438326 28 151 1484310
+11 48 1045 20459468 23 120 1315764
+12 20 886 13834505 41 162 2231460
+13 48 1329 24624275 84 329 3928539
+14 40 1139 22228895 42 267 2699944
+15 65 1121 18396388 137 319 3339684
+16 45 684 9721692 45 283 3869182
+17 24 720 15799905 21 163 2169845
+18 21 598 11060524 43 321 4908081
+19 31 744 12398281 46 235 3492224
+20 31 716 12091970 52 155 2956294
+21 43 807 16464281 43 129 1492702
+22 8 303 4525982 27 132 2343494
+23 43 442 15713588 47 115 1425843
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 38
+py 390 11471 239854598
+us 209 2334 49737181
+ru 49 110 1431721
+ar 45 1746 32416409
+ca 34 384 8758974
+cn 20 21 132671
+de 11 160 2335052
+gb 10 36 347906
+no 9 9 81141
+es 8 434 3582837
+kr 7 57 694084
+mx 6 98 2089923
+uy 5 163 1350660
+ie 5 97 1376126
+bo 3 70 946973
+pe 3 60 970709
+ph 3 47 693609
+jp 3 4 39275
+ch 3 86 5001694
+fr 3 25 212761
+nl 2 13 119749
+ua 2 2 1666
+cr 1 32 410121
+hk 1 1 833
+br 0 111 1073866
+it 0 53 506150
+lb 0 15 142267
+za 0 2 45112
+pa 0 1 22556
+co 0 2 45909
+td 0 1 22556
+pk 0 1 22556
+ir 0 1 22556
+cl 0 12 191354
+ni 0 1 22556
+gt 0 4 174775
+ec 0 2 129663
+ve 0 13 150243
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 899 16650706 20170731230321 0
+bingpreview 660 10728239 20170731184327 0
+googlebot\-image 218 1189249 20170731134936 0
+googlebot 198 1519671 20170731233533 0
+no_user_agent 63 1029749 20170729235409 0
+spider 36 267555 20170728192026 0
+crawl 27 402892 20170722141921 0
+robot 20 240001 20170731031726 0
+php 3 17909 20170726133335 0
+netcraft 2 14618 20170707020632 0
+ia_archiver 1 833 20170718132310 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 1 1647 0 0
+html 377 2033005 0 0
+png 202 2872832 0 0
+js 8 199277 0 0
+gif 24 199383 0 0
+htm 455 6939491 0 0
+pdf 1 39965 0 0
+jpg 16611 342873192 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/web2015/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf 15 0 2115585
+/web2015/html/Congreso/pdf/PAYMENT%20PROCEDURES.pdf 7 0 66080
+/web2015/html/Congreso/pdf/Post%20Tour%20Paraguay-Argentina-Brazil%20Mayo%202015.pdf 2 0 79930
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+Unknown 91 36
+macosx8 1 1
+linuxandroid 4949 174
+winnt 2947 126
+macosx9 21 10
+win2003 23 12
+winxp 803 79
+linuxubuntu 12 0
+winphone 66 4
+linuxfedora 2 2
+win8 354 15
+macosx 404 43
+winlong 14 3
+ios_iphone 1150 44
+win8.1 1053 42
+macosx6 4 0
+linux 184 18
+ios_ipad 152 5
+win7 5448 218
+macosx7 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 123
+chrome33.0.0.0 18 0
+chrome51.0.2704.81 33 0
+safari7.0.3 4 4
+android 25 0
+msie6.0 50 49
+firefox28.0 6 6
+opera36.0.2130.80 11 0
+chrome43.0.2357.121 11 0
+chrome49.0.2623.112 473 21
+chrome53.0.2785.116 11 0
+chrome58.7.3029.81 45 3
+chrome10.0.648.204 5 5
+chrome55.0.2883.91 137 5
+chrome46.0.2486.0 44 0
+firefox40.0 2 1
+chrome34.0.1847.76 11 0
+chrome49.0.2623.105 44 0
+firefox50.0 13 2
+chrome58.0.3029.110 182 8
+firefox3.6.18 1 0
+chrome58.0.3029.81 13 2
+firefox3.6.3 1 1
+safari9.1.3 11 0
+safari9.0 94 4
+firefox5.0.1 2 0
+chrome52.0.2743.116 63 28
+firefox48.0 23 1
+chrome48.0.2564.95 44 3
+firefox44.0 11 0
+chrome59.0.3071.92 12 0
+chrome52.0.2743.98 22 0
+safari8.0 11 0
+firefox3.0 2 2
+firefox4.0.1 1 0
+firefox34.0 98 4
+chrome50.0.2661.86 1 0
+chrome38.0.2125.122 1 1
+chrome60.0.3112.78 47 0
+chrome55.0.2883.87 44 2
+chrome43.0.2357.93 63 4
+safari10.1 1 1
+msie7.0 12 11
+msie8.0 4 3
+firefox39.0 11 0
+msie10.0 47 8
+chrome26.0.1410.65 1 1
+alcatel 1 0
+chrome47.0.2526.80 11 0
+chrome50.0.2661.102 16 16
+chrome45.0.2454.93 13 12
+chrome56.0.2924.87 276 12
+chrome34.0.1847.137 4 4
+safari10.1.1 22 0
+firefox54.0 1864 77
+msie9.0 25 14
+firefox11.0 1 0
+chrome44.0.2403.89 1 1
+firefox7.0 47 3
+firefox53.0 23 1
+firefox22.0 11 0
+safari5.1 2 0
+chrome57.0.2987.132 103 4
+chrome14.0.835.187 1 0
+chrome36.0.1985.135 68 3
+chrome30.0.1599.103 11 0
+chrome46.0.2490.76 16 0
+firefox38.0 11 0
+chrome40.0.2214.109 46 3
+chrome34.0.1847.118 115 6
+chrome54.0.2840.85 2 0
+firefox52.0 292 10
+safari 455 18
+firefox31.0 1 1
+lg\- 1 0
+chrome59.0.3071.86 44 0
+chrome40.0.2214.93 1 1
+chrome35.0.1916.114 4 4
+firefox42.0 12 1
+chrome47.0.2526.106 11 0
+chrome59.0.3071.125 2055 59
+chrome49.0.2623.75 2 2
+msie11.0 612 22
+firefox45.0 2 2
+chrome44.0.2403.133 174 7
+firefox49.0 33 0
+chrome12.0.742.112 1 0
+chrome41.0.2227.0 2 2
+firefox29.0 4 4
+iphone 47 2
+chrome37.0.2062.103 45 3
+chrome28.0.1500.94 146 8
+opera46.0.2597.57 40 1
+chrome53.0.2785.124 11 0
+chrome39.0.0.0 48 4
+safari9.1.1 11 0
+chrome38.0.2125.102 384 15
+chrome51.0.2704.79 24 1
+chrome50.0.2661.89 54 2
+firefox21.0 2 2
+firefox47.0 33 0
+Unknown 6 6
+mozilla 65 32
+firefox7.0.1 1 0
+chrome51.0.2704.106 633 25
+chrome59.0.3071.115 6331 198
+chrome34.0.1847.131 3 3
+chrome55.0.2883.75 1 1
+chrome57.0.2987.133 2 2
+firefox46.0 55 0
+firefox43.0 176 9
+chrome49.0.2623.91 11 0
+chrome35.0.1916.153 1 1
+safari10.0 695 25
+firefox26.0 11 0
+firefox41.0 22 0
+chrome47.0.2526.83 11 0
+chrome48.0.2564.103 11 0
+chrome58.0.3029.83 483 17
+chrome31.0.1650.63 11 0
+chrome30.0.0.0 25 0
+chrome41.0.2228.0 1 1
+safari10.0.2 106 5
+chrome31.0.1650.59 11 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Visited_by_http://tools.geek-tools.org 20170729234103
+Mozilla/5.0_(compatible;_ips-agent) 20170722215201
+Python-urllib/2.7 20170708071509
+Mozilla/5.0_(Android_7.0;_Mobile;_rv:54.0)_Gecko/54.0_Firefox/54.0 20170716142836
+Mozilla/4.0_(compatible;) 20170731085857
+Mozilla/5.0_(Android_5.1.1;_Mobile;_rv:41.0)_Gecko/41.0_Firefox/41.0 20170703175040
+Go-http-client/1.1 20170721175131
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python-urllib/2.7 20170708071509
+Visited_by_http://tools.geek-tools.org 20170729234103
+Go-http-client/1.1 20170721175131
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 243 541
+From1 2 2
+From2 167 227
+From3 8 7170
+From4 412 9739
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+yandex 2 2
+bing 3 3
+google 161 221
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://m.facebook.com 2 2
+https://www.facebook.com 2 2
+http://l.facebook.com/l.php 1 1
+http://www.marinetraffic.com 1 1
+https://translate.googleusercontent.com/translate_c 1 1
+http://www.asatur.org.py/lista_de_socios.html 1 1
+http://www.yeruti.com.py/html/promo_terrestre.htm 0 66
+http://www.yeruti.com.py/html/promo.htm 0 1080
+http://yeruti.com.py/html/promo.htm 0 6
+http://yeruti.com.py/html/inicio.htm 0 51
+http://www.yeruti.com.py/html/promo_aereo.htm 0 111
+http://www.yeruti.com.py/html/inicio.htm 0 5848
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+canada+viajes+paraguay 1
+canada+viajes 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+canada 2
+viajes 2
+paraguay 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 84 11256
+206 96 608440
+406 5 1130
+404 1524 17115588
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 218
+/pics/banner_sudafrica.jpg 2 -
+/lib/fckeditor/editor/dialog/fck_about.html 1 -
+/outils/fckeditor/editor/dialog/fck_about.html 1 -
+/aleman/html/banner_superior_principal.swf 1 -
+/administartor/fckeditor/editor/dialog/fck_about.html 1 -
+/admin_manage_access/ 1 -
+/web2015/html/inicio.htm(emptyreference!) 1 http://www.canadaviajes.com.py
+/web2015/html/_pgtres/stm31.js 615 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/fck/_whatsnew.html 2 -
+/html/fitpar2015/fitpar2015.htm 1 -
+/templates/fckeditor/editor/dialog/fck_about.html 1 -
+/processlogin/ 1 -
+/js/editor/FCKeditor/editor/dialog/fck_about.html 1 -
+/ckeditor/_whatsnew.html 2 -
+/Fckeditornew/editor/dialog/fck_about.html 1 -
+/inc/home/fckeditor/editor/dialog/fck_about.html 1 -
+/pics/bot_contactenos.jpg 4 -
+/cms/wp-admin/setup-config.php 1 -
+/pics/banner_caribe.jpg 2 -
+/web2015/html/inicio.htmexc_inter.htm 1 http://www.canadaviajes.com.py
+/js/ajax/ 1 -
+/scripts/FCKeditor/editor/dialog/fck_about.html 1 -
+/manager/ 1 -
+/system/ 1 -
+/project/fckeditor/editor/dialog/fck_about.html 1 -
+/beta/wp-admin/setup-config.php 1 -
+/Fck/editor/dialog/fck_about.html 1 -
+/inc/news/fckeditor/editor/dialog/fck_about.html 1 -
+/sysadm/ 2 -
+/html/inicio_v1.htm 14 -
+/web2015/html/inicio.htmcontactenos.htm 1 http://www.canadaviajes.com.py
+/web2015/html/fitpar2015/images/loading.gif 2 http://www.canadaviajes.com.py/web2015/html/fitpar2015/fitpar2015.htm
+/pics/logo_index_provisorio.jpg 2 -
+/js/plugins/fckeditor/editor/dialog/fck_about.html 1 -
+/html/_pgtres/tmp/preview.htm 1 -
+/html/desuso/cuerpo.htm 1 -
+/html/Congreso/pdf/Post%20Tour%20Paraguay-Argentina-Brazil%20Mayo%202015.pdf 1 -
+/js/new/fckeditor/editor/dialog/fck_about.html 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/web2015/pics/button12.jpg 53 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/main/fckeditor/editor/dialog/fck_about.html 1 -
+/Fck/_whatsnew.html 1 -
+/html/arme_cir.htm 2 -
+/html/images/ 1 -
+/web2015/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf%7Csnakes%20site:py 1 -
+/html/cir_esp.htm 1 -
+/fckeditor/_whatsnew.html 1 -
+/AdminWeb/ 1 -
+/wp-admin/setup-config.php 2 -
+/browserconfig.xml 1 -
+/common/fckeditor/editor/dialog/fck_about.html 1 -
+/default.html 2 -
+/html/Congreso/ 1 -
+/blog/ 1 -
+/html/Congreso/html/programa.htm 2 -
+/press/wp-admin/setup-config.php 1 -
+/web2015/html/inicio.htmrobots.txt 1 -
+/main/wp-admin/setup-config.php 1 -
+/ckeditor/editor/dialog/fck_about.html 3 -
+/web2015/html/inicio.htmcanada.html 1 http://www.canadaviajes.com.py
+/index.aspx 2 -
+/control/ 1 -
+/html/_pgtres/tmp/Preview.pgt 1 -
+/newsadmin/ 2 -
+/includes/ 1 -
+/html/fitpar2013_ant.htm 1 -
+/adm/ 1 -
+/include/fckeditor/editor/dialog/fck_about.html 1 -
+/index.php 2 -
+/support/fckeditor/editor/dialog/fck_about.html 1 -
+/html/Congreso/html/ 1 -
+/web2015/html/(emptyreference!) 1 -
+/web2015/html/fitpar2015/images/closelabel.gif 2 http://www.canadaviajes.com.py/web2015/html/fitpar2015/fitpar2015.htm
+/html/data.xml 1 -
+/includes/editor/ 1 -
+/scripts/fckeditor/editor/dialog/fck_about.html 2 -
+/js/lib/ 1 -
+/web2015/pics/button13.jpg 55 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/editor1/editor/dialog/fck_about.html 1 -
+/eventos/COICOM%202011%20-%20CANADA%20VIAJES%20mayo%202011.pdf 1 -
+/admin888/ 1 -
+/admin_area/ 1 -
+/pics/bot_informaciones.jpg 4 -
+/js/ 1 -
+//license.php 2 -
+/manage/fckeditor/editor/dialog/fck_about.html 1 -
+/js/news/fckeditor/editor/dialog/fck_about.html 1 -
+/html/ok.htm 1 -
+/data/fckeditor/editor/dialog/fck_about.html 1 -
+/pics/banner_asia.jpg 2 -
+/main.html 2 -
+/html/Congreso/pdf/Pre%20Tour%20al%20Pantanal%20Congreso%20Mundial%202015%20Santa%20Gertrudis.pdf 1 -
+/common/ 2 -
+/web2015/html/_pgtres/ 1 http://www.canadaviajes.com.py/web2015/html/inicio.htm
+/js/lib/fckeditor/editor/dialog/fck_about.html 2 -
+/fckedit/editor/dialog/fck_about.html 1 -
+/promo/Promos2016/v3/Canada/Montreal_Quebec.jpg 2 -
+/blog/robots.txt 1 -
+/html/_pgtres/39521,7940162037_PageletServer.DynamicMenu.pgt 1 -
+/inc/editor/ 1 -
+/js/admin/templates/fckeditor/editor/dialog/fck_about.html 1 -
+/FCKeditor/_whatsnew.html 2 -
+/html/error.htm 1 -
+/html/css/ 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/web2015/html/inicio.htmasia.html 1 http://www.canadaviajes.com.py
+/html/consejos_canada.swf 1 -
+/robots.txt 367 -
+/inc/fckeditor/editor/dialog/fck_about.html 1 -
+/library/fckeditor/editor/dialog/fck_about.html 1 -
+/wp-content/upgrade/theme-compat/popup-pomo.php 1 http://www.canadaviajes.com.py/wp-content/upgrade/theme-compat/popup-pomo.php
+/pics/banner_eeuu.jpg 2 -
+/js/editor/fckeditor/editor/dialog/fck_about.html 1 -
+/Plugins/fckeditor/editor/dialog/fck_about.html 1 -
+/license.php 2 -
+/HTMLEditor/ 2 -
+/pics/bot_event_cong.jpg 4 -
+/pics/banner_medio_oriente.jpg 2 -
+/admin/fckeditor/editor/dialog/fck_about.html 1 -
+/pics/bot_formularios.jpg 4 -
+/html/Congreso/pic/ 1 -
+/web2015/html/inicio.htmeeuu.html 1 http://www.canadaviajes.com.py
+/web2015/pics/button10.jpg 53 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/sysadmin/fckeditor/editor/dialog/fck_about.html 1 -
+/default.php 2 -
+/wp-content/uploads/mc4wp-debug.log 1 -
+/pics/bot_servicios.jpg 4 -
+/includes/fckeditor/editor/dialog/fck_about.html 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/ 1 -
+/main/inc/lib/fckeditor/editor/dialog/fck_about.html 1 -
+/blogs/wp-admin/setup-config.php 1 -
+/new/fckeditor/editor/dialog/fck_about.html 1 -
+/web2015/pics/buttonF.jpg 55 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/html/desuso/ 2 -
+/_whatsnew.html 2 -
+/images/ 1 -
+/admin/templates/fckeditor/editor/dialog/fck_about.html 1 -
+/html/js/editor/fckeditor/editor/dialog/fck_about.html 1 -
+/default.aspx 2 -
+/editorold/editor/dialog/fck_about.html 1 -
+/plugins/fckeditor/editor/dialog/fck_about.html 1 -
+/inc/new/fckeditor/editor/dialog/fck_about.html 1 -
+/home/fckeditor/editor/dialog/fck_about.html 1 -
+/pics/banner_sudamerica.jpg 2 -
+/default.htm 2 -
+/pics/banner_europa.jpg 2 -
+/wp-json/wp/v2/users/ 1 -
+/js/library/fckeditor/editor/dialog/fck_about.html 1 -
+/fckedit/_whatsnew.html 1 -
+/fckeditor/editor/dialog/fck_about.html 1 -
+/js/modules/fckeditor/editor/dialog/fck_about.html 1 -
+/moderator/ 2 -
+/news/fckeditor/editor/dialog/fck_about.html 1 -
+/main.htm 2 -
+/web2015/html/inicio.htmsudamerica.html 1 http://www.canadaviajes.com.py
+/sysadmin/ 2 -
+/fck2/_whatsnew.html 1 -
+/html/qsomos.htm 1 -
+/web2015/html/inicio.htmeuropa.html 1 http://www.canadaviajes.com.py
+/Editor/ 1 -
+/javascript/fckeditor/editor/dialog/fck_about.html 1 -
+/web2015/html/congreso/html/programa.htm 1 -
+/promo/Promos2016/v4/air_canada.jpg 2 -
+/javascripts/ 2 -
+/new/wp-admin/setup-config.php 1 -
+/pics/logo_encabezado.jpg 8 http://www.canadaviajes.com.py/web2015/html/canada.html
+/lib/ 1 -
+/js/fckeditor/editor/dialog/fck_about.html 1 -
+/js/data/fckeditor/editor/dialog/fck_about.html 1 -
+/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf 1 -
+/html/ex_nac.htm 1 -
+/web2015/html/inicio.htmservicios.htm 1 http://www.canadaviajes.com.py
+/administrator/ 1 -
+/pics/pic_callcenter.jpg 4 -
+/html/cir_esp-mc.htm 1 -
+/html/exporodeotrebol2015/ 14 -
+/webmaster/ 1 -
+/Admin/ 1 -
+/default.asp 2 -
+/protal/wp-admin/setup-config.php 1 -
+/web2015/html/inicio.htmmedio_oriente.html 1 http://www.canadaviajes.com.py
+/wordpress/ 1 -
+/html/promociones.htm 1 -
+/fck2/editor/dialog/fck_about.html 1 -
+/scripts/ajax/ 1 -
+/html/_pgtres/tmp/ 1 -
+/promo/Promos2016/v4/air_canada_promo.jpg 4 -
+/javascript/editors/fckeditor/editor/dialog/fck_about.html 1 -
+/libraries/sfn.php 1 -
+/pics/bot_qsomos.jpg 4 -
+/web2015/html/inicio.htmqsomos.htm 1 http://www.canadaviajes.com.py
+/fck/editor/dialog/fck_about.html 2 -
+/pics/banner_canada.jpg 2 -
+/web2015/html/inicio.htmformularios.htm 1 http://www.canadaviajes.com.py
+/web2015/html/inicio.htmcaribe.html 1 http://www.canadaviajes.com.py
+/index.htm 2 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 http://www.canadaviajes.com.py/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php
+/Fckeditorold/editor/dialog/fck_about.html 1 -
+/editor/editor/dialog/fck_about.html 1 -
+/web2015/html/inicio.htmsudafrica.html 1 http://www.canadaviajes.com.py
+/llx.php 1 -
+/index.asp 2 -
+/system/fckeditor/editor/dialog/fck_about.html 2 -
+/inc/library/fckeditor/editor/dialog/fck_about.html 1 -
+/editor/dialog/fck_about.html 3 -
+/FCKEditorV2/_whatsnew.html 1 -
+/admin/ 2 -
+/web2015/html/(EmptyReference!) 6 -
+/web2015/html/inicio.htminformaciones.htm 1 http://www.canadaviajes.com.py
+/inc/ 1 -
+/aleman/html/inicio_v1.htm 3 -
+/js/outils/fckeditor/editor/dialog/fck_about.html 1 -
+/fileadmin/ 1 -
+/js/home/fckeditor/editor/dialog/fck_about.html 1 -
+/modules/fckeditor/editor/dialog/fck_about.html 1 -
+/manage/ 1 -
+/wp/ 1 -
+/editor/fckeditor/editor/dialog/fck_about.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 840
+66.249.85.21 30 539 12564824 20170729234800
+5.188.211.13 24 24 392758 20170701152101
+66.249.85.22 22 549 14095600 20170729110601
+72.13.36.80 20 20 285378 20170719232820
+192.99.67.14 19 21 358210 20170713101323
+66.249.85.23 16 528 12805334 20170729234919
+54.67.114.218 16 16 111651 20170711165059
+181.124.151.38 14 167 2761164 20170713074312
+201.217.29.248 13 169 8622002 20170711100344
+38.100.21.61 11 11 148261 20170719233547
+69.58.178.58 10 10 142689 20170722215201
+5.188.211.39 10 10 220132 20170701054359
+181.40.79.70 10 105 4859227 20170706071936
+131.161.253.207 9 84 1603299 20170704073745
+181.123.34.132 9 119 8030279 20170702233218
+134.119.213.82 9 9 81141 20170714201645
+177.250.52.193 8 128 5791514 20170704201428
+190.23.28.219 8 78 1642786 20170711115241
+170.51.242.46 8 133 7731869 20170724082330
+190.193.29.213 7 85 2937125 20170717190622
+108.18.159.154 7 79 1096416 20170717091947
+181.120.68.34 7 166 10234558 20170713232253
+221.145.183.167 7 46 588953 20170730222451
+181.124.114.132 7 117 8830400 20170724105341
+177.250.217.127 7 75 1431754 20170708143924
+181.122.7.219 4 100 1288860 20170721133828
+190.52.131.171 2 44 609307 20170726142013
+47.62.3.26 0 11 105131 
+66.102.6.130 1 1 833 20170722124021
+157.130.8.214 0 11 105131 
+201.205.255.114 0 1 22556 
+181.40.126.22 0 11 105131 
+190.104.131.43 0 1 20611 
+181.120.142.73 0 11 105131 
+190.128.194.162 0 11 105131 
+170.51.31.11 0 11 105131 
+201.213.252.149 0 11 105131 
+181.121.79.131 0 1 22779 
+190.128.194.18 0 11 105131 
+181.123.118.10 0 11 105131 
+123.125.67.222 1 1 13785 20170705100806
+201.217.60.220 0 11 105131 
+190.128.196.186 0 11 105131 
+66.249.85.11 0 6 57607 
+181.14.239.6 0 11 105131 
+190.149.199.69 0 1 22556 
+190.139.58.158 0 11 105131 
+181.122.53.214 2 59 2500491 20170703131755
+199.87.155.170 3 44 664139 20170728100955
+181.120.72.75 0 11 105131 
+190.136.177.49 0 11 105131 
+181.122.55.6 0 11 105131 
+189.202.227.196 0 1 22556 
+201.217.41.21 0 22 105131 
+62.210.138.77 1 1 833 20170723145753
+181.15.127.254 0 11 105131 
+181.122.66.60 0 11 105131 
+177.124.4.2 0 11 105131 
+201.217.58.100 0 11 105131 
+181.122.156.254 0 11 105131 
+138.197.111.240 1 1 833 20170728185424
+190.211.242.210 0 11 105131 
+31.13.113.194 0 5 59302 
+201.217.24.4 0 11 105131 
+190.128.136.30 0 11 105131 
+201.217.58.109 0 11 105131 
+181.124.112.116 0 11 105131 
+181.120.102.204 2 85 992360 20170712134554
+177.251.91.74 0 11 105131 
+2.136.69.126 2 41 571836 20170717153641
+190.52.187.241 0 11 105131 
+201.217.56.96 0 11 105131 
+196.207.39.213 0 1 22556 
+181.122.193.224 0 11 105131 
+41.13.84.251 0 1 22556 
+31.13.113.199 0 5 55144 
+200.142.84.14 0 11 105131 
+181.122.12.228 3 52 755077 20170706080529
+186.17.188.248 0 11 105131 
+177.251.118.169 0 2 46603 
+190.52.133.2 0 1 23824 
+181.123.56.44 3 46 969515 20170730211609
+181.122.15.241 0 11 105131 
+181.124.111.62 0 11 105131 
+190.104.131.98 4 66 668640 20170710143312
+177.251.108.60 0 11 105131 
+190.104.150.132 2 41 571836 20170705173411
+200.85.44.134 3 47 693609 20170704090455
+190.104.176.73 0 11 105131 
+201.217.58.200 0 11 105131 
+181.120.74.119 0 11 105131 
+190.128.231.22 0 11 105131 
+190.104.131.127 2 41 571836 20170707125632
+181.120.11.27 1 33 2051590 20170713225040
+201.217.23.50 0 11 105131 
+181.122.38.4 0 11 105131 
+201.217.54.246 6 119 7185508 20170714064031
+170.51.116.123 0 1 23824 
+181.122.201.229 0 11 105131 
+200.1.201.5 0 11 0 
+181.122.163.111 0 11 105131 
+181.122.72.172 0 11 105131 
+5.210.102.105 0 1 22556 
+190.191.40.79 0 11 105131 
+200.151.249.83 0 11 105131 
+190.224.40.150 0 11 105131 
+181.120.16.44 0 11 105131 
+177.250.128.13 0 11 105131 
+204.19.190.91 3 75 4896563 20170727001336
+181.120.71.98 0 11 105131 
+181.122.196.14 3 45 956932 20170728072058
+181.122.86.248 0 11 105131 
+181.124.114.87 0 11 105131 
+181.120.214.10 1 17 405469 20170712095225
+190.128.250.214 0 11 105131 
+170.51.116.117 0 11 105131 
+181.121.14.185 0 6 58276 
+190.104.131.141 0 11 105131 
+186.182.233.115 0 6 59226 
+190.23.219.10 0 11 105131 
+177.251.49.147 0 11 105131 
+201.217.58.167 0 11 105131 
+200.127.62.107 0 11 105131 
+181.40.83.254 2 4 39288 20170727190039
+170.51.116.39 0 11 105131 
+181.122.41.189 0 22 210262 
+177.251.235.58 0 11 105131 
+5.188.211.14 1 1 833 20170701171906
+190.191.131.65 0 11 105131 
+200.105.222.173 3 59 841842 20170724113230
+181.122.29.1 0 22 210262 
+200.1.7.252 0 2 129663 
+181.176.58.217 0 1 22556 
+181.199.153.96 0 11 105131 
+170.51.116.222 5 87 1541351 20170721150646
+177.251.220.22 0 11 105131 
+190.52.161.172 0 11 105131 
+190.128.235.22 0 11 105131 
+181.1.245.85 3 44 664139 20170716205020
+186.143.135.56 3 45 956932 20170716144358
+191.97.124.231 4 59 888592 20170701093434
+181.121.91.199 3 45 956932 20170710190813
+199.214.218.2 4 158 1311294 20170716213543
+181.123.56.19 0 11 105131 
+190.104.131.165 0 11 105131 
+181.40.124.66 0 11 105131 
+159.203.127.89 1 1 833 20170712091641
+181.120.193.48 0 11 105131 
+37.223.78.160 0 11 105131 
+181.121.53.25 0 11 105131 
+181.124.111.117 0 11 105131 
+181.122.158.147 0 11 105131 
+181.228.10.243 0 11 105131 
+213.55.211.30 3 75 4896563 20170724142859
+177.250.24.214 0 11 105131 
+190.104.131.197 0 11 105131 
+181.121.87.172 5 69 878437 20170717191145
+201.217.58.119 0 11 105131 
+190.52.168.137 2 44 608977 20170725064110
+181.122.154.123 0 11 105131 
+190.128.170.2 0 11 105131 
+123.125.67.220 2 2 1666 20170724100713
+190.104.176.103 1 27 327457 20170717174941
+5.188.211.22 1 1 833 20170701004538
+54.146.54.150 2 2 14618 20170710043213
+201.217.58.87 0 11 105131 
+166.137.118.126 0 1 22556 
+201.222.49.162 0 22 210262 
+66.220.155.246 0 6 61171 
+190.128.250.122 0 11 105131 
+181.124.113.201 0 2 47648 
+170.51.116.65 2 52 571836 20170708120907
+181.120.240.62 0 11 105131 
+181.49.59.238 0 1 22556 
+181.122.230.91 0 11 105131 
+181.230.48.189 0 11 105131 
+66.249.83.202 0 3 27596 
+181.209.70.202 0 4 38193 
+66.249.88.20 0 8 85816 
+181.1.117.179 0 11 105131 
+186.16.205.66 0 11 105131 
+181.122.72.6 0 22 210262 
+181.123.24.191 3 47 693574 20170723131926
+177.250.80.248 0 11 105131 
+181.122.201.42 0 11 105131 
+170.51.116.74 0 11 105131 
+138.197.111.184 1 1 833 20170709211036
+190.128.219.210 0 11 105131 
+190.52.160.190 0 11 105131 
+170.51.116.214 0 11 105131 
+181.124.150.206 0 22 210262 
+159.203.83.135 1 1 833 20170715003137
+73.78.78.81 0 2 129663 
+177.250.174.2 3 52 755324 20170731152356
+93.144.231.123 0 11 105131 
+186.16.204.126 0 11 105131 
+181.122.132.26 2 41 571836 20170728201516
+181.120.172.3 4 66 876192 20170724102654
+181.111.245.74 0 11 105131 
+190.128.234.114 3 48 705977 20170703151822
+186.77.136.59 0 1 22556 
+186.143.133.142 0 11 105131 
+181.122.216.54 0 11 105131 
+177.250.182.190 2 30 459081 20170726064058
+142.4.219.91 1 1 833 20170731080236
+52.207.118.158 1 1 833 20170708143533
+138.197.111.176 1 1 833 20170725070843
+181.120.189.124 0 11 105131 
+190.104.131.156 0 22 210262 
+201.217.42.37 3 58 798740 20170703105843
+190.128.235.50 0 22 210262 
+165.225.80.99 0 13 122939 
+190.128.226.226 0 11 105131 
+201.147.152.117 0 1 22556 
+201.217.58.162 0 11 105131 
+191.97.124.59 1 6 62976 20170701193049
+181.121.161.53 0 33 315393 
+190.52.187.129 0 11 105131 
+190.104.131.17 0 11 105131 
+201.217.41.34 0 11 105131 
+103.255.254.122 1 1 833 20170703064303
+181.120.206.2 0 1 21120 
+154.73.162.21 0 1 22556 
+190.128.197.26 0 8 76450 
+190.138.18.26 0 11 105131 
+190.128.222.202 0 11 105131 
+190.23.148.141 0 11 105131 
+177.251.139.233 0 11 105131 
+190.229.205.145 0 11 105131 
+181.122.95.62 0 11 105131 
+181.14.112.54 0 11 105131 
+170.51.116.9 0 11 105131 
+190.52.181.35 0 11 105131 
+181.124.112.220 0 11 105131 
+190.188.22.43 0 11 105131 
+181.10.182.66 0 4 39039 
+150.70.173.7 1 1 13785 20170724084709
+190.128.130.242 0 1 0 
+181.121.139.223 0 11 105131 
+181.122.29.246 0 11 105131 
+181.120.144.161 0 11 105131 
+181.120.214.102 0 11 105131 
+181.124.111.39 0 2 47068 
+181.120.101.174 0 11 105131 
+77.211.226.198 0 11 105131 
+190.183.154.1 0 11 105131 
+190.5.166.94 0 11 105131 
+177.250.255.145 0 22 210262 
+170.51.94.116 0 11 105131 
+66.220.155.248 0 12 237366 
+189.39.8.161 0 11 105131 
+190.221.237.2 5 92 1151958 20170719092857
+181.120.189.97 0 33 315393 
+181.229.176.119 0 11 105131 
+181.124.113.38 3 45 668640 20170710133834
+181.125.1.144 0 11 105131 
+190.104.131.90 0 11 105131 
+181.121.91.16 0 11 105131 
+190.23.103.98 0 11 105131 
+181.122.139.102 0 11 105131 
+181.123.115.29 0 11 105131 
+190.104.176.48 0 10 383856 
+138.197.111.105 2 2 14618 20170701044836
+181.122.134.226 0 11 105131 
+190.52.184.47 2 45 621820 20170727151853
+5.188.211.15 2 2 1666 20170704004701
+138.197.111.144 2 2 14618 20170725123035
+181.122.216.246 0 11 105131 
+190.52.180.214 4 55 2022700 20170726095345
+54.209.112.18 1 1 833 20170709060502
+68.77.171.20 0 3 0 
+201.105.11.240 0 1 22556 
+138.197.111.59 2 2 14618 20170704061323
+66.249.85.9 0 11 106201 
+123.125.67.221 0 1 39965 
+181.122.58.222 0 11 105131 
+209.95.167.214 1 1 833 20170707230512
+190.104.176.2 3 44 852072 20170711182114
+177.250.190.214 0 11 105131 
+170.51.116.170 0 11 105131 
+181.122.238.17 0 4 92349 
+181.121.129.227 0 11 105131 
+139.226.145.40 1 1 833 20170711051832
+190.104.131.200 4 63 803303 20170704092200
+186.16.31.70 2 41 571836 20170713212824
+124.83.57.181 3 47 693609 20170712002952
+181.120.77.208 0 11 105131 
+181.121.164.255 0 11 105131 
+131.161.254.18 0 11 105131 
+181.10.182.67 0 3 28848 
+181.124.110.61 0 11 105131 
+160.202.162.204 2 2 1666 20170712220543
+190.52.130.175 0 11 105131 
+170.51.61.145 0 11 105131 
+206.41.178.81 1 1 833 20170712135216
+170.51.116.12 0 1 42836 
+200.108.134.90 0 1 22779 
+74.208.150.238 1 1 833 20170704154811
+186.125.157.41 0 11 105131 
+177.250.176.48 3 60 2501324 20170709162339
+190.30.82.137 0 11 105131 
+190.211.241.254 0 3 28681 
+181.120.140.52 0 33 315393 
+181.122.141.66 0 11 105131 
+190.191.253.108 0 11 105131 
+90.71.3.47 0 11 105131 
+177.250.90.94 2 41 571836 20170705083546
+190.128.172.46 0 11 105131 
+177.250.115.87 0 11 105131 
+181.40.82.50 0 11 105131 
+138.186.62.98 1 30 365009 20170720113700
+138.197.111.12 2 2 14618 20170707052735
+70.183.7.250 2 46 633946 20170724110409
+190.23.20.176 0 1 23824 
+190.211.242.165 6 99 7259816 20170722112526
+177.251.29.21 0 11 105131 
+190.229.215.79 0 11 105131 
+181.124.150.193 0 11 105131 
+31.13.113.196 2 31 457390 20170726082748
+177.250.121.254 0 11 105131 
+181.121.133.73 4 59 843066 20170713053426
+181.40.67.74 0 22 210262 
+201.217.58.239 0 11 105131 
+181.120.87.31 3 47 1129378 20170708140007
+45.32.84.224 1 1 833 20170710204319
+190.104.131.88 0 11 105131 
+190.211.243.186 0 11 105131 
+190.128.236.82 0 22 210262 
+190.128.230.78 4 108 1403542 20170726130516
+66.249.222.34 0 11 105131 
+190.128.236.190 0 11 105131 
+52.53.130.82 1 1 833 20170711165054
+190.128.228.78 0 11 105131 
+200.60.86.18 0 1 140734 
+66.249.83.200 0 3 28837 
+181.124.114.246 0 11 105131 
+89.131.157.214 0 33 315393 
+144.76.61.6 1 1 833 20170704125343
+54.193.46.142 2 2 14618 20170712015029
+186.2.196.33 0 11 105131 
+181.121.4.121 0 11 105131 
+192.193.171.149 0 11 105131 
+181.120.122.201 3 79 4945975 20170717150249
+213.37.173.209 0 11 105131 
+34.248.245.23 1 1 833 20170718112544
+70.210.133.167 0 1 22556 
+201.217.56.79 0 11 105131 
+95.221.59.142 0 11 105131 
+177.250.37.50 0 11 105131 
+177.251.202.136 0 11 105131 
+189.180.67.136 0 1 22556 
+201.217.39.241 2 42 584338 20170726100721
+131.161.252.98 0 11 105131 
+138.197.111.178 1 1 833 20170702140659
+167.57.47.163 0 11 105131 
+190.23.98.62 0 11 105131 
+201.217.50.14 0 44 420524 
+181.124.111.96 0 1 22779 
+165.225.32.49 0 11 105131 
+190.104.176.97 0 11 105131 
+200.41.23.42 0 11 105131 
+177.251.117.82 0 11 105131 
+181.40.16.6 4 82 1143672 20170722092356
+201.217.40.22 0 11 105131 
+181.65.0.154 3 46 681107 20170715134536
+171.34.177.239 1 1 833 20170731231721
+190.23.223.158 0 22 210262 
+190.104.136.130 0 11 105131 
+181.121.152.189 0 11 105131 
+190.104.176.212 0 11 105131 
+181.40.100.242 0 22 210262 
+181.120.16.166 0 11 105131 
+190.104.136.42 0 11 105131 
+201.217.51.160 0 11 105131 
+181.122.81.108 0 11 105131 
+199.67.131.157 0 11 105131 
+151.36.13.7 0 11 105131 
+170.51.116.249 0 11 105131 
+177.250.240.108 3 45 668640 20170722064215
+151.18.17.54 0 11 105131 
+181.124.111.51 0 11 105131 
+64.215.22.64 0 11 105131 
+125.78.57.105 1 1 833 20170713125241
+204.13.201.139 1 1 13785 20170724081402
+190.52.172.93 3 52 992347 20170724095014
+181.124.112.230 0 11 105131 
+181.120.124.191 0 11 105131 
+190.104.176.61 0 11 105131 
+37.15.31.139 0 154 105131 
+181.123.138.131 0 11 105131 
+85.53.88.177 0 1 20217 
+181.121.100.91 0 22 210262 
+190.128.194.22 0 11 105131 
+190.183.87.220 0 11 105131 
+190.221.237.5 2 51 754295 20170728090631
+63.250.22.21 1 1 833 20170718041724
+181.121.77.139 0 22 210262 
+190.52.177.53 0 11 105131 
+190.128.171.6 0 22 210262 
+209.171.88.164 2 41 571836 20170706164207
+181.121.87.88 0 1 21120 
+200.3.250.175 0 77 735917 
+190.128.225.58 0 5 45905 
+190.183.140.131 0 11 105131 
+138.197.111.114 2 2 14618 20170715044315
+181.124.110.135 0 11 105131 
+190.52.187.226 0 22 105131 
+201.217.246.142 0 11 105131 
+183.14.255.85 1 1 833 20170722000125
+190.23.11.181 0 11 105131 
+181.124.110.152 0 11 105131 
+181.120.207.229 0 11 105131 
+216.46.110.40 0 11 105131 
+200.1.203.214 0 11 105131 
+181.120.130.20 0 11 105131 
+190.43.121.147 0 1 21181 
+181.122.233.19 6 74 1105811 20170705095210
+181.122.145.31 2 41 571836 20170704093503
+190.128.173.162 0 11 105131 
+201.222.51.94 2 18 279726 20170712082443
+181.124.114.222 0 11 105131 
+201.217.40.174 0 11 105131 
+181.122.69.25 0 11 105131 
+217.182.94.26 2 2 14618 20170721175131
+181.40.16.4 2 41 571836 20170726224957
+177.250.126.232 3 75 4896563 20170714075758
+190.1.119.126 0 11 105131 
+191.97.125.40 2 42 584107 20170726082745
+189.161.163.41 3 45 956932 20170719195520
+170.51.116.129 0 11 105131 
+188.255.16.153 1 1 13785 20170726221546
+181.124.114.0 0 11 105131 
+201.213.254.236 0 11 105131 
+200.1.201.50 0 11 105131 
+138.197.111.54 2 2 14618 20170718110932
+201.178.134.110 0 11 105131 
+181.120.15.124 0 11 105131 
+34.199.5.190 2 2 14618 20170706081923
+200.14.108.1 0 11 105131 
+2.171.217.139 0 44 666151 
+163.172.4.153 5 5 4165 20170731140445
+177.251.222.253 0 11 105131 
+190.128.222.70 0 6 58276 
+181.121.130.248 0 11 105131 
+181.124.111.36 0 1 21120 
+200.10.228.138 0 11 106379 
+181.10.182.68 0 4 37244 
+190.31.85.170 0 1 24588 
+201.217.58.48 0 11 105131 
+170.51.116.61 0 11 105131 
+181.124.111.195 0 11 105131 
+195.28.182.35 1 1 833 20170712071157
+138.197.111.200 1 1 833 20170717133013
+181.122.141.153 0 11 105131 
+181.40.81.114 0 11 105131 
+190.128.239.30 0 23 220413 
+108.249.179.17 0 1 22556 
+177.251.52.242 0 11 105131 
+181.123.192.170 0 11 105131 
+190.104.176.154 3 47 1085713 20170708111814
+177.94.220.250 0 1 22556 
+172.58.111.183 0 1 22556 
+177.251.246.75 0 11 105131 
+181.124.113.241 0 11 105131 
+181.121.162.137 0 11 105131 
+170.51.116.86 0 11 105131 
+190.128.239.46 0 11 105131 
+190.104.153.178 0 11 105131 
+123.125.67.224 1 1 13785 20170722105551
+181.124.112.184 0 11 105131 
+181.122.30.112 0 11 105131 
+181.124.150.141 0 11 105131 
+79.16.192.224 0 20 190757 
+181.121.141.43 3 45 676410 20170717161714
+181.122.15.113 5 106 7679299 20170730175727
+201.191.254.241 0 1 22556 
+181.124.150.212 0 11 105131 
+190.104.131.131 0 11 105131 
+181.176.72.246 0 11 105131 
+181.122.143.166 0 11 105131 
+181.121.162.17 2 41 571836 20170707090144
+170.51.116.45 0 11 105131 
+181.92.240.38 0 11 105131 
+181.40.122.42 2 41 571836 20170731113345
+201.20.137.1 0 11 105131 
+201.217.40.130 0 11 105131 
+177.251.100.135 0 11 105131 
+181.121.105.83 0 11 105131 
+190.128.232.222 0 11 105131 
+181.124.114.79 0 11 105131 
+190.52.171.148 0 11 105131 
+181.120.105.143 0 11 105131 
+185.47.62.214 1 1 833 20170708071509
+181.123.27.57 0 33 315393 
+186.182.82.28 0 11 105131 
+181.120.252.213 0 11 105131 
+66.102.6.140 1 1 13785 20170722124021
+181.120.124.15 0 11 105131 
+195.135.251.106 0 11 105131 
+190.23.244.175 0 11 105131 
+66.220.155.252 1 10 138019 20170724114416
+190.128.208.206 0 11 105131 
+200.108.137.194 0 11 105131 
+72.69.183.185 0 11 105131 
+200.1.171.137 0 1 22556 
+45.55.241.155 1 1 833 20170721091258
+181.124.113.177 1 2 28125 20170727211951
+190.13.249.50 0 11 105131 
+181.122.96.30 0 11 105131 
+181.122.132.111 0 11 105131 
+66.249.93.209 1 1 18216 20170701135656
+181.92.47.20 0 11 105131 
+190.224.40.176 0 11 105131 
+181.121.5.5 0 11 105131 
+181.120.183.184 0 11 105131 
+5.188.211.37 1 1 833 20170702231544
+190.72.248.46 0 11 105131 
+185.170.42.4 1 1 13785 20170724081438
+181.122.150.71 0 1 23824 
+190.128.197.110 0 11 105131 
+181.122.194.236 0 11 105131 
+5.188.211.16 3 3 2499 20170703162804
+123.125.67.225 1 1 13785 20170702100012
+200.85.32.67 0 22 210262 
+141.105.80.1 0 11 105131 
+70.185.112.205 0 2 48933 
+189.216.121.201 0 1 22556 
+170.51.116.244 0 11 105131 
+187.221.135.34 3 45 956932 20170703174242
+190.104.131.239 3 44 656138 20170731073911
+31.221.240.173 0 11 105131 
+181.122.156.199 0 11 105131 
+64.140.169.42 1 1 833 20170716035916
+168.77.213.59 0 1 22556 
+181.123.32.229 0 11 105131 
+190.128.197.30 0 11 105131 
+181.196.4.82 0 1 107107 
+190.23.254.142 0 11 105131 
+59.168.164.45 0 1 23824 
+190.52.182.228 3 45 668640 20170724112853
+181.120.152.88 2 43 596706 20170724191236
+181.209.66.252 0 11 105131 
+181.120.191.9 0 11 105131 
+201.222.49.249 0 11 105131 
+181.124.112.86 0 1 23824 
+190.183.132.30 0 11 105131 
+188.79.158.71 0 22 210262 
+85.6.252.88 0 11 105131 
+177.251.66.179 0 11 105131 
+181.27.242.201 0 11 105131 
+190.128.238.42 3 49 718248 20170711071747
+47.60.49.173 0 22 105131 
+190.104.131.180 6 74 1335437 20170711195355
+186.153.139.107 0 22 210262 
+46.118.156.191 2 2 1666 20170728153626
+138.197.111.174 2 2 14618 20170728080321
+190.52.174.155 0 11 105131 
+181.122.56.166 0 11 105131 
+181.120.215.222 0 22 210262 
+190.128.148.210 0 11 105131 
+181.120.129.204 0 11 105131 
+138.197.111.142 2 2 14618 20170721231913
+190.128.232.78 0 11 105131 
+201.217.54.9 0 11 105131 
+201.217.43.130 0 33 315393 
+181.124.115.53 0 11 105131 
+66.249.83.204 0 6 57540 
+138.36.0.148 0 11 105131 
+190.128.232.166 0 11 105131 
+66.102.8.140 0 1 124668 
+84.83.129.120 0 11 105131 
+190.128.161.30 0 11 105131 
+181.120.101.238 0 11 105131 
+201.185.64.245 0 1 23353 
+170.51.116.234 0 1 86223 
+170.51.116.71 0 1 23824 
+181.121.24.236 0 11 105131 
+190.128.172.178 0 11 105131 
+201.217.26.16 0 11 105131 
+181.122.130.88 0 11 105131 
+181.120.178.161 0 11 105131 
+177.251.157.251 0 11 105131 
+181.122.70.159 1 27 327457 20170708000532
+5.164.96.106 1 40 571003 20170731192308
+170.51.116.201 0 13 123828 
+177.251.222.165 0 11 105131 
+190.128.227.214 0 11 105131 
+181.124.150.86 0 11 105131 
+144.76.100.150 3 3 0 20170729234103
+190.128.184.7 0 11 105131 
+92.186.1.173 0 11 105131 
+181.121.83.149 0 1 23824 
+187.134.237.79 0 1 22556 
+190.160.205.66 0 1 86223 
+181.120.212.107 0 11 105131 
+43.245.9.203 0 1 22556 
+181.124.113.15 0 11 105131 
+200.108.136.54 0 11 105131 
+132.147.46.157 3 61 2577669 20170714130431
+190.104.131.13 0 11 105131 
+177.250.88.213 3 75 4896563 20170706145040
+190.52.177.170 0 11 105131 
+190.128.234.130 0 11 105131 
+181.122.215.166 0 11 105131 
+216.184.116.70 3 69 934390 20170718090252
+181.121.162.50 0 22 210262 
+177.250.164.92 0 11 105131 
+181.14.224.110 0 11 105131 
+190.211.240.73 0 22 105131 
+190.37.125.177 0 1 22556 
+181.124.113.93 0 5 48574 
+181.124.113.236 5 95 6826884 20170717104256
+109.173.110.70 0 11 105131 
+190.211.243.201 0 11 105131 
+181.40.112.254 0 1 21120 
+181.121.68.73 0 11 105131 
+181.122.187.192 0 11 105131 
+123.125.67.228 1 1 833 20170722105547
+76.64.53.118 2 44 956099 20170717164427
+181.122.174.55 0 11 105131 
+186.178.11.149 0 1 22556 
+200.1.203.75 2 43 596886 20170728134814
+181.120.75.223 0 11 105131 
+190.224.38.248 0 11 105131 
+201.217.23.154 0 11 105131 
+45.55.224.77 1 1 13785 20170724082031
+190.128.170.14 0 11 105131 
+181.40.81.130 0 11 105131 
+190.183.141.83 0 11 105131 
+190.64.84.226 0 66 105131 
+181.122.174.38 0 11 105131 
+190.56.253.62 0 2 129663 
+181.122.95.250 0 15 105131 
+52.71.64.37 1 1 833 20170710102216
+201.222.114.11 0 11 105131 
+201.217.42.20 6 79 1089200 20170724095315
+190.104.176.128 0 11 105131 
+200.1.202.87 0 11 105131 
+181.120.166.57 0 11 105131 
+201.217.158.82 5 75 1035267 20170705095640
+46.229.170.197 2 2 14618 20170718095450
+201.72.252.164 0 11 105131 
+66.220.155.247 0 7 77143 
+181.120.84.100 0 11 105131 
+190.104.131.251 0 11 105131 
+181.120.121.14 0 11 105131 
+190.128.177.142 1 39 611779 20170705100429
+200.85.42.141 0 11 105131 
+181.91.165.99 0 11 105131 
+181.40.127.70 2 50 684277 20170720102312
+181.209.64.190 0 2 20514 
+190.104.131.210 3 59 703097 20170709214356
+66.249.88.14 2 22 313196 20170703000215
+131.253.25.77 1 1 13785 20170721224406
+181.120.187.108 0 11 105131 
+190.128.230.138 0 11 105131 
+181.40.79.98 0 22 210262 
+181.122.71.6 0 22 210262 
+181.122.132.174 0 11 105131 
+181.120.179.73 0 11 105131 
+181.120.105.24 0 11 105131 
+190.190.137.179 0 11 105131 
+186.0.190.28 0 11 105131 
+200.117.24.149 0 11 105131 
+66.249.88.17 0 11 172824 
+138.197.111.210 1 1 833 20170704214312
+181.121.151.113 0 11 105131 
+181.122.137.39 0 11 105131 
+190.128.202.242 0 11 105131 
+181.124.110.45 0 11 105131 
+168.196.115.254 0 5 46424 
+190.244.45.154 0 11 105131 
+181.122.40.184 0 11 105131 
+201.217.24.10 0 33 315393 
+190.52.175.141 6 106 7419602 20170706062922
+201.217.23.26 0 11 105131 
+177.250.116.203 0 11 105131 
+200.7.14.130 0 33 0 
+181.120.123.165 0 11 105131 
+181.124.112.246 4 48 1356191 20170723130255
+170.51.116.43 0 11 105131 
+1.249.40.103 0 11 105131 
+177.250.206.0 0 11 105131 
+123.125.67.164 2 2 14618 20170724100714
+138.197.96.182 2 2 14618 20170731082202
+181.40.79.190 0 11 105131 
+181.124.113.55 5 161 6966799 20170712093928
+190.104.168.14 0 11 105131 
+200.198.202.2 0 22 210262 
+170.51.116.213 0 11 105131 
+181.123.129.174 0 22 210262 
+201.222.50.62 0 11 105131 
+181.123.62.132 0 11 105131 
+190.224.40.81 0 11 105131 
+54.203.156.1 1 1 833 20170706211350
+66.249.81.138 1 1 833 20170722074621
+190.52.166.40 0 33 315393 
+190.139.26.243 0 11 105131 
+190.104.150.134 2 41 571836 20170713042712
+181.120.130.114 0 11 105131 
+177.250.172.198 0 11 105131 
+181.124.114.25 0 11 105131 
+95.88.118.239 2 50 732787 20170701135614
+66.249.85.13 0 5 46454 
+181.120.124.211 0 11 105131 
+201.217.5.166 0 19 105131 
+201.148.13.251 0 1 18167 
+200.85.48.30 0 11 105131 
+200.127.61.89 0 11 105131 
+190.229.83.10 0 11 105131 
+46.26.136.246 0 11 105131 
+177.250.104.3 4 58 876305 20170721204453
+123.125.67.166 1 1 13785 20170724100714
+181.120.190.69 0 22 210262 
+181.88.208.179 0 11 105131 
+190.104.176.208 0 11 105131 
+85.58.255.83 0 11 0 
+191.80.148.164 0 11 105131 
+186.16.31.68 2 41 571836 20170705080845
+23.225.169.106 2 2 1666 20170716154333
+181.120.173.199 0 11 105131 
+123.125.67.165 2 2 14618 20170724100714
+181.120.131.217 0 22 210262 
+177.251.185.232 0 11 105131 
+138.197.111.115 2 2 14618 20170711210528
+190.105.104.176 2 41 571836 20170712214415
+107.178.194.111 1 1 13785 20170724081401
+187.132.64.237 0 1 22556 
+200.1.202.22 0 22 210262 
+181.40.81.134 0 11 105131 
+181.13.65.37 0 1 23824 
+181.124.111.216 0 11 105131 
+181.228.220.29 0 11 105131 
+177.251.85.148 0 11 105131 
+170.51.116.162 0 1 42836 
+63.250.21.157 1 1 833 20170727194839
+181.122.67.222 0 22 210262 
+186.151.61.71 0 1 22556 
+66.249.83.84 0 2 18276 
+181.124.114.111 2 41 571836 20170719133513
+190.128.193.246 3 46 681107 20170707090700
+181.124.114.235 4 98 1309434 20170713154646
+181.122.78.105 0 11 105131 
+190.128.226.74 0 11 105131 
+190.227.252.162 0 22 210262 
+181.120.88.111 0 11 105131 
+181.124.114.154 0 11 105131 
+181.90.22.33 0 11 105131 
+177.250.131.201 0 11 105131 
+177.251.150.225 0 11 105131 
+181.40.87.126 0 1 23824 
+189.60.113.205 0 11 105131 
+177.250.127.67 4 66 979305 20170701064709
+200.108.134.234 2 42 584107 20170721095745
+201.217.28.43 4 98 6875874 20170720213301
+190.52.168.100 0 11 105131 
+190.52.165.6 0 11 105131 
+170.51.91.163 0 11 105131 
+190.52.167.98 0 33 315393 
+125.111.47.29 4 4 1666 20170711200914
+190.23.35.78 0 11 105131 
+181.122.215.164 0 11 105131 
+190.104.131.39 2 41 571836 20170726144655
+170.84.172.49 0 11 105131 
+190.128.222.138 0 11 105131 
+190.128.231.54 2 2 1666 20170727053728
+123.125.67.160 1 1 833 20170722105549
+194.114.62.204 5 62 935281 20170719051531
+200.10.228.145 2 96 1305787 20170703134906
+181.122.46.48 0 11 105131 
+190.128.181.118 0 11 105131 
+66.249.81.142 2 2 26214 20170722074656
+177.250.81.121 0 11 105131 
+190.23.60.87 0 11 105131 
+201.217.29.30 0 11 105131 
+62.210.75.104 1 1 833 20170711075428
+181.120.163.147 0 11 105131 
+181.120.151.189 0 11 105131 
+37.10.142.56 1 27 327457 20170707121414
+66.220.155.245 0 5 57304 
+190.244.25.111 3 75 4896563 20170718181719
+190.104.176.210 1 29 352426 20170704131222
+181.124.114.67 0 11 105131 
+181.120.85.177 5 88 1296803 20170714081236
+181.121.57.20 0 22 210262 
+186.16.7.221 0 1 23824 
+34.209.17.120 2 2 14618 20170710173814
+80.26.88.174 5 68 1296624 20170724080443
+190.104.131.171 4 37 496283 20170717182750
+181.122.158.30 0 11 105131 
+181.124.114.32 0 11 105131 
+181.23.159.122 0 11 105131 
+170.51.116.191 0 11 105131 
+131.161.254.34 0 32 105131 
+54.145.206.33 1 1 13785 20170705190342
+151.182.85.172 1 27 327457 20170725201715
+190.128.244.142 3 75 4896563 20170711132942
+208.87.233.140 0 11 105131 
+190.16.160.9 0 11 105131 
+181.123.119.156 0 11 105131 
+181.124.114.110 0 11 105131 
+31.4.157.29 0 11 105131 
+190.23.30.24 0 11 105131 
+181.122.163.165 0 11 105131 
+201.217.246.106 0 11 105131 
+191.97.121.156 3 45 668640 20170705070503
+181.122.160.165 0 1 24588 
+5.188.211.10 3 3 2499 20170704041353
+201.217.52.30 6 106 2232780 20170731081653
+37.71.216.149 1 1 833 20170729051240
+170.51.61.43 0 11 105131 
+200.40.198.162 0 11 105131 
+181.124.150.134 0 22 210262 
+181.123.136.172 0 22 210262 
+95.44.72.190 3 56 804290 20170711152856
+181.122.37.99 0 11 105131 
+73.46.115.26 2 52 676967 20170711151555
+201.217.59.26 0 88 841048 
+190.128.235.42 0 11 105131 
+181.122.110.162 0 11 105131 
+77.42.148.18 0 4 37136 
+181.40.93.162 0 11 105131 
+177.250.75.179 4 68 1001052 20170731194518
+170.51.89.118 0 11 105131 
+190.128.171.130 6 81 1119893 20170703083438
+181.40.112.218 0 22 210262 
+190.23.69.19 7 81 1117441 20170717095836
+181.110.134.253 3 45 676410 20170715205058
+181.122.185.22 0 11 105131 
+201.217.58.151 3 45 668640 20170704162604
+181.122.128.50 0 11 105131 
+170.51.116.34 0 11 105131 
+181.121.79.189 0 11 105131 
+181.122.186.35 0 110 946179 
+181.120.202.177 0 11 105131 
+5.188.211.24 1 1 833 20170702200026
+181.122.45.247 4 63 799901 20170707172534
+190.128.218.138 0 11 105131 
+181.90.3.98 2 16 281450 20170717113145
+209.99.140.137 1 1 833 20170723014701
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170701 62 492 6740195 19
+20170702 19 300 10112220 9
+20170703 26 776 13415257 11
+20170704 40 647 12425488 13
+20170705 35 787 10005141 17
+20170706 27 575 20422171 7
+20170707 27 550 6963255 13
+20170708 21 407 5836423 8
+20170709 8 288 4805608 4
+20170710 16 557 5902619 7
+20170711 66 1107 24012994 14
+20170712 33 771 18378717 14
+20170713 44 745 15013091 13
+20170714 23 683 23298721 10
+20170715 9 254 2706938 4
+20170716 12 392 4195603 5
+20170717 49 1015 23828373 13
+20170718 27 437 8630043 9
+20170719 49 677 10012702 12
+20170720 11 513 11532898 5
+20170721 16 405 5161176 8
+20170722 34 446 12418460 15
+20170723 9 253 3565566 4
+20170724 62 1276 39373983 25
+20170725 11 412 4761476 6
+20170726 22 618 8879819 11
+20170727 13 527 10454062 7
+20170728 22 548 12186859 10
+20170729 8 218 2424836 6
+20170730 10 265 9890327 4
+20170731 21 738 7803771 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 12
+2mn-5mn 15
+15mn-30mn 3
+30mn-1h 6
+30s-2mn 40
+0s-30s 237
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/ 259 209916 243 79
+/web2015/html/inicio.htm 203 2770785 35 89
+/web2015/html/contactenos.htm 59 720882 5 37
+/web2015/html/servicios.htm 47 670404 2 13
+/web2015/html/qsomos.htm 40 710424 16 19
+/web2015/html/sudamerica.html 32 591108 1 15
+/web2015/html/informaciones.htm 32 521637 4 7
+/web2015/html/canada.html 26 355446 1 15
+/web2015/html/formularios.htm 24 366137 1 5
+/web2015/html/caribe.html 22 358050 0 8
+/web2015/html/exc_inter.htm 18 215874 1 2
+/web2015/html/europa.html 10 140370 0 5
+/web2015/html/eeuu.html 9 132867 0 5
+/web2015/html/arme_circuito.htm 8 146128 0 3
+/web2015/html/cir_especiales.htm 7 447671 0 1
+/web2015/html/asia.html 7 94325 0 1
+/web2015/html/medio_oriente.html 6 68585 0 1
+/web2015/html/sudafrica.html 6 82338 0 2
+/web2015/html/exc_nac.htm 5 235610 1 4
+/web2015/html/Congreso/html/programa.htm 3 78429 1 1
+/web2015/html/Congreso/html/contactenos.htm 2 7682 0 0
+/web2015/html/Congreso/html/tours.htm 2 13464 1 0
+/web2015/html/Congreso/html/formulario-pago.htm 2 10650 0 0
+/web2015/html/Congreso/html/acreditacion.htm 2 11412 0 0
+/web2015/html/fitpar2015/fitpar2015.htm 1 12302 1 1
+END_SIDER

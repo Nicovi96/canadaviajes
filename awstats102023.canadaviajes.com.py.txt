@@ -1,0 +1,250 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202310 will be lost/reset.
+# Last config file used to build this data file was /home2/canadavi/tmp/awstats/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2684                
+POS_VISITOR 6167                
+POS_DAY 6384                
+POS_DOMAIN 3324                
+POS_LOGIN 3558                
+POS_ROBOT 3713                
+POS_WORMS 3879                
+POS_EMAILSENDER 4010                
+POS_EMAILRECEIVER 4153                
+POS_SESSION 6461                
+POS_SIDER 6607                
+POS_FILETYPES 4288                
+POS_DOWNLOADS 4371                
+POS_OS 4419                
+POS_BROWSER 4498                
+POS_SCREENSIZE 4572                
+POS_UNKNOWNREFERER 4646                
+POS_UNKNOWNREFERERBROWSER 4874                
+POS_ORIGIN 4994                
+POS_SEREFERRALS 5126                
+POS_PAGEREFS 5270                
+POS_SEARCHWORDS 5418                
+POS_KEYWORDS 5570                
+POS_MISC 2347                
+POS_ERRORS 5629                
+POS_CLUSTER 3414                
+POS_SIDER_404 5773                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20231101010408 96 24598 11412403904450
+FirstTime 0
+LastTime 20231003011117
+LastUpdate 20231101051547 96 0 95 0 0
+TotalVisits 4                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 32 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 28 44 10242
+1 12 12 837 223 269 72827
+2 0 0 0 43 57 13269
+3 0 0 0 103 130 29823
+4 0 0 0 40 61 11883
+5 0 0 0 56 84 16172
+6 0 0 0 158 183 45710
+7 0 0 0 54 84 16416
+8 0 0 0 44 66 13180
+9 0 0 0 71 113 25788
+10 0 0 0 67 86 19289
+11 0 0 0 85 101 22797
+12 0 0 0 45 59 11724
+13 0 0 0 279 320 84896
+14 0 0 0 51 84 20525
+15 0 0 0 40 63 14317
+16 0 0 0 37 106 23026
+17 0 0 0 38 72 16431
+18 0 0 0 60 86 20433
+19 0 0 0 185 213 51453
+20 0 0 0 127 162 64443
+21 0 0 0 55 68 15545
+22 0 0 0 63 79 18514
+23 0 0 0 48 73 17633
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 11 11 750
+zz 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Googlebot/ 1 692 20231023140925 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+Unknown 12 837 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 12 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+mozilla 3 3
+Unknown 9 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20231003011117
+Cpanel-HTTP-Client/1.0 20231003011114
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20231003011114
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 12
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+409 51 4233
+404 2 23632
+301 1961 465418
+403 26 21331
+406 590 133114
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/.well-known/pki-validation/cloud.php 1 -
+/.well-known/pki-validation/xmrlpc.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+192.185.31.77 9 9 576 20231003011114
+23.178.112.103 1 1 87 20231003011117
+34.219.42.25 1 1 87 20231003011116
+18.226.82.210 1 1 87 20231003011116
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20231003 12 12 837 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/.well-known/acme-challenge/LGqJnNSVVZUniDyc10qcM4Jz5eSiVaLaCa0tuKvp28k 3 261 3 3
+/.well-known/acme-challenge/7MYWQDKTS5NFOD1MB9KY0A9OJ2H-EB7Q 1 64 0 0
+/.well-known/acme-challenge/Z2VQ3ZHQEJJU8YMPQBPADVJBIFLS8K8E 1 64 1 0
+/.well-known/acme-challenge/9D1J3B7F74Q3DVR8ZLS15KQFNYK32VJD 1 64 0 0
+/.well-known/acme-challenge/Q99KEROV15--KV4FUS3FQRO18ORKI1K- 1 64 0 1
+/.well-known/acme-challenge/SHKPWQXX4WMAJKKMF__XTIKNA9DH6PEE 1 64 0 0
+/.well-known/acme-challenge/MUKOLXAXTNRWWHBE9Z-MNA0_EHJ_IVUJ 1 64 0 0
+/.well-known/acme-challenge/L4UV4KK9JX48WTB1V6C2CZWKAT7NSJFZ 1 64 0 0
+/.well-known/acme-challenge/8PDBGBN-RTM-QJGTM6WSO7S1OX7SFWUN 1 64 0 0
+/.well-known/acme-challenge/4M12BQLDEW9FEOSGRV1ARZZU4QUML76G 1 64 0 0
+END_SIDER

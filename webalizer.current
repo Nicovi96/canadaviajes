@@ -1,17 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 06/10/2024 06:20:38
-2024 6 10 6 20 38
-589 14 224 10 6 109 110608 424 238 0
-8 1 41 1 10
-89 0 21460 25 58 22
-66 0 12603 24 50 26
-47 0 8826 29 38 27
-116 14 17098 59 84 43
-55 0 8486 32 41 23
-50 0 11842 33 31 28
-58 0 9190 26 44 24
-45 0 10836 24 25 21
-28 0 6660 17 19 16
-35 0 3607 8 34 8
+# Webalizer V2.23-08 Incremental Data - 05/20/2024 15:45:43
+2024 5 20 15 45 43
+1108 1108 1 1092 0 0 882999691 10 1 1
+1 1115 1115 20 20
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -31,59 +21,69 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
+1108 1108 882999691 1 10 1
 0 0 0 0 0 0
 0 0 0 0 0 0
-14 0 3106 10
-52 14 10179 33
-28 0 6537 18
-14 0 3482 9
-61 0 7525 55
-88 0 17323 72
-20 0 2386 18
-37 0 3789 30
-13 0 3025 5
-15 0 1191 15
-22 0 5177 13
-19 0 4580 11
-17 0 3528 8
-13 0 3155 9
-30 0 6106 18
-26 0 3819 22
-14 0 3213 7
-15 0 3437 11
-13 0 2883 8
-15 0 3718 10
-17 0 3806 7
-20 0 2277 16
-14 0 3420 10
-12 0 2946 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1108 1108 882999691 10
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
 0
 0
 0
-14
-0
-0
-0
-0
-0
-0
-0
-537
-0
-0
-0
-0
-0
+1108
 0
 0
 0
 0
 0
 0
-33
 0
 0
-5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
 0
 0
 0
@@ -99,962 +99,2208 @@
 0
 0
 # -urls- 
-/.well-known/acme-challenge/X7PVR989F_G8WQ3AMRZOUZ8_OSMLY1M-
-0 1 3531103582835179520 64 0 0
-/.well-known/acme-challenge/WG1PLLKW4V0QLPHNMCTCRR1X-34QARGA
-0 1 3704610915744743424 64 0 0
-/.well-known/acme-challenge/mPvsyXqLHZrIIErzDGVr8mU5iFwPEKQI050sOw2dkEM
-0 5 0 435 0 0
-/.well-known/acme-challenge/OAEQAVYZLNHSDB9U7I3INKM357EFE6_7
-0 1 0 64 0 0
-/.well-known/acme-challenge/FNB0WXX5R5ZFJKYNXXUSDYB42V0SYHZE
-0 1 0 64 0 0
-/.well-known/acme-challenge/LUOFJVDNPBI8JJXXB6HUYD_KX4GOQC6Q
-0 1 0 64 0 0
-/.well-known/acme-challenge/Z3PFEV1_QTRB7B6U7A-TQXNFR8M-M1ZM
-0 1 0 64 0 0
-/.well-known/acme-challenge/L8UPP0CH5TWP45M7I7T2U60CBRZJ_D6J
-0 1 0 64 0 0
-/.well-known/acme-challenge/LXTY6ARIPYFR71OAB61FN7-BYM_97NM9
-0 1 0 64 0 0
-/.well-known/acme-challenge/96EPYX6J53P_VR9AQXJPTSEJIBVILBCK
-0 1 0 64 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712747552.M246926P609029.panoz.websitewelcome.com,S
+0 1 19444800 58283 0 0
+/home2/canadavi/.cpanel/.resource_logs
+0 1 19337792 2097519 0 0
+/home2/canadavi/etc/canadaviajes.com.py/julioingi.rcube.db.1688057279
+0 1 0 331776 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Drafts/dovecot.index.log
+0 1 19384528 232 0 0
+/home2/canadavi/mail/new/1651085590.M217565P1024917.panoz.websitewelcome.com,S
+0 1 19381088 2267 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715175686.M758055P904281.panoz.websitewelcome.com,S
+0 1 19386704 1295234 0 0
+/home2/canadavi/mail/new/1654864720.M991408P322987.panoz.websitewelcome.com,S
+0 1 19380560 2586 0 0
+/home2/canadavi/.cpanel/nvdata/ventas5@canadaviajes.com.py_webmailclient
+0 1 19343456 2 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Junk/dovecot-uidlist
+0 1 0 52 0 0
+/home2/canadavi/etc/cacheid
+0 1 19308880 10 1 0
+/home2/canadavi/ssl/certs/_wildcard__canadaviajes_com_py_ab6e4_e631f_1714630303_b1e7d75fdf5ab07eb108cbb57820d771.crt
+0 1 19307936 1808 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1711974248.M738818P92183.panoz.websitewelcome.com,S
+0 1 19497024 32151 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot.list.index
+0 1 19383472 968 0 0
+/home2/canadavi/.cpanel/nvdata/administracion@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19345632 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715970935.M14120P638659.panoz.websitewelcome.com,S
+0 1 19414288 28281 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Junk/dovecot.index.log
+0 1 19426944 40 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714161942.M923287P380674.panoz.websitewelcome.com,S
+0 1 19482608 44407 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712950971.M477906P841335.panoz.websitewelcome.com,S
+0 1 19443968 6501 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas5.rcube.db.1690871868
+0 1 0 339968 0 0
+/home2/canadavi/.cpanel/datastore/apache_LISTSUBDOMAINS
+0 1 19353952 163 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot.mailbox.log
+0 1 19382128 120 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714751946.M86960P946103.panoz.websitewelcome.com,S
+0 1 19448128 461927 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712779146.M746298P612707.panoz.websitewelcome.com,S
+0 1 19444384 8569 0 0
+/home2/canadavi/mail/new/1660830447.M197901P259483.panoz.websitewelcome.com,S
+0 1 19366656 2300 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/ventas2
+0 1 0 137 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715270033.M515027P885232.panoz.websitewelcome.com,S
+0 1 19445424 21376 0 0
+/home2/canadavi/.cpanel/datastore/_bin_gtar_--version
+0 1 19349776 319 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715351889.M425787P350931.panoz.websitewelcome.com,S
+0 1 19424272 57396 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713489176.M868711P652658.panoz.websitewelcome.com,S
+0 1 19446464 4477 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ruthgomez.rcube.db.1689316652
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712694394.M648082P951594.panoz.websitewelcome.com,S
+0 1 19435680 7105 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712241982.M899283P1010163.panoz.websitewelcome.com,S
+0 1 19411168 7293 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713960176.M407686P59102.panoz.websitewelcome.com,S
+0 1 19496400 45395 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712414489.M563874P580536.panoz.websitewelcome.com,S
+0 1 19439808 38531 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712174470.M226057P978735.panoz.websitewelcome.com,S
+0 1 19448544 125029 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715864809.M952881P832416.panoz.websitewelcome.com,S
+0 1 19404512 124203 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1708005721.M379704P547051.panoz.websitewelcome.com,S
+0 1 19511984 177785 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715631505.M565216P454254.panoz.websitewelcome.com,S
+0 1 19470128 6398 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712611902.M67669P445785.panoz.websitewelcome.com,S
+0 1 19450816 12242 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714399182.M615057P424612.panoz.websitewelcome.com,S
+0 1 19453312 32782 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1705345632.M574521P505656.panoz.websitewelcome.com,S
+0 1 19509696 214289 0 0
+/home2/canadavi/logs/roundcube/errors
+0 1 19361072 554505 0 0
+/home2/canadavi/mail/new/1659990829.M398647P880935.panoz.websitewelcome.com,S
+0 1 19373872 2267 0 0
+/home2/canadavi/.cpanel/caches/filesys/___
+0 1 19357296 199 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715893123.M410426P605123.panoz.websitewelcome.com,S
+0 1 19486544 37633 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714382666.M859742P846766.panoz.websitewelcome.com,S
+0 1 19458912 5664 0 0
+/home2/canadavi/mail/new/1644947610.M719885P879433.panoz.websitewelcome.com,S
+0 1 19379856 2321 0 0
+/home2/canadavi/.cpanel/nvdata/julioingi@canadaviajes.com.py_default_webmail_app
+0 1 19348896 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713360829.M933826P319659.panoz.websitewelcome.com,S
+0 1 19494544 27729 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716042160.M175914P929555.panoz.websitewelcome.com,S
+0 1 19389200 978409 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712600502.M721660P95613.panoz.websitewelcome.com,S
+0 1 19412000 87797 0 0
+/home2/canadavi/etc/canadaviajes.com.py/quota
+0 1 19325984 364 0 0
+/home2/canadavi/mail/new/1656150899.M257891P619046.panoz.websitewelcome.com,S
+0 1 19379680 2389 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714076851.M873027P308396.panoz.websitewelcome.com,S
+0 1 19452480 80949 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715864994.M538092P832416.panoz.websitewelcome.com,S
+0 1 19488816 149447 0 0
+/home2/canadavi/mail/new/1643123506.M623169P994343.panoz.websitewelcome.com,S
+0 1 19375808 2594 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714146568.M760651P870743.panoz.websitewelcome.com,S
+0 1 19459536 10950 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714058861.M44708P717535.panoz.websitewelcome.com,S
+0 1 19460576 5623 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1687386751.M678542P744021.panoz.websitewelcome.com,S
+0 1 19428448 584 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714160813.M656731P349678.panoz.websitewelcome.com,S
+0 1 19452064 51412 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712274419.M405009P302786.panoz.websitewelcome.com,S
+0 1 19434848 12118 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot-quota
+0 1 0 57 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714066547.M899086P959085.panoz.websitewelcome.com,S
+0 1 19446672 64196 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot.index.cache
+0 1 19402256 88420 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714678826.M15243P208718.panoz.websitewelcome.com,S
+0 1 19410128 70650 0 0
+/home2/canadavi/mail/new/1537837242.M422727P708662.panoz.websitewelcome.com,S
+0 1 19374400 4933 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/julioingi
+0 1 0 139 0 0
+/home2/canadavi/mail/new/1638486696.M993838P117579.panoz.websitewelcome.com,S
+0 1 19375104 2522 0 0
+/home2/canadavi/mail/new/1651086006.M411812P1038379.panoz.websitewelcome.com,S
+0 1 19369120 2458 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715175790.M715139P904281.panoz.websitewelcome.com,S
+0 1 19393568 977891 0 0
+/home2/canadavi/.cpanel/caches/dynamicui/x3_es_.cache
+0 1 19359600 48901 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715863695.M242453P785788.panoz.websitewelcome.com,S
+0 1 19405968 3711 0 0
+/home2/canadavi/.cpanel/datastore/_usr_bin_quota_-v_canadavi
+0 1 0 449 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715261209.M402627P458519.panoz.websitewelcome.com,S
+0 1 19480528 387744 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715006043.M840591P727548.panoz.websitewelcome.com,S
+0 1 19440640 30618 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713875689.M974881P1035456.panoz.websitewelcome.com,S
+0 1 19484480 140802 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715889290.M505816P275475.panoz.websitewelcome.com,S
+0 1 19391072 1292757 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot-quota
+0 1 0 56 0 0
+/home2/canadavi/.cpanel/caches/config/_etc_remotedomains___3508983880
+0 1 0 3449 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713352992.M98903P1033754.panoz.websitewelcome.com,S
+0 1 19471792 126647 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713620656.M504776P459404.panoz.websitewelcome.com,S
+0 1 19419904 1104638 0 0
+/home2/canadavi/mail/new/1713175608.M707384P302016.panoz.websitewelcome.com,S
+0 1 19363664 10146 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ruthgomez.rcube.db.1690871868
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715265395.M357545P762109.panoz.websitewelcome.com,S
+0 1 19407424 19366 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713278910.M63805P501595.panoz.websitewelcome.com,S
+0 1 19415328 842099 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716042131.M2230P929555.panoz.websitewelcome.com,S
+0 1 19397312 978023 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_gerencia@canadaviajes.com.py
+0 1 19352832 8 0 0
+/home2/canadavi/mail/new/1654454693.M182879P878854.panoz.websitewelcome.com,S
+0 1 19372816 2516 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Sent/cur/1688041890.M754323P1003673.panoz.websitewelcome.com,S
+0 1 19399648 94542 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712386066.M533122P512385.panoz.websitewelcome.com,S
+0 1 19443136 39270 0 0
+/home2/canadavi/mail/new/1539858428.M903639P476817.panoz.websitewelcome.com,S
+0 1 19374928 4660 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas4.rcube.db.1699947478
+0 2 0 696320 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714142076.M87925P721344.panoz.websitewelcome.com,S
+0 1 19442096 53040 0 0
+/home2/canadavi/mail/new/1656150899.M64519P619046.panoz.websitewelcome.com,S
+0 1 19375280 2385 0 0
+/home2/canadavi/etc/canadaviajes.com.py/redessociales.rcube.db.1696315090
+0 1 19328384 368640 0 0
+/home2/canadavi/.cpanel/nvdata/gerencia@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19342928 1 0 0
+/home2/canadavi/etc/canadaviajes.com.py/_privs.json
+0 1 19330224 14 0 0
+/home2/canadavi/ssl/ssl.db.cache
+0 1 19307600 10891 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712667189.M665651P89513.panoz.websitewelcome.com,S
+0 1 19419280 168198 0 0
+/home2/canadavi/etc/canadaviajes.com.py/contabilidad.rcube.db.1688057274
+0 1 19315712 258048 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713026301.M903382P23481.panoz.websitewelcome.com,S
+0 1 19472000 122671 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714001306.M529766P503683.panoz.websitewelcome.com,S
+0 1 19462240 442559 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.spam/dovecot.index.log
+0 1 19384176 232 0 0
+/home2/canadavi/etc/canadaviajes.com.py/julioingi.rcube.db.1699947478
+0 2 0 720896 0 0
+/home2/canadavi/etc/canadaviajes.com.py/eventos.rcube.db
+0 1 0 376832 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/dovecot-uidlist
+0 1 19427472 595 0 0
+/home2/canadavi/.cpanel/datastore/apache_FETCHTYPES_0
+0 1 19353488 488 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713994354.M689862P266136.panoz.websitewelcome.com,S
+0 1 19449168 65985 0 0
+/home2/canadavi/.cpanel/nvdata/showhiddenfiles
+0 1 19347104 1 0 0
+/home2/canadavi/.cpanel/nvdata/icFAA
+0 1 19345824 113 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot.list.index.log
+0 1 19401424 7332 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot-acl-list
+0 1 0 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713200307.M883665P70420.panoz.websitewelcome.com,S
+0 1 19480944 38672 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712000664.M405062P232801.panoz.websitewelcome.com,S
+0 1 19474288 327030 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/dovecot.index
+0 1 0 1752 0 0
+/home2/canadavi/etc/canadaviajes.com.py/contabilidad.rcube.db.1698475095
+0 1 19327088 348160 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1701173639.M955032P4585.panoz.websitewelcome.com,S
+0 1 19506992 91860 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715202743.M839616P854372.panoz.websitewelcome.com,S
+0 1 19457664 1294598 0 0
+/home2/canadavi/etc/canadaviajes.com.py/gerencia.rcube.db
+0 1 0 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713875690.M401909P1047199.panoz.websitewelcome.com,S
+0 1 19423440 140943 0 0
+/home2/canadavi/mail/dovecot-uidvalidity.5ba968fd
+0 1 19362128 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1713283559.M618070P747888.panoz.websitewelcome.com,S
+0 1 19386912 507787 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712240970.M200707P1010163.panoz.websitewelcome.com,S
+0 1 19484064 57967 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713298139.M453870P172928.panoz.websitewelcome.com,S
+0 1 19461200 98162 0 0
+/home2/canadavi/etc/canadaviajes.com.py/canada.viajes.rcube.db.1699947478
+0 2 19318464 737280 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas5.rcube.db.1699947478
+0 2 0 737280 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713388982.M656751P283016.panoz.websitewelcome.com,S
+0 1 19477616 93577 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas4.rcube.db.1689316652
+0 1 0 315392 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712779693.M126919P612707.panoz.websitewelcome.com,S
+0 1 19469504 1111750 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715357262.M239154P684535.panoz.websitewelcome.com,S
+0 1 19421152 136314 0 0
+/home2/canadavi/mail/dovecot-uidvalidity
+0 1 19362656 8 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715368643.M351374P533845.panoz.websitewelcome.com,S
+0 1 19494144 183214 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712597484.M91736P305.panoz.websitewelcome.com,S
+0 1 19493552 36455 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714737478.M852465P201148.panoz.websitewelcome.com,S
+0 1 19469920 2362 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715017945.M519573P89367.panoz.websitewelcome.com,S
+0 1 19447712 27169 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713359676.M87721P261656.panoz.websitewelcome.com,S
+0 1 19459744 57380 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/evelinehiebert
+0 1 0 144 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Archive/maildirfolder
+0 1 19425536 0 0 0
+/home2/canadavi/.cpanel/caches/dynamicui/paper_lantern_en_.cache
+0 1 0 56044 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703183765.M419011P845543.panoz.websitewelcome.com,S
+0 1 19506784 7033322 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1687384387.M320322P660080.panoz.websitewelcome.com,S
+0 1 19427824 560 0 0
+/home2/canadavi/mail/new/1539182749.M996998P629955.panoz.websitewelcome.com,S
+0 1 19365072 5089 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712533883.M17056P28319.panoz.websitewelcome.com,S
+0 1 19438576 39812 0 0
+/home2/canadavi/mail/new/1654180350.M459004P132507.panoz.websitewelcome.com,S
+0 1 19363840 2366 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/canada.viajes
+0 1 0 139 0 0
+/home2/canadavi/mail/new/1645456401.M744955P1018129.panoz.websitewelcome.com,S
+0 1 19369824 2277 0 0
+/home2/canadavi/mail/dovecot.index
+0 1 19361472 1880 0 0
+/home2/canadavi/.cpanel/quickinstall/installations
+0 1 19360224 129 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712620763.M150082P712865.panoz.websitewelcome.com,S
+0 1 19485920 54095 0 0
+/home2/canadavi/.cpanel/nvdata/ventas1@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19349424 1 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_redessociales@canadaviajes.com.py
+0 1 19350368 1 0 0
+/home2/canadavi/mail/new/1656150899.M411264P619046.panoz.websitewelcome.com,S
+0 1 19374576 2382 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715889410.M128951P275475.panoz.websitewelcome.com,S
+0 1 19395856 977800 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714672956.M386441P12267.panoz.websitewelcome.com,S
+0 1 19472624 7241 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.spam/dovecot.index.cache
+0 1 19497920 712 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas8.rcube.db.1559803103
+0 1 0 176128 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712091296.M629725P451738.panoz.websitewelcome.com,S
+0 1 19448752 26850 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Junk/dovecot.index
+0 1 0 184 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt2483408.log
+0 1 0 261 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/gerencia
+0 1 0 130 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715013399.M372346P975390.panoz.websitewelcome.com,S
+0 1 19476160 26218 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Drafts/dovecot.index.cache
+0 1 19498768 88 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713985860.M177182P988820.panoz.websitewelcome.com,S
+0 1 19419072 26581 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715613634.M191312P871217.panoz.websitewelcome.com,S
+0 1 19468880 54152 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713954382.M336168P916862.panoz.websitewelcome.com,S
+0 1 19432352 75877 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713892554.M954967P694151.panoz.websitewelcome.com,S
+0 1 19443760 7317 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/maildirsize
+0 1 0 1083 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715614704.M56122P941519.panoz.websitewelcome.com,S
+0 1 19423856 6410 0 0
+/home2/canadavi/mail/new/1671131445.M816089P931408.panoz.websitewelcome.com,S
+0 1 19368416 5710 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712602960.M250414P165085.panoz.websitewelcome.com,S
+0 1 19441888 9513 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713278381.M722989P566369.panoz.websitewelcome.com,S
+0 1 19453104 35039 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt4058055.log
+0 1 0 262 0 0
+/home2/canadavi/.htaccess.phpupgrader.initial
+0 1 19306928 141 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715086369.M796649P931625.panoz.websitewelcome.com,S
+0 1 19487584 2375 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714145867.M7375P870743.panoz.websitewelcome.com,S
+0 1 19431952 443313 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1699455602.M124509P589998.panoz.websitewelcome.com,S
+0 1 19503872 130207 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot.mailbox.log
+0 1 19400432 144 0 0
+/home2/canadavi/ssl/ssl.db
+0 1 19307472 11333 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot.index.cache
+0 1 0 214016 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot.list.index.log
+0 1 0 328 0 0
+/home2/canadavi/mail/new/1656150898.M989142P619046.panoz.websitewelcome.com,S
+0 1 19380032 2391 0 0
+/home2/canadavi/mail/new/1639337316.M917043P162061.panoz.websitewelcome.com,S
+0 1 19377920 2299 0 0
+/home2/canadavi/etc/canadaviajes.com.py/jdure.rcube.db
+0 1 19323392 274432 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas3.rcube.db.1690871868
+0 1 0 352256 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714777400.M80150P896860.panoz.websitewelcome.com,S
+0 1 19436096 56174 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712849984.M774851P729262.panoz.websitewelcome.com,S
+0 1 19447920 789297 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Archive/maildirfolder
+0 1 0 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713299482.M487564P209889.panoz.websitewelcome.com,S
+0 1 19452896 6566 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714764282.M342428P406024.panoz.websitewelcome.com,S
+0 1 19413872 92610 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714431562.M572313P584469.panoz.websitewelcome.com,S
+0 1 19483024 53794 0 0
+/home2/canadavi/etc/canadaviajes.com.py/administracion.rcube.db.1690871867
+0 1 19323216 393216 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_ventas3@canadaviajes.com.py
+0 1 0 8 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/dovecot-uidlist
+0 1 0 5551 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Archive/dovecot.index.log
+0 1 19499104 548 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715091870.M100417P64448.panoz.websitewelcome.com,S
+0 1 19405344 96563 0 0
+/home2/canadavi/.cpanel/caches/filesys/___.stat
+0 1 19358048 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714507555.M611618P825838.panoz.websitewelcome.com,S
+0 1 0 70661 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712144757.M748355P680991.panoz.websitewelcome.com,S
+0 1 19469296 57031 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713915138.M752045P464948.panoz.websitewelcome.com,S
+0 1 19408672 370036 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715116034.M585203P888615.panoz.websitewelcome.com,S
+0 1 19396896 1296805 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715973587.M547957P726045.panoz.websitewelcome.com,S
+0 1 19460992 123830 0 0
+/home2/canadavi/mail/new/1659799765.M14944P999314.panoz.websitewelcome.com,S
+0 1 19370880 2333 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712943931.M964894P628387.panoz.websitewelcome.com,S
+0 1 19454560 106642 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1715862323.M922387P686534.panoz.websitewelcome.com,S
+0 1 19509488 112708 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1687433904.M635580P287740.panoz.websitewelcome.com,S
+0 1 19428240 644 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot.list.index.log
+0 1 19382800 4040 0 0
+/home2/canadavi/mail/new/1646762953.M44161P548340.panoz.websitewelcome.com,S
+0 1 19377744 2307 0 0
+/home2/canadavi/.cpanel/nvdata/ventas8@canadaviajes.com.py_default_webmail_app
+0 1 19344992 9 0 0
+/home2/canadavi/.cpanel/caches/config/_var_cpanel_features_disabled___425cafffeb1d2048ac7972b00b8da273
+0 1 19356752 93 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712235691.M634618P695054.panoz.websitewelcome.com,S
+0 1 19407840 579426 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713797129.M451080P66045.panoz.websitewelcome.com,S
+0 1 19412416 25526 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Archive/maildirfolder
+0 1 19384880 0 0 0
+/home2/canadavi/mail/new/1656543788.M29323P170738.panoz.websitewelcome.com,S
+0 1 19375632 2326 0 0
+/home2/canadavi/mail/new/1654632849.M195668P732526.panoz.websitewelcome.com,S
+0 1 19381616 2537 0 0
+/home2/canadavi/.cpanel/datastore/_Cpanel::Quota.pm__canadavi
+0 1 0 73 0 0
+/home2/canadavi/.cpanel/nvdata/defaultdirtype
+0 1 19346128 7 0 0
+/home2/canadavi/mail/new/1659909759.M356244P920605.panoz.websitewelcome.com,S
+0 1 19374048 2331 0 0
+/home2/canadavi/etc/canadaviajes.com.py/julioingi.rcube.db.1690871868
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714047521.M726433P273578.panoz.websitewelcome.com,S
+0 1 19434016 345410 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715974775.M269151P779506.panoz.websitewelcome.com,S
+0 1 19413456 56550 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713956692.M24268P989015.panoz.websitewelcome.com,S
+0 1 19477200 56895 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1700763394.M12513P302422.panoz.websitewelcome.com,S
+0 1 19503248 1167166 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715955811.M745332P142126.panoz.websitewelcome.com,S
+0 1 19492928 7274 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/maildirfolder
+0 1 0 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715174105.M7863P879931.panoz.websitewelcome.com,S
+0 1 19390864 978089 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715003952.M890495P660356.panoz.websitewelcome.com,S
+0 1 19421776 16369 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712007293.M12788P452075.panoz.websitewelcome.com,S
+0 1 19440432 7068 0 0
+/home2/canadavi/.cpanel/nvdata/ventas5@canadaviajes.com.py_default_webmail_app
+0 1 19345952 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715101814.M897002P434852.panoz.websitewelcome.com,S
+0 1 19387120 29755 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713542865.M611669P733877.panoz.websitewelcome.com,S
+0 1 19486336 54318 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715880413.M73162P710515.panoz.websitewelcome.com,S
+0 1 19422192 14817 0 0
+/home2/canadavi/etc/canadaviajes.com.py/canada.viajes.rcube.db.1696315090
+0 1 19332656 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715175421.M243558P907344.panoz.websitewelcome.com,S
+0 1 19398352 978144 0 0
+/home2/canadavi/mail/new/1656150881.M284912P619046.panoz.websitewelcome.com,S
+0 1 19368240 2384 0 0
+/home2/canadavi/etc/canadaviajes.com.py/passwd
+0 1 19326944 1636 0 0
+/home2/canadavi/mail/new/1661808450.M927206P854822.panoz.websitewelcome.com,S
+0 1 19380208 2273 0 0
+/home2/canadavi/mail/new/1539785335.M857781P994.panoz.websitewelcome.com,S
+0 1 19369296 4660 0 0
+/home2/canadavi/.cpanel/quickinstall/brand
+0 1 19360368 24 0 0
+/home2/canadavi/.htaccess
+0 1 19305792 143 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1687382788.M776595P614748.panoz.websitewelcome.com,S
+0 1 19428656 586 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Drafts/dovecot-uidlist
+0 1 19425184 119 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715006053.M686015P727548.panoz.websitewelcome.com,S
+0 1 19403056 96063 0 0
+/home2/canadavi/mail/new/1647887121.M203325P127703.panoz.websitewelcome.com,S
+0 1 19375984 2321 0 0
+/home2/canadavi/.cpanel/caches/dynamicui/paper_lantern_es-419_.cache
+0 1 0 58067 0 0
+/home2/canadavi/mail/.Drafts/dovecot-uidlist
+0 1 19363232 52 0 0
+/home2/canadavi/mail/new/1646762951.M686478P547670.panoz.websitewelcome.com,S
+0 1 19373520 2304 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715890642.M174723P433236.panoz.websitewelcome.com,S
+0 1 19433808 258083 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713553277.M135883P87008.panoz.websitewelcome.com,S
+0 1 19489232 169666 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712169733.M217522P826852.panoz.websitewelcome.com,S
+0 1 19452688 353847 0 0
+/home2/canadavi/.cpanel/caches/dynamicui/x3_es_mobile.cache
+0 1 0 49212 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712000713.M436008P232801.panoz.websitewelcome.com,S
+0 1 19475536 7277 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712647186.M95648P541613.panoz.websitewelcome.com,S
+0 1 19488400 124938 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Sent/cur/1686316794.M473939P1009972.panoz.websitewelcome.com,S
+0 1 19399440 863 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712090416.M658564P409556.panoz.websitewelcome.com,S
+0 1 19435264 78443 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713806745.M503129P507884.panoz.websitewelcome.com,S
+0 1 19467424 38701 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715287624.M80801P797547.panoz.websitewelcome.com,S
+0 1 19405760 210505 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot-uidvalidity.645bc135
+0 1 19401088 0 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/ventas3
+0 1 0 137 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1687386081.M431348P722383.panoz.websitewelcome.com,S
+0 1 19428032 582 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas3.rcube.db.1696315090
+0 1 0 352256 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715026196.M518212P365624.panoz.websitewelcome.com,S
+0 1 19433184 1165775 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Trash/dovecot.index.cache
+0 1 19426768 412 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714565141.M904849P138228.panoz.websitewelcome.com,S
+0 1 19443344 121771 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.spam/dovecot-uidlist
+0 1 19384352 52 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1713283758.M751449P764170.panoz.websitewelcome.com,S
+0 1 19503040 84581 0 0
+/home2/canadavi/mail/dovecot-quota
+0 1 19361728 56 0 0
+/home2/canadavi/etc/canadaviajes.com.py/contabilidad.rcube.db
+0 1 0 380928 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1708083688.M995789P924868.panoz.websitewelcome.com,S
+0 1 19508656 182596 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715010871.M51356P856963.panoz.websitewelcome.com,S
+0 1 19467632 297148 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712547669.M875451P514340.panoz.websitewelcome.com,S
+0 1 19409504 1025592 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712760051.M395598P1013631.panoz.websitewelcome.com,S
+0 1 19408048 167612 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714100014.M558897P104876.panoz.websitewelcome.com,S
+0 1 19406800 1052351 0 0
+/home2/canadavi/.htaccess.phpupgrader.fd758a46
+0 1 19306272 142 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/dovecot.index.log
+0 1 19501488 27452 0 0
+/home2/canadavi/.cpanel/Cpanel_SSL_DCV_DNS_Mutex
+0 1 19338656 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714508433.M177708P864355.panoz.websitewelcome.com,S
+0 1 19487984 30030 0 0
+/home2/canadavi/etc/canadaviajes.com.py/julioingi.rcube.db.1689316652
+0 1 0 360448 0 0
+/home2/canadavi/.contactemail
+0 1 19305424 22 0 0
+/home2/canadavi/mail/new/1658154850.M449270P684271.panoz.websitewelcome.com,S
+0 1 19364192 2684 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1698157384.M394995P114723.panoz.websitewelcome.com,S
+0 1 19504704 88476 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713295672.M907136P91506.panoz.websitewelcome.com,S
+0 1 19478656 122305 0 0
+/home2/canadavi/ssl/keys/c90da_82823_a3ae561794f846a9ef87e4a76599293a.key
+0 1 19308528 1670 0 0
+/home2/canadavi/.cpanel/caches/filesys/___home___canadavi
+0 1 0 238 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Archive/dovecot-uidlist
+0 1 19499280 52 0 0
+/home2/canadavi/mail/new/1648045471.M690571P12827.panoz.websitewelcome.com,S
+0 1 19367712 2338 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712246558.M757308P265659.panoz.websitewelcome.com,S
+0 1 19464512 5679 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt1751001.log
+0 1 0 262 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714158373.M250870P259358.panoz.websitewelcome.com,S
+0 1 19409712 2512096 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1715009729.M862936P868474.panoz.websitewelcome.com,S
+0 1 19507200 130138 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713357160.M647860P183036.panoz.websitewelcome.com,S
+0 1 19441680 53030 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713980981.M732441P779781.panoz.websitewelcome.com,S
+0 1 19422816 609783 0 0
+/home2/canadavi/mail/new/1713978200.M674803P743854.panoz.websitewelcome.com,S
+0 1 19371936 10036 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712779142.M806595P612707.panoz.websitewelcome.com,S
+0 1 19454352 7932 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713279688.M120594P625294.panoz.websitewelcome.com,S
+0 1 19438768 5691 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.spam/maildirfolder
+0 1 19384000 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712419359.M499455P719561.panoz.websitewelcome.com,S
+0 1 19457040 8630 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713553289.M73251P87008.panoz.websitewelcome.com,S
+0 1 19456640 230716 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot-uidlist
+0 1 0 9058 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712104716.M610427P40648.panoz.websitewelcome.com,S
+0 1 19486128 3888887 0 0
+/home2/canadavi/mail/new/1673893595.M820447P498576.panoz.websitewelcome.com,S
+0 1 19373168 5733 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD1668106.log
+0 1 0 329 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1698158308.M267447P147981.panoz.websitewelcome.com,S
+0 1 19512192 176124 0 0
+/home2/canadavi/mail/new/1538406234.M358306P433995.panoz.websitewelcome.com,S
+0 1 19371056 4748 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas5.rcube.db.1689316652
+0 1 0 339968 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715973763.M477353P748369.panoz.websitewelcome.com,S
+0 1 19418448 50931 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712920206.M321767P866915.panoz.websitewelcome.com,S
+0 1 19434640 58153 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703182703.M973270P818144.panoz.websitewelcome.com,S
+0 1 19503456 7031756 0 0
+/home2/canadavi/.cpanel/filter.yaml
+0 1 19338208 260 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas1.rcube.db.1699947478
+0 2 0 729088 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715099461.M524018P346041.panoz.websitewelcome.com,S
+0 1 19482816 223943 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1711720039.M345674P260177.panoz.websitewelcome.com,S
+0 1 19439392 39340 0 0
+/home2/canadavi/.cpanel/dns_dcv_lock
+0 1 19339856 0 0 0
+/home2/canadavi/etc/canadaviajes.com.py/contabilidad.rcube.db.1690871868
+0 1 19317152 348160 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712337652.M941271P464159.panoz.websitewelcome.com,S
+0 1 19479488 49707 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712689283.M26441P839017.panoz.websitewelcome.com,S
+0 1 19388992 27691 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712611902.M384602P445785.panoz.websitewelcome.com,S
+0 1 19483232 12218 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715623308.M146939P201048.panoz.websitewelcome.com,S
+0 1 19448960 39852 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712779796.M286251P612707.panoz.websitewelcome.com,S
+0 1 19455600 976597 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ruthgomez.rcube.db
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713879277.M33522P155956.panoz.websitewelcome.com,S
+0 1 19493136 16723 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712149465.M439400P1007589.panoz.websitewelcome.com,S
+0 1 19397936 28655 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712397621.M241535P1001870.panoz.websitewelcome.com,S
+0 1 19482400 125805 0 0
+/home2/canadavi/mail/new/1656150861.M618450P619046.panoz.websitewelcome.com,S
+0 1 19378976 2391 0 0
+/home2/canadavi/etc/canadaviajes.com.py/canada.viajes.rcube.db.1689316652
+0 1 19333504 368640 0 0
+/home2/canadavi/.cpanel/email_accounts.json
+0 1 19339584 2422 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas5.rcube.db.1688057287
+0 1 0 249856 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713365120.M486339P499970.panoz.websitewelcome.com,S
+0 1 19418032 59774 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714058877.M802741P717535.panoz.websitewelcome.com,S
+0 1 19465760 8257 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_ventas5@canadaviajes.com.py
+0 1 0 6 0 0
+/home2/canadavi/.cpanel/datastore/_bin_gtar_--help
+0 1 19352512 15514 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714218489.M617262P413925.panoz.websitewelcome.com,S
+0 1 19479696 39272 0 0
+/home2/canadavi/mail/new/1713900554.M585366P932643.panoz.websitewelcome.com,S
+0 1 19365248 10154 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713794394.M359537P3705.panoz.websitewelcome.com,S
+0 1 19449376 34622 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712611901.M492460P445785.panoz.websitewelcome.com,S
+0 1 19451856 12233 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715189497.M922421P437236.panoz.websitewelcome.com,S
+0 1 19465136 19583 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714054286.M983114P511775.panoz.websitewelcome.com,S
+0 1 19435472 26839 0 0
+/home2/canadavi/etc/canadaviajes.com.py/eventos.rcube.db.1696315090
+0 1 0 376832 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713822854.M435541P1024902.panoz.websitewelcome.com,S
+0 1 19477408 85437 0 0
+/home2/canadavi/mail/new/1647781976.M547746P9846.panoz.websitewelcome.com,S
+0 1 19377216 2439 0 0
+/home2/canadavi/.cpanel/email_accounts.yaml
+0 1 19338800 1299 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot.index.cache
+0 1 19383824 94644 0 0
+/home2/canadavi/logs/roundcube/carddav
+0 1 19361200 9570 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715886284.M708012P93675.panoz.websitewelcome.com,S
+0 1 19444176 98382 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712753028.M762811P809165.panoz.websitewelcome.com,S
+0 1 19418656 149919 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712268035.M201206P112226.panoz.websitewelcome.com,S
+0 1 19469088 63086 0 0
+/home2/canadavi/mail/new/1650487957.M945771P561775.panoz.websitewelcome.com,S
+0 1 19365952 2289 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot-quota
+0 1 0 55 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715272811.M628313P38949.panoz.websitewelcome.com,S
+0 1 19410960 236308 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712936896.M762027P403448.panoz.websitewelcome.com,S
+0 1 19405136 41674 0 0
+/home2/canadavi/mail/new/1639172185.M326982P411212.panoz.websitewelcome.com,S
+0 1 19374224 2353 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/jdure
+0 1 19334000 76 0 0
+/home2/canadavi/.cpanel/nvdata/gerencia@canadaviajes.com.py_default_webmail_app
+0 1 19346272 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714048980.M831346P314850.panoz.websitewelcome.com,S
+0 1 19466592 669463 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715864368.M537131P818060.panoz.websitewelcome.com,S
+0 1 19403264 109411 0 0
+/home2/canadavi/.cpanel/nvdata/migrated_to_jupiter
+0 1 19347600 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.spam/maildirfolder
+0 1 19424480 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713729796.M591129P921919.panoz.websitewelcome.com,S
+0 1 19462656 34882 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712694479.M866179P951594.panoz.websitewelcome.com,S
+0 1 19473040 170128 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713295366.M836962P31795.panoz.websitewelcome.com,S
+0 1 19481152 53177 0 0
+/home2/canadavi/etc/canadaviajes.com.py/fredymieres.rcube.db.1699947478
+0 2 0 753664 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1699531270.M879916P877263.panoz.websitewelcome.com,S
+0 1 19510944 106384 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714673799.M399970P50675.panoz.websitewelcome.com,S
+0 1 19460368 1824 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715868679.M850527P8285.panoz.websitewelcome.com,S
+0 1 19491504 3766 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713217250.M960572P608498.panoz.websitewelcome.com,S
+0 1 19412624 41362 0 0
+/home2/canadavi/mail/new/1657046383.M816499P1005986.panoz.websitewelcome.com,S
+0 1 19369472 2300 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716042143.M559459P929555.panoz.websitewelcome.com,S
+0 1 19395648 978047 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712007455.M36891P452918.panoz.websitewelcome.com,S
+0 1 19395024 28829 0 0
+/home2/canadavi/etc/canadaviajes.com.py/evelinehiebert.rcube.db.1690871868
+0 1 19320240 372736 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712157617.M141499P210603.panoz.websitewelcome.com,S
+0 1 19434432 7273 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.spam/dovecot.index.log
+0 1 19424656 232 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712775572.M844394P498120.panoz.websitewelcome.com,S
+0 1 19441472 32733 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712602960.M979650P165085.panoz.websitewelcome.com,S
+0 1 19490672 9538 0 0
+/home2/canadavi/.cpanel/nvdata/ventas4@canadaviajes.com.py_default_webmail_app
+0 1 19342752 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1713619792.M522915P437696.panoz.websitewelcome.com,S
+0 1 19388368 29508 0 0
+/home2/canadavi/etc/canadaviajes.com.py/gerencia.rcube.db.1688057278
+0 1 0 258048 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1701696768.M981247P794956.panoz.websitewelcome.com,S
+0 1 19504496 90367 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715375585.M966208P942650.panoz.websitewelcome.com,S
+0 1 19495568 48555 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713968727.M557484P390479.panoz.websitewelcome.com,S
+0 1 19439184 123926 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714141346.M860821P694200.panoz.websitewelcome.com,S
+0 1 19403888 121433 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713904424.M367068P88653.panoz.websitewelcome.com,S
+0 1 19409296 316746 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713553277.M596260P87008.panoz.websitewelcome.com,S
+0 1 19494944 169648 0 0
+/home2/canadavi/.gemrc
+0 1 19307200 132 0 0
+/home2/canadavi/etc/canadaviajes.com.py/shadow
+0 1 19327744 1053 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas3.rcube.db.1689316652
+0 1 0 352256 0 0
+/home2/canadavi/etc/canadaviajes.com.py/eventos.rcube.db.1689316652
+0 1 0 376832 0 0
+/home2/canadavi/mail/new/1656340477.M449258P964821.panoz.websitewelcome.com,S
+0 1 19372640 2456 0 0
+/home2/canadavi/.cpanel/datastore/AVAILABLE_APPLICATIONS_CACHE_es_paper_lantern
+0 1 19352656 33707 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1713186033.M337792P670278.panoz.websitewelcome.com,S
+0 1 19396480 29039 0 0
+/home2/canadavi/.cpanel/datastore/MOUNTS_CACHE__proc_mounts
+0 1 0 3256 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713280397.M255091P601459.panoz.websitewelcome.com,S
+0 1 19473248 129041 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714753747.M103294P981203.panoz.websitewelcome.com,S
+0 1 19437344 66052 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713897354.M772968P863101.panoz.websitewelcome.com,S
+0 1 19410544 22213 0 0
+/home2/canadavi/.cpanel/nvdata/fredymieres@canadaviajes.com.py_default_webmail_app
+0 1 19343776 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713544750.M846352P818648.panoz.websitewelcome.com,S
+0 1 19445008 28827 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot-uidvalidity
+0 1 19383648 8 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712677772.M798249P396627.panoz.websitewelcome.com,S
+0 1 19391904 1108886 0 0
+/home2/canadavi/etc/canadaviajes.com.py/belencardozo.rcube.db.1688057272
+0 1 19333328 331776 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ruthgomez.rcube.db.1699947478
+0 2 0 720896 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot.mailbox.log
+0 1 0 1368 0 0
+/home2/canadavi/etc/canadaviajes.com.py/shadow,v
+0 1 19325680 6101 0 0
+/home2/canadavi/.cpanel/nvdata/ruthgomez@canadaviajes.com.py_default_webmail_app
+0 1 19347744 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Archive/dovecot-uidlist
+0 1 19385232 52 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712256782.M72357P585313.panoz.websitewelcome.com,S
+0 1 19390448 1112658 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas4.rcube.db.1696315090
+0 1 0 344064 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712174693.M697901P978607.panoz.websitewelcome.com,S
+0 1 19390656 27745 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713957014.M537115P989015.panoz.websitewelcome.com,S
+0 1 19459328 127006 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714500757.M369080P238588.panoz.websitewelcome.com,S
+0 1 19395440 1295244 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713553277.M515381P87008.panoz.websitewelcome.com,S
+0 1 19453728 169686 0 0
+/home2/canadavi/etc/canadaviajes.com.py/eventos.rcube.db.1690871868
+0 1 0 376832 0 0
+/home2/canadavi/.cpanel/nvdata/cp-migration-panel_dismissed
+0 1 0 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712932543.M586151P244524.panoz.websitewelcome.com,S
+0 1 19441056 97279 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715271791.M962331P1018930.panoz.websitewelcome.com,S
+0 1 19418864 179867 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Sent/cur/1686317134.M971489P1016154.panoz.websitewelcome.com,S
+0 1 19399856 2493 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714665317.M755772P746209.panoz.websitewelcome.com,S
+0 1 19445840 21969 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1711982024.M853580P478057.panoz.websitewelcome.com,S
+0 1 19463696 375677 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715202845.M860949P854372.panoz.websitewelcome.com,S
+0 1 19468256 71780 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714227266.M512645P711428.panoz.websitewelcome.com,S
+0 1 19463488 32764 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712868845.M796684P320141.panoz.websitewelcome.com,S
+0 1 19394192 29580 0 0
+/home2/canadavi/etc/canadaviajes.com.py/eventos.rcube.db.1698475095
+0 1 0 376832 0 0
+/home2/canadavi/mail/new/1641396176.M492870P355266.panoz.websitewelcome.com,S
+0 1 19381264 2280 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712590193.M615520P804757.panoz.websitewelcome.com,S
+0 1 19449984 32920 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715028312.M411679P440862.panoz.websitewelcome.com,S
+0 1 19435888 43515 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/ventas4
+0 1 0 137 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715199752.M233581P780071.panoz.websitewelcome.com,S
+0 1 19465968 63255 0 0
+/home2/canadavi/etc/canadaviajes.com.py/canada.viajes.rcube.db
+0 1 0 368640 0 0
+/home2/canadavi/mail/new/1539711923.M303416P579142.panoz.websitewelcome.com,S
+0 1 19370704 4459 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713977968.M921734P709908.panoz.websitewelcome.com,S
+0 1 19470960 12436 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1713279555.M177490P623618.panoz.websitewelcome.com,S
+0 1 19510528 121844 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Drafts/dovecot-uidlist
+0 1 19384704 52 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714750738.M169614P857861.panoz.websitewelcome.com,S
+0 1 19458288 52923 0 0
+/home2/canadavi/.pearrc
+0 1 19306416 555 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715299481.M77423P393037.panoz.websitewelcome.com,S
+0 1 19454768 57039 0 0
+/home2/canadavi/mail/new/1670166449.M415829P555941.panoz.websitewelcome.com,S
+0 1 19372464 5752 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712330718.M975368P24626.panoz.websitewelcome.com,S
+0 1 19422400 12084 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot.list.index
+0 1 0 968 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712434725.M777623P136700.panoz.websitewelcome.com,S
+0 1 19495360 8633 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712159790.M520574P303656.panoz.websitewelcome.com,S
+0 1 19490880 41009 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715020649.M875623P187720.panoz.websitewelcome.com,S
+0 1 19450608 56925 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713813027.M734695P693087.panoz.websitewelcome.com,S
+0 1 19492512 424420 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712258613.M373729P717675.panoz.websitewelcome.com,S
+0 1 19387744 1112455 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714054530.M338999P516599.panoz.websitewelcome.com,S
+0 1 19493936 26853 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas8.rcube.db
+0 1 0 184320 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD4824649.log
+0 1 0 213 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas1.rcube.db.1690871868
+0 1 0 364544 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1698861838.M893020P213473.panoz.websitewelcome.com,S
+0 1 19503664 87131 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1700655881.M244353P636020.panoz.websitewelcome.com,S
+0 1 19509280 214238 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713906575.M277418P147874.panoz.websitewelcome.com,S
+0 1 19421360 317835 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715289597.M479266P893112.panoz.websitewelcome.com,S
+0 1 19447504 7288 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714430150.M551566P515852.panoz.websitewelcome.com,S
+0 1 19402432 133300 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715422586.M158577P749850.panoz.websitewelcome.com,S
+0 1 19464096 123702 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/contabilidad
+0 1 0 142 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715958151.M251484P209402.panoz.websitewelcome.com,S
+0 1 19447088 28428 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1698413214.M665090P1028772.panoz.websitewelcome.com,S
+0 1 19508032 560361 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713978259.M866104P743854.panoz.websitewelcome.com,S
+0 1 19440224 46558 0 0
+/home2/canadavi/backup-5.20.2024_15-22-41_canadavi.tar.gz
+0 1 0 651716623 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715167367.M732136P596463.panoz.websitewelcome.com,S
+0 1 19449776 52939 0 0
+/home2/canadavi/mail/new/1656150899.M249302P619046.panoz.websitewelcome.com,S
+0 1 19366304 2377 0 0
+/home2/canadavi/etc/canadaviajes.com.py/gerencia.rcube.db.1698475095
+0 1 0 352256 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715800105.M145409P749375.panoz.websitewelcome.com,S
+0 1 19432560 7278 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703872345.M66228P621829.panoz.websitewelcome.com,S
+0 1 19504288 178785 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712613919.M664660P499916.panoz.websitewelcome.com,S
+0 1 19488608 7863 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713981479.M520140P867225.panoz.websitewelcome.com,S
+0 1 19421568 1387549 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715173764.M970884P843639.panoz.websitewelcome.com,S
+0 1 19397728 1296891 0 0
+/home2/canadavi/mail/dovecot.list.index.log
+0 1 19361984 2708 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712068162.M37021P435658.panoz.websitewelcome.com,S
+0 1 19412832 567461 0 0
+/home2/canadavi/mail/new/1646842271.M914359P89846.panoz.websitewelcome.com,S
+0 1 19380384 2325 0 0
+/home2/canadavi/etc/canadaviajes.com.py/gerencia.rcube.db.1696315090
+0 1 0 352256 0 0
+/home2/canadavi/etc/canadaviajes.com.py/belencardozo.rcube.db.1699947478
+0 2 19331184 720896 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot.index.log
+0 1 0 22312 0 0
+/home2/canadavi/mail/new/1656150761.M269074P619046.panoz.websitewelcome.com,S
+0 1 19372992 2380 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714144850.M616633P794823.panoz.websitewelcome.com,S
+0 1 19465552 90582 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD6772451.log
+0 1 0 265 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714204393.M499401P879988.panoz.websitewelcome.com,S
+0 1 19492304 4797 0 0
+/home2/canadavi/mail/new/1654864719.M103169P322987.panoz.websitewelcome.com,S
+0 1 19366480 2583 0 0
+/home2/canadavi/.cpanel/nvdata/ventas1@canadaviajes.com.py_webmailclient
+0 1 19349248 2 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715958151.M360222P203010.panoz.websitewelcome.com,S
+0 1 19403680 28735 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714485783.M819053P423352.panoz.websitewelcome.com,S
+0 1 19442304 21523 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712843278.M344662P590008.panoz.websitewelcome.com,S
+0 1 19434224 39699 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714162436.M418185P380674.panoz.websitewelcome.com,S
+0 1 19484272 197967 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas5.rcube.db.1698475096
+0 1 0 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715949779.M786480P949148.panoz.websitewelcome.com,S
+0 1 19485104 27483 0 0
+/home2/canadavi/mail/new/1713477621.M284179P250559.panoz.websitewelcome.com,S
+0 1 19377392 10215 0 0
+/home2/canadavi/mail/new/1656150898.M963294P619046.panoz.websitewelcome.com,S
+0 1 19366128 2387 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.spam/dovecot.index.log
+0 1 19497584 460 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715096273.M634397P221812.panoz.websitewelcome.com,S
+0 1 19431744 27278 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714058861.M161769P717535.panoz.websitewelcome.com,S
+0 1 19457248 8987 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714407725.M696758P769791.panoz.websitewelcome.com,S
+0 1 19419488 612463 0 0
+/home2/canadavi/mail/dovecot.mailbox.log
+0 1 19361328 24 0 0
+/home2/canadavi/.cpanel/email_accounts.cache
+0 1 19341984 1098 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1698759075.M637983P14566.panoz.websitewelcome.com,S
+0 1 19504912 132854 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703190080.M954660P1036788.panoz.websitewelcome.com,S
+0 1 19505744 11290227 0 0
+/home2/canadavi/etc/canadaviajes.com.py/redessociales.rcube.db.1698475095
+0 1 19329712 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Trash/cur/1715871200.M949320P185781.panoz.websitewelcome.com,S
+0 1 19500464 96170 0 0
+/home2/canadavi/.cpanel/caches/filesys/~home2~canadavi
+0 1 19358496 239 0 0
+/home2/canadavi/etc/canadaviajes.com.py/eventos.rcube.db.1699947478
+0 2 0 753664 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712779569.M913409P612707.panoz.websitewelcome.com,S
+0 1 19467008 56020 0 0
+/home2/canadavi/mail/new/1684205604.M995361P347168.panoz.websitewelcome.com,S
+0 1 19378096 3326 0 0
+/home2/canadavi/.cpanel/nvdata/ventas3@canadaviajes.com.py_default_webmail_app
+0 1 19343104 9 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD7153176.log
+0 1 0 272 0 0
+/home2/canadavi/mail/maildirsize
+0 1 19361856 858 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Trash/dovecot.index.cache
+0 1 19386112 428 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714655248.M420257P227424.panoz.websitewelcome.com,S
+0 1 19496192 203915 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713195738.M100163P965079.panoz.websitewelcome.com,S
+0 1 19491888 35556 0 0
+/home2/canadavi/etc/canadaviajes.com.py/redessociales.rcube.db
+0 1 0 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715958507.M344163P203010.panoz.websitewelcome.com,S
+0 1 19445216 31603 0 0
+/home2/canadavi/.cpanel/caches/config/_var_cpanel_features_default___425cafffeb1d2048ac7972b00b8da273
+0 1 19356944 210 0 0
+/home2/canadavi/.cpanel/nvdata/defaultdirdomain
+0 1 19345344 4 0 0
+/home2/canadavi/etc/canadaviajes.com.py/fredymieres.rcube.db.1689316652
+0 1 0 376832 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/ventas1
+0 1 0 75 0 0
+/home2/canadavi/.cpanel/email_accounts_count
+0 1 19339984 2 0 0
+/home2/canadavi/mail/.Trash/dovecot.index.log
+0 1 19363376 240 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Drafts/maildirfolder
+0 1 0 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712613978.M335295P499916.panoz.websitewelcome.com,S
+0 1 19386288 27703 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715013504.M761452P975390.panoz.websitewelcome.com,S
+0 1 19415536 199390 0 0
+/home2/canadavi/mail/.Drafts/dovecot.index.log
+0 1 19363088 240 0 0
+/home2/canadavi/mail/new/1656150761.M476552P619046.panoz.websitewelcome.com,S
+0 1 19379504 2388 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713882132.M459603P275368.panoz.websitewelcome.com,S
+0 1 19464304 391662 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715110619.M753292P712739.panoz.websitewelcome.com,S
+0 1 19465344 111407 0 0
+/home2/canadavi/etc/canadaviajes.com.py/belencardozo.rcube.db.1689316652
+0 1 19330848 360448 0 0
+/home2/canadavi/mail/new/1663428980.M58800P335657.panoz.websitewelcome.com,S
+0 1 19370176 2270 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715037261.M122825P723885.panoz.websitewelcome.com,S
+0 1 19458080 30235 0 0
+/home2/canadavi/etc/canadaviajes.com.py/evelinehiebert.rcube.db.1699947478
+0 2 19323536 745472 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712674531.M831158P317606.panoz.websitewelcome.com,S
+0 1 19462032 31634 0 0
+/home2/canadavi/.cpanel/datastore/AVAILABLE_APPLICATIONS_CACHE_es_x3
+0 1 0 27363 0 0
+/home2/canadavi/etc/canadaviajes.com.py/eventos.rcube.db.1688057276
+0 1 0 339968 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714670682.M348297P994506.panoz.websitewelcome.com,S
+0 1 19478864 3791 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715341513.M543411P228257.panoz.websitewelcome.com,S
+0 1 19475744 36402 0 0
+/home2/canadavi/etc/canadaviajes.com.py/contabilidad.rcube.db.1699947478
+0 2 19328720 704512 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713138666.M205428P171551.panoz.websitewelcome.com,S
+0 1 19404928 880580 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713967191.M775792P348924.panoz.websitewelcome.com,S
+0 1 19481360 34627 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Sent/dovecot.index.cache
+0 1 19399088 3112 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt5390642.log
+0 1 0 261 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.spam/maildirfolder
+0 1 0 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713551957.M2157P39618.panoz.websitewelcome.com,S
+0 1 19487792 1301149 0 0
+/home2/canadavi/etc/canadaviajes.com.py/belencardozo.rcube.db.1698475095
+0 1 19331360 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Archive/dovecot.index.cache
+0 1 19385408 692 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Archive/dovecot-uidlist
+0 1 19425888 52 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712521646.M677677P714286.panoz.websitewelcome.com,S
+0 1 19451024 39326 0 0
+/home2/canadavi/.cpanel/caches/config/_etc_sysconfig_authconfig___default
+0 1 19356208 378 0 0
+/home2/canadavi/mail/new/1646762951.M707459P547670.panoz.websitewelcome.com,S
+0 1 19378448 2308 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot.mailbox.log.2
+0 1 0 4104 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712602908.M964104P165108.panoz.websitewelcome.com,S
+0 1 19389824 757945 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715212776.M166640P651558.panoz.websitewelcome.com,S
+0 1 19406592 6376 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/eventos
+0 1 0 136 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714691326.M825304P611503.panoz.websitewelcome.com,S
+0 1 19474080 274483 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712790081.M396261P961372.panoz.websitewelcome.com,S
+0 1 19387536 27781 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas2.rcube.db.1690871868
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714775920.M788946P787337.panoz.websitewelcome.com,S
+0 1 19392320 1293917 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713643386.M154326P130747.panoz.websitewelcome.com,S
+0 1 19493344 33141 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712079323.M51385P976689.panoz.websitewelcome.com,S
+0 1 19459120 95313 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713209114.M36154P344046.panoz.websitewelcome.com,S
+0 1 19416368 19646 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_contabilidad@canadaviajes.com.py
+0 1 19351024 1 0 0
+/home2/canadavi/etc/canadaviajes.com.py/administracion.rcube.db
+0 1 0 401408 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715011437.M323045P908269.panoz.websitewelcome.com,S
+0 1 19458496 352062 0 0
+/home2/canadavi/etc/canadaviajes.com.py/administracion.rcube.db.1689316652
+0 1 19324864 364544 0 0
+/home2/canadavi/.spamassassinenable
+0 1 19307072 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Trash/dovecot-uidlist
+0 1 19385936 8409 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703015663.M85961P612079.panoz.websitewelcome.com,S
+0 1 19502416 87244 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/maildirsize
+0 1 0 2137 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ruthgomez.rcube.db.1688057281
+0 1 0 331776 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1716206889.M198552P1042773.panoz.websitewelcome.com,S
+0 1 19451648 111842 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas2.rcube.db.1696315090
+0 1 0 360448 0 0
+/home2/canadavi/mail/new/1662217035.M128821P892625.panoz.websitewelcome.com,S
+0 1 19365776 2274 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714179879.M686569P1006886.panoz.websitewelcome.com,S
+0 1 19437552 3164 0 0
+/home2/canadavi/mail/.Drafts/maildirfolder
+0 1 19362944 0 0 0
+/home2/canadavi/.ftpquota
+0 1 19305552 17 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715893063.M227873P605123.panoz.websitewelcome.com,S
+0 1 19404304 635948 0 0
+/home2/canadavi/mail/new/1539711724.M442454P579142.panoz.websitewelcome.com,S
+0 1 19376688 4544 0 0
+/home2/canadavi/mail/new/1644947576.M784550P874833.panoz.websitewelcome.com,S
+0 1 19371584 2316 0 0
+/home2/canadavi/etc/canadaviajes.com.py/administracion.rcube.db.1688057271
+0 1 19319264 323584 0 0
+/home2/canadavi/.cpanel/nvdata/contabilidad@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19344112 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715013206.M42193P975390.panoz.websitewelcome.com,S
+0 1 19405552 130883 0 0
+/home2/canadavi/.cpanel/datastore/AVAILABLE_APPLICATIONS_CACHE_es-419_paper_lantern
+0 1 19352336 36716 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas4.rcube.db.1688057286
+0 1 0 299008 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713624261.M187992P554255.panoz.websitewelcome.com,S
+0 1 19486752 99124 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas1.rcube.db.1688057282
+0 1 0 258048 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712871589.M273411P420264.panoz.websitewelcome.com,S
+0 1 19452272 3617 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Trash/dovecot.index.log
+0 1 19385760 17908 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Sent/cur/1688040474.M539723P937995.panoz.websitewelcome.com,S
+0 1 19400064 85016 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/administracion
+0 1 0 144 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713562828.M582885P416126.panoz.websitewelcome.com,S
+0 1 19433600 61724 0 0
+/home2/canadavi/etc/canadaviajes.com.py/belencardozo.rcube.db
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1713561924.M764050P393636.panoz.websitewelcome.com,S
+0 1 19387328 29445 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715696347.M748072P81104.panoz.websitewelcome.com,S
+0 1 19481776 60439 0 0
+/home2/canadavi/mail/new/1654528548.M388643P215268.panoz.websitewelcome.com,S
+0 1 19364544 2322 0 0
+/home2/canadavi/.cpanel/caches/filesys/~
+0 1 19358352 202 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714424760.M989573P333508.panoz.websitewelcome.com,S
+0 1 19492096 24713 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712258239.M691187P629365.panoz.websitewelcome.com,S
+0 1 19402848 783308 0 0
+/home2/canadavi/.lastlogin
+0 1 19306528 655 0 0
+/home2/canadavi/etc/canadaviajes.com.py/evelinehiebert.rcube.db.1689316652
+0 1 19321712 372736 0 0
+/home2/canadavi/.cpanel/caches/filesys/~.stat
+0 1 19357904 1 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas2.rcube.db.1689316652
+0 1 0 331776 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1686920414.M219270P1019032.panoz.websitewelcome.com,S
+0 1 19429280 120739 0 0
+/home2/canadavi/etc/canadaviajes.com.py/evelinehiebert.rcube.db.1698475095
+0 1 19317648 372736 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot.list.index
+0 1 0 1104 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715872924.M552152P192196.panoz.websitewelcome.com,S
+0 1 19416992 23994 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715628210.M659768P374230.panoz.websitewelcome.com,S
+0 1 19479904 58391 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715889963.M65291P356246.panoz.websitewelcome.com,S
+0 1 19480736 208103 0 0
+/home2/canadavi/etc/canadaviajes.com.py/julioingi.rcube.db.1696315090
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715202735.M127541P881293.panoz.websitewelcome.com,S
+0 1 19432976 1295993 0 0
+/home2/canadavi/.cpanel/caches/config/_etc_exim.conf.localopts___default
+0 1 19356576 1391 0 0
+/home2/canadavi/.cpanel/nvdata/ventas4@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19344304 1 0 0
+/home2/canadavi/mail/new/1714484183.M828500P392619.panoz.websitewelcome.com,S
+0 1 19372112 10015 0 0
+/home2/canadavi/mail/new/1647269187.M725440P1012799.panoz.websitewelcome.com,S
+0 1 19364896 2373 0 0
+/home2/canadavi/.cpanel/contactinfo
+0 1 19341056 480 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD773971.log
+0 1 0 274 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712751853.M779998P756839.panoz.websitewelcome.com,S
+0 1 19441264 445736 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Junk/dovecot-uidlist
+0 1 19398736 52 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712320061.M587115P648519.panoz.websitewelcome.com,S
+0 1 19470544 8182 0 0
+/home2/canadavi/.cpanel/datastore/_usr_bin_perl_-v
+0 1 19354736 568 0 0
+/home2/canadavi/.cpanel/nvdata/CSSS_cpanel_email_deliverability
+0 1 0 137 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713278003.M334542P566369.panoz.websitewelcome.com,S
+0 1 19417824 989506 0 0
+/home2/canadavi/mail/new/1671469216.M721831P584930.panoz.websitewelcome.com,S
+0 1 19364016 5854 0 0
+/home2/canadavi/mail/new/1652802686.M126881P259776.panoz.websitewelcome.com,S
+0 1 19364368 2413 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1712350286.M467159P1038872.panoz.websitewelcome.com,S
+0 1 19508240 528884 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Trash/dovecot.index.cache
+0 1 19500128 1140 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715009459.M192733P793202.panoz.websitewelcome.com,S
+0 1 19491088 29109 0 0
+/home2/canadavi/.cpanel/caches/dynamicui/jupiter_en_.cache
+0 1 0 54932 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715008339.M997017P793202.panoz.websitewelcome.com,S
+0 1 19402640 1713543 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712353814.M898050P91883.panoz.websitewelcome.com,S
+0 1 19450400 33769 0 0
+/home2/canadavi/.cpanel/datastore/Cpanel::PublicSuffix_default
+0 1 0 140080 0 0
+/home2/canadavi/.cpanel/nvdata/ventas3@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19344640 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712342954.M822812P741772.panoz.websitewelcome.com,S
+0 1 19445632 59503 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas1.rcube.db.1696315090
+0 1 0 364544 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715949752.M539514P949148.panoz.websitewelcome.com,S
+0 1 19471584 3900 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1709837852.M171443P60149.panoz.websitewelcome.com,S
+0 1 19506368 748486 0 0
+/home2/canadavi/mail/subscriptions
+0 1 19362400 13 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715336888.M449209P796446.panoz.websitewelcome.com,S
+0 1 19437968 64739 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1716132301.M818596P695355.panoz.websitewelcome.com,S
+0 1 19455392 4711 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713602344.M221900P819372.panoz.websitewelcome.com,S
+0 1 19450192 126185 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712242312.M314479P43915.panoz.websitewelcome.com,S
+0 1 19420320 126260 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712344540.M306717P823086.panoz.websitewelcome.com,S
+0 1 19440848 62456 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas2.rcube.db.1699947478
+0 2 0 720896 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/subscriptions
+0 1 0 43 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot.index
+0 1 0 1032 0 0
+/home2/canadavi/logs/roundcube/errors.log
+0 1 19360656 676150 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712257092.M136591P629365.panoz.websitewelcome.com,S
+0 1 19442720 16208 0 0
+/home2/canadavi/etc/canadaviajes.com.py/redessociales.rcube.db.1689316652
+0 1 19329888 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Junk/dovecot-uidlist
+0 1 19427120 52 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714333013.M926638P119240.panoz.websitewelcome.com,S
+0 1 19439600 6561 0 0
+/home2/canadavi/mail/new/1673372399.M281098P998389.panoz.websitewelcome.com,S
+0 1 19376512 5739 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714148332.M334765P967348.panoz.websitewelcome.com,S
+0 1 19457872 66018 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714501789.M381873P373447.panoz.websitewelcome.com,S
+0 1 19411792 47774 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715116257.M62630P908666.panoz.websitewelcome.com,S
+0 1 19392736 978104 0 0
+/home2/canadavi/etc/canadaviajes.com.py/fredymieres.rcube.db.1690871868
+0 1 0 376832 0 0
+/home2/canadavi/.cpanel/nvdata/ventas5@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19348720 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1711985232.M162069P532585.panoz.websitewelcome.com,S
+0 1 19451440 36507 0 0
+/home2/canadavi/.cpanel/nvdata/administracion@canadaviajes.com.py_default_webmail_app
+0 1 19345168 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712684552.M540856P652232.panoz.websitewelcome.com,S
+0 1 19393984 6032660 0 0
+/home2/canadavi/.cpanel/datastore/AVAILABLE_APPLICATIONS_CACHE_en_jupiter
+0 1 19349600 34451 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Drafts/dovecot-uidlist
+0 1 19498592 198 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715000410.M266635P541910.panoz.websitewelcome.com,S
+0 1 19392944 29652 0 0
+/home2/canadavi/.cpanel/caches/filesys/~home~canadavi.stat
+0 1 0 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1705345553.M903524P501809.panoz.websitewelcome.com,S
+0 1 19502832 214490 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas3.rcube.db
+0 1 0 356352 0 0
+/home2/canadavi/mail/new/1644947560.M417912P874833.panoz.websitewelcome.com,S
+0 1 19376160 2314 0 0
+/home2/canadavi/mail/new/1646762952.M364630P548340.panoz.websitewelcome.com,S
+0 1 19370000 2304 0 0
+/home2/canadavi/etc/canadaviajes.com.py/fredymieres.rcube.db.1698475095
+0 1 0 376832 0 0
+/home2/canadavi/etc/canadaviajes.com.py/passwd,v
+0 1 19318640 5280 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1687385491.M398362P706864.panoz.websitewelcome.com,S
+0 1 19428864 560 0 0
+/home2/canadavi/etc/canadaviajes.com.py/evelinehiebert.rcube.db.1688057275
+0 1 19329216 339968 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712242847.M515072P106382.panoz.websitewelcome.com,S
+0 1 19386496 976604 0 0
+/home2/canadavi/mail/new/1656150898.M885350P619046.panoz.websitewelcome.com,S
+0 1 19381440 2385 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713460847.M658733P726944.panoz.websitewelcome.com,S
+0 1 19408464 11079 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas1.rcube.db.1689316652
+0 1 0 335872 0 0
+/home2/canadavi/.cpanel/datastore/all_iplist.db
+0 1 19353008 696 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712925692.M541993P31322.panoz.websitewelcome.com,S
+0 1 19473664 240272 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Trash/dovecot.index.log
+0 1 19426416 11032 0 0
+/home2/canadavi/.cpanel/datastore/Cpanel::SPF::Include_default
+0 1 0 26 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_ventas2@canadaviajes.com.py
+0 1 0 7 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot-uidlist
+0 1 0 26101 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714494961.M329500P1031020.panoz.websitewelcome.com,S
+0 1 19487168 58966 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1710260507.M694399P40690.panoz.websitewelcome.com,S
+0 1 19502624 166929 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714050273.M607305P378735.panoz.websitewelcome.com,S
+0 1 19391696 29097 0 0
+/home2/canadavi/.cpanel/datastore/ports_GETSSHPORT
+0 1 19349920 2 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712160326.M914052P333842.panoz.websitewelcome.com,S
+0 1 19456432 36498 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712694574.M869148P1010986.panoz.websitewelcome.com,S
+0 1 19388160 29128 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716041620.M974089P885204.panoz.websitewelcome.com,S
+0 1 19390032 1295240 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712060974.M820109P73653.panoz.websitewelcome.com,S
+0 1 19456224 57442 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/dovecot.index.log
+0 1 19427296 2988 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712694713.M795464P1012599.panoz.websitewelcome.com,S
+0 1 19454144 92057 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712331658.M355214P160003.panoz.websitewelcome.com,S
+0 1 19436304 7280 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714434093.M210045P670541.panoz.websitewelcome.com,S
+0 1 19390240 978152 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712697637.M730846P43558.panoz.websitewelcome.com,S
+0 1 19395232 28134 0 0
+/home2/canadavi/etc/canadaviajes.com.py/quota,v
+0 1 19315888 7512 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714139973.M258033P667569.panoz.websitewelcome.com,S
+0 1 19480112 32735 0 0
+/home2/canadavi/.cpanel/nvdata/administracion@canadaviajes.com.py_webmailclient
+0 1 19347248 6 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712688844.M115391P802051.panoz.websitewelcome.com,S
+0 1 19490064 139200 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas5.rcube.db
+0 1 0 368640 0 0
+/home2/canadavi/mail/.Trash/dovecot-uidlist
+0 1 19363520 52 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712599735.M558552P48331.panoz.websitewelcome.com,S
+0 1 19479280 50397 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712005637.M915128P375652.panoz.websitewelcome.com,S
+0 1 19407216 718302 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715973274.M898865P722036.panoz.websitewelcome.com,S
+0 1 19418240 18355 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714787575.M466807P545605.panoz.websitewelcome.com,S
+0 1 19489648 39365 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1716221617.M837511P644440.panoz.websitewelcome.com,S
+0 1 19483648 56943 0 0
+/home2/canadavi/etc/canadaviajes.com.py/administracion.rcube.db.1696315090
+0 1 19324048 393216 0 0
+/home2/canadavi/mail/dovecot.index.cache
+0 1 19362800 48632 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715620346.M253698P74560.panoz.websitewelcome.com,S
+0 1 19423232 21776 0 0
+/home2/canadavi/.cpanel/caches/config/_home_canadavi_.spamassassin_user_prefs___1800960038
+0 1 19356016 24 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot.index
+0 1 0 10272 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712994359.M588854P54151.panoz.websitewelcome.com,S
+0 1 19458704 126560 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713885202.M325498P380293.panoz.websitewelcome.com,S
+0 1 19433392 48574 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713366167.M571123P528987.panoz.websitewelcome.com,S
+0 1 19464720 28370 0 0
+/home2/canadavi/mail/dovecot.list.index
+0 1 19362528 2168 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot-uidlist
+0 1 0 4893 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712774233.M17934P467757.panoz.websitewelcome.com,S
+0 1 19453520 41062 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712921253.M666567P909369.panoz.websitewelcome.com,S
+0 1 19461824 57682 0 0
+/home2/canadavi/mail/new/1661976626.M713523P260895.panoz.websitewelcome.com,S
+0 1 19368768 2274 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714227593.M884424P747348.panoz.websitewelcome.com,S
+0 1 19472832 123793 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712752740.M785486P779449.panoz.websitewelcome.com,S
+0 1 19420944 113654 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715721299.M510435P705545.panoz.websitewelcome.com,S
+0 1 19436720 49002 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712238289.M820686P787564.panoz.websitewelcome.com,S
+0 1 19432144 2104752 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713354474.M21345P36151.panoz.websitewelcome.com,S
+0 1 19438384 57304 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot-acl-list
+0 1 0 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714435945.M132617P700650.panoz.websitewelcome.com,S
+0 1 19414080 210277 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712677991.M863642P396627.panoz.websitewelcome.com,S
+0 1 19388576 976338 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716042110.M388359P929555.panoz.websitewelcome.com,S
+0 1 19398144 977965 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712839606.M637245P470185.panoz.websitewelcome.com,S
+0 1 19470752 33004 0 0
+/home2/canadavi/.cpanel/quickinstall/.been_here
+0 1 19359904 16 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714053595.M65242P511775.panoz.websitewelcome.com,S
+0 1 19482192 34725 0 0
+/home2/canadavi/etc/canadaviajes.com.py/canada.viajes.rcube.db.1690871868
+0 1 19313552 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715897880.M324427P847996.panoz.websitewelcome.com,S
+0 1 19469712 63704 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712173976.M722206P928240.panoz.websitewelcome.com,S
+0 1 19446048 129477 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713912179.M77755P356007.panoz.websitewelcome.com,S
+0 1 19406384 369454 0 0
+/home2/canadavi/.cpanel/filter.cache
+0 1 19338080 204 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713360530.M903749P319659.panoz.websitewelcome.com,S
+0 1 19420112 38325 0 0
+/home2/canadavi/.cpanel/datastore/mysql-db-count
+0 1 19351712 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714678129.M925439P196365.panoz.websitewelcome.com,S
+0 1 19479072 1918969 0 0
+/home2/canadavi/mail/new/1646842286.M272758P93653.panoz.websitewelcome.com,S
+0 1 19375456 2330 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712673829.M566139P303435.panoz.websitewelcome.com,S
+0 1 19415952 118275 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Drafts/dovecot.index.log
+0 1 19498416 15232 0 0
+/home2/canadavi/mail/new/1666638249.M702019P944213.panoz.websitewelcome.com,S
+0 1 19370352 5842 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt1543164.log
+0 1 0 262 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712818017.M156804P844026.panoz.websitewelcome.com,S
+0 1 19440016 39305 0 0
+/home2/canadavi/.cpanel/nvdata/eventos@canadaviajes.com.py_default_webmail_app
+0 1 19349072 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713381745.M18170P8758.panoz.websitewelcome.com,S
+0 1 19485728 18233 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot-uidvalidity.645bc124
+0 1 19382976 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715169844.M222295P688174.panoz.websitewelcome.com,S
+0 1 19485520 31804 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713880789.M741299P220702.panoz.websitewelcome.com,S
+0 1 19456016 34738 0 0
+/home2/canadavi/mail/new/1651440032.M786393P1047302.panoz.websitewelcome.com,S
+0 1 19379152 2374 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1651261923.M929293P95358.panoz.websitewelcome.com,S
+0 1 19510112 1298 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715417509.M777385P391819.panoz.websitewelcome.com,S
+0 1 19437760 57933 0 0
+/home2/canadavi/mail/new/1714484185.M439809P392619.panoz.websitewelcome.com,S
+0 1 19365600 10001 0 0
+/home2/canadavi/.cpanel/caches/filesys/___home___canadavi.stat
+0 1 0 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot-uidvalidity
+0 1 0 8 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714771506.M159541P633829.panoz.websitewelcome.com,S
+0 1 19466176 81039 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714029152.M534981P545121.panoz.websitewelcome.com,S
+0 1 19480320 39296 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/fredymieres
+0 1 0 141 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714495029.M731341P1031020.panoz.websitewelcome.com,S
+0 1 19466384 154475 0 0
+/home2/canadavi/mail/new/1684205268.M46748P338070.panoz.websitewelcome.com,S
+0 1 19379328 3246 0 0
+/home2/canadavi/.bash_profile
+0 1 19305920 188 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712867550.M897490P289452.panoz.websitewelcome.com,S
+0 1 19444592 59359 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.spam/dovecot-uidlist
+0 1 19424832 52 0 0
+/home2/canadavi/.filter
+0 1 19305680 49 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Archive/dovecot.index.cache
+0 1 19426064 692 0 0
+/home2/canadavi/.cpanel/datastore/apache_FETCHTYPES
+0 1 19354880 669 0 0
+/home2/canadavi/mail/new/1652271116.M409374P397498.panoz.websitewelcome.com,S
+0 1 19373344 2484 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712001223.M905585P251743.panoz.websitewelcome.com,S
+0 1 19475120 33708 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712911296.M395803P609371.panoz.websitewelcome.com,S
+0 1 19473872 61054 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713563567.M493482P416126.panoz.websitewelcome.com,S
+0 1 19489024 439566 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713035507.M505166P269934.panoz.websitewelcome.com,S
+0 1 19457456 10737 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1716026483.M289290P370638.panoz.websitewelcome.com,S
+0 1 19423024 31325 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712320111.M921498P648519.panoz.websitewelcome.com,S
+0 1 19456832 8304 0 0
+/home2/canadavi/mail/new/1662496900.M872697P383299.panoz.websitewelcome.com,S
+0 1 19367008 2306 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot-uidvalidity
+0 1 19402080 8 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713633585.M750965P877104.panoz.websitewelcome.com,S
+0 1 19495152 39322 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Archive/dovecot.index.log
+0 1 19425712 384 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712139550.M725749P506343.panoz.websitewelcome.com,S
+0 1 19496816 14906 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714758750.M996812P129471.panoz.websitewelcome.com,S
+0 1 19443552 73268 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714761399.M880015P295232.panoz.websitewelcome.com,S
+0 1 19490464 123564 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1715287899.M39921P826641.panoz.websitewelcome.com,S
+0 1 19507616 237847 0 0
+/home2/canadavi/ssl/keys/ab6e4_e631f_a52b5328ab78bfb3073846e3b2db870b.key
+0 1 19308704 1674 0 0
+/home2/canadavi/.cpanel/nvdata/ventas2@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19348368 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715174110.M506863P880502.panoz.websitewelcome.com,S
+0 1 19396064 978114 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/dovecot.index.cache
+0 1 19501824 4328 0 0
+/home2/canadavi/mail/new/1715862938.M533418P698818.panoz.websitewelcome.com,S
+0 1 19374752 10169 0 0
+/home2/canadavi/etc/canadaviajes.com.py/fredymieres.rcube.db
+0 1 0 376832 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1716164713.M809088P613056.panoz.websitewelcome.com,S
+0 1 19422608 7928 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas4.rcube.db
+0 1 0 348160 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714317422.M873696P630110.panoz.websitewelcome.com,S
+0 1 19486960 669253 0 0
+/home2/canadavi/.cpanel/ducache
+0 1 19339728 27066 0 0
+/home2/canadavi/mail/new/1671110905.M493467P26986.panoz.websitewelcome.com,S
+0 1 19367888 6023 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715096580.M897099P221812.panoz.websitewelcome.com,S
+0 1 19491296 21425 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Trash/dovecot-uidlist
+0 1 0 206 0 0
+/home2/canadavi/etc/canadaviajes.com.py/redessociales.rcube.db.1690871868
+0 1 19321536 368640 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD8145318.log
+0 1 0 263 0 0
+/home2/canadavi/mail/new/1654092154.M634024P113576.panoz.websitewelcome.com,S
+0 1 19378624 3676 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703189083.M595029P1002266.panoz.websitewelcome.com,S
+0 1 19508448 7048025 0 0
+/home2/canadavi/.sqmailattach/s4i2t0o5kFxASimFiKmDDZ87Td5vEBD9
+0 1 0 144 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714411947.M648212P934880.panoz.websitewelcome.com,S
+0 1 19416576 309699 0 0
+/home2/canadavi/etc/canadaviajes.com.py/evelinehiebert.rcube.db
+0 1 0 372736 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715169545.M483035P673997.panoz.websitewelcome.com,S
+0 1 19409088 41874 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715975396.M980025P779506.panoz.websitewelcome.com,S
+0 1 19416784 195897 0 0
+/home2/canadavi/.htaccess.phpupgrader.3b00ee08
+0 1 19306784 141 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715899088.M563827P875500.panoz.websitewelcome.com,S
+0 1 19484896 137773 0 0
+/home2/canadavi/mail/new/1654102612.M599096P505643.panoz.websitewelcome.com,S
+0 1 19367184 2248 0 0
+/home2/canadavi/.cpanel/caches/filesys/~home~canadavi
+0 1 19357600 239 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703165381.M269995P287041.panoz.websitewelcome.com,S
+0 1 19511568 640057 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715620347.M257813P90001.panoz.websitewelcome.com,S
+0 1 19485312 21616 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715625258.M465909P275516.panoz.websitewelcome.com,S
+0 1 19476992 38689 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712705938.M793960P322908.panoz.websitewelcome.com,S
+0 1 19397520 1111911 0 0
+/home2/canadavi/.cpanel/datastore/_usr_local_cpanel_bin_quota_canadavi
+0 1 0 550 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/subscriptions
+0 1 0 50 0 0
+/home2/canadavi/etc/canadaviajes.com.py/gerencia.rcube.db.1699947478
+0 2 0 712704 0 0
+/home2/canadavi/mail/new/1646762951.M716786P548340.panoz.websitewelcome.com,S
+0 1 19370528 2306 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/webmaster
+0 1 0 138 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714408686.M959302P802757.panoz.websitewelcome.com,S
+0 1 19410336 135299 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712849101.M806742P778138.panoz.websitewelcome.com,S
+0 1 19413664 20050 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Trash/dovecot-uidlist
+0 1 19426592 42597 0 0
+/home2/canadavi/etc/ftpquota
+0 1 19313424 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714655128.M44223P227424.panoz.websitewelcome.com,S
+0 1 19477824 57531 0 0
+/home2/canadavi/.cpanel/nvdata/_frontend_jupiter_stats_lastvisit.html
+0 1 0 108 0 0
+/home2/canadavi/.cpanel/nvdata/ignorecharencoding
+0 1 19346448 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712757647.M5323P952151.panoz.websitewelcome.com,S
+0 1 19491696 7312 0 0
+/home2/canadavi/.cpanel/nvdata/ventas2@canadaviajes.com.py_default_webmail_app
+0 1 19346592 9 0 0
+/home2/canadavi/.cpanel/datastore/ftp_LISTSTORE
+0 1 19354096 535 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715121405.M387740P20997.panoz.websitewelcome.com,S
+0 1 19411584 644187 0 0
+/home2/canadavi/mail/new/1684205281.M874883P338070.panoz.websitewelcome.com,S
+0 1 19369648 3241 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/ruthgomez
+0 1 0 75 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712606427.M751187P279958.panoz.websitewelcome.com,S
+0 1 19424064 53000 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_eventos@canadaviajes.com.py
+0 1 0 6 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.spam/dovecot-uidlist
+0 1 0 52 0 0
+/home2/canadavi/.emacs
+0 1 19306048 520 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715097549.M823519P221812.panoz.websitewelcome.com,S
+0 1 19413040 43976 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712090409.M938930P409556.panoz.websitewelcome.com,S
+0 1 19397104 27737 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714152843.M335126P64055.panoz.websitewelcome.com,S
+0 1 19421984 19539 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713960177.M120134P65525.panoz.websitewelcome.com,S
+0 1 19412208 46048 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715863590.M940498P769956.panoz.websitewelcome.com,S
+0 1 19417616 3716 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1701950815.M524738P503750.panoz.websitewelcome.com,S
+0 1 19506576 295091 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703613936.M285138P755610.panoz.websitewelcome.com,S
+0 1 19506160 11945606 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712586303.M248552P659928.panoz.websitewelcome.com,S
+0 1 19413248 31279 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715887924.M933189P231242.panoz.websitewelcome.com,S
+0 1 19476368 52562 0 0
+/home2/canadavi/.bashrc
+0 1 19306160 132 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713379030.M668127P967139.panoz.websitewelcome.com,S
+0 1 19483856 38691 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712923588.M788642P981437.panoz.websitewelcome.com,S
+0 1 19475952 56530 0 0
+/home2/canadavi/.cpanel/nvdata/belencardozo@canadaviajes.com.py_default_webmail_app
+0 1 19346768 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712706008.M304510P322908.panoz.websitewelcome.com,S
+0 1 19393152 976687 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714832658.M810895P344330.panoz.websitewelcome.com,S
+0 1 19478448 30094 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712952472.M46678P874216.panoz.websitewelcome.com,S
+0 1 19410752 1185954 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713209668.M170862P344046.panoz.websitewelcome.com,S
+0 1 19462448 321779 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712151739.M609809P57640.panoz.websitewelcome.com,S
+0 1 19470336 3081 0 0
+/home2/canadavi/.htaccess.phpupgrader.317e0753
+0 1 19304928 143 0 0
+/home2/canadavi/etc/canadaviajes.com.py/administracion.rcube.db.1698475095
+0 1 19328048 393216 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714062314.M923381P848148.panoz.websitewelcome.com,S
+0 1 19411376 49382 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas3.rcube.db.1699947478
+0 2 0 712704 0 0
+/home2/canadavi/.cpanel/fileupload-zFqhOsTyfOEoh0is7914232.log
+0 1 0 201 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ruthgomez.rcube.db.1698475096
+0 1 0 360448 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt3468771.log
+0 1 0 262 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD5234171.log
+0 1 0 266 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot.index.log
+0 1 19382304 24244 0 0
+/home2/canadavi/.cpanel/nvdata/defaultdir
+0 1 19345488 15 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas2.rcube.db.1688057283
+0 1 0 258048 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714333018.M56097P119240.panoz.websitewelcome.com,S
+0 1 19471168 8223 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715096516.M314492P221812.panoz.websitewelcome.com,S
+0 1 19478032 25709 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713793468.M307075P3702.panoz.websitewelcome.com,S
+0 1 19463904 57887 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712598818.M624643P353.panoz.websitewelcome.com,S
+0 1 19490272 27986 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714415615.M508721P9717.panoz.websitewelcome.com,S
+0 1 19392112 29064 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD2238776.log
+0 1 0 285 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas2.rcube.db
+0 1 0 372736 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716040992.M961757P885122.panoz.websitewelcome.com,S
+0 1 19396688 1294268 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713279686.M794965P625335.panoz.websitewelcome.com,S
+0 1 19454976 5640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712246557.M270803P265659.panoz.websitewelcome.com,S
+0 1 19455184 9825 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714484831.M390777P423352.panoz.websitewelcome.com,S
+0 1 19446256 6574 0 0
+/home2/canadavi/mail/new/1557918039.M777438P312253.panoz.websitewelcome.com,S
+0 1 19377568 2566 0 0
+/home2/canadavi/.cpanel/caches/dynamicui/jupiter_es-419_.cache
+0 1 0 57772 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712602960.M736456P165085.panoz.websitewelcome.com,S
+0 1 19472416 9577 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Trash/dovecot.index
+0 1 0 416 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715202731.M649810P881293.panoz.websitewelcome.com,S
+0 1 19492720 1296431 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas5.rcube.db.1696315090
+0 1 0 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715800110.M465053P749375.panoz.websitewelcome.com,S
+0 1 19414496 7574 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715169544.M705620P673997.panoz.websitewelcome.com,S
+0 1 19419696 73824 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_webmaster@canadaviajes.com.py
+0 1 19353312 3 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713358688.M618773P213058.panoz.websitewelcome.com,S
+0 1 19496608 354234 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/dovecot.index.cache
+0 1 19427648 7748 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Archive/dovecot.index.log
+0 1 19385056 384 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Trash/dovecot.index
+0 1 19426240 360 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714312990.M29163P484075.panoz.websitewelcome.com,S
+0 1 19436928 22008 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas4.rcube.db.1690871868
+0 1 0 344064 0 0
+/home2/canadavi/etc/canadaviajes.com.py/contabilidad.rcube.db.1696315090
+0 1 19315216 348160 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_ventas1@canadaviajes.com.py
+0 1 0 8 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714430513.M816214P515852.panoz.websitewelcome.com,S
+0 1 19404720 215373 0 0
+/home2/canadavi/etc/canadaviajes.com.py/contabilidad.rcube.db.1689316652
+0 1 19326768 348160 0 0
+/home2/canadavi/mail/new/1659733986.M926015P549293.panoz.websitewelcome.com,S
+0 1 19377040 2371 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt7401775.log
+0 1 0 262 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712843984.M376365P597717.panoz.websitewelcome.com,S
+0 1 19495776 32698 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714676663.M595108P128453.panoz.websitewelcome.com,S
+0 1 19463072 57531 0 0
+/home2/canadavi/etc/canadaviajes.com.py/canada.viajes.rcube.db.1698475095
+0 1 19322224 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1711646969.M256077P1030308.panoz.websitewelcome.com,S
+0 1 19467216 90161 0 0
+/home2/canadavi/.cpanel/nvdata/canada.viajes@canadaviajes.com.py_default_webmail_app
+0 1 19343280 9 0 0
+/home2/canadavi/mail/new/1644947565.M884568P874833.panoz.websitewelcome.com,S
+0 1 19367536 2311 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714066558.M646554P990896.panoz.websitewelcome.com,S
+0 1 19438176 57739 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/belencardozo
+0 1 0 142 0 0
+/home2/canadavi/.cpanel/datastore/reseller_SORTEDRESELLERSUSERS_canadavi
+0 1 19350704 203 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot.index.log
+0 1 0 20384 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/redessociales
+0 1 0 142 0 0
+/home2/canadavi/mail/new/1667239757.M755670P206944.panoz.websitewelcome.com,S
+0 1 19372288 5843 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713912217.M839453P356007.panoz.websitewelcome.com,S
+0 1 19407008 2550368 0 0
+/home2/canadavi/.cpanel/nvdata/evelinehiebert@canadaviajes.com.py_default_webmail_app
+0 1 19348544 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713296538.M902344P98174.panoz.websitewelcome.com,S
+0 1 19438976 725953 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_ventas4@canadaviajes.com.py
+0 1 0 6 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712242124.M545264P43915.panoz.websitewelcome.com,S
+0 1 19417408 8955 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1709573957.M668085P953947.panoz.websitewelcome.com,S
+0 1 19511152 86826 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Archive/dovecot.index.cache
+0 1 19499456 676 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/dovecot-uidvalidity.52a5a199
+0 1 19430128 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712169631.M5968P826852.panoz.websitewelcome.com,S
+0 1 19494352 72447 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714494321.M42024P994950.panoz.websitewelcome.com,S
+0 1 19483440 122936 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Trash/dovecot.index
+0 1 19385584 1008 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715712336.M686679P268145.panoz.websitewelcome.com,S
+0 1 19455808 39147 0 0
+/home2/canadavi/mail/new/1641320692.M954734P396900.panoz.websitewelcome.com,S
+0 1 19376864 2257 0 0
+/home2/canadavi/etc/canadaviajes.com.py/belencardozo.rcube.db.1690871868
+0 1 19333152 360448 0 0
+/home2/canadavi/logs/roundcube/sendmail
+0 1 19360800 161 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD5385903.log
+0 1 0 277 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Drafts/dovecot.index.cache
+0 1 19425360 452 0 0
+/home2/canadavi/etc/canadaviajes.com.py/evelinehiebert.rcube.db.1696315090
+0 1 19321888 372736 0 0
+/home2/canadavi/.cpanel/datastore/SYSTEMMIME
+0 1 19350880 27929 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715099614.M883491P362679.panoz.websitewelcome.com,S
+0 1 19448336 229338 0 0
+/home2/canadavi/etc/canadaviajes.com.py/redessociales.rcube.db.1688057280
+0 1 19313888 327680 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1715087577.M754673P985696.panoz.websitewelcome.com,S
+0 1 19509072 2048 0 0
+/home2/canadavi/.cpanel/datastore/AVAILABLE_APPLICATIONS_CACHE_es-419_jupiter
+0 1 19354400 36243 0 0
+/home2/canadavi/etc/canadaviajes.com.py/administracion.rcube.db.1699947478
+0 2 19314384 786432 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714831423.M782140P344330.panoz.websitewelcome.com,S
+0 1 19472208 21464 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas4.rcube.db.1698475096
+0 1 0 344064 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/dovecot-acl-list
+0 1 19381792 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713365499.M468394P489372.panoz.websitewelcome.com,S
+0 1 19449568 34636 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714732102.M495910P57292.panoz.websitewelcome.com,S
+0 1 19489856 64167 0 0
+/home2/canadavi/.bash_logout
+0 1 19306656 20 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/subscriptions
+0 1 0 43 0 0
+/home2/canadavi/ssl/certs/_wildcard__canadaviajes_com_py_c90da_82823_1719983563_d86b1039e749ee9f4f045d8bfd96b0c1.crt
+0 1 19308144 1808 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714053669.M961723P516628.panoz.websitewelcome.com,S
+0 1 19437136 34961 0 0
+/home2/canadavi/etc/canadaviajes.com.py/redessociales.rcube.db.1699947478
+0 2 19314880 737280 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712602974.M178627P165113.panoz.websitewelcome.com,S
+0 1 19475328 14418 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1700652639.M725651P517363.panoz.websitewelcome.com,S
+0 1 19504080 87946 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713920031.M590684P631962.panoz.websitewelcome.com,S
+0 1 19407632 281294 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714420838.M430225P208960.panoz.websitewelcome.com,S
+0 1 19394400 28977 0 0
+/home2/canadavi/etc/canadaviajes.com.py/belencardozo.rcube.db.1696315090
+0 1 19322560 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Sent/dovecot-uidlist
+0 1 19399264 333 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Junk/dovecot.index.log
+0 1 19500832 240 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712579733.M128915P447025.panoz.websitewelcome.com,S
+0 1 19396272 60948 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715009436.M315148P856929.panoz.websitewelcome.com,S
+0 1 19442512 28547 0 0
+/home2/canadavi/.cpanel/caches/statcache_persistant
+0 1 19355504 855 0 0
+/home2/canadavi/mail/new/1674221624.M315486P344057.panoz.websitewelcome.com,S
+0 1 19378272 2869 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712166505.M700109P653572.panoz.websitewelcome.com,S
+0 1 19489440 33772 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714593911.M560343P106031.panoz.websitewelcome.com,S
+0 1 19435056 33151 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Junk/maildirfolder
+0 1 0 0 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Sent/dovecot.index.log
+0 1 19398912 1468 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712274420.M417794P302786.panoz.websitewelcome.com,S
+0 1 19446880 12115 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1710260591.M982494P46629.panoz.websitewelcome.com,S
+0 1 19502208 167050 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712756900.M97546P925904.panoz.websitewelcome.com,S
+0 1 19460784 81174 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715003843.M450057P660356.panoz.websitewelcome.com,S
+0 1 19403472 113663 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712765741.M591145P159204.panoz.websitewelcome.com,S
+0 1 19473456 1504348 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714659979.M500154P358737.panoz.websitewelcome.com,S
+0 1 19453936 23864 0 0
+/home2/canadavi/etc/canadaviajes.com.py/gerencia.rcube.db.1689316652
+0 1 0 352256 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712689484.M607408P838999.panoz.websitewelcome.com,S
+0 1 19408880 62242 0 0
+/home2/canadavi/.cpanel/nvdata/eventos@canadaviajes.com.py_hideUserPreferencesOverlay
+0 1 19344816 1 0 0
+/home2/canadavi/.cpanel/caches/config/_etc_cpanel_ea4_paths.conf___default_equal_space_seperated_config
+0 1 19356384 724 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713551941.M482810P39618.panoz.websitewelcome.com,S
+0 1 19468048 1297844 0 0
+/home2/canadavi/etc/canadaviajes.com.py/julioingi.rcube.db
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Sent/cur/1687386999.M983108P751827.panoz.websitewelcome.com,S
+0 1 19429072 557 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715173474.M128039P816084.panoz.websitewelcome.com,S
+0 1 19388784 30246 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712077206.M927313P842685.panoz.websitewelcome.com,S
+0 1 19461408 122418 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714183055.M175187P66820.panoz.websitewelcome.com,S
+0 1 19460160 39274 0 0
+/home2/canadavi/etc/canadaviajes.com.py/fredymieres.rcube.db.1688057277
+0 1 0 344064 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt1068112.log
+0 1 0 262 0 0
+/home2/canadavi/.cpanel/nvdata/hide_horde_deprecation_banner
+0 1 0 1 0 0
+/home2/canadavi/mail/new/1656812007.M25556P501740.panoz.websitewelcome.com,S
+0 1 19368944 2331 0 0
+/home2/canadavi/.cpanel/caches/dynamicui/paper_lantern_es_.cache
+0 1 0 51137 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712611933.M574876P437670.panoz.websitewelcome.com,S
+0 1 19451232 14318 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712239636.M792553P877072.panoz.websitewelcome.com,S
+0 1 19466800 7306 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas1.rcube.db.1698475096
+0 1 0 364544 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715179531.M85914P25243.panoz.websitewelcome.com,S
+0 1 19494752 48535 0 0
+/home2/canadavi/mail/new/1648037519.M444469P758214.panoz.websitewelcome.com,S
+0 1 19371760 2420 0 0
+/home2/canadavi/mail/dovecot.index.log
+0 1 19361600 25908 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712246603.M946666P265659.panoz.websitewelcome.com,S
+0 1 19481568 8293 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715280016.M230760P269237.panoz.websitewelcome.com,S
+0 1 19478240 34786 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Drafts/dovecot.index
+0 1 0 360 0 0
+/home2/canadavi/.cpanel/nvdata/contabilidad@canadaviajes.com.py_default_webmail_app
+0 1 19347424 9 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712267317.M929117P88937.panoz.websitewelcome.com,S
+0 1 19394816 27732 0 0
+/home2/canadavi/mail/new/1670687015.M513152P325654.panoz.websitewelcome.com,S
+0 1 19364720 5745 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715179522.M740983P1036141.panoz.websitewelcome.com,S
+0 1 19404096 121408 0 0
+/home2/canadavi/.cpanel/caches/config/_etc_domainips___default_colon_with_one_space
+0 1 19355840 146 0 0
+/home2/canadavi/.cpanel/caches/config/_etc_trueuserowners___default_colon_with_one_space
+0 1 19355648 16109 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712767283.M595778P246117.panoz.websitewelcome.com,S
+0 1 19442928 126421 0 0
+/home2/canadavi/etc/canadaviajes.com.py/julioingi.rcube.db.1698475095
+0 1 0 360448 0 0
+/home2/canadavi/logs/roundcube/sendmail.log
+0 1 19360928 2415 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714485749.M735039P456396.panoz.websitewelcome.com,S
+0 1 19476784 33122 0 0
+/home2/canadavi/.cpanel/nvdata/closedSpotlights
+0 1 19347920 20 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_administracion@canadaviajes.com.py
+0 1 19351200 6 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714432994.M176243P632063.panoz.websitewelcome.com,S
+0 1 19387952 1295520 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/.Junk/dovecot.index.log
+0 1 19398560 40 0 0
+/home2/canadavi/etc/canadaviajes.com.py/fredymieres.rcube.db.1696315090
+0 1 0 376832 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715269094.M810432P885232.panoz.websitewelcome.com,S
+0 1 19423648 35881 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1700652139.M580362P497962.panoz.websitewelcome.com,S
+0 1 19511360 95045 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD269182.log
+0 1 0 212 0 0
+/home2/canadavi/.cpanel/fileupload-aIPP2QK0SzCIerfj3517992.log
+0 1 0 261 0 0
+/home2/canadavi/etc/canadaviajes.com.py/gerencia.rcube.db.1690871868
+0 1 0 352256 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715865570.M686483P893946.panoz.websitewelcome.com,S
+0 1 19487376 203920 0 0
+/home2/canadavi/.cpanel/nvdata.cache
+0 1 19342448 382 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Trash/dovecot.index.log
+0 1 19499792 31208 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712869876.M832887P371044.panoz.websitewelcome.com,S
+0 1 19474912 49717 0 0
+/home2/canadavi/.cpanel/nvdata/x3_gettingstarted
+0 1 19343632 7 0 0
+/home2/canadavi/mail/new/1646762951.M523457P547670.panoz.websitewelcome.com,S
+0 1 19368592 2300 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712268035.M139326P112226.panoz.websitewelcome.com,S
+0 1 19436512 64317 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715287887.M58660P796682.panoz.websitewelcome.com,S
+0 1 19414704 230910 0 0
+/home2/canadavi/mail/new/1646763073.M184313P578492.panoz.websitewelcome.com,S
+0 1 19365424 2310 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712872588.M435044P442346.panoz.websitewelcome.com,S
+0 1 19474496 352652 0 0
+/home2/canadavi/mail/new/1660254761.M903316P733690.panoz.websitewelcome.com,S
+0 1 19373696 2281 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas2.rcube.db.1698475096
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712065807.M908759P359809.panoz.websitewelcome.com,S
+0 1 19471376 33771 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712619822.M108115P684658.panoz.websitewelcome.com,S
+0 1 19462864 53375 0 0
+/home2/canadavi/mail/new/1671492120.M692016P371353.panoz.websitewelcome.com,S
+0 1 19380912 6004 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712677648.M887289P426686.panoz.websitewelcome.com,S
+0 1 19420736 120740 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/dovecot.index
+0 1 0 2736 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas3.rcube.db.1698475096
+0 1 0 352256 0 0
+/home2/canadavi/.cpanel/datastore/AVAILABLE_APPLICATIONS_CACHE_en_paper_lantern
+0 1 19351536 35115 0 0
+/home2/canadavi/logs/roundcube/carddav.log
+0 1 19360512 5811 0 0
+/home2/canadavi/mail/new/1646842272.M6745P89846.panoz.websitewelcome.com,S
+0 1 19371408 2336 0 0
+/home2/canadavi/.cpanel/datastore/ftp_LISTSTORE_0
+0 1 19350224 341 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715287897.M13818P796682.panoz.websitewelcome.com,S
+0 1 19417200 238526 0 0
+/home2/canadavi/mail/dovecot-uidlist
+0 1 19362272 10938 0 0
+/home2/canadavi/.cpanel/fileupload-DmfLh0y1RiaFcQZy361120.log
+0 1 0 208 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712351667.M9813P23354.panoz.websitewelcome.com,S
+0 1 19394608 60941 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715162854.M188032P448830.panoz.websitewelcome.com,S
+0 1 19464928 123131 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713896259.M585694P795666.panoz.websitewelcome.com,S
+0 1 19432768 122286 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712068778.M46927P463703.panoz.websitewelcome.com,S
+0 1 19416160 3604 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713449348.M912392P337138.panoz.websitewelcome.com,S
+0 1 19420528 95410 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715025256.M88609P320953.panoz.websitewelcome.com,S
+0 1 19406176 22125 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715104782.M871916P503859.panoz.websitewelcome.com,S
+0 1 19468464 26143 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1712342287.M67523P699950.panoz.websitewelcome.com,S
+0 1 19505120 95165 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716041653.M463977P885204.panoz.websitewelcome.com,S
+0 1 19391488 1294274 0 0
+/home2/canadavi/.cpanel/nvdata/CSSS_cpanel_domains
+0 1 19348064 137 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1699044443.M951583P812845.panoz.websitewelcome.com,S
+0 1 19507824 13878 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715268833.M915996P934109.panoz.websitewelcome.com,S
+0 1 19467840 19830 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1715287890.M406983P826641.panoz.websitewelcome.com,S
+0 1 19505952 230243 0 0
+/home2/canadavi/.cpanel/backup_status
+0 1 19337504 168 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715674487.M188328P8181.panoz.websitewelcome.com,S
+0 1 19493744 58039 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714566581.M89890P138260.panoz.websitewelcome.com,S
+0 1 19488192 57315 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1705345598.M203092P503753.panoz.websitewelcome.com,S
+0 1 19510736 214701 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/ventas5
+0 1 0 137 0 0
+/home2/canadavi/.cpanel/backup_check
+0 1 19340928 12 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713795802.M82486P66045.panoz.websitewelcome.com,S
+0 1 19497232 31649 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1716041640.M147470P885204.panoz.websitewelcome.com,S
+0 1 19393360 1294102 0 0
+/home2/canadavi/.cpanel/caches/filesys/~home2~canadavi.stat
+0 1 0 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715173757.M849896P843639.panoz.websitewelcome.com,S
+0 1 19393776 1296630 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714505083.M959246P695521.panoz.websitewelcome.com,S
+0 1 19468672 33392 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1714930902.M268215P815081.panoz.websitewelcome.com,S
+0 1 19481984 70337 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703015795.M363335P614589.panoz.websitewelcome.com,S
+0 1 19507408 1052438 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713791680.M202221P1007311.panoz.websitewelcome.com,S
+0 1 19495984 57726 0 0
+/home2/canadavi/.cpanel/datastore/diskusage_ventas8@canadaviajes.com.py
+0 1 0 1 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712261432.M706446P903702.panoz.websitewelcome.com,S
+0 1 19389408 428232 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713450762.M237766P396275.panoz.websitewelcome.com,S
+0 1 19447296 58120 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1715865437.M887135P899302.panoz.websitewelcome.com,S
+0 1 19509904 221030 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/.Drafts/dovecot.index.log
+0 1 19425008 988 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1708004321.M211463P499215.panoz.websitewelcome.com,S
+0 1 19502000 86257 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713471379.M758759P25353.panoz.websitewelcome.com,S
+0 1 19461616 18750 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1714002910.M397147P552873.panoz.websitewelcome.com,S
+0 1 19389616 29463 0 0
+/home2/canadavi/mail/new/1674221624.M477406P344057.panoz.websitewelcome.com,S
+0 1 19380736 2864 0 0
+/home2/canadavi/mail/new/1539785345.M515241P1023.panoz.websitewelcome.com,S
+0 1 19376336 4643 0 0
+/home2/canadavi/etc/canadaviajes.com.py/@pwcache/ventas8
+0 1 0 135 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1715870786.M721319P172370.panoz.websitewelcome.com,S
+0 1 19511776 84800 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1699292439.M553477P630515.panoz.websitewelcome.com,S
+0 1 19505536 136450 0 0
+/home2/canadavi/.cpanel/fileupload-TW59YC3qpjixSELo6776810.log
+0 1 0 209 0 0
+/home2/canadavi/ssl/keys/b6037_6e531_e5f7091ef33905d67c34673ae2ba5363.key
+0 1 19308352 1678 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1712671853.M900509P222254.panoz.websitewelcome.com,S
+0 1 19415120 113696 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1715175292.M802886P904281.panoz.websitewelcome.com,S
+0 1 19391280 1296719 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1715960819.M498197P305935.panoz.websitewelcome.com,S
+0 1 19463280 57737 0 0
+/home2/canadavi/mail/new/1649186484.M877745P543418.panoz.websitewelcome.com,S
+0 1 19366832 2521 0 0
+/home2/canadavi/etc/canadaviajes.com.py/canada.viajes.rcube.db.1688057273
+0 1 19323712 344064 0 0
+/home2/canadavi/mail/canadaviajes.com.py/evelinehiebert/new/1712256508.M253670P585313.panoz.websitewelcome.com,S
+0 1 19392528 1110373 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712744993.M822788P536446.panoz.websitewelcome.com,S
+0 1 19459952 76399 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1714419627.M550272P148074.panoz.websitewelcome.com,S
+0 1 19415744 43771 0 0
+/home2/canadavi/.cpanel/fileupload-l2gugIm1HmlbcKHD4562197.log
+0 1 0 297 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1703184702.M695443P872469.panoz.websitewelcome.com,S
+0 1 19508864 7041028 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1711821622.M660934P344848.panoz.websitewelcome.com,S
+0 1 19484688 112815 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1714676373.M625533P133453.panoz.websitewelcome.com,S
+0 1 19510320 389303 0 0
+/home2/canadavi/mail/new/1537829115.M133270P572926.panoz.websitewelcome.com,S
+0 1 19378800 4602 0 0
+/home2/canadavi/mail/new/1651319792.M197312P679157.panoz.websitewelcome.com,S
+0 1 19367360 2299 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1713467166.M434445P927856.panoz.websitewelcome.com,S
+0 1 19476576 34705 0 0
+/home2/canadavi/.cpanel/fileupload-KEV1mnLk7FtNTwSt3542018.log
+0 1 0 262 0 0
+/home2/canadavi/.cpanel/quickinstall/35b891a4e4fdd47c5355866bcacc3aef.done
+0 1 19360048 1 0 0
+/home2/canadavi/mail/new/1651611673.M489430P59639.panoz.websitewelcome.com,S
+0 1 19371232 2416 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/.Sent/cur/1705345643.M335273P505656.panoz.websitewelcome.com,S
+0 1 19505328 214684 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas1.rcube.db
+0 1 0 368640 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1715862295.M449597P663758.panoz.websitewelcome.com,S
+0 1 19408256 7288 0 0
+/home2/canadavi/mail/new/1658156007.M184507P739340.panoz.websitewelcome.com,S
+0 1 19368064 2325 0 0
+/home2/canadavi/ssl/certs/canadaviajes_com_py_b6037_6e531_1709359955_93de30acb26bb4a44e74a7ec3cd82407.crt
+0 1 19307728 1808 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas8.rcube.db.1557815950
+0 1 0 159744 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ruthgomez.rcube.db.1696315090
+0 1 0 360448 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/maildirsize
+0 1 0 3635 0 0
+/home2/canadavi/.cpanel/nvdata/ventas1@canadaviajes.com.py_default_webmail_app
+0 1 19342576 9 0 0
+/home2/canadavi/etc/canadaviajes.com.py/ventas3.rcube.db.1688057285
+0 1 0 307200 0 0
+/home2/canadavi/mail/canadaviajes.com.py/ventas2/cur/1712668260.M925605P133320.panoz.websitewelcome.com,S
+0 1 19474704 36164 0 0
+/home2/canadavi/mail/canadaviajes.com.py/fredymieres/cur/1713970325.M777138P453814.panoz.websitewelcome.com,S
+0 1 19409920 7801 0 0
 # End Of Table - urls
 # -sites- (monthly)
-45-184-109-39.wind.net.py
-0 1 0 236 1 1717434089
--
-176.53.223.132
-0 1 0 236 1 1717858103
--
-104.143.88.27
-0 4 0 977 1 1717511906
--
-cloud111.hostgator.com
-0 4 0 1028 0 0
--
-unused-space.coop.net
-0 2 0 472 2 1717755445
--
-198.235.24.144
-0 1 0 241 1 1717203786
--
-ip-address-pool-xxx.fpt.vn
-0 1 0 243 1 1717385533
--
-outbound1h.letsencrypt.org
-0 1 1 87 0 0
--
-45.90.60.251
-0 1 0 247 0 0
--
-178.157.90.145
-0 1 0 236 1 1717944916
--
-176.53.218.189
-0 1 0 236 1 1717685904
--
-45.90.62.231
-0 1 0 247 0 0
--
-87-250-224-203.spider.yandex.com
-0 1 0 250 0 0
--
-45.90.62.9
-0 1 0 236 1 1717593526
--
-crawl-66-249-66-40.googlebot.com
-0 1 0 236 1 1717715374
--
-102.129.145.161
-0 1 0 243 1 1717332529
--
-45.90.60.170
-0 1 0 247 0 0
--
-176.53.223.103
-0 1 0 247 0 0
--
-147.185.132.54
-0 1 0 236 1 1717848853
--
-154.28.229.24
-0 3 0 727 1 1717463650
--
-209.99.146.104
-0 1 0 244 1 1717653465
--
-fwdproxy-pnb-026.fbsv.net
-0 1 0 250 0 0
--
-147.28.187.49
-0 1 0 240 1 1717577836
--
-4.255.78.239
-0 14 0 1582 0 0
--
-ec2-34-219-143-69.us-west-2.compute.amazonaws.com
-0 1 0 236 1 1717472451
--
-89.104.101.26
-0 1 0 236 1 1717539903
--
-23.137.104.59
-0 1 0 246 0 0
--
-msnbot-52-167-144-234.search.msn.com
-0 1 0 240 1 1717651996
--
-ip143.ip-23-82-104.mpp.il.com
-0 1 0 243 1 1717322470
--
-89.104.101.122
-0 1 0 247 0 0
--
-petalbot-114-119-147-233.petalsearch.com
-0 1 0 226 0 0
--
-114-143-49-38.internet.ientc.mx
-0 1 0 243 1 1717614036
--
-91.92.241.108
-0 39 0 10261 1 1717219304
--
-fwdproxy-pnb-036.fbsv.net
-0 1 0 236 1 1717449895
--
-192.248.169.45.vultrusercontent.com
-0 1 0 284 0 0
--
-229.147.122.34.bc.googleusercontent.com
-0 1 0 236 1 1717463717
--
-fwdproxy-ftw-116.fbsv.net
-0 1 0 243 1 1717630622
--
-85.209.11.117
-0 1 0 236 1 1717907768
--
-137.184.41.108
-0 1 0 236 1 1717204659
--
-fwdproxy-rva-016.fbsv.net
-0 1 0 244 1 1717692336
--
-crawling-gateway-136-243-220-210.dataforseo.com
-0 1 0 250 0 0
--
-203.83.11.13
-0 1 0 226 1 1717775810
--
-fwdproxy-rva-012.fbsv.net
-0 1 0 236 1 1717392549
--
-89.104.111.204
-0 2 0 472 2 1717682258
--
-msnbot-52-167-144-57.search.msn.com
-0 3 0 746 0 0
--
-172.121.216.13
-0 2 0 236 1 1717511906
--
-65.154.226.167
-0 2 0 472 1 1717463899
--
-159.65.82.226
-0 1 0 83 0 0
--
-52.230.152.186
-0 1 0 250 0 0
--
-103.102.228.131
-0 1 0 247 0 0
--
-40.94.226.38
-0 1 0 240 1 1717407911
--
-205.169.39.184
-0 1 0 236 1 1717463745
--
-ec2-34-220-51-62.us-west-2.compute.amazonaws.com
-0 1 0 236 1 1717471740
--
-89.104.101.70
-0 1 0 247 0 0
--
-198.235.24.68
-0 1 0 241 1 1717436818
--
-140.82.2.159.vultrusercontent.com
-0 10 0 0 1 1717388045
--
-128.199.231.228
-0 1 0 236 1 1717496759
--
-176.53.221.36
-0 1 0 236 1 1717576274
--
-fwdproxy-ldc-003.fbsv.net
-0 1 0 263 1 1717471957
--
-ns5003472.ip-51-222-44.net
-0 2 0 550 1 1717711710
--
-142.93.114.118
-0 1 0 236 1 1717551329
--
-167.99.177.175
-0 1 0 236 1 1717705829
--
-176.53.218.131
-0 1 0 236 1 1717563226
--
-52.230.152.140
-0 1 0 250 0 0
--
-89.104.100.100
-0 1 0 247 0 0
--
-95-108-213-200.spider.yandex.com
-0 1 0 240 1 1717743865
--
-205.210.31.36
-0 1 0 236 1 1717788939
--
-109.172.162.216
-0 7 0 1652 3 1717387706
--
-crawl901.us.archive.org
-0 1 0 236 1 1717473842
--
-fwdproxy-ftw-007.fbsv.net
-0 1 0 236 1 1717428494
--
-183.82.35.191.actcorp.in
-0 1 0 253 0 0
--
-45-79-252-141.ip.linodeusercontent.com
-0 10 0 0 1 1717536950
--
-crawl-66-249-66-37.googlebot.com
-0 28 0 6668 22 1718000438
--
-79.110.62.2
-0 2 0 510 1 1717975573
--
-ec2-54-166-248-167.compute-1.amazonaws.com
-0 1 0 246 0 0
--
-89.104.101.56
-0 1 0 247 0 0
--
-fwdproxy-ftw-008.fbsv.net
-0 1 0 240 1 1717946539
--
-45.77.153.60.vultrusercontent.com
-0 10 0 0 1 1717484313
--
-petalbot-114-119-129-113.petalsearch.com
-0 1 0 226 0 0
--
-fwdproxy-gtn-004.fbsv.net
-0 1 0 243 1 1717698656
--
-52.230.152.217
-0 1 0 250 0 0
--
-87.106.157.37
-0 2 0 540 0 0
--
-52.230.152.2
-0 3 0 727 1 1717271122
--
-crawl-66-249-66-38.googlebot.com
-0 20 0 4770 14 1717851723
--
-176.53.219.59
-0 1 0 247 0 0
--
-petalbot-114-119-167-129.petalsearch.com
-0 1 0 226 0 0
--
-172-234-222-68.ip.linodeusercontent.com
-0 10 0 0 1 1717573456
--
-89.104.100.251
-0 1 0 247 0 0
--
-155.138.207.97.vultrusercontent.com
-0 10 0 0 1 1717486639
--
-fwdproxy-ftw-013.fbsv.net
-0 2 0 479 2 1717515774
--
-zl-lax-us-gp1-wk145.internet-census.org
-0 1 0 236 1 1717510220
--
-45.90.62.55
-0 1 0 247 0 0
--
-216.215.195.35.bc.googleusercontent.com
-0 1 0 240 1 1717727659
--
-crawl-66-249-66-161.googlebot.com
-0 11 0 2790 3 1717809281
--
-206.41.170.143
-0 2 0 482 1 1717653456
--
-38.170.230.26
-0 1 0 236 1 1717776570
--
-vmi1441341.contaboserver.net
-0 2 0 505 0 0
--
-static.vnpt.vn
-0 1 0 240 1 1717475095
--
-89.104.111.135
-0 1 0 236 1 1717542078
--
-red-berry.aeza.network
-0 3 0 688 1 1717660271
--
-91.92.242.30
-0 1 0 265 0 0
--
-207.246.118.106.vultrusercontent.com
-0 10 0 0 1 1717772575
--
-fwdproxy-ldc-012.fbsv.net
-0 1 0 250 0 0
--
-msnbot-52-167-144-17.search.msn.com
-0 1 0 269 1 1717208988
--
-crawl-66-249-66-41.googlebot.com
-0 1 0 246 0 0
--
-17-241-227-58.applebot.apple.com
-0 2 0 490 1 1717465982
--
-154.28.229.247
-0 3 0 727 1 1717463716
--
-ns559085.ip-54-39-104.net
-0 1 0 240 1 1717991851
--
-103.82.9.2
-0 1 0 243 1 1717707365
--
-ninja-crawler96.webmeup.com
-0 10 0 2260 2 1717236354
--
-176.53.222.73
-0 1 0 236 1 1717542068
--
-hn.kd.ny.adsl
-0 2 0 452 2 1717721992
--
-36.112.213.61
-0 1 0 236 1 1717374488
--
-petalbot-114-119-151-246.petalsearch.com
-0 1 0 226 0 0
--
-petalbot-114-119-131-211.petalsearch.com
-0 1 0 226 0 0
--
-ec2-13-60-38-162.eu-north-1.compute.amazonaws.com
-0 1 1 87 0 0
--
-vmi1897656.contaboserver.net
-0 1 0 265 0 0
--
-154.205.154.187
-0 2 0 466 1 1717472138
--
-srva96.controlvps.com
-0 1 0 83 0 0
--
-172-104-56-148.ip.linodeusercontent.com
-0 1 0 236 1 1717753622
--
-88.216.2.82
-0 1 0 250 0 0
--
-crawl-66-249-66-162.googlebot.com
-0 14 0 3583 7 1717836229
--
-104.234.204.144
-0 10 0 1719 3 1717833421
--
-fwdproxy-ftw-119.fbsv.net
-0 1 0 250 0 0
--
-198.235.24.238
-0 1 0 241 1 1717845090
--
-94.156.65.8
-0 1 0 280 0 0
--
-139-144-99-199.ip.linodeusercontent.com
-0 2 0 482 2 1717993841
--
-216.173.120.69
-0 2 0 240 1 1717510966
--
-108.61.119.137.vultrusercontent.com
-0 10 0 0 1 1717995005
--
-176.53.217.151
-0 1 0 236 1 1717858095
--
-crawl-66-249-66-163.googlebot.com
-0 11 0 2835 5 1717930967
--
-fwdproxy-pnb-023.fbsv.net
-0 1 0 244 1 1717618281
--
-176.53.216.30
-0 1 0 247 0 0
--
-petalbot-114-119-156-185.petalsearch.com
-0 1 0 226 0 0
--
-52.230.152.126
-0 3 0 727 1 1717415254
--
-167.253.34.3
-0 1 0 250 0 0
--
-36.99.136.137
-0 1 0 240 1 1717427942
--
-vps-1330385.codeappchile.cl
-0 1 0 83 0 0
--
-43.133.59.21
-0 1 0 240 1 1717513610
--
-149.28.64.28.vultrusercontent.com
-0 10 0 0 1 1717565586
--
-52.230.152.78
-0 4 0 977 1 1717266151
--
-fwdproxy-pnb-027.fbsv.net
-0 1 0 244 1 1717255523
--
-h2945044.stratoserver.net
-0 1 0 243 1 1717886223
--
-52.230.152.19
-0 1 0 246 0 0
--
-176.186.78.34.bc.googleusercontent.com
-0 1 0 240 1 1717919233
--
-210.245.78.152
-0 2 0 486 2 1717422460
--
-89.104.110.59
-0 1 0 236 1 1717596307
--
-vps2406078.fastwebserver.de
-0 1 0 236 1 1717846086
--
-msnbot-40-77-167-67.search.msn.com
-0 1 0 236 1 1717491574
--
-176.53.217.178
-0 1 0 247 0 0
--
-fwdproxy-rva-001.fbsv.net
-0 1 0 244 1 1717549859
--
-220.90.95.129
-0 1 0 243 1 1717486060
--
-ec2-34-221-25-166.us-west-2.compute.amazonaws.com
-0 2 0 494 1 1717822636
--
-176.53.220.45
-0 1 0 236 1 1717792629
--
-144.202.28.160.vultrusercontent.com
-0 10 0 0 1 1717754265
--
-66.42.90.124.vultrusercontent.com
-0 10 0 0 1 1717993278
--
-crawl-66-249-66-39.googlebot.com
-0 28 0 6638 24 1717968608
--
-39.101.185.186
-0 1 0 83 0 0
--
-52.230.152.179
-0 1 0 250 0 0
--
-104.164.173.133
-0 3 0 727 1 1717463721
--
-unn-37-19-221-27.datapacket.com
-0 1 0 243 1 1717341127
--
-95-108-213-110.spider.yandex.com
-0 1 0 250 0 0
--
-176.53.217.224
-0 1 0 247 0 0
--
-93.158.90.69
-0 1 0 236 1 1717328949
--
-panoz.websitewelcome.com
-0 9 9 576 0 0
--
-52.230.152.184
-0 3 0 727 1 1717290658
--
-vmi1441342.contaboserver.net
-0 9 0 2167 1 1717985589
--
-fwdproxy-ftw-014.fbsv.net
-0 2 0 472 2 1717479302
--
-178.176.229.171
-0 1 0 296 0 0
--
-198.235.24.78
-0 1 0 236 1 1717495537
--
-198.235.24.152
-0 1 0 241 1 1717984391
--
-91.92.250.201
-0 1 0 236 1 1717866939
--
-server3.clplhosting.com
-0 1 0 83 0 0
--
-89.104.101.106
-0 1 0 236 1 1717539917
--
-msnbot-52-167-144-181.search.msn.com
-0 1 0 271 0 0
--
-research2.hadrian.io
-0 1 0 236 1 1717549214
--
-91.92.251.141
-0 6 0 1517 0 0
--
-198.235.24.172
-0 1 0 240 1 1717245117
--
-147.182.233.156
-0 1 0 236 1 1717901009
--
-fwdproxy-ash-119.fbsv.net
-0 1 0 246 0 0
--
-ec2-3-22-120-226.us-east-2.compute.amazonaws.com
-0 1 1 87 0 0
--
-165.22.56.121
-0 1 0 286 0 0
--
-ec2-34-220-2-45.us-west-2.compute.amazonaws.com
-0 2 0 482 1 1717805756
--
-fwdproxy-ftw-009.fbsv.net
-0 1 0 246 0 0
--
-65.154.226.169
-0 1 0 236 1 1717463752
--
-205.237.89.146
-0 1 0 240 1 1717653464
--
-205.210.31.23
-0 1 0 241 1 1717239941
--
-o7v3n6p1w-59.qsmyf
-0 1 0 240 1 1717631244
--
-104.239.73.116
-0 2 0 240 1 1717503776
--
-fwdproxy-cco-016.fbsv.net
-0 1 0 243 1 1717492158
--
-68.183.102.138
-0 1 0 241 1 1717706153
--
-93.158.90.72
-0 1 0 246 0 0
--
-fwdproxy-ftw-003.fbsv.net
-0 1 0 236 1 1717451572
--
-charming.monitoring.internet-measurement.com
-0 1 0 236 1 1717693611
--
-205.210.31.14
-0 1 0 240 1 1717585035
--
-174.138.78.53
-0 1 0 236 1 1717378045
--
-185.207.35.230
-0 10 0 2447 1 1717301320
--
-192.36.109.99
-0 1 0 246 0 0
--
-ip135.ip-23-106-22.mpp.wa.com
-0 1 0 243 1 1717306935
--
-45.90.61.191
-0 1 0 236 1 1717685912
--
-104.234.204.220
-0 1 0 241 1 1717344441
--
-fwdproxy-rva-010.fbsv.net
-0 1 0 236 1 1717220569
--
-207.90.20.34
-0 1 0 243 1 1717653465
--
-ec2-47-129-65-118.ap-southeast-1.compute.amazonaws.com
-0 1 1 87 0 0
--
-228.163.205.35.bc.googleusercontent.com
-0 1 0 240 1 1717345024
--
-fwdproxy-pnb-011.fbsv.net
-0 1 0 236 1 1717428577
--
-fwdproxy-eag-003.fbsv.net
-0 1 0 246 0 0
--
-petalbot-114-119-156-59.petalsearch.com
-0 1 0 226 0 0
--
-98.159.39.2
-0 3 0 727 1 1717939926
--
-45.77.110.112.vultrusercontent.com
-0 10 0 0 1 1717305091
--
-dev4.andaimesenter.com
-0 1 0 236 1 1717737367
--
-205.210.31.13
-0 1 0 236 1 1717392596
--
-36.99.136.136
-0 1 0 240 1 1717427947
--
-79.137.199.130
-0 1 0 236 1 1717252238
--
-ip-89-38-135-114-106985.vps.hosted-by-mvps.net
-0 3 0 706 1 1717656799
--
-ec2-52-27-218-255.us-west-2.compute.amazonaws.com
-0 1 1 87 0 0
--
-154.28.229.56
-0 3 0 727 1 1717463649
--
-192.36.109.102
-0 1 0 236 1 1717802468
--
-146.75.179.1
-0 1 0 240 1 1717821649
--
-43.142.179.19
-0 3 0 708 1 1717876770
--
-h005.utspb.ru
-0 1 0 280 0 0
--
-95-108-213-78.spider.yandex.com
-0 1 0 263 1 1717558567
--
-109-236-81-139.hosted-by-worldstream.net
-0 3 0 729 3 1717656065
--
-fwdproxy-dkl-116.fbsv.net
-0 1 0 236 1 1717390351
--
+186.2.225.108
+0 1108 1108 882999691 1 1716219496
+/home2/canadavi/mail/dovecot-uidvalidity
 # End Of Table - sites (monthly)
 # -sites- (daily)
-crawl-66-249-66-37.googlebot.com
-0 2 0 472 2 1718000438
--
-ns559085.ip-54-39-104.net
-0 1 0 240 1 1717991851
--
-139-144-99-199.ip.linodeusercontent.com
-0 1 0 241 1 1717993841
--
-108.61.119.137.vultrusercontent.com
-0 10 0 0 1 1717995005
--
-66.42.90.124.vultrusercontent.com
-0 10 0 0 1 1717993278
--
-crawl-66-249-66-39.googlebot.com
-0 1 0 246 0 0
--
-vmi1441342.contaboserver.net
-0 9 0 2167 1 1717985589
--
-198.235.24.152
-0 1 0 241 1 1717984391
--
+186.2.225.108
+0 1108 1108 882999691 1 1716219496
+/home2/canadavi/mail/dovecot-uidvalidity
 # End Of Table - sites (daily)
 # -referrers- 
-http://canadaviajes.com.py/
-0 1
-https://www.google.com/
-0 1
-- (Direct Request)
-0 564
-http://www.canadaviajes.com.py/
-0 16
-www.google.com
-0 3
-http://www.canadaviajes.com.py
-0 4
 # End Of Table - referrers
 # -agents- 
-Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.155 Mobile
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0
-0 1
-Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
-0 1
-Mozilla/5.0 (Linux; Android 7.1.1; Nokia 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.83 Mobile Safari/537.36
-0 1
-Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
-0 7
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
-0 3
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
-0 2
-Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
-0 1
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
-0 1
-Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)
-0 1
-Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68
-0 1
-Linux Mozilla
-0 2
-Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)
-0 18
-Mozilla/4.0 (compatible; fluid/0.0; +http://www.leak.info/bot.html)
-0 2
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-0 3
-Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/95.0
-0 6
-Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
-0 5
-Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
-0 1
-Mozilla/5.0 (Linux; Android 11; SM-A125F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 OP
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-0 4
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
-0 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
-0 3
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
-0 1
-Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 84
-Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 2
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; +http://url-classification.io/wiki/index.php?title=URL_server_crawler) KStandBot/1.0
-0 1
-Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.168 Mobile
-0 12
-Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
-0 15
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
-0 2
-Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.120 Mobile Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
-0 1
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; BOLT/2.800) AppleWebKit/534.6 (KHTML, like Gecko) Version/5.0 Safari/534.6.3
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
-0 29
-Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GoogleOther) Chrome/125.0.6422.168 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
-0 1
-Googlebot-Image/1.0
-0 10
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51
-0 1
-Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
-0 7
-Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_9; like Mac OS X) AppleWebKit/603.3 (KHTML, like Gecko) Chrome/55.0.3176.381 Mobile S
-0 1
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
-0 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0
-0 4
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-0 1
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2
-0 1
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
-0 9
-Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 
-0 1
-Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E14
-0 1
-Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
-0 1
-Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.152 Mobile
-0 1
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-0 6
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_1) AppleWebKit/600.37 (KHTML, like Gecko) Chrome/52.0.1195.155 Safari/533
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36
-0 2
-Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0
-0 1
-Mozilla/5.0 (Linux; U; Linux i541 x86_64; en-US) AppleWebKit/602.44 (KHTML, like Gecko) Chrome/49.0.3098.179 Safari/600
-0 1
-Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.153 Mobile
-0 1
-facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
-0 26
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
-0 2
-Cpanel-HTTP-Client/1.0
-0 9
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123
-0 2
-Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
-0 10
-python-requests/2.25.1
-0 1
-req/v3 (https://github.com/imroc/req)
-0 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Saf
-0 3
-Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
-0 1
-Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
-0 6
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-0 4
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
-0 2
-Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
-0 4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-0 8
-Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
-0 2
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-0 3
-Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
-0 1
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/92.0.4515.159 Safari/537.36
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
-0 1
-Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot) Zeno/52b2551 warc/v0.8.38
-0 1
-Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-0 6
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.
-0 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
-0 110
-python-requests/2.27.1
-0 7
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider
-0 2
-Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E14
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-0 1
-Mozilla/5.0 (X11; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
-0 7
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
-0 1
-Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.141 Mobile
-0 5
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Iron Safari/537.36
-0 1
-Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.169 Mobile
-0 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.126
-0 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
-0 2
-Mozilla/5.0 (iPod; CPU iPod OS 7_2_8; like Mac OS X) AppleWebKit/600.14 (KHTML, like Gecko) Chrome/53.0.3686.209 Mobile Safar
-0 1
-Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-0 1
-Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
-0 51
 # End Of Table - agents
 # -search strings- 
 # End Of Table - search strings
 # -usernames- 
+cana@canadaviajes.com.py
+0 1108 1108 882999691 2 1716219496
 # End Of Table - usernames

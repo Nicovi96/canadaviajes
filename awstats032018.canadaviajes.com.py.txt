@@ -1,0 +1,987 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/canadavi/tmp/awstats/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2700                
+POS_VISITOR 18224               
+POS_DAY 29520               
+POS_DOMAIN 3607                
+POS_LOGIN 4309                
+POS_ROBOT 4464                
+POS_WORMS 4969                
+POS_EMAILSENDER 5100                
+POS_EMAILRECEIVER 5243                
+POS_SESSION 30398               
+POS_SIDER 30607               
+POS_FILETYPES 5378                
+POS_DOWNLOADS 5577                
+POS_OS 6292                
+POS_BROWSER 6597                
+POS_SCREENSIZE 8353                
+POS_UNKNOWNREFERER 8427                
+POS_UNKNOWNREFERERBROWSER 9158                
+POS_ORIGIN 9794                
+POS_SEREFERRALS 9939                
+POS_PAGEREFS 10118               
+POS_SEARCHWORDS 11027               
+POS_KEYWORDS 11230               
+POS_MISC 2362                
+POS_ERRORS 11344               
+POS_CLUSTER 4165                
+POS_SIDER_404 11478               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401001315 200 42270 11062185061695
+FirstTime 20180301034316
+LastTime 20180331202737
+LastUpdate 20180401034639 200 0 199 0 0
+TotalVisits 387                 
+TotalUnique 247                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 296                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 198 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 26363 79 148 1580649
+1 33 115 1630551 67 108 1156215
+2 7 9 5370 30 113 1242866
+3 42 305 4030612 33 129 1354341
+4 24 240 3142433 71 181 2351333
+5 47 331 4575663 90 224 2210327
+6 45 410 5798883 45 202 2049158
+7 49 487 6973112 27 180 2596772
+8 66 690 9591514 33 215 2090479
+9 65 871 9420980 59 246 2276974
+10 37 469 6317644 60 181 1650874
+11 60 659 9358306 80 257 2681034
+12 80 636 8723766 70 202 1858978
+13 119 761 10786648 105 219 2295733
+14 72 843 9041380 179 297 2907526
+15 32 378 5265505 66 163 1373757
+16 43 212 3202106 133 208 2133552
+17 31 180 2471612 157 284 3100101
+18 69 251 3489857 42 125 1110968
+19 63 458 6445564 51 162 1870936
+20 33 85 1215630 70 202 2027391
+21 100 353 4566893 89 203 2118144
+22 87 189 2136408 101 164 1838988
+23 32 116 1601350 81 136 1047750
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+us 578 1448 19060248
+py 404 5302 71520864
+ar 75 526 6963956
+kr 43 394 5283917
+cn 30 30 412238
+de 16 245 3461650
+ng 16 16 223353
+cr 13 239 3429196
+ca 13 327 1770774
+no 6 6 54094
+mx 6 93 1429774
+ru 6 7 57107
+uy 6 6 4165
+ve 5 89 1416538
+ec 4 88 1466359
+nl 4 4 29236
+gb 3 3 15451
+ua 3 3 2499
+pe 2 41 571836
+es 2 52 676967
+lt 2 2 14618
+ke 2 49 671006
+se 2 2 1666
+cu 2 41 571836
+br 2 2 1666
+ni 0 1 12939
+ro 1 1 833
+bd 1 1 833
+bo 0 1 86223
+hk 1 1 833
+co 1 41 603809
+th 1 1 833
+it 1 1 833
+do 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+crawl 597 7374924 20180330215531 0
+bot[\s_+:,\.\;\/\\-] 573 10203631 20180331234833 0
+bingpreview 398 5507686 20180331035702 0
+googlebot\-image 271 140700 20180331233501 0
+googlebot 212 1962205 20180331190018 0
+spider 70 511630 20180330182519 0
+no_user_agent 42 32487 20180330154109 0
+google[_+\s]web[_+\s]preview 38 455321 20180315110802 0
+robot 12 96644 20180330140826 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 192 2587010 0 0
+htm 571 9195211 0 0
+db 3 142848 0 0
+jpg 7589 104312720 0 0
+html 678 2973081 0 0
+gif 27 243891 0 0
+pdf 4 363389 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/web2015/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf 4 0 564156
+/web2015/html/Congreso/pdf/Registration.pdf 4 0 165384
+/web2015/html/Congreso/pdf/Post%20Tour%20Paraguay-Argentina-Brazil%20Mayo%202015.pdf 4 0 159860
+/web2015/html/Congreso/pdf/PAYMENT%20PROCEDURES.pdf 3 0 28320
+/web2015/html/Congreso/pdf/progrma%20santa%20gertrudis.pdf 2 0 927518
+/web2015/gingle/CANADA_VIAJES_2.mp3 1 0 659035
+/web2015/html/Congreso/pdf/PROGRAMA%20DEL%20CONGRESO%20INTERNACIONAL%20SANTA%20GERTRUDIS%202015%20en%20Castellano%20e%20Ingles%2022%20dic%202014.pdf 1 0 21447
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+winunknown 7 7
+winphone 11 0
+winxp 182 15
+linux 265 38
+win2003 10 10
+linuxandroid 1944 173
+unix 1 1
+win8 67 5
+win7 2624 232
+Unknown 463 454
+winnt 2007 180
+macosx 127 22
+ios_iphone 456 32
+win8.1 856 78
+macosx8 1 1
+winlong 1 1
+ios_ipad 42 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 81
+chrome36.0.1985.125 2 2
+chrome46.0.2490.71 52 3
+safari10.0.2 1 1
+chrome64.0.3282.167 129 13
+opera51.0.2830.55 156 12
+chrome64.0.3282.137 258 19
+chrome58.0.3029.110 1 1
+safari11.0.1 1 0
+chrome30.0.0.0 44 4
+chrome59.0.3071.125 1 0
+lynx 2 2
+chrome65.0.3325.181 659 51
+msie6.0 1 0
+safari11.0 272 19
+firefox52.0 178 12
+chrome55.0.2883.75 1 1
+chrome52.0.2743.98 41 2
+chrome43.0.2376.69 2 2
+chrome34.0.1847.114 1 0
+msie7.0 14 14
+firefox59.0 236 16
+chrome40.0.2214.115 2 2
+chrome38.0.2125.102 72 6
+firefox40.1 3 3
+chrome63.0.3239.84 68 6
+chrome26.0.1410.65 1 1
+netscape5.0 1 1
+firefox58.0 174 11
+chrome63.0.3239.132 56 6
+firefox3.6.3 20 20
+chrome50.0.2661.102 1 1
+firefox53.0 5 5
+firefox44.0 41 2
+chrome66.0.3347.0 2 2
+chrome64.0.3282.190 1 1
+opera36.0.2130.32 1 1
+chrome55.0.2883.91 1 0
+chrome41.0.2228.0 1 1
+chrome61.0.3163.98 41 2
+firefox47.0 81 8
+msie9.0 26 21
+chrome60.0.3112.90 1 1
+chrome64.0.3282.140 12 1
+Unknown 444 444
+chrome49.0.2623.75 18 18
+firefox11.0 3 3
+safari 346 19
+chrome65.0.3325.162 148 10
+chrome38.0.2125.104 3 3
+safari9.1.1 46 3
+chrome10.0.648.204 4 4
+lg\- 69 4
+chrome39.0.2171.95 1 1
+chrome65.0.3325.109 699 47
+mozilla 20 11
+android 63 22
+chrome62.0.3202.84 44 3
+chrome64.0.3282.123 45 3
+chrome30.0.1599.103 69 6
+chrome63.0.3239.111 126 9
+chrome31.0.1650.57 1 1
+chrome26.0.1410.63 3 3
+chrome52.0.2743.116 46 7
+chrome62.0.3202.94 1 1
+msie5.0 16 16
+firefox55.0 1 0
+safari11.0.3 64 4
+chrome40.0.2214.109 85 7
+firefox50.0 1 1
+firefox57.0 2 0
+chrome44.0.2403.89 1 1
+chrome65.0.3325.146 51 8
+chrome21.0.1180.89 1 1
+chrome64.0.3282.186 2608 205
+chrome61.0.3163.100 13 13
+chrome56.0.2924.87 227 20
+chrome60.0.3112.107 41 2
+msie10.0 376 25
+msie11.0 694 30
+firefox31.0 2 2
+chrome44.0.2403.133 19 19
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+ltx71_-_(http://ltx71.com/) 20180326063124
+Mozilla/4.0_(compatible;) 20180329144219
+WhatsApp/2.18.65_A 20180314104550
+nutch-1.4/Nutch-1.4 20180309194308
+NYU_Internet_Census_(https://scan.lol;_research@scan.lol) 20180328133635
+Mozilla/5.0_(compatible;_ips-agent) 20180316055147
+Xenu_Link_Sleuth/1.3.8 20180313073708
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html#wc) 20180309140617
+Visited_by_http://tools.geek-tools.org 20180310112414
+Magic_Browser 20180331033402
+Scrapy/1.5.0_(_https://scrapy.org) 20180326125825
+M 20180303174148
+Go-http-client/1.1 20180301161413
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20180314233305
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+ltx71_-_(http://ltx71.com/) 20180326063124
+WhatsApp/2.18.65_A 20180314104550
+NYU_Internet_Census_(https://scan.lol;_research@scan.lol) 20180328133635
+nutch-1.4/Nutch-1.4 20180309194308
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html#wc) 20180309140617
+Xenu_Link_Sleuth/1.3.8 20180313073708
+Visited_by_http://tools.geek-tools.org 20180310112414
+Scrapy/1.5.0_(_https://scrapy.org) 20180326125825
+Magic_Browser 20180331033402
+python-requests/1.2.3_CPython/2.7.12_Linux/4.9.76-3.78.amzn1.x86_64 20180306011911
+M 20180303174148
+Go-http-client/1.1 20180301161413
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 648 668
+From1 3 3
+From2 178 223
+From3 24 70
+From4 399 8100
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 176 209
+yahoo 1 1
+bing 1 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 18
+http://forms.melodysoft.com/open.html 5 5
+http://www.a1contenedores.com.mx 3 3
+http://www.a.edu.uy 3 3
+http://fitpar.org.py/portal/index.php/expositores/2014-06-23-01-49-10/expositores-2016 2 2
+http://www.pacband.net/2017/03/2017-pac-band-schedule-as-of-2-28-2017.html 1 1
+https://www.gotomyncf.com/Registration/EventSelectForState 1 1
+http://kevinmartineau.ca 1 1
+http://www.bogiz.com 1 1
+http://lewhorton.com 1 1
+https://lm.facebook.com 1 1
+http://forms.melodysoft.com 1 1
+http://monacospizzeria.com 1 1
+http://workfromhometypingjobs.biz 1 1
+http://www.thirdlooks.com 1 1
+http://olivegardenathome.blogspot.kr 1 1
+http://www.yeruti.com.py/html/inicio.htm 0 33
+http://123coolpictures.com/raza+santa+gertrudis 0 2
+http://yeruti.com.py/html/promo_aereo.htm 0 11
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+www.canadaviajes.com.py 1
+canada+viajes+paraguay 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+www.canadaviajes.com.py 1
+paraguay 1
+canada 1
+viajes 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+406 59 13108
+206 24 79874
+404 1744 20505632
+403 311 41004
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 145
+/wp-json/wp/v2/users/ 1 -
+/pics/banner_eeuu.jpg 1 -
+/html/js/ 1 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 1 http://www.canadaviajes.com.py/theme/assets/global/plugins/jquery-file-upload/server/php/
+/html/inicio_v1.htm 2 -
+/html/recomendaciones/RecomendacionesMSPBS.pdf 9 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/pics/bot_event_cong.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/pics/assistcard.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/html/fitpar2014/ 1 -
+//js/admin.js 2 -
+/web2015/promo/promo/promo2015/promo%20nov2015/PZBRSSA 7 -
+/smiley/1.gif 1 -
+/administrator/index.php 2 -
+/web2015/_pgtres/stm31.js 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/pics/facebook-logo.jpg 1 -
+/html/promociones.htm 2 -
+/html/Congreso/ 1 -
+/html/ok.htm 1 -
+/html/Congreso/pdf/PROGRAMA%20DEL%20CONGRESO%20INTERNACIONAL%20SANTA%20GERTRUDIS%202015%20en%20Castellano%20e%20Ingles%2022%20dic%202014.pdf 1 -
+/aleman/html/banner_superior_principal.swf 1 -
+/html/exc-mmc/IGU37.htm 1 -
+/html/fitpar2015/ 1 -
+/license.txt 2 -
+/html/qsomos.htm 1 -
+/pics/bot_servicios.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/images/ 1 -
+/default.php 1 -
+//wordpress/wp-admin/setup-config.php 1 -
+/web2015/pics/button12.jpg 55 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/html/ 1 -
+/html/_pgtres/ 1 -
+/web2015/promo/promo2015/fitpar2015/fitpar2015.htm 7 -
+/html/consejos_canada.swf 1 -
+/html/cir_esp.htm 1 -
+/3327.8259 1 -
+/web2015/html/_pgtres/ 9 http://www.canadaviajes.com.py/web2015/html/inicio.htm
+/.ftpconfig 1 -
+/html/fitpar2013_ant.htm 1 -
+/joomla/robots.txt 1 -
+/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf 9 -
+/sitemap.xml 1 -
+/pics/fondo_evento_destacado.jpg 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/user/ 13 -
+/html/ex_nac.htm 1 -
+/aleman/html/cir_esp-mc.htm 1 -
+/html/coicom/COICOM%20PARA%20LA%20PUBLICIDAD%203%20y%204%20NOCHES%202013.doc 1 -
+/robots.txt 462 -
+/web2015/html/_pgtres/stm31.js 656 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/web2015/qsomos.htm 10 -
+/html/arme_cir.htm 1 -
+/html/_pgtres/tmp/ 1 -
+/pics/banner_sudamerica.jpg 1 -
+/html/Congreso/html/ 1 -
+/html/fitpar2013/ 1 -
+/catalog/ 2 -
+/pics/fondo_botonera_pie.jpg 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/contacto 8 -
+/pics/pic_callcenter.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/web2015/Congreso/html/programa.htm 10 -
+/web2015/pics/button10.jpg 55 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/sftp-config.json 1 -
+/html/data.xml 1 -
+/pics/bot_informaciones.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/blog/robots.txt 3 -
+/html/Congreso/pdf/ 1 -
+/html/error.htm 7 -
+/html/_pgtres/39521,7940162037_PageletServer.DynamicMenu.pgt 1 -
+/wp-login.php 5 -
+/web2015/formularios.htm 10 -
+//wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css 2 -
+/html/cir_esp-mc.htm 1 -
+/aleman/html/inicio_v1.htm 1 -
+/html/css/ 1 -
+//wp-admin/setup-config.php 1 -
+/jm-ajax/upload_file/ 2 http://www.canadaviajes.com.py/jm-ajax/upload_file/
+/html/images/ 1 -
+/index.php 2 -
+/contacta 8 -
+/web2015/pics/button13.jpg 54 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/web2015/promo/promo2015/(EmptyReference!) 7 -
+/cart/ 2 -
+/wp-admin/ 2 -
+/6361.3140 1 -
+/pics/logo_index_provisorio.jpg 1 -
+/log.php 1 -
+/web2015/promo/promo2015/Congreso/html/programa.htm 7 -
+/web2015/(EmptyReference!) 9 -
+/wordpress/ 2 -
+/pics/banner_evento_destacado.jpg 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/blog/wp-includes/wlwmanifest.xml 2 -
+/html/desuso/cuerpo.htm 1 -
+/html/_pgtres/tmp/Preview.pgt 1 -
+/wp-includes/wlwmanifest.xml 6 -
+/ckupload/ckupload.php 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/web2015/fitpar2014/FITPAR.jpg 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/pics/bot_contactenos.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/html/exporodeotrebol2015/ 1 -
+/joomla/administrator/index.php 1 -
+/pics/bot_qsomos.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/web2015/fitpar2015/fitpar2015.htm 9 -
+/web2015/html/(EmptyReference!) 24 -
+/web2015/exc_inter.htm 9 -
+/upload.php 1 -
+/pics/texto_inicio.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/rss.xml 1 -
+/html/desuso/ 1 -
+/html/Congreso/pdf/Pre%20Tour%20al%20Pantanal%20Congreso%20Mundial%202015%20Santa%20Gertrudis.pdf 1 -
+/promo/Promos2016/v4/fitpat_2016-1.jpg 1 -
+/pics/LOGO-SENATUR.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/html/Congreso/pdf/Post%20Tour%20Paraguay-Argentina-Brazil%20Mayo%202015.pdf 1 -
+/html/fitpar2014_ant.htm 1 -
+/wp/ 2 -
+/html/_pgtres/tmp/preview.htm 1 -
+//wp-content/plugins/xaisyndicate/idx.php 2 -
+/pics/banner_caribe.jpg 1 -
+/pics/Soy%20Asatur-90.png 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/eventos/COICOM%202011%20-%20CANADA%20VIAJES%20mayo%202011.pdf 1 -
+/pics/banner-pic-1.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css 2 http://www.canadaviajes.com.py/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css
+/wp-content/themes/satoshi/upload-file.php 1 http://www.canadaviajes.com.py/wp-content/themes/satoshi/upload-file.php
+/xmlrpc.php 2 -
+/blog/ 5 -
+/html/Congreso/pic/ 1 -
+/web2015/contactenos.htm 10 -
+/html/cir_esp_archivos/ 1 -
+/pics/banner_canada.jpg 1 -
+/web2015/pics/buttonF.jpg 56 http://www.canadaviajes.com.py/web2015/html/servicios.htm
+/html/fitpar2015/fitpar2015.htm 1 -
+/pics/logo_encabezado.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/pics/fondo_botonera.jpg 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/html/Congreso/html/programa.htm 1 -
+/web2015/servicios.htm 10 -
+/html/recomendaciones/ 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/web2015/promo/promo2015/promo%20nov2015/PZBRSSA 11 -
+/pics/bot_formularios.jpg 3 http://www.canadaviajes.com.py/web2015/inicio.htm
+/pics/fondo_encabezado.jpg 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/pics/banner_mejores_destinos.jpg 1 -
+/web2015/informaciones.htm 10 -
+/promo/promo2015/dic2015/pic_ban_3.jpg 2 http://www.canadaviajes.com.py/web2015/inicio.htm
+/components/com_b2jcontact/css/b2jcontact.css 6 -
+//modules/mod_simplefileuploadv1.3/elements/udd.php 6 -
+/blog/administrator/index.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 296
+54.234.30.59 83 83 902677 20180308212635
+54.210.145.159 79 79 869010 20180307002313
+54.237.216.127 79 79 869010 20180302223510
+54.236.44.21 49 49 525222 20180307031358
+34.234.193.107 47 47 523556 20180309140333
+52.3.220.98 39 39 487227 20180309140617
+221.145.183.167 36 387 5278086 20180330163306
+54.87.240.181 24 24 400441 20180326125825
+59.42.122.108 20 20 378837 20180311013056
+190.128.231.54 18 195 2849038 20180314102613
+197.211.56.120 16 16 223353 20180324160327
+66.249.85.21 14 181 2515777 20180330175855
+190.128.183.14 13 155 2459729 20180323152122
+138.186.60.26 13 239 3429196 20180323111427
+190.52.128.203 12 145 2213230 20180313095530
+66.249.85.22 12 172 2470335 20180329190414
+54.67.59.131 11 11 9163 20180331060253
+35.162.70.167 11 11 9163 20180329054155
+181.122.226.41 11 177 2396593 20180314104550
+52.41.211.72 11 11 9163 20180328053957
+38.100.21.61 10 10 130114 20180315171036
+69.58.178.58 10 10 137136 20180316055147
+66.249.83.204 10 20 243202 20180328142348
+73.76.166.29 9 68 858167 20180319090233
+201.217.54.246 9 178 912739 20180320091410
+181.121.117.72 6 64 778738 20180312212203
+104.129.168.117 2 2 1666 20180318091558
+201.165.28.152 0 1 17909 
+181.40.40.38 3 45 668640 20180301044110
+184.94.240.92 4 4 29236 20180328004010
+221.145.183.90 2 2 1666 20180330195715
+181.120.121.193 1 1 833 20180305133940
+181.122.171.170 4 64 767790 20180320174054
+201.217.54.56 2 46 704785 20180320134340
+191.97.123.10 3 46 681107 20180309082550
+201.210.221.243 0 1 141039 
+67.215.191.166 1 1 833 20180311100135
+181.40.79.146 6 67 862921 20180305181236
+106.120.162.107 1 1 833 20180314163944
+190.188.173.13 2 41 571836 20180331202737
+200.55.183.74 1 15 217703 20180327090515
+181.124.112.62 2 41 571836 20180323135710
+181.125.137.36 4 67 939563 20180330152744
+177.250.160.177 5 65 845449 20180304111240
+54.202.116.247 1 1 833 20180304124315
+190.7.29.194 2 41 571836 20180313012604
+170.51.116.229 4 4 3332 20180319180023
+190.104.131.242 2 41 571836 20180316195206
+40.78.146.128 1 1 14574 20180312211929
+138.122.203.10 0 1 17909 
+190.104.176.156 2 28 449795 20180309054524
+114.115.190.4 1 1 833 20180309194308
+201.217.40.174 1 1 833 20180302052316
+181.123.201.212 2 41 571836 20180312034946
+186.143.137.171 0 1 17909 
+181.121.103.116 3 3 2499 20180314064302
+200.55.183.76 1 15 184063 20180327090517
+190.104.128.6 5 53 825405 20180321160705
+181.124.113.61 0 1 23353 
+181.123.192.170 0 11 105131 
+18.197.49.179 1 1 0 20180306011911
+190.104.131.137 3 46 636118 20180323105525
+201.217.41.134 8 81 1119488 20180306051501
+181.121.18.232 5 67 946915 20180326140031
+191.97.122.135 8 80 1105567 20180301070102
+170.51.116.234 4 43 601513 20180317214837
+181.122.232.0 3 45 668640 20180309125418
+190.104.176.160 3 44 656138 20180313112324
+131.161.254.35 0 8 0 
+144.76.175.75 6 123 1715508 20180327123832
+187.232.164.172 0 2 46152 
+119.46.107.120 1 1 833 20180307222643
+190.23.106.162 1 1 833 20180317063211
+181.120.66.235 2 41 571836 20180322113534
+46.118.155.165 1 1 833 20180322013038
+91.210.145.144 1 1 833 20180315231406
+187.226.69.182 0 1 86223 
+190.173.137.25 3 46 681142 20180322091501
+181.124.112.56 0 1 42836 
+208.114.165.188 2 41 571836 20180315132117
+79.240.180.117 4 63 941852 20180322053356
+181.40.124.50 1 1 833 20180313101214
+201.217.42.62 8 83 1051849 20180322135641
+181.120.164.64 3 42 586690 20180303155145
+201.217.17.182 0 3 84567 
+181.121.144.92 6 45 586931 20180309074859
+170.51.116.42 2 2 1666 20180330112448
+181.120.191.226 2 41 571836 20180305122942
+170.51.116.159 2 2 1666 20180323140227
+190.138.249.43 1 1 833 20180312222107
+190.128.226.6 0 1 42836 
+190.52.167.98 6 75 1058657 20180321094246
+170.51.116.125 2 2 1666 20180317063156
+190.23.143.191 2 41 571836 20180323191544
+181.124.110.233 3 44 656138 20180303015441
+67.215.191.156 2 2 1666 20180326211832
+181.120.181.86 1 1 833 20180319111105
+190.104.176.189 1 1 13785 20180328074600
+181.122.190.165 7 95 1418652 20180301192426
+54.154.174.14 1 1 833 20180324004623
+152.156.66.87 2 2 833 20180317233333
+181.40.124.158 7 81 1121565 20180313104221
+198.1.66.144 1 1 833 20180313054631
+167.60.40.235 1 1 833 20180301062536
+54.197.220.105 1 1 833 20180314012826
+79.7.218.151 1 1 833 20180313073708
+181.122.144.221 0 11 105131 
+177.236.147.47 1 1 833 20180319001103
+59.57.37.8 1 1 833 20180316193436
+181.40.119.66 4 59 843998 20180313082531
+170.51.116.173 6 58 836564 20180309214102
+201.217.52.30 1 5 90878 20180314162733
+200.24.152.20 0 1 107107 
+190.128.194.162 5 45 627831 20180322090944
+181.40.113.211 2 42 584107 20180314060401
+91.8.244.232 3 56 804290 20180318035416
+187.142.127.184 0 1 17909 
+172.58.157.161 0 1 23824 
+213.99.22.214 2 41 571836 20180307074131
+181.121.51.214 0 1 22556 
+54.186.78.209 1 1 833 20180322080940
+181.122.24.54 6 69 919171 20180304222551
+52.34.24.33 7 7 5831 20180331033402
+181.123.8.162 1 1 833 20180322114127
+170.51.116.139 2 2 1666 20180301034317
+185.100.87.206 1 1 833 20180325203141
+66.249.84.10 3 14 170454 20180310185813
+201.222.48.222 3 46 634507 20180301082202
+134.119.213.82 6 6 54094 20180316044058
+180.153.236.181 2 2 14618 20180318110145
+190.52.179.16 3 60 853898 20180319133459
+190.128.250.46 5 60 826999 20180320134338
+131.72.26.59 2 41 571836 20180319100409
+52.77.193.180 0 1 141039 
+201.222.48.178 1 1 833 20180324054141
+186.87.85.57 0 1 107107 
+181.122.213.134 2 41 571836 20180302083726
+181.122.106.39 1 1 833 20180330140720
+187.155.182.215 1 40 571003 20180312134327
+181.49.93.31 1 38 455321 20180314104556
+181.123.1.17 1 1 833 20180322195136
+181.124.114.96 4 44 611993 20180331072319
+131.161.252.143 0 11 105131 
+200.3.250.240 1 1 833 20180322090427
+201.222.50.114 3 48 661794 20180321120239
+186.4.163.45 2 45 680309 20180309113636
+181.120.105.47 3 42 586690 20180323081008
+181.40.89.126 3 45 624161 20180313142629
+5.77.39.43 1 1 833 20180326064107
+170.51.116.221 2 2 1666 20180321184608
+112.5.46.98 1 1 833 20180320084202
+190.128.130.242 0 1 0 
+217.182.203.55 2 2 14618 20180303174148
+167.60.65.140 1 1 833 20180315111722
+181.120.200.120 1 1 833 20180316074725
+181.40.122.122 1 1 833 20180322100657
+201.229.162.252 1 1 0 20180304111352
+69.84.207.246 0 5 122014 
+167.60.89.100 1 1 833 20180303142001
+181.120.158.83 1 1 833 20180323132435
+178.218.208.194 4 4 3332 20180328011537
+23.229.30.158 0 1 39965 
+186.121.255.126 0 1 86223 
+181.124.111.124 4 44 614815 20180330152548
+144.217.210.86 2 2 1666 20180321002724
+181.120.123.212 1 1 833 20180321073203
+181.122.129.29 3 53 644497 20180316084710
+191.97.122.114 3 45 668640 20180318143608
+181.66.102.50 2 41 571836 20180325115706
+201.217.58.137 1 1 833 20180308102234
+181.124.113.162 0 1 42836 
+190.128.176.170 0 3 150844 
+190.206.184.16 2 41 571836 20180322234212
+170.51.116.177 2 2 1666 20180321221140
+181.125.138.14 5 67 853699 20180311091151
+181.40.23.34 2 3 13104 20180327132200
+191.85.45.220 4 52 755466 20180324154147
+201.222.51.94 2 2 1666 20180327155408
+186.182.233.179 3 52 756077 20180308102253
+181.120.161.82 1 3 92303 20180304123202
+66.249.83.200 5 16 199784 20180327074902
+67.215.191.154 1 1 833 20180304120027
+190.23.133.172 0 1 12939 
+46.161.9.56 1 1 12429 20180319124532
+96.127.158.234 1 1 833 20180329111424
+181.122.36.92 0 1 17909 
+170.51.116.200 2 2 1666 20180311181501
+144.76.100.150 3 3 0 20180310112414
+181.113.147.84 0 1 107107 
+190.128.222.122 0 1 21120 
+200.85.49.70 2 41 571836 20180301075038
+200.55.183.75 0 2 61482 
+66.249.85.23 9 185 2634744 20180330180436
+66.249.84.14 0 11 178628 
+190.23.27.203 1 1 833 20180302090101
+190.204.72.115 3 46 681107 20180312114737
+170.51.116.80 4 4 3332 20180302075630
+181.124.113.9 6 64 825796 20180301061642
+35.225.221.87 1 1 833 20180326063124
+5.188.9.80 1 1 0 20180328133635
+12.165.37.146 0 1 107107 
+66.160.134.2 1 1 13785 20180320063648
+200.108.131.8 1 1 833 20180323084009
+170.51.116.33 2 2 1666 20180310093501
+190.128.224.10 5 49 676982 20180310052329
+177.250.139.113 4 59 757324 20180302094751
+170.51.116.204 2 2 1666 20180308140350
+45.32.129.200 1 1 833 20180304030423
+184.154.189.90 1 1 833 20180316215443
+190.128.164.218 6 139 836248 20180320091412
+181.124.115.182 3 49 644073 20180317095501
+181.124.110.221 0 1 107107 
+186.182.82.55 2 2 1666 20180319122336
+199.119.233.236 2 41 571836 20180316191446
+181.40.83.254 3 45 668640 20180314140917
+46.246.37.145 1 1 833 20180324033450
+190.104.131.166 2 41 571836 20180315122233
+170.51.116.70 4 63 755468 20180316123905
+181.122.108.24 3 68 664139 20180315045417
+181.124.111.44 3 45 668640 20180326135817
+190.210.160.13 3 42 586690 20180302142316
+151.193.220.27 4 49 773214 20180314134522
+194.44.247.218 1 1 833 20180308142244
+186.179.100.62 0 1 23472 
+181.122.209.172 5 59 847268 20180305191340
+190.128.231.118 6 86 1240414 20180321050924
+177.221.248.205 1 1 833 20180302093559
+190.104.131.59 5 69 915916 20180315080523
+200.55.183.72 0 9 108588 
+170.51.41.5 3 42 586690 20180305073009
+202.191.127.57 1 1 833 20180327151137
+201.217.59.110 1 8 138127 20180323161910
+190.128.199.98 7 85 1187165 20180316083444
+52.3.253.57 1 1 833 20180306002957
+186.46.226.92 2 41 571836 20180318150553
+181.120.241.156 2 2 1666 20180302131518
+177.251.221.159 1 1 833 20180318083254
+170.51.116.8 0 1 59822 
+46.246.43.171 1 1 833 20180312143812
+187.189.50.208 1 1 833 20180323222525
+186.182.82.73 0 1 19127 
+190.128.197.38 3 52 763094 20180301113712
+170.51.116.103 2 2 1666 20180314074144
+181.120.89.81 4 59 844229 20180302112058
+186.202.161.16 1 1 833 20180302161222
+221.145.183.82 5 5 4165 20180324222406
+181.40.120.218 3 47 648799 20180324133801
+103.255.254.123 1 1 833 20180320162529
+181.122.173.199 6 60 862123 20180330031012
+115.29.2.182 2 2 833 20180301161414
+78.158.28.10 2 2 14618 20180314233305
+181.122.147.111 0 11 105131 
+181.40.22.74 8 81 1121292 20180315113743
+201.217.23.214 2 41 571836 20180319155850
+104.156.230.231 1 1 833 20180304030423
+170.51.116.254 2 2 1666 20180305013438
+181.40.122.42 8 139 2042711 20180323131825
+170.51.116.244 6 6 4998 20180324202024
+181.122.187.140 4 48 664458 20180301192616
+181.121.32.255 2 41 571836 20180306060305
+181.122.98.9 0 1 42836 
+200.85.34.198 2 41 571836 20180301183331
+143.255.143.253 3 42 586690 20180310103035
+71.6.165.200 1 1 833 20180308175206
+142.40.176.69 9 245 627102 20180305144448
+101.199.112.50 2 2 14618 20180314163851
+201.217.59.26 0 1 23850 
+181.120.179.109 4 46 691264 20180320165811
+201.182.248.130 0 2 129663 
+192.148.208.20 0 11 105131 
+190.212.250.61 0 1 12939 
+190.128.194.70 5 56 848409 20180309122731
+181.120.240.121 2 42 584123 20180316073118
+46.229.170.197 4 4 29236 20180325084106
+201.217.58.105 1 1 833 20180320073643
+34.205.90.5 2 2 14618 20180316114357
+198.143.133.154 1 1 833 20180315123607
+146.185.223.202 0 1 41346 
+66.249.83.202 6 24 406036 20180315085322
+170.51.116.118 2 2 1666 20180308034304
+190.202.87.30 0 1 22556 
+181.124.114.5 1 1 833 20180312085731
+66.249.222.114 3 50 731027 20180315060759
+167.60.111.67 1 1 833 20180303222024
+129.82.150.0 0 1 86223 
+181.124.111.129 2 41 571836 20180308140822
+66.249.84.12 0 20 319558 
+181.122.9.52 0 1 22422 
+187.187.195.36 3 46 688912 20180307114847
+197.248.173.22 2 49 671006 20180328083954
+181.124.113.157 3 42 619826 20180314155244
+18.197.42.185 1 1 0 20180305082902
+181.124.114.91 1 24 392213 20180312193508
+173.46.151.175 9 95 1485041 20180316091111
+191.97.127.75 3 48 705977 20180321124418
+181.122.63.95 4 57 819144 20180318214123
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180301 59 691 9571609 20
+20180302 105 365 4910061 14
+20180303 17 175 2418191 11
+20180304 24 194 2593418 13
+20180305 35 485 3874906 13
+20180306 125 251 3341774 9
+20180307 30 158 2068056 9
+20180308 101 240 3015895 11
+20180309 135 632 9087454 16
+20180310 22 195 2719142 9
+20180311 34 138 1915414 10
+20180312 28 349 4810616 16
+20180313 45 546 7830400 17
+20180314 31 323 4400566 20
+20180315 42 418 5556927 14
+20180316 48 442 6025886 14
+20180317 17 143 1868588 9
+20180318 28 310 4377161 13
+20180319 41 400 5268055 20
+20180320 34 469 3763296 14
+20180321 40 413 5925408 15
+20180322 34 379 5484522 17
+20180323 25 263 3600921 16
+20180324 42 223 2888916 18
+20180325 8 49 667429 6
+20180326 41 226 3408908 9
+20180327 9 92 1291241 8
+20180328 14 104 1594819 9
+20180329 3 32 375275 3
+20180330 27 268 3752664 10
+20180331 8 91 1410632 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 48
+1h+ 6
+0s-30s 296
+15mn-30mn 5
+30mn-1h 5
+2mn-5mn 21
+5mn-15mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 79
+/ 358 290717 319 165
+/web2015/html/inicio.htm 193 2522655 17 75
+/web2015/html/servicios.htm 67 976458 27 33
+/web2015/html/contactenos.htm 52 646308 6 31
+/web2015/html/informaciones.htm 41 689907 3 11
+/web2015/html/qsomos.htm 33 601128 6 9
+/web2015/html/exc_inter.htm 32 383776 1 8
+/web2015/html/canada.html 30 445620 0 8
+/web2015/html/sudamerica.html 29 415912 3 9
+/web2015/html/formularios.htm 23 366137 0 7
+/web2015/html/caribe.html 23 341642 1 4
+/web2015/html/europa.html 17 252518 0 4
+/web2015/html/asia.html 14 207942 0 2
+/web2015/html/eeuu.html 13 192985 0 2
+/web2015/html/ok.html 12 143176 0 5
+/web2015/html/cir_especiales.htm 12 767436 0 1
+/web2015/html/arme_circuito.htm 11 200926 0 1
+/web2015/html/exc_nac.htm 11 518342 0 2
+/web2015/html/medio_oriente.html 11 163141 0 0
+/web2015/html/sudafrica.html 10 148320 0 1
+/web2015/html/Congreso/html/programa.htm 8 209144 0 1
+/web2015/html/ 7 13048 0 1
+/web2015/html/Congreso/html/formulario-pago.htm 7 37275 0 1
+/web2015/inicio.htm 7 76494 0 0
+/web2015/html/Congreso/html/acreditacion.htm 7 39942 1 0
+/web2015/promo/Promos2016/v3/EEEUU/ 3 2250 0 0
+/web2015/html/images/ 6 5010 0 0
+/web2015/promo/promo2015/arme_circuito.htm 3 55800 0 0
+/web2015/promo/Promos2016/v3/Europa/ 3 1728 0 0
+/web2015/promo/promo2015/exc_inter1.htm 3 58212 0 0
+/web2015/promo/Promos2016/v2/ 3 10173 0 0
+/web2015/promo/Promos2016/v3/Caribe/ 3 3426 1 0
+/web2015/html/exc_inter1.htm 6 116772 0 0
+/web2015/html/exc_inter2.htm 6 78522 0 0
+/web2015/promo/promo2015/contactenos.htm 3 38289 0 0
+/web2015/html/error.html 6 77844 0 0
+/web2015/html/Congreso/html/ 5 3090 0 0
+/web2015/promo/promo2015/exc_nac.htm 3 142365 0 0
+/web2015/promo/Promos2016/evento-houston/ 3 1647 0 0
+/web2015/promo/promo2015/formularios.htm 3 47322 0 0
+/web2015/promo/promo2015/1er-semestre/ 3 2886 0 0
+/web2015/gingle/ 5 1860 1 0
+/web2015/promo/promo2015/dic2015/ 3 6972 0 0
+/web2015/promo/Promos2016/v3/Cruceros/ 3 1284 0 0
+/web2015/promo/Thumbs.db 3 142848 0 0
+/web2015/pics/ 5 31870 0 0
+/web2015/html/exporodeotrebol2015/ 6 2406 0 0
+/web2015/promo/Promos2016/v4/ 3 5445 0 0
+/web2015/promo/Promos2016/v3/Asia/ 3 1248 0 0
+/web2015/html/fitpar2015/fitpar2015.htm 5 61510 0 2
+/web2015/promo/Promos2016/v3/Canada/ 3 1296 0 1
+/web2015/promo/Promos2016/v3/ 3 2211 0 0
+/web2015/html/js/ 6 3378 0 0
+/web2015/promo/promo2015/ 3 4434 0 0
+/web2015/html/fitpar2015/ 6 4374 0 0
+/web2015/promo/promo2015/exc_inter.htm 3 58206 0 0
+/web2015/promo/promo2015/promo%20nov2015/ 3 6918 0 0
+/web2015/html/Congreso/pic/ 5 9570 0 0
+/web2015/promo/promo2015/informaciones.htm 3 51483 0 0
+/web2015/promo/promo2015/qsomos.htm 3 55650 0 0
+/web2015/promo/Promos2016/v3/Sudamerica/ 3 6156 0 3
+/web2015/html/crucero.html 6 89124 0 0
+/web2015/promo/promo2015/cir_especiales.htm 3 192738 0 0
+/web2015/html/fitpar2014/ 6 7962 0 0
+/web2015/promo/promo2015/servicios.htm 3 51405 0 0
+/web2015/ 7 3374 1 0
+/web2015/html/Congreso/pdf/ 5 7780 0 0
+/web2015/promo/ 5 2220 0 0
+/web2015/html/Congreso/ 6 4098 0 0
+/web2015/html/Congreso/html/tours.htm 7 47124 0 0
+/web2015/promo/promo2015/exc_inter2.htm 3 39087 0 0
+/web2015/html/css/ 6 2202 0 0
+/web2015/promo/Promos2016/v3/Sudafrica/ 3 1470 0 0
+/web2015/promo/Promos2016/v3/Medio_Oriente/ 3 1428 0 0
+/web2015/html/mantenimiento.html 6 36852 0 0
+/web2015/promo/promo2015/promociones%20junio/ 3 2616 0 0
+/web2015/html/Congreso/html/contactenos.htm 7 26887 0 0
+/web2015/promo/promo2015/inicio.htm 3 37911 0 0
+/web2015/promo/Promos2016/ 3 1458 0 0
+END_SIDER

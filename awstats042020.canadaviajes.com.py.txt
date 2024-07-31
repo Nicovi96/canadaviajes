@@ -1,0 +1,1085 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/canadavi/tmp/awstats/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2699                
+POS_VISITOR 31968               
+POS_DAY 44697               
+POS_DOMAIN 3670                
+POS_LOGIN 4429                
+POS_ROBOT 4584                
+POS_WORMS 5356                
+POS_EMAILSENDER 5487                
+POS_EMAILRECEIVER 5630                
+POS_SESSION 45602               
+POS_SIDER 45810               
+POS_FILETYPES 5765                
+POS_DOWNLOADS 6059                
+POS_OS 6273                
+POS_BROWSER 6576                
+POS_SCREENSIZE 8112                
+POS_UNKNOWNREFERER 8186                
+POS_UNKNOWNREFERERBROWSER 8835                
+POS_ORIGIN 9283                
+POS_SEREFERRALS 9426                
+POS_PAGEREFS 9711                
+POS_SEARCHWORDS 10131               
+POS_KEYWORDS 10283               
+POS_MISC 2363                
+POS_ERRORS 10342               
+POS_CLUSTER 4285                
+POS_SIDER_404 10502               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501003304 612 176033 13611638821971
+FirstTime 20200401012510
+LastTime 20200430191121
+LastUpdate 20200501035522 612 0 611 0 0
+TotalVisits 354                 
+TotalUnique 244                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 350                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 327 63399263 85 553 68399494
+1 80 359 76955040 22 73 1387887
+2 118 647 189173995 123 234 3065953
+3 85 679 165273563 78 262 2452447
+4 41 417 86344199 29 88 1158082
+5 14 258 40246438 55 128 1408613
+6 43 350 89364033 145 223 1664409
+7 50 493 111150665 52 125 1112091
+8 63 1245 252846766 26 152 1636445
+9 33 612 81811953 80 164 2762904
+10 133 1460 298571535 85 376 3577006
+11 26 1103 222781956 79 151 1223961
+12 87 1036 245706866 37 132 3314791
+13 248 1143 232009468 102 372 4175071
+14 84 1129 242143012 61 156 2885436
+15 73 342 96007583 94 149 3241453
+16 129 706 163347352 72 298 3092037
+17 110 848 213196641 100 227 6675963
+18 70 567 106154771 71 268 4311104
+19 48 779 137724367 65 243 3178610
+20 114 1054 265551605 78 175 2102919
+21 112 843 220252710 103 193 2471302
+22 124 714 168606415 85 335 3919301
+23 119 1236 231614503 30 449 6908739
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+us 1266 9961 2196964238
+gb 554 2006 541513372
+py 43 1763 328047230
+cn 28 34 1503245
+ru 19 295 99328323
+ar 13 675 128592471
+ca 13 478 90778952
+br 9 500 101132187
+kr 8 328 66918806
+ma 7 331 66488385
+cr 7 11 1349767
+mx 7 271 53004691
+nl 6 6 80711
+it 5 302 59376720
+hr 5 173 33286404
+de 5 165 33182016
+fr 4 169 34735934
+gr 4 4 159136
+ua 3 3 58785
+lt 3 162 32993357
+mk 3 167 34738254
+do 2 100 14991725
+in 2 2 200702
+ro 2 2 200702
+se 2 2 39190
+tz 1 105 12074527
+la 1 1 100351
+ie 2 164 34117340
+es 2 162 33214650
+cz 0 2 842231
+kz 1 1 19595
+au 2 2 200702
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Googlebot/ 393 4682137 20200430145526 0
+PhantomJS 320 66523778 20200418005640 0
+Googlebot\-Image/ 224 4736017 20200428170652 0
+facebookexternalhit/ 170 8278034 20200430213057 0
+bingbot/ 90 14528064 20200430225850 0
+msnbot/ 66 445354 20200428131546 0
+bingpreview 36 993903 20200428141616 0
+YandexBot/ 29 781314 20200430090429 0
+bot[\s_+:,\.\;\/\\-] 22 1533052 20200428234840 0
+crawl 14 827586 20200423131818 0
+link 11 141827 20200430180243 0
+Applebot/ 8 123236 20200429143757 0
+no_user_agent 7 200702 20200418005633 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 301053 20200425014001 0
+java 1 19595 20200401124500 0
+Cliqzbot/ 1 19595 20200420182442 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+woff 6 588144 0 0
+Unknown 35 2884 0 0
+pdf 152 47610846 0 0
+html 1914 141453583 0 0
+woff2 68 3640860 0 0
+eot 6 664686 0 0
+js 1714 13144929 0 0
+css 980 5426110 0 0
+png 1978 29331291 0 0
+gif 78 23269057 0 0
+jpg 11416 3735102309 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/img/visa/requisitosvisaaustralia.pdf 40 0 7470560
+/img/visa/imm5257e2.pdf 39 0 26005980
+/img/visa/nuevazelanda.pdf 38 0 12563560
+/img/visa/imm5645e.pdf 38 0 2611094
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+macosx8 1 1
+linuxandroid 5575 77
+macosx10 8 8
+win7 1015 49
+Unknown 104 64
+macosx11 1 1
+ios_iphone 325 6
+winlong 6 6
+winxp 6200 1583
+win8.1 274 10
+win10 3454 159
+win2000 2 2
+macosx12 271 7
+win8 4 3
+linux 348 16
+ios_ipad 1 1
+macosx 758 36
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 72
+chrome81.0.4044.113 163 3
+chrome40.0.2214.85 12 12
+chrome39.0.2171.95 1 1
+chrome19.0.1055.1 1 1
+firefox28.0 3 3
+chrome79.0.3945.79 2 1
+chrome80.0.3987.162 707 18
+chrome20.0.1092.0 1 1
+chrome80.0.3987.163 1099 21
+chrome79.0.3945.88 2 2
+opera62.0.3331.99 1 1
+chrome79.0.3945.130 159 2
+chrome79.0.3945.117 5 5
+chrome57.0.2987.133 331 26
+firefox18.0 3 3
+chrome73.0.3683.90 3 3
+firefox54.0 1 1
+chrome51.0.2739.74 1 1
+chrome38.0.1025.166 4127 29
+chrome81.0.4044.122 331 7
+chrome72.0.3626.121 1 1
+chrome81.0.4044.111 556 17
+firefox63.0 313 7
+android 9 5
+chrome46.0.2490.80 1 1
+msie11.0 735 10
+msie8.0 4 4
+firefox59.0 1 1
+safari12.1.2 271 7
+msie9.0 48 0
+chrome34.0.1847.116 7 7
+chrome26.0.1410.65 1 1
+safari13.0.5 425 8
+chrome69.0.3947.100 1 0
+chrome45.0.2454.101 6 6
+bonecho 1 1
+chrome81.0.4044.117 102 4
+chrome55.0.2883.87 3 2
+safari13.0.4 164 4
+firefox60.0 1 0
+chrome75.0.3770.142 38 3
+firefox74.0 2 1
+chrome21.0.1180.89 1 1
+edge18 162 2
+opera67.0.3575.97 164 3
+firefox64.0 10 6
+msie7.0 1 1
+mozilla 33 31
+chrome78.0.3904.108 9 9
+chrome77.0.3827.0 302 5
+chrome70.0.3538.102 161 2
+firefox75.0 162 4
+msie10.0 5 5
+chrome31.0.1650.57 1 1
+edge17 325 6
+msie6.0 6200 1583
+firefox57.0 3 3
+safari13.1 162 3
+chrome75.0.3770.100 1 1
+Unknown 71 33
+safari4.0.4 1 1
+opera11.50 1 1
+firefox50.0 2 2
+firefox41.0 1 1
+chrome80.0.3987 1 1
+chrome67.0.3396.99 1 1
+chrome80.0.3987.149 598 10
+chrome78.0.3904.96 250 6
+chrome80.0.3987.122 1 1
+chrome71.0.3578.98 2 2
+chrome66.0.3359.117 2 2
+chrome66.0.3359.181 71 71
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+nTXcHB 20200412095542
+https://gdnplus.com:Gather_Analyze_Provide. 20200407120322
+Mozilla/5.0_(compatible;_ips-agent) 20200418121155
+Mozilla/4.0_(compatible;) 20200427131241
+myseosnapshot/1.0 20200422112943
+Photon/1.0 20200414094515
+Cpanel-HTTP-Client/1.0 20200412011610
+adreview/1.0 20200421091901
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200412011613
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~buzzstream-tools-hrd) 20200424141459
+Go-http-client/1.1 20200430152646
+cortex/1.0 20200421091906
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~buzzstream-tools-hrd) 20200424141459
+https://gdnplus.com:Gather_Analyze_Provide. 20200407120322
+nTXcHB 20200412095542
+Cpanel-HTTP-Client/1.0 20200412011610
+adreview/1.0 20200421091901
+Go-http-client/1.1 20200430152646
+cortex/1.0 20200421091906
+myseosnapshot/1.0 20200422112943
+Photon/1.0 20200414094515
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 293 769
+From1 0 0
+From2 36 69
+From3 6 9
+From4 1694 17500
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+www_google_ch 1 1
+www_google_com_py 3 3
+www_google_es 1 1
+www_google_com_do 1 1
+google_translate 0 33
+www_google_de 3 3
+www_google_com 27 27
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://www.ptfic.org/blog/19283880/profile/ 1 2
+http://www.oudallas.net/forum/19283880/profile/ 1 2
+https://l.facebook.com 1 1
+http://www.wiberlai.net:2086 1 1
+http://m.facebook.com 1 1
+https://m.facebook.com 1 1
+http://tendata.mailsou.com/crawl/searchResult_card.asp 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 4 1238
+206 43 3690244
+406 250 56500
+409 70 5810
+403 523 70082
+404 3224 28166897
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 262
+/tmp/ 3 -
+/deu/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 6 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg
+/img/galeria/machupichu/machupichu.jpg 20 http://www.canadaviajes.com.py/img/galeria/machupichu/machupichu.jpg
+/img/salidasgarantizadas/argentina-sg/arg.jpg 5 http://www.canadaviajes.com.py/deu/
+/deu/+595981602583 17 http://www.canadaviajes.com.py/deu/+595981602583
+/deu/img/toursdestacados/perutd/cuscovinivunca.jpg 6 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/cuscovinivunca.jpg
+/en/img/toursdestacados/perutd/cuscovinivunca.jpg 6 http://www.canadaviajes.com.py/en/img/toursdestacados/perutd/cuscovinivunca.jpg
+/en/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 9 http://www.canadaviajes.com.py/en/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg
+/img/descubripaises/ca/pages/2-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+/en/img/sujetoadisponibilidad/caribe/sanandrestodoela 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/sanandrestodoela
+/img/salidasgarantizadas/brasilbus-sg/rioterrestre.jpg 6 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/rioterrestre.jpg
+/deu/galerialink 18 http://www.canadaviajes.com.py/deu/galerialink
+/img/descubripaises/pe/pages/1-regions.json 1 http://canadaviajes.com.py/img/descubripaises/pe/pe.html
+/img/sujetoadisponibilidad/argentina/calafate2.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/argentina/calafate2.jpg
+/img/sujetoadisponibilidad/canada/otawa1.jpg 7 -
+/en/img/sujetoadisponibilidad/caribe/costaricatodoela%C3%B1o.jpg 6 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/costaricatodoela\xf1o.jpg
+/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 6 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela\xf1o.jpg
+/wordpress/ 5 -
+/2019/ 1 -
+/img/salidasgarantizadas/brasilbus-sg/camboiuterrestre.jpg 6 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/camboiuterrestre.jpg
+/wp-includes/js/jquery/jquery.js 1 -
+/js/header-rollup-554.js 1 -
+/div/ 1 -
+/img/salidasgarantizadas/otrasplayas-sg/1.jpg 3 -
+/img/salidasgarantizadas/cancun-sg/cancunene19.jpg 6 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/cancunene19.jpg
+/en/+595981602583 19 http://www.canadaviajes.com.py/en/+595981602583
+/web2015/html/eeuu.html 3 -
+/img/sujetoadisponibilidad/brasil/brasil1.jpg 17 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/brasil/brasil1.jpg
+/img/sujetoadisponibilidad/argentina/calafate.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/argentina/calafate.jpg
+/img/descubripaises/ce/pages/2-regions.json 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/css/bootstrap.min.css.map 3 -
+/img/descubripaises/ce/pages/2-thumb.jpg 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/back/ 1 -
+/img/toursdestacados/argentinatd/ushtd2.jpg 17 http://www.canadaviajes.com.py/img/toursdestacados/argentinatd/ushtd2.jpg
+/img/toursdestacados/puntacatd/caaribeec.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/caaribeec.jpg
+//wp-content/plugins/apikey/apikey.php 1 -
+/img/descubripaises/ce/pages/4-regions.json 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/home/ 3 -
+/img/descubripaises/pe/pages/4-regions.json 1 http://canadaviajes.com.py/img/descubripaises/pe/pe.html
+/en/galerialink 19 http://www.canadaviajes.com.py/en/galerialink
+/en/img/sujetoadisponibilidad/caribe/SAMANA.jpg 9 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/SAMANA.jpg
+/img/toursdestacados/puntacatd/punfeb.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/punfeb.jpg
+/img/descubripaises/ce/pages/3-regions.json 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/img/sujetoadisponibilidad/argentina/USHUAIA2.jpg 12 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/argentina/USHUAIA2.jpg
+/html/Congreso/pdf/Pre%20Tour%20al%20Pantanal%20Congreso%20Mundial%202015%20Santa%20Gertrudis.pdf 2 -
+/img/sujetoadisponibilidad/canada/canada4.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/canada4.jpg
+/wp1/ 1 -
+/img/toursdestacados/puntacatd/pujfebrero.jpg 17 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/pujfebrero.jpg
+/img/sujetoadisponibilidad/canada/esenciasdeloestecanada.jpg 6 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/esenciasdeloestecanada.jpg
+/img/salidasgarantizadas/otrasplayas-sg/4.jpg 3 -
+/img/descubripaises/ca/pages/1-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+/img/descubripaises/pe/pages/2-regions.json 1 http://canadaviajes.com.py/img/descubripaises/pe/pe.html
+/img/galeria/southafrica/southafrica2.jpg 15 http://www.canadaviajes.com.py/img/galeria/southafrica/southafrica2.jpg
+/en/img/sujetoadisponibilidad/caribe/samana.jpg 6 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/samana.jpg
+/blog/ 7 http://canadaviajes.com.py/blog/
+/+595981602583 79 http://www.canadaviajes.com.py/+595981602583
+/misc/ajax.js 1 -
+/Agradecemos 2 -
+/plugins/system/debug/debug.xml 1 -
+/deu/img/sujetoadisponibilidad/caribe/sanandrestodoela%C3%B1o.jpg 6 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/sanandrestodoela\xf1o.jpg
+/en/img/sujetoadisponibilidad/caribe/sanandrestodoela%C3%B1o.jpg 6 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/sanandrestodoela\xf1o.jpg
+/img/salidasgarantizadas/cancun-sg/cancunotrassg3.jpg 17 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/cancunotrassg3.jpg
+/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 5 -
+/img/sujetoadisponibilidad/canada/canada5.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/canada5.jpg
+/web2015/html/informaciones.htm 4 -
+/web2015/html/exc_nac.htm 8 -
+/img/sujetoadisponibilidad/brasil/brasil-natal.jpg 5 -
+/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 6 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela\xf1o.jpg
+/img/toursdestacados/argentinatd/puertomont.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/argentinatd/puertomont.jpg
+/img/sujetoadisponibilidad/caribe/SAMANA.jpg 3 http://www.canadaviajes.com.py/deu/
+/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela
+/v2/ 1 -
+/web2015/html/qsomos.htm 4 -
+/img/galeria/southafrica/southafrica.jpg 23 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/index.html 90 -
+/img/sujetoadisponibilidad/europa/europa1.jpg 20 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/europa/europa1.jpg
+/img/galeria/japon/japon.jpg 18 http://www.canadaviajes.com.py/img/galeria/japon/japon.jpg
+/img/toursdestacados/puntacatd/puntanatd2.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/puntanatd2.jpg
+/ads.txt 4 -
+/web2015/html/cir_especiales.htm 4 -
+/dev/ 3 -
+/test/ 3 -
+/aleman/html/inicio_v1.htm 2 -
+/img/galeria/southafrica/southafrica3.jpg 16 -
+/img/galeria/bolivia/bolivia.jpg 18 http://www.canadaviajes.com.py/img/galeria/bolivia/bolivia.jpg
+/en/img/toursdestacados/perutd/perutd2.jpg 15 http://www.canadaviajes.com.py/en/img/toursdestacados/perutd/perutd2.jpg
+/en/tel:+59521211192 2 http://www.canadaviajes.com.py/en/index.html
+/wp-login.php 2 -
+/deu/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 6 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg
+/portal/ 1 -
+/img/galeria/japon/japon2.jpg 15 http://www.canadaviajes.com.py/img/galeria/japon/japon2.jpg
+/img/salidasgarantizadas/cancun-sg/cancunbanner.jpg 3 -
+/+/ 1 -
+/wp-includes/wlwmanifest.xml 4 -
+///wp-admin/install.php 1 -
+/js/popper.min.js.map 3 -
+/oldsite/ 1 -
+/admin/ 4 -
+/img/salidasgarantizadas/brasil-sg/natalsg2.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasil-sg/natalsg2.jpg
+/en/img/sujetoadisponibilidad/caribe/costaricatodoela 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/costaricatodoela
+/img/salidasgarantizadas/argentina-sg/gar1.jpg 162 http://www.canadaviajes.com.py/
+/temp/ 3 -
+/img/toursdestacados/argentinatd/mendoza.jpg 17 http://www.canadaviajes.com.py/img/toursdestacados/argentinatd/mendoza.jpg
+/img/toursdestacados/europatd/europavacacionestd.jpg 130 http://www.canadaviajes.com.py
+/2020/ 1 -
+/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 9 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela\xf1o.jpg
+/img/salidasgarantizadas/argentina-sg/gar2.jpg 160 http://www.canadaviajes.com.py/
+/img/toursdestacados/argentinatd/ushtd.jpg 5 http://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunanonuevo.jpg 17 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/cancunanonuevo.jpg
+/img/salidasgarantizadas/brasilbus-sg/FLNTERRESTRE.jpg 12 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/FLNTERRESTRE.jpg
+/wp/ 6 -
+/vendor/phpunit/phpunit/LICENSE 1 -
+/img/salidasgarantizadas/argentina-sg/gar4.jpg 73 http://www.canadaviajes.com.py/img/salidasgarantizadas/argentina-sg/gar4.jpg
+/web2015/html/caribe.html 3 -
+/apple-touch-icon-152x152-precomposed.png 1 -
+/deu/img/sujetoadisponibilidad/caribe/sanandrestodoela 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/sanandrestodoela
+/img/sujetoadisponibilidad/canada/canada2.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/canada2.jpg
+/en/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 10 -
+/img/sujetoadisponibilidad/europa/europa3.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/europa/europa3.jpg
+/img/sujetoadisponibilidad/brasil/brasilimbatible.jpg 17 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/brasil/brasilimbatible.jpg
+/img/galeria/japon/japon4.jpg 15 http://www.canadaviajes.com.py/img/galeria/japon/japon4.jpg
+/img/toursdestacados/puntacatd/pujene.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/pujene.jpg
+/img/descubripaises/ca/bannerbo.jpg 6 -
+/img/salidasgarantizadas/brasilbus-sg/CAMBOIUTERRESTRE.jpg 12 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/CAMBOIUTERRESTRE.jpg
+/img/galeria/cuba/cuba.jpg 18 http://www.canadaviajes.com.py/img/galeria/cuba/cuba.jpg
+/img/descubripaises/ce/pages/5-thumb.jpg 3 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/images/editor/separator.gif 1 -
+/img/salidasgarantizadas/brasil-sg/5.jpg 2 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/img/salidasgarantizadas/otrasplayas-sg/sanandresotrasg.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/otrasplayas-sg/sanandresotrasg.jpg
+/deu/img/sujetoadisponibilidad/caribe/costaricatodoela 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/costaricatodoela
+/tel:+59521211192 2 http://canadaviajes.com.py
+/img/salidasgarantizadas/brasil-sg/3.jpg 2 -
+/img/sujetoadisponibilidad/canada/canada3.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/canada3.jpg
+/app-ads.txt 1 -
+/en/tel:+59581970815 2 http://www.canadaviajes.com.py/en/index.html
+/img/salidasgarantizadas/brasil-sg/2.jpg 2 -
+/img/salidasgarantizadas/brasil-sg/1.jpg 2 -
+/wp/wp-admin/install.php 1 -
+/admin/includes/general.js 1 -
+/img/salidasgarantizadas/brasil-sg/barasil0.jpg 4 -
+/img/galeria/bariloche/.jpg 71 http://www.canadaviajes.com.py/img/galeria/bariloche/.jpg
+/img/sujetoadisponibilidad/europa/europa2.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/europa/europa2.jpg
+/img/galeria/japon/japon3.jpg 15 http://www.canadaviajes.com.py/img/galeria/japon/japon3.jpg
+/img/salidasgarantizadas/brasil-sg/brasilalnatalinclusive.jpg 23 -
+/img/descubripaises/ce/pages/3-thumb.jpg 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/v1/ 1 -
+/bak/ 1 -
+/img/galeria/machupichu/machupichu2.jpg 15 http://www.canadaviajes.com.py/img/galeria/machupichu/machupichu2.jpg
+/en/tel:+59571127188 2 http://www.canadaviajes.com.py/en/index.html
+/img/toursdestacados/puntacatd/pujfeb.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/pujfeb.jpg
+/apple-touch-icon-precomposed.png 3 -
+/img/salidasgarantizadas/brasil-sg/salvadorbahia.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasil-sg/salvadorbahia.jpg
+/img/descubripaises/pe/pages/3-regions.json 1 http://canadaviajes.com.py/img/descubripaises/pe/pe.html
+/img/descubripaises/ce/pages/1-thumb.jpg 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/deu/img/toursdestacados/perutd/perutd2.jpg 12 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/perutd2.jpg
+/old/ 4 -
+/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%83%C2%B1o.jpg 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela\xc3\xb1o.jpg
+/demo/ 3 -
+/2017/ 1 -
+/img/descubripaises/pe/pages/5-regions.json 1 http://canadaviajes.com.py/img/descubripaises/pe/pe.html
+/img/salidasgarantizadas/argentina-sg/buenosaires.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/argentina-sg/buenosaires.jpg
+/img/salidasgarantizadas/cancun-sg/cancunotrassg.jpg 17 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/cancunotrassg.jpg
+/img/salidasgarantizadas/brasilbus-sg/guaatubaterrestre.jpg 6 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/guaatubaterrestre.jpg
+/blog/robots.txt 1 -
+/old-site/ 2 -
+/site/ 3 -
+/img/salidasgarantizadas/brasilbus-sg/caiobaterrestre.jpg 6 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/caiobaterrestre.jpg
+/web2015/html/servicios.htm 11 -
+/web2015/html/arme_circuito.htm 7 -
+/apple-touch-icon-152x152.png 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/img/sujetoadisponibilidad/canada/ESENCIASDELOESTECANADA.jpg 12 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/ESENCIASDELOESTECANADA.jpg
+/img/salidasgarantizadas/argentina-sg/gar5.jpg 73 http://www.canadaviajes.com.py/img/salidasgarantizadas/argentina-sg/gar5.jpg
+/deu/img/sujetoadisponibilidad/caribe/SAMANA.jpg 6 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/SAMANA.jpg
+/tel:+59581970815 2 http://canadaviajes.com.py
+/js/bootstrap.min.js.map 3 -
+/img/galeria/otawa/otawa.jpg 18 http://www.canadaviajes.com.py/img/galeria/otawa/otawa.jpg
+/backup/ 4 -
+//wordpress//wp-admin/install.php 1 -
+/img/sujetoadisponibilidad/canada/estecanadiensecanada.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/estecanadiensecanada.jpg
+/img/galeria/cuba/cuba2.jpg 15 http://www.canadaviajes.com.py/img/galeria/cuba/cuba2.jpg
+/img/salidasgarantizadas/argentina-sg/gar3.jpg 162 http://www.canadaviajes.com.py/
+/img/descubripaises/ar2/ar.html 70 http://www.canadaviajes.com.py/img/descubripaises/ar2/ar.html
+//wp-admin/install.php 5 -
+/img/salidasgarantizadas/otrasplayas-sg/otrasplayasbanner.jpg 2 http://www.canadaviajes.com.py/deu/
+/img/toursdestacados/europatd/semanasantaeuropa2019.jpg 129 http://www.canadaviajes.com.py
+//wp-config-sampleBACKUP.php 1 -
+/img/salidasgarantizadas/brasil-sg/natalsg.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasil-sg/natalsg.jpg
+/web2015/html/inicio.htm 39 -
+/img/toursdestacados/puntacatd/pujjan.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/pujjan.jpg
+/apple-touch-icon.png 3 -
+/deu/img/sujetoadisponibilidad/caribe/samana.jpg 6 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/samana.jpg
+/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 9 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela\xf1o.jpg
+/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%83%C2%B1o.jpg 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela\xc3\xb1o.jpg
+/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela
+/main/ 3 -
+/img/salidasgarantizadas/brasil-sg/maragogisg.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasil-sg/maragogisg.jpg
+/img/salidasgarantizadas/cancun-sg/cancunotrassg2.jpg 17 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/cancunotrassg2.jpg
+/deu/img/toursdestacados/perutd/cuscomachupichu.jpg 6 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/cuscomachupichu.jpg
+/web2015/html/contactenos.htm 42 -
+/web2015/html/exc_inter.htm 3 -
+/web2015/html/europa.html 1 -
+/tel:+59571127188 2 http://canadaviajes.com.py
+/wp2/ 1 -
+/img/sujetoadisponibilidad/canada/canada.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/canada.jpg
+/humans.txt 2 -
+/img/salidasgarantizadas/brasilbus-sg/bannerbrasilbus.jpg 4 -
+/img/descubripaises/ce/pages/1-regions.json 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/img/salidasgarantizadas/brasilbus-sg/CAIOBATERRESTRE.jpg 12 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/CAIOBATERRESTRE.jpg
+/img/salidasgarantizadas/cancun-sg/cancundeciembre.jpg 17 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/cancundeciembre.jpg
+/sito/ 1 -
+/en/img/sujetoadisponibilidad/caribe/costaricatodoela%C3%A3%C2%B1o.jpg 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/costaricatodoela\xe3\xb1o.jpg
+/img/toursdestacados/puntacatd/puntacanatd.jpg 4 http://www.canadaviajes.com.py/deu/
+/2018/ 2 -
+/web/ 3 -
+/img/sujetoadisponibilidad/argentina/bariloche2.jpg 22 -
+/en/img/sujetoadisponibilidad/caribe/sanandrestodoela%C3%A3%C2%B1o.jpg 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/sanandrestodoela\xe3\xb1o.jpg
+/new/ 4 -
+/img/sujetoadisponibilidad/canada/rockymountaineer.jpg 18 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/rockymountaineer.jpg
+/bk/ 1 -
+/robots.txt 191 -
+/img/salidasgarantizadas/brasil-sg/4.jpg 2 -
+/cms/ 3 -
+/img/salidasgarantizadas/brasil-sg/maceiosg.jpg 19 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasil-sg/maceiosg.jpg
+/img/quienes-somos2.jpg 2 -
+/img/sujetoadisponibilidad/argentina/ushuaia2.jpg 6 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/argentina/ushuaia2.jpg
+/img/salidasgarantizadas/brasil-sg/6.jpg 2 -
+/img/toursdestacados/perutd/perutd2.jpg 4 -
+/img/sujetoadisponibilidad/brasil/costadesauipebra.jpg 17 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/brasil/costadesauipebra.jpg
+//vendor/phpunit/phpunit/LICENSE 1 -
+/wordpress/wp-admin/install.php 4 -
+/img/salidasgarantizadas/otrasplayas-sg/3.jpg 2 -
+/owa/auth/logon.aspx 1 -
+/img/salidasgarantizadas/brasilbus-sg/GUAATUBATERRESTRE.jpg 12 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/GUAATUBATERRESTRE.jpg
+/img/salidasgarantizadas/brasilbus-sg/RIOTERRESTRE.jpg 12 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/RIOTERRESTRE.jpg
+/img/galeria/bolivia/bolivia2.jpg 15 http://www.canadaviajes.com.py/img/galeria/bolivia/bolivia2.jpg
+/web2015/html/formularios.htm 3 -
+/img/descubripaises/ce/pages/5-regions.json 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/wp-includes/css/css.php 1 -
+/old-wp/ 2 -
+/img/galeria/bolivia/bolivia3.jpg 15 http://www.canadaviajes.com.py/img/galeria/bolivia/bolivia3.jpg
+/img/descubripaises/ce/pages/4-thumb.jpg 2 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/img/galeria/otawa/otawa2.jpg 15 http://www.canadaviajes.com.py/img/galeria/otawa/otawa2.jpg
+/en/img/toursdestacados/perutd/cuscomachupichu.jpg 6 http://www.canadaviajes.com.py/en/img/toursdestacados/perutd/cuscomachupichu.jpg
+/web2015/html/Congreso/html/programa.htm 2 -
+/img/salidasgarantizadas/otrasplayas-sg/cartagenaybarusg.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/otrasplayas-sg/cartagenaybarusg.jpg
+/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela
+/img/salidasgarantizadas/otrasplayas-sg/arubaenero2019.jpg 18 http://www.canadaviajes.com.py/img/salidasgarantizadas/otrasplayas-sg/arubaenero2019.jpg
+/admin/view/javascript/common.js 1 -
+/.well-known/autoconfig/mail/config-v1.1.xml 2 -
+/img/toursdestacados/puntacatd/puntacanafeb.jpg 18 http://www.canadaviajes.com.py/img/toursdestacados/puntacatd/puntacanafeb.jpg
+/img/salidasgarantizadas/cancun-sg/CANCUNENE19.jpg 11 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/CANCUNENE19.jpg
+/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela
+/wp-json/rankmath/v1/ 2 -
+/deu/img/sujetoadisponibilidad/caribe/costaricatodoela%C3%B1o.jpg 6 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/costaricatodoela\xf1o.jpg
+/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 3 http://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/flnterrestre.jpg 6 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/flnterrestre.jpg
+/img/toursdestacados/europatd/europatd.jpg 5 -
+/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 3 http://www.canadaviajes.com.py/deu/
+/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 350
+51.141.110.90 484 1804 490696894 20200413215903
+52.231.154.113 356 1148 300107890 20200415165742
+40.74.64.75 247 1034 290188391 20200429231632
+40.74.113.253 146 675 192632984 20200414125756
+40.74.75.198 133 662 191572938 20200413193430
+52.231.164.35 114 510 144784719 20200414084326
+51.120.69.154 62 194 50659718 20200414094647
+104.46.226.1 38 170 48261573 20200410101328
+192.185.31.77 23 23 1840 20200412011613
+142.160.19.155 8 163 26867119 20200420232606
+66.70.157.189 8 473 75078525 20200424232535
+206.189.44.115 8 8 802808 20200428205157
+138.186.31.239 7 11 1349767 20200420033658
+193.148.18.219 7 139 45149701 20200414025442
+23.236.219.43 7 11 1349767 20200415000749
+46.101.9.216 6 6 80711 20200429081325
+181.40.76.190 5 179 41301023 20200401065547
+78.0.30.144 5 173 33286404 20200410111226
+177.225.151.103 5 197 40123213 20200416193312
+151.55.34.118 5 302 59376720 20200424212656
+190.104.176.95 4 163 33012952 20200430122657
+173.77.152.163 4 164 33256025 20200428175204
+66.249.222.186 4 102 10485413 20200426195320
+191.97.125.184 4 163 33012952 20200421175456
+221.145.183.108 4 164 33459403 20200422224518
+66.102.8.20 0 56 11053064 
+123.14.123.204 2 2 39190 20200408105455
+18.217.46.242 3 38 310485 20200430145822
+64.233.172.233 0 3 569185 
+64.233.172.10 0 1 24352 
+187.55.216.11 3 163 33236430 20200404115803
+117.156.56.5 1 1 100351 20200427171227
+23.239.180.212 1 1 100351 20200405022448
+64.233.172.76 0 2 771111 
+23.239.180.74 1 1 100351 20200401074554
+64.233.172.231 0 4 1220835 
+207.46.13.134 0 1 707 
+74.125.212.10 0 3 1817791 
+54.191.18.154 1 1 19595 20200417130836
+107.6.169.250 2 2 39190 20200428212633
+44.234.33.40 1 1 19595 20200418130220
+14.152.90.40 3 3 58785 20200408134706
+69.171.251.27 0 1 451345 
+66.102.6.200 0 3 515178 
+110.89.5.157 1 2 20170 20200422154839
+40.77.167.32 0 5 18202 
+69.171.251.26 0 2 902690 
+14.152.90.35 3 3 58785 20200407084139
+209.250.235.206 1 1 19595 20200419115316
+64.233.172.12 0 3 572132 
+34.215.237.214 1 1 19595 20200422133655
+114.119.167.186 0 1 186764 
+66.220.149.30 0 1 451345 
+123.14.125.202 1 1 19595 20200407075457
+74.125.212.12 0 3 620870 
+34.217.115.137 1 1 19595 20200405051403
+69.171.251.23 0 1 451345 
+85.14.243.126 1 1 100351 20200429235017
+45.228.60.193 3 163 33236430 20200407163320
+69.171.251.17 0 3 1354035 
+209.59.181.92 1 1 19595 20200422112943
+64.233.172.202 0 5 798229 
+35.160.255.75 1 1 19595 20200410131537
+62.1.216.128 3 3 58785 20200422023029
+177.225.143.50 1 53 9887978 20200415184726
+31.13.115.13 1 1 19595 20200420170928
+78.61.64.124 3 162 32993357 20200416082219
+66.249.88.88 0 50 10172007 
+31.13.127.24 0 1 451345 
+23.226.211.36 0 1 27832 
+109.234.34.254 1 1 100351 20200406214207
+173.252.127.11 0 1 451345 
+69.171.251.16 0 1 451345 
+94.230.146.210 0 2 842231 
+91.132.138.62 1 1 100351 20200412082050
+181.124.164.143 3 100 10816585 20200428052315
+190.128.164.218 2 28 7099845 20200429101317
+52.25.9.91 1 1 19595 20200401133046
+47.94.102.174 1 1 100351 20200424175117
+34.220.149.209 1 1 19595 20200426132058
+35.166.46.159 1 1 19595 20200407132434
+54.213.138.144 1 1 19595 20200407082231
+34.220.14.15 1 1 19595 20200429133348
+66.220.149.14 0 3 1354035 
+173.252.95.39 0 1 451345 
+34.223.42.199 1 1 19595 20200418130159
+34.209.112.133 2 2 39190 20200424130358
+177.225.133.186 1 21 2993500 20200414194601
+64.78.149.164 3 3 261 20200412011612
+66.102.6.204 0 7 857459 
+62.210.139.65 1 1 17867 20200403180321
+40.77.167.68 0 3 69739 
+199.127.56.236 2 159 33185329 20200405212457
+106.51.234.248 2 2 200702 20200423091518
+54.186.244.218 1 1 19595 20200409074816
+31.13.115.25 0 56 10832260 
+190.210.237.24 3 163 33236430 20200423091108
+52.24.164.191 1 1 19595 20200428131836
+54.202.42.191 1 1 19595 20200427130905
+64.233.172.170 0 4 341304 
+157.55.39.229 0 1 3128 
+95.216.7.190 1 1 19595 20200404181742
+54.189.170.116 1 1 19595 20200421132310
+173.252.95.36 0 1 451345 
+190.128.130.242 0 2 0 
+190.128.234.114 1 73 8665828 20200417100316
+66.220.149.2 0 1 451345 
+44.234.39.113 1 1 19595 20200404133007
+54.186.74.181 1 1 19595 20200403133239
+52.36.181.78 1 1 19595 20200416000812
+188.163.104.113 1 1 19595 20200412031231
+34.209.148.45 1 1 19595 20200423131921
+54.245.78.73 1 1 19595 20200422130834
+34.221.191.240 2 2 39190 20200429130854
+170.51.51.12 3 161 33234941 20200430082955
+77.74.177.114 1 1 19595 20200423143223
+64.233.172.106 0 10 1448657 
+54.213.156.55 1 1 19595 20200419131751
+66.102.6.172 0 5 676089 
+162.213.37.177 1 1 19595 20200401225442
+141.101.143.31 2 77 27869114 20200415201814
+66.102.6.231 0 3 1248021 
+34.217.175.191 1 1 19595 20200415131515
+66.102.8.8 0 261 43365713 
+173.252.95.2 0 1 451345 
+31.13.115.21 0 52 10462738 
+69.171.251.12 0 1 451345 
+64.233.172.172 0 3 844071 
+52.13.201.196 1 1 19595 20200417130456
+181.126.133.118 2 3 228534 20200408101905
+66.249.83.104 3 438 86130056 20200424195045
+64.233.172.204 0 5 1187467 
+54.214.66.215 1 1 19595 20200430131545
+114.119.166.222 1 1 2779 20200402230019
+93.159.230.28 1 1 19595 20200409143144
+188.26.222.225 1 1 100351 20200413013902
+207.46.13.203 0 5 92929 
+34.212.28.118 1 1 19595 20200419131734
+54.71.44.110 1 1 19595 20200414131541
+40.77.167.172 0 3 15852 
+114.119.164.58 2 2 35734 20200411181543
+192.36.70.176 1 1 19595 20200430152646
+31.13.115.6 1 53 11900057 20200420170932
+181.94.228.104 3 163 33236430 20200422202916
+64.233.172.104 0 2 730613 
+66.102.6.235 1 6 2034009 20200401082713
+157.55.39.148 0 4 9567 
+64.233.172.72 0 4 400332 
+66.102.8.24 1 42 6327864 20200405141800
+18.237.143.44 1 1 19595 20200405133758
+18.237.63.248 1 1 19595 20200403053005
+52.33.179.40 1 1 19595 20200422130420
+34.216.86.222 1 1 19595 20200403133645
+104.36.18.163 1 1 19595 20200417001808
+181.40.16.6 2 161 33186818 20200410094340
+207.46.13.21 0 1 2907 
+14.17.70.184 3 3 58785 20200427181411
+34.210.58.217 1 1 19595 20200428130406
+181.121.206.72 3 150 30907127 20200427001603
+114.119.161.111 0 2 351462 
+106.110.48.103 1 1 100351 20200408065803
+122.13.163.130 3 3 58785 20200411111334
+209.201.91.11 3 259 33359052 20200415102633
+165.22.116.27 1 1 19595 20200429003911
+141.101.143.6 1 67 24674087 20200429124523
+66.249.88.86 0 59 10292595 
+92.177.33.76 3 168 34718067 20200420073926
+170.130.187.2 1 1 100351 20200406193234
+52.33.129.54 1 1 19595 20200406074143
+34.212.37.255 1 1 19595 20200425132549
+51.15.124.39 1 1 19595 20200404050521
+64.233.172.44 0 91 16857218 
+44.226.205.195 1 1 19595 20200430131117
+34.214.171.73 1 1 19595 20200404074402
+66.102.6.12 0 5 645096 
+185.205.209.198 1 4 1236393 20200401223010
+54.212.72.166 1 1 19595 20200401133039
+52.27.151.114 1 1 19595 20200401095800
+66.102.6.168 0 4 597628 
+54.213.203.108 1 1 19595 20200426132100
+212.92.123.162 1 1 19595 20200426022247
+52.15.254.228 3 3 261 20200412011612
+54.183.90.107 2 2 119946 20200427121359
+66.102.8.10 2 250 39273565 20200422095553
+64.233.172.200 0 7 1446989 
+18.237.178.154 1 1 19595 20200408132303
+207.46.13.199 0 1 782 
+69.171.251.15 0 1 451345 
+123.245.27.130 2 2 39190 20200427004953
+69.171.251.18 0 1 451345 
+181.36.194.32 2 100 14991725 20200415105601
+54.201.209.214 1 1 19595 20200418002412
+54.173.50.115 1 1 0 20200421090921
+31.13.127.4 0 1 451345 
+142.4.219.91 2 161 33207682 20200424232904
+18.237.141.196 1 1 19595 20200415024946
+104.36.19.59 1 1 19595 20200423012217
+34.209.115.86 1 1 19595 20200402134956
+54.71.244.147 1 1 19595 20200409131935
+185.255.133.240 1 1 19595 20200416081925
+34.222.193.174 1 1 19595 20200423131827
+104.222.33.59 0 1 27832 
+34.212.196.251 1 1 19595 20200419131752
+104.206.128.18 1 1 100351 20200407120322
+192.71.126.175 1 1 19595 20200408002345
+157.55.39.195 0 1 3428 
+35.167.2.149 1 1 19595 20200420130931
+34.223.229.26 1 1 19595 20200423141920
+34.222.229.130 3 3 261 20200412011612
+34.222.192.147 1 1 19595 20200423132159
+23.226.211.201 1 1 100351 20200401030657
+77.28.2.45 3 167 34738254 20200406030512
+207.46.13.250 0 4 9567 
+54.70.234.51 1 1 19595 20200413091751
+69.171.251.5 0 1 451345 
+188.26.222.177 1 1 100351 20200416212322
+192.0.102.68 0 1 435652 
+66.70.160.92 2 2 39190 20200403134652
+52.26.147.195 1 1 19595 20200412093110
+66.102.6.157 0 5 513324 
+173.252.87.22 0 1 451345 
+44.234.45.61 1 1 19595 20200418130236
+34.219.44.137 1 1 19595 20200430131257
+35.165.39.96 1 1 19595 20200412132205
+193.93.192.230 1 1 19595 20200429143517
+69.171.251.11 0 1 451345 
+54.186.38.90 1 1 19595 20200426132100
+200.150.83.249 3 168 33245285 20200406083844
+34.217.120.155 1 1 19595 20200424130251
+85.56.88.82 2 162 33214650 20200415104902
+60.24.189.239 0 1 210050 
+52.39.90.152 1 1 19595 20200409054800
+82.113.98.9 3 162 32993357 20200427030758
+202.137.141.40 1 1 100351 20200424162025
+66.249.83.106 3 432 78714018 20200430144213
+157.55.39.85 0 6 35555 
+181.126.83.67 3 81 6722447 20200417190854
+173.252.127.34 0 1 451345 
+172.105.35.74 1 2 47427 20200403161937
+52.36.59.58 1 1 19595 20200405133741
+34.219.92.97 1 1 19595 20200422130422
+66.249.88.140 4 520 103155763 20200427181329
+35.162.66.112 1 1 19595 20200417011429
+35.161.80.40 1 1 19595 20200427130912
+78.137.21.28 1 1 19595 20200410182758
+54.202.23.219 1 1 19595 20200404133007
+157.55.39.53 0 2 13319 
+74.125.212.8 0 4 1254151 
+23.239.180.172 1 1 100351 20200401031814
+66.102.8.22 0 48 10524749 
+64.233.172.108 0 4 31039 
+173.252.95.26 0 1 451345 
+66.102.6.233 0 1 32057 
+23.239.180.87 1 1 100351 20200426082614
+40.77.167.138 0 1 707 
+201.217.54.246 0 64 11189867 
+54.202.131.206 1 1 19595 20200411131902
+181.94.228.214 2 115 13601286 20200413081724
+173.252.95.19 0 1 451345 
+5.252.69.21 1 1 19595 20200411063557
+45.228.62.45 4 168 33251955 20200425201300
+34.222.59.67 1 1 19595 20200430131441
+173.252.95.17 0 1 451345 
+66.220.149.25 0 1 451345 
+157.55.39.180 0 5 33652 
+34.211.55.232 1 1 19595 20200428131800
+35.223.111.244 1 1 52737 20200417063349
+35.163.68.107 1 1 19595 20200425131107
+173.252.95.16 0 1 451345 
+66.102.6.10 0 3 452768 
+104.222.33.159 0 1 27832 
+34.219.76.202 1 1 19595 20200413131737
+54.149.229.127 1 1 19595 20200402081542
+3.91.151.249 1 1 19595 20200401164634
+54.218.139.81 1 1 19595 20200406231126
+51.77.249.198 4 4 78380 20200416133812
+194.5.53.6 1 1 19595 20200402075951
+54.187.181.90 1 1 19595 20200423131922
+23.82.136.227 1 20 9829041 20200402213859
+64.233.172.40 0 105 19822293 
+64.233.172.235 0 5 765915 
+18.236.193.130 1 1 19595 20200408053515
+18.236.171.188 1 1 19595 20200420130704
+66.102.6.170 0 2 555691 
+104.222.33.254 0 1 27832 
+66.249.83.108 3 442 93288676 20200421125437
+157.55.39.40 0 1 37130 
+23.226.211.148 1 1 100351 20200401014629
+52.36.160.174 1 1 19595 20200429130533
+139.59.67.152 2 2 200702 20200404134307
+66.220.149.29 0 1 451345 
+69.171.251.32 0 1 451345 
+34.218.229.88 1 1 19595 20200416132138
+157.55.39.131 0 3 15218 
+173.82.187.112 3 3 100351 20200425005313
+167.99.60.44 1 1 19595 20200430191121
+66.102.8.12 3 231 34003301 20200427181328
+190.128.216.210 3 150 29009819 20200423093454
+72.13.62.25 3 3 55579 20200418121155
+66.220.149.27 0 1 451345 
+221.145.183.107 4 164 33459403 20200422224423
+173.252.95.18 0 1 451345 
+66.102.6.159 0 2 768470 
+64.233.172.42 2 107 21836338 20200422100406
+195.140.212.106 0 1 68713 
+190.112.168.100 2 72 14966313 20200429101237
+51.77.249.202 2 2 39190 20200414124334
+157.55.39.150 0 1 1775 
+54.245.49.196 2 2 39190 20200423131921
+66.102.6.158 0 1 3428 
+54.191.135.243 1 1 19595 20200421130303
+18.236.251.245 1 1 19595 20200410073558
+66.249.88.146 4 458 90433435 20200429103450
+64.233.172.168 0 9 1499236 
+34.214.42.138 2 2 39190 20200418130658
+64.246.178.34 1 1 19595 20200416124419
+107.178.194.139 1 1 19595 20200424141459
+35.167.206.92 1 1 19595 20200426133558
+191.205.9.9 3 169 34650472 20200414134721
+181.124.182.245 2 48 10033697 20200413232458
+54.190.94.215 1 1 19595 20200411071344
+192.162.101.55 1 1 100351 20200405121501
+64.233.172.74 0 7 727931 
+52.39.74.38 1 1 19595 20200428131751
+91.79.63.93 1 1 100351 20200420142046
+52.28.236.88 3 3 261 20200412011612
+41.59.81.141 1 105 12074527 20200401040713
+69.171.251.35 0 1 451345 
+142.161.10.64 3 154 30704151 20200421000350
+114.119.162.122 1 1 19595 20200409035440
+181.122.234.89 2 71 6531485 20200415195604
+69.171.251.1 0 1 451345 
+207.180.246.61 1 1 19595 20200407115149
+183.253.80.123 1 2 20170 20200412122041
+54.188.30.36 1 1 19595 20200402135106
+172.87.30.179 1 1 100351 20200412095542
+51.68.152.26 1 1 19595 20200405042440
+181.40.22.2 3 164 33236870 20200428135521
+66.102.6.8 0 4 1452047 
+181.123.105.187 4 163 33091381 20200414235714
+66.249.88.90 1 44 10945891 20200403125439
+66.249.88.143 3 502 97295031 20200421051514
+170.51.132.32 0 1 317071 
+104.36.16.186 1 1 19595 20200408215319
+34.219.250.241 1 1 19595 20200422130806
+114.119.167.116 1 1 2758 20200403012621
+221.14.168.151 1 1 19595 20200411100324
+54.191.107.3 2 2 39190 20200427130905
+34.222.201.138 1 1 19595 20200425112311
+66.102.6.202 0 2 757279 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200401 18 452 85532863 14
+20200402 8 323 68403306 8
+20200403 11 311 60505266 10
+20200404 11 314 60748273 8
+20200405 10 461 90793383 9
+20200406 10 339 68223431 6
+20200407 11 172 33473946 7
+20200408 116 249 54605755 20
+20200409 375 1564 436718061 25
+20200410 233 1649 413912765 25
+20200411 277 1476 409413626 20
+20200412 321 850 203813284 21
+20200413 148 704 170923390 10
+20200414 72 989 227992585 12
+20200415 90 1127 254071135 16
+20200416 15 506 94256494 12
+20200417 9 159 15519392 7
+20200418 14 592 118524087 11
+20200419 7 93 7769137 5
+20200420 21 594 119443748 9
+20200421 12 647 135677413 8
+20200422 23 885 129351391 13
+20200423 17 474 92674766 12
+20200424 19 946 170100385 9
+20200425 11 184 33472151 6
+20200426 10 108 10683739 7
+20200427 19 625 124129973 11
+20200428 23 442 78527334 10
+20200429 101 596 135386793 13
+20200430 17 516 95586827 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 3
+30mn-1h 6
+30s-2mn 20
+0s-30s 315
+1h+ 3
+2mn-5mn 1
+5mn-15mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/ 1206 99616153 334 268
+/en/ 249 20012611 8 8
+/deu/ 242 19916404 2 5
+/img/descubripaises/ca/ca.html 74 575969 1 5
+/img/descubripaises/ce/ce.html 73 571844 1 19
+/img/descubripaises/pe/pe.html 68 559900 0 5
+/fonts/fontawesome-webfont.woff2 39 3009240 1 12
+/fonts/Linearicons-Free.woff2 29 631620 1 19
+/fonts/fontawesome-webfont.woff 6 588144 0 3
+/.well-known/acme-challenge/hfE8F4ccy6pehTJnMhgcQA5-LDnXHPVlKBEaP9kQGU0 4 348 0 0
+/.well-known/acme-challenge/c2qUNTpwceXQNAV4iU-jlZL7mCb3X6YER11qB67z3Cg 4 348 0 1
+/.well-known/acme-challenge/Tc1AWD3s6ZVyN6jAhM7pKEKaMRiyFlsOSh6NX2qgnWo 4 348 0 0
+/.well-known/acme-challenge/S7Q1RWKOpioOEosUmDXw-DviXMshxUnyB7JveunJQ7c 4 348 0 0
+/.well-known/acme-challenge/GXPUkXQAvhfcjupiuo4v9aavuLGO2z-DM_s15YwFt2E 4 348 4 0
+/.well-known/acme-challenge/PJeUFu1F5KTGRCneRQvGz9reypyaayWIdkIUoz22F1Y 4 348 0 0
+/.well-known/acme-challenge/hpMUre4fJ_Ht6BwS90AFQU14XdDceq20q9WRQ_Rukkc 4 348 0 4
+/fonts/fontawesome-webfont.eot 3 497226 0 0
+/fonts/Linearicons-Free.eot 3 167460 0 3
+// 2 200702 1 2
+/.well-known/acme-challenge/1YEN8ZAJ6RA9LKZYI0D0BEMUYHNIF55- 1 64 0 0
+/.well-known/acme-challenge/HC_Q5GQWLB4G-4ZQHIKPR9TRXK_5RFIL 1 64 0 0
+/.well-known/acme-challenge/9DZR3ZOSYOOJG66CP9ZHY26LLFLBKHG3 1 64 1 0
+/.well-known/acme-challenge/CYL62G-OI_SQF2SB56O3HF1Q0LOCEZSH 1 64 0 0
+/.well-known/acme-challenge/ABI4W3K19PKKY2QEHTLWIY6EBGTJ6KSO 1 64 0 0
+/.well-known/acme-challenge/XSVBAN6L5T40MFQ6IQVJZ37OAYWV22H4 1 64 0 0
+/.well-known/acme-challenge/ED8NY9HWXZRNBIH-3HREXJ-6V8-K8IT3 1 64 0 0
+END_SIDER

@@ -1,0 +1,2103 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/canadavi/tmp/awstats/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2702                
+POS_VISITOR 70443               
+POS_DAY 88054               
+POS_DOMAIN 3675                
+POS_LOGIN 4571                
+POS_ROBOT 4726                
+POS_WORMS 5604                
+POS_EMAILSENDER 5735                
+POS_EMAILRECEIVER 5878                
+POS_SESSION 89001               
+POS_SIDER 89209               
+POS_FILETYPES 6013                
+POS_DOWNLOADS 6299                
+POS_OS 6512                
+POS_BROWSER 6863                
+POS_SCREENSIZE 8769                
+POS_UNKNOWNREFERER 8843                
+POS_UNKNOWNREFERERBROWSER 9391                
+POS_ORIGIN 9749                
+POS_SEREFERRALS 9894                
+POS_PAGEREFS 10266               
+POS_SEARCHWORDS 10572               
+POS_KEYWORDS 10724               
+POS_MISC 2366                
+POS_ERRORS 10783               
+POS_CLUSTER 4427                
+POS_SIDER_404 10945               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190601000524 2209 610408 21695402630565
+FirstTime 20190501000029
+LastTime 20190531234534
+LastUpdate 20190601054355 2209 0 2208 0 0
+TotalVisits 461                 
+TotalUnique 367                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 456                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 79 9347252 48 218 11382129
+1 12 188 33421391 48 146 5526923
+2 10 161 33174894 84 297 33820512
+3 48 661 146837262 41 198 7235346
+4 14 202 41060216 39 317 29270499
+5 23 520 98658730 29 154 6892895
+6 21 598 110929771 36 104 4766170
+7 37 741 146439291 45 486 40651658
+8 65 2029 374532645 56 318 6761283
+9 59 2277 408632626 60 380 10840538
+10 49 1572 317343669 45 479 30256064
+11 44 1738 340846883 207 321 6459183
+12 44 1934 391518423 41 148 8988499
+13 55 1877 390375644 52 259 8221291
+14 52 1634 337423800 46 397 26516157
+15 53 2093 403137983 60 257 12033115
+16 30 1388 283399885 1077 1343 17727144
+17 71 1734 367732330 45 199 4166307
+18 32 1282 248798155 50 156 6824159
+19 16 547 98920191 41 132 3197999
+20 33 649 103630065 38 128 8546344
+21 67 1348 261010464 52 230 7785457
+22 26 548 107555012 58 341 19234996
+23 96 283 43448915 57 320 9218345
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 41
+us 471 6803 1337048506
+py 208 10776 2125480310
+ar 37 1728 329324992
+ca 30 884 168364488
+cn 25 686 121703322
+de 24 399 73981585
+co 21 1234 252489367
+ua 16 16 1446109
+cr 15 723 109501695
+br 15 474 98849911
+nl 14 321 64964272
+ru 12 285 56970983
+pe 8 328 73630825
+tr 8 161 33201261
+in 7 9 1020389
+fr 6 159 33147360
+pl 5 5 448519
+bo 5 199 34330471
+ma 5 279 52753312
+gb 5 5 454098
+mx 5 300 69852758
+it 4 4 355964
+sk 4 174 37237339
+id 3 3 272149
+at 2 3 191035
+kr 0 1 195561
+do 0 1 186098
+pa 0 1 16988
+ie 2 2 182755
+ng 1 20 4458681
+np 0 2 432573
+es 2 39 2825481
+cl 0 1 166784
+hn 0 2 1150479
+ve 2 35 4993771
+th 1 1 83815
+ec 0 4 2534831
+al 1 1 83815
+jp 1 1 88588
+ir 1 12 2552802
+uy 0 2 1201455
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+bingpreview 1064 125269916 20190530183559 0
+Googlebot/ 404 17432830 20190531201843 0
+bingbot/ 343 43776441 20190531230449 0
+Googlebot\-Image/ 137 8002864 20190530015635 0
+no_user_agent 130 29047109 20190531113555 0
+facebookexternalhit/ 73 20205412 20190531063136 0
+spider 52 1280102 20190503235711 0
+YandexBot/ 32 1914955 20190531075034 0
+Uptimebot/ 32 182755 20190527141246 0
+bot[\s_+:,\.\;\/\\-] 28 2586465 20190531201340 0
+Baiduspider/ 24 1946070 20190531164611 0
+Apache\-HttpClient/ 15 1412505 20190524162827 0
+Applebot/ 10 670751 20190526054915 0
+FirePHP/ 5 278796 20190519095323 0
+Exabot/ 1 8315 20190525024305 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 94167 20190525201651 0
+YandexImages/ 1 557797 20190528131657 0
+curl 1 88588 20190515025134 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+woff2 241 12582780 0 0
+html 708 56513452 0 0
+gif 15 20443 0 0
+pdf 42 14710451 0 0
+js 3847 79325982 0 0
+png 4526 640000892 0 0
+php 6 42 0 0
+jpg 14485 4237167798 0 0
+css 2202 56715665 0 0
+woff 3 251744 0 0
+eot 8 886248 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/img/visa/imm5257e2.pdf 20 0 13336400
+/img/visa/imm5645e.pdf 15 0 1030695
+/img/visa/nuevazelanda.pdf 13 0 4298060
+/img/visa/requisitosvisaaustralia.pdf 11 0 2054404
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+linuxandroid 6352 116
+winxp 734 157
+macosx5 1 1
+win8 192 7
+ios_iphone 1369 32
+ios_ipad 157 3
+win2000 1 1
+macosx12 2 1
+win8.1 1126 31
+linux 843 67
+macosx9 218 5
+macosx11 8 8
+macosx10 2 2
+win10 8772 291
+Unknown 296 37
+win7 4778 149
+win2003 10 4
+macosx 999 38
+macosx8 174 5
+winlong 49 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 89
+edge17 4 0
+opera45.0.2552.898 1 1
+firefox33.0 1 1
+safari9.1.3 217 4
+safari12.0.3 132 3
+chrome34.0.1847.131 2 2
+chrome66.0.3359.139 304 4
+firefox42.0 1 1
+firefox60.0 340 9
+chrome14.0.803.0 1 1
+chrome70.0.3538.77 4 4
+safari 483 10
+chrome63.0.3239.84 1 1
+firefox37.0 1 1
+chrome46.0.2490.80 1 1
+safari12.1.1 221 6
+chrome63.0.3239.132 19 19
+firefox67.0 157 3
+mozilla 57 3
+android 205 7
+chrome74.0.3729.108 156 3
+chrome66.0.3359.181 61 61
+chrome61.0.3163.100 6 6
+chrome74.0.3729.131 4747 92
+msie9.0 157 5
+Unknown 206 32
+chrome58.0.3029.83 1 0
+chrome55.0.2883.91 152 2
+chrome38.0.1025.166 1884 14
+msie10.0 36 3
+firefox58.0 4 4
+safari4.7.2 1 1
+chrome73.0.3683.90 644 15
+chrome72.0.3626.105 154 3
+opera54.0.2952.60 1 1
+chrome67.0.3396.87 219 7
+firefox11.0 1 0
+firefox21.0 1 1
+chrome50.0.2676.22 1 1
+chrome74.0.3729.136 521 12
+msie11.0 479 12
+firefox63.0 3 3
+firefox54.0 2 2
+chrome66.0.3359.117 2 2
+msie6.0 418 150
+chrome60.0.3112.50 38 4
+chrome21.0.1180.89 1 1
+chrome51.0.2704.106 3 1
+chrome59.0.3071.86 2 2
+chrome63.0.3239.111 280 8
+chrome72.0.3626.109 37 37
+chrome59.0.3071.115 1 1
+chrome65.0.3325.181 308 43
+chrome70.0.3538.110 333 8
+chrome59.0.3071.109 1 1
+chrome57.0.2987.133 53 20
+chrome73.0.3683.86 155 4
+chrome68.0.3440.91 308 6
+chrome74.0.3729.169 3557 67
+chrome71.0.3578.99 155 4
+chrome55.0.2883.87 3 2
+chrome60.0.3112.90 1 1
+firefox66.0 1290 25
+wap 33 2
+safari11.0 150 2
+chrome74.0.3729.157 3714 69
+chrome73.0.3683.103 1115 14
+msie7.0 11 5
+chrome74.0.3729.112 312 7
+chrome64.0.3282.186 1 1
+firefox47.0 9 9
+firefox27.0 1 1
+chrome58.0.3029.110 5 5
+firefox55.0 1 1
+opera45.0.2552.888 1 1
+safari12.1 705 19
+iphone 161 3
+safari12.0 158 3
+chrome42.0.2311.152 1 1
+chrome49.0.2623.112 487 10
+firefox59.0 1 1
+msie8.0 5 5
+firefox53.0 4 4
+chrome34.0.1847.116 6 6
+safari10.0.3 1 1
+firefox40.1 3 3
+safari5.4.9 1 1
+chrome67.0.3396.99 312 7
+chrome69.0.3497.100 350 37
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Scrapy/1.6.0_(_https://scrapy.org) 20190504001635
+ltx71_-_(http://ltx71.com/) 20190527091951
+Mozilla/5.0_(compatible;_ips-agent) 20190522233415
+Go-http-client/1.1 20190530211826
+Mozilla/4.0_(compatible;) 20190525122644
+\ 20190515025112
+python-requests/2.21.0 20190508181557
+Mozilla/5.0_(compatible;_Wappalyzer;__https://github.com/AliasIO/Wappalyzer) 20190522110617
+Python/3.6_aiohttp/3.5.4 20190506211842
+Visited_by_http://tools.geek-tools.org 20190527235028
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+python-requests/2.21.0 20190508181557
+\ 20190515025112
+Visited_by_http://tools.geek-tools.org 20190527235028
+Python/3.6_aiohttp/3.5.4 20190506211842
+Go-http-client/1.1 20190530211826
+ltx71_-_(http://ltx71.com/) 20190527091951
+Scrapy/1.6.0_(_https://scrapy.org) 20190504001635
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 317 563
+From1 1 1
+From2 130 203
+From3 9 10
+From4 509 25306
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 12
+www_google_es 3 4
+bing 0 3
+www_google_com_co 1 2
+www_google_com_uy 0 1
+yandexru 1 1
+www_google_com_ar 1 1
+www_google_com 114 173
+www_google_com_mx 0 5
+www_google_com_py 7 9
+www_google_ca 1 1
+www_google_de 2 2
+www_google_hn 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.nanduti.com.py 4 4
+http://m.facebook.com 2 2
+http://www.abc.com.py 1 1
+http://www.fecambios.com.py 1 1
+https://king.host 1 1
+http://domain.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 1 307
+206 194 24189388
+409 159 13197
+406 437 98762
+404 4105 47246001
+403 19 19520
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1154
+/en//xmlrpc.php 1 -
+//ing_omg/md5.php 1 https://www.baidu.com
+//bak.jsp 1 https://www.baidu.com
+/deu/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 1 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg
+//tool/jz.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9527 1 https://www.baidu.com
+//upload/manaxge.asp 1 https://www.baidu.com
+//a.asp 4 https://www.baidu.com
+//data/49test.php 1 https://www.baidu.com
+//rsitsware/shortcrut/index11.asp 2 https://www.baidu.com
+//buep/sqzr.php 1 https://www.baidu.com
+//System/Images/check.asp 2 https://www.baidu.com
+//images/images/cache.asp 1 https://www.baidu.com
+//api/newfile.php 2 https://www.baidu.com
+//ztxxw/images/images.asp 1 https://www.baidu.com
+//images/css/thumb.asp 1 https://www.baidu.com
+//base/admin/Thumb.asp 1 https://www.baidu.com
+//plus/long.php 1 https://www.baidu.com
+//admin/dnhx/sdfg.php 1 https://www.baidu.com
+//dxyylc/md5.aspx 1 https://www.baidu.com
+//editor/editor/Include/C1ass.asp 2 https://www.baidu.com
+//css.asp 1 https://www.baidu.com
+//hacklos4r.asp 1 https://www.baidu.com
+//Images/img/SqlIn.asp 1 https://www.baidu.com
+//Images/Thumb.asp 1 https://www.baidu.com
+//images/swfupload/images/uploadye.php 4 https://www.baidu.com
+//admin/images/Thumb.asp 2 https://www.baidu.com
+//indax.php 1 https://www.baidu.com
+//Shijian.asp 1 https://www.baidu.com
+//d.php 1 -
+//cort/cc/wo.asp 1 https://www.baidu.com
+//ly.asp 1 https://www.baidu.com
+/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php 1 http://www.canadaviajes.com.py/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php
+/en/+595981602583 15 http://www.canadaviajes.com.py/en/index.html
+//images/diy.asp 1 https://www.baidu.com
+//hot/confings.asp 1 https://www.baidu.com
+//Code.asp 2 https://www.baidu.com
+//tt.asp 1 https://www.baidu.com
+//comad/coon.asp 1 https://www.baidu.com
+//wkss.php 1 https://www.baidu.com
+/admin/ 4 -
+//data/data.asp 1 https://www.baidu.com
+//rsgt/md5.asp 1 https://www.baidu.com
+//plus/mytag_js.phpaid=8080 1 https://www.baidu.com
+/img/galeria/japon/japon4.jpg 9 http://www.canadaviajes.com.py/en/index.html
+//knmvdkd.php 1 https://www.baidu.com
+//wp-content/plugins/wp-db-ajax-made1/cons.php 1 https://www.baidu.com
+//images/isagmin/index.php 1 https://www.baidu.com
+//base/admin/check.asp 2 https://www.baidu.com
+//list.asp 1 https://www.baidu.com
+/web2015/html/js/prototype.js 2 http://www.canadaviajes.com.py/web2015/html/fitpar2015/fitpar2015.htm
+//admin/imageis/index.asp 1 https://www.baidu.com
+//install/css_js.php 1 https://www.baidu.com
+//news/pics/20151103/tem1p_jm.PHP 1 https://www.baidu.com
+//news/jiuge.asp 1 https://www.baidu.com
+//img/DA.asp 1 https://www.baidu.com
+//images/cons.php 1 https://www.baidu.com
+//keda.asp 1 https://www.baidu.com
+//incdata/admin_inc.asp.asp 1 https://www.baidu.com
+//fdsg/index.asp 1 https://www.baidu.com
+/img/galeria/japon/japon.jpg 9 http://www.canadaviajes.com.py/en/index.html
+//mixlp22076.asp 1 https://www.baidu.com
+//about/newfile.php 1 https://www.baidu.com
+//bbx/jz.php 1 https://www.baidu.com
+//include/ckeditor/plugins/pagebreak/images/inCahe.php 4 https://www.baidu.com
+//baicai.php 1 https://www.baidu.com
+//ddta/juhua.asp 1 https://www.baidu.com
+/img/salidasgarantizadas/brasilbus-sg/guaatubaterrestre.jpg 2 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/guaatubaterrestre.jpg
+//uploadfile/member/0/0x0.php 2 -
+//images/main.php 1 https://www.baidu.com
+//wkssa.php 1 https://www.baidu.com
+//plus/mowang.php 1 https://www.baidu.com
+/wp-content/plugins/easyrotator-for-wordpress/prv8.php 2 -
+//newa/DA.asp 1 https://www.baidu.com
+//plus/download.php 3 http://www.canadaviajes.com.py/
+//Adin/Admin_.asp 2 https://www.baidu.com
+//guanli/Starup.asp 1 https://www.baidu.com
+/web2015/promo/Promos2016/v4/fitpat_2016-1.jpg 1 http://www.waimaosou.com/service/crawl/searchResult_card.asp
+/pics/logo_aero/logo8.jpg 35 -
+/img/galeria/southafrica/southafrica.jpg 9 http://www.canadaviajes.com.py/en/index.html
+/img/sujetoadisponibilidad/canada/canada3.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//images/img/cache.asp 2 https://www.baidu.com
+//blog/ 2 http://canadaviajes.com.py/
+//plus/hongfeng.php 1 https://www.baidu.com
+/img/descubripaises/pe/pages/3-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//tegt.php 1 https://www.baidu.com
+/robots.txt 340 -
+//plus/mp.php 2 https://www.baidu.com
+//about/xm.asp 1 https://www.baidu.com
+//E.asp 1 https://www.baidu.com
+/wp-admin/css/colors/blue/theme.php 1 -
+//base/admin/cache.asp 3 https://www.baidu.com
+//plus/mytag_jsa.php 1 https://www.baidu.com
+//plus/Reg.aspx 1 https://www.baidu.com
+//imgst/bnnr.asp 1 https://www.baidu.com
+/en/img/sujetoadisponibilidad/caribe/costaricatodoela%C3%B1o.jpg 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/costaricatodoela\xf1o.jpg
+//coon.asp 1 https://www.baidu.com
+//data/sz.php 1 https://www.baidu.com
+//css/ing/admin_login.php 2 https://www.baidu.com
+//images/lurd/cache.asp 2 https://www.baidu.com
+//ujytjt/news.php 1 https://www.baidu.com
+//error_reporting.php 1 https://www.baidu.com
+/img/salidasgarantizadas/otrasplayas-sg/arubaenero2019.jpg 17 http://www.canadaviajes.com.py/en/
+//uploadfile/image/shell.asp/crazy7.jpg 1 https://www.baidu.com
+//3q.asp 1 https://www.baidu.com
+//images/cache.asp 4 https://www.baidu.com
+//uploads/inifopingx.php 1 https://www.baidu.com
+//login2.asp 1 https://www.baidu.com
+//sd6/wr5/jty.aSpX 1 https://www.baidu.com
+//ff.asp 1 https://www.baidu.com
+//gou.php 1 https://www.baidu.com
+//caip/DA.asp 1 https://www.baidu.com
+//plus/xsvip.php 3 https://www.baidu.com
+//preview.php 1 http://www.canadaviajes.com.py/
+//templets/plus/sky.php 1 https://www.baidu.com
+//M2asK.asp 1 https://www.baidu.com
+//admin/error.asp 2 https://www.baidu.com
+//inc/card.asp 1 https://www.baidu.com
+//wap.asp 1 https://www.baidu.com
+//images/imageis/xdmin.asp 1 https://www.baidu.com
+//shehuirenma.asp 1 https://www.baidu.com
+/img/salidasgarantizadas/brasil-sg/brasilalnatalinclusive.jpg 19 http://www.canadaviajes.com.py/en/index.html
+//int/confings.php 1 https://www.baidu.com
+//language/en-GB/cons.php 2 https://www.baidu.com
+/img/galeria/bolivia/bolivia.jpg 8 http://www.canadaviajes.com.py/en/index.html
+//js/mysqll/mfsql.php 1 https://www.baidu.com
+//config/aspcms_config.asp 1 https://www.baidu.com
+//login.php 1 https://www.baidu.com
+/en/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//uploads/2015/diretory.asp 2 https://www.baidu.com
+//5t/fhd/mp.php 1 https://www.baidu.com
+//images/isagml/index.php 1 https://www.baidu.com
+/wp/wp-admin/setup-config.php 2 -
+//2016/gou.php 1 https://www.baidu.com
+//a.jsp 1 https://www.baidu.com
+//plus/90sec.php 5 https://www.baidu.com
+//MIP/images/index.asp 1 https://www.baidu.com
+//admin/Images/cache.asp 1 https://www.baidu.com
+//zsgljs/news.asp 1 https://www.baidu.com
+//uploads/yjh.php 1 https://www.baidu.com
+//plus/sjng/index.php 1 https://www.baidu.com
+//shell.asp 1 https://www.baidu.com
+//tools/jz.php 1 https://www.baidu.com
+//newssaw/confings.asp 1 https://www.baidu.com
+/web2015/html/formularios.htm 8 -
+//S-sver.php 1 https://www.baidu.com
+//tapic.php 1 https://www.baidu.com
+//weki.php 3 https://www.baidu.com
+//tests/bnnr.asp 1 https://www.baidu.com
+//wp-admin/setup-config.php 2 -
+//include/tpllib/plus_ask.php 1 https://www.baidu.com
+/apply 1 http://www.canadaviajes.com.py/openings
+/deu/galerialink 4 -
+//wp-content/plugins/cache/css.php 1 https://www.baidu.com
+//vip.php 1 https://www.baidu.com
+//5t/images/diy.asp 1 https://www.baidu.com
+//Admin/Images/cache.asp 2 https://www.baidu.com
+//runnan/wmiislog/index11.asp 2 https://www.baidu.com
+//admin_website/Include/Logout.asp 1 https://www.baidu.com
+//newfile.asp 1 https://www.baidu.com
+//data/data/index.php 2 https://www.baidu.com
+//plus/90000.php 1 https://www.baidu.com
+//cllas.php 1 https://www.baidu.com
+//upLoad/a.asp 1 https://www.baidu.com
+//wenjian/wiki.asp 1 https://www.baidu.com
+/rss/catalog/notifystock/ 1 -
+//member/pmo.php 1 https://www.baidu.com
+//bsm.asp 1 https://www.baidu.com
+//css/diy.asp 1 https://www.baidu.com
+//components/com_content/cons.php 1 https://www.baidu.com
+//whq.asp 1 https://www.baidu.com
+//yell/Admin_.php 1 https://www.baidu.com
+//5t/data/diy.asp 1 https://www.baidu.com
+//v5she/v5she.asp 1 https://www.baidu.com
+//5t/plus/index.asp 1 https://www.baidu.com
+//imgevs/news.asp 1 https://www.baidu.com
+//plug/vote/vote_SettingFun.asp 1 https://www.baidu.com
+//css/Reg.aspx 1 https://www.baidu.com
+//bsm.php 1 https://www.baidu.com
+//QQ535610269.asp 2 https://www.baidu.com
+//admin/Image/Thumb.asp 1 https://www.baidu.com
+//5t/fhd/index.asp 1 https://www.baidu.com
+//ign_olhs/md5.php 1 https://www.baidu.com
+//plus/myjs.php 3 https://www.baidu.com
+//tempplate/___index.php 1 https://www.baidu.com
+//images/imagex.asp 1 https://www.baidu.com
+//images/thumb.asp 1 https://www.baidu.com
+//nuwz/DA.asp 1 https://www.baidu.com
+//401.php 1 https://www.baidu.com
+//iisod.asp 1 https://www.baidu.com
+//plus/mcds.php 2 https://www.baidu.com
+//x.php 5 -
+/img/descubripaises/ca/pages/2-regions.json 1 http://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+//userfiles/image/shell.asp/crazy1.jpg 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/pujfeb.jpg 24 http://www.canadaviajes.com.py/en/index.html
+//md5.asp 3 https://www.baidu.com
+//html/eIiy.asp 1 https://www.baidu.com
+//Templates/red.asp 2 https://www.baidu.com
+//jjh.asp 1 https://www.baidu.com
+//admin/Image/Sql.asp 1 https://www.baidu.com
+//plus/fcjh/index.php 1 https://www.baidu.com
+/.accesshash 1 -
+//hackl0s4r.asp 1 https://www.baidu.com
+/img/descubripaises/pe/pages/5-large.jpg 1 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//include/helpers/cookie.helpea.php 2 https://www.baidu.com
+//wiki.php 1 https://www.baidu.com
+//plus/sdfg.php 1 https://www.baidu.com
+/web2015/html/fitpar2015/fitpar2015.htm 1 -
+//plus/shic/index.php 1 https://www.baidu.com
+//losc_css.asp 1 https://www.baidu.com
+//kkk.php 1 https://www.baidu.com
+//crazy.asp 1 https://www.baidu.com
+/downloader/ 1 -
+/web2015/promo/Promos2016/v4/fitpar_2016-2.jpg 1 http://www.waimaosou.com/service/crawl/searchResult_card.asp
+//xsoxs/juhua.asp 1 https://www.baidu.com
+//info1.php 1 https://www.baidu.com
+//data/conn/config.php 2 https://www.baidu.com
+//s/5v10/v5she.asp 1 https://www.baidu.com
+//mnbgf/index.php 1 https://www.baidu.com
+//ouissa/concon.asp 2 https://www.baidu.com
+//manage/image/Thumb.asp 1 https://www.baidu.com
+//images/star/ganyunwei.asp 1 https://www.baidu.com
+/img/salidasgarantizadas/brasilbus-sg/camboiuterrestre.jpg 2 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/camboiuterrestre.jpg
+//plus/moon.php 2 https://www.baidu.com
+/img/galeria/japon/japon2.jpg 9 http://www.canadaviajes.com.py/en/index.html
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 1 http://www.canadaviajes.com.py/theme/assets/global/plugins/jquery-file-upload/server/php/
+//plus/av.php 2 https://www.baidu.com
+//Customize.asp 1 https://www.baidu.com
+//wp-content/themes/twentyfourteen/login.php 1 https://www.baidu.com
+//user/Rss/nashandi.asp 1 https://www.baidu.com
+//uploads/userup/jian.php 1 https://www.baidu.com
+//Images/DA.asp 1 https://www.baidu.com
+//juhua/juhua.asp 1 https://www.baidu.com
+//zgens/return_url.asp 1 https://www.baidu.com
+//About/newfile.php 1 https://www.baidu.com
+/img/sujetoadisponibilidad/brasil/brasil-natal.jpg 3 http://www.canadaviajes.com.py/en/
+/deu/img/sujetoadisponibilidad/caribe/SAMANA.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/SAMANA.jpg
+//ges.php 1 https://www.baidu.com
+/img/descubripaises/ce/pages/5-large.jpg 5 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//inc/miandg/index.php 1 https://www.baidu.com
+//data/error_reporting.php 1 https://www.baidu.com
+//language/en-GB/md5.php 1 https://www.baidu.com
+//images/Shijian.asp 1 https://www.baidu.com
+/img/descubripaises/ce/pages/4-regions.json 5 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//images/sys.php 1 https://www.baidu.com
+//A.asp 1 https://www.baidu.com
+/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 3 http://www.canadaviajes.com.py/en/
+//l0s4r.asp 3 https://www.baidu.com
+//feuqv10290.asp 1 https://www.baidu.com
+//manage/ewebeditor/SqlIn.asp 1 https://www.baidu.com
+//volume/msbuild/index.asp 2 https://www.baidu.com
+//grejhyt/news.php 1 https://www.baidu.com
+//uploads/allimg/xm.php 2 https://www.baidu.com
+//ver.asp 1 https://www.baidu.com
+//modules/mod_banners/css.php 1 https://www.baidu.com
+//conn.php 2 https://www.baidu.com
+//newsss/webers.asp 1 https://www.baidu.com
+/web2015/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf 1 -
+/kcfinder/browse.php 1 -
+//ccx.asp 1 https://www.baidu.com
+//en.php 3 https://www.baidu.com
+/web2015/html/eeuu.html 14 -
+/img/sujetoadisponibilidad/europa/europa1.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//wp-content/plugins/Login-wall-YsqOw/login_wall.php 1 https://www.baidu.com
+/en/galerialink 9 -
+//aspnet_client/xm.asp 1 https://www.baidu.com
+//wnews./okd.asp 1 https://www.baidu.com
+//data/Reg.aspx 1 https://www.baidu.com
+//images/SqlIn.asp 2 https://www.baidu.com
+//ms.asp 1 https://www.baidu.com
+//uploads/px.php 1 https://www.baidu.com
+/img/salidasgarantizadas/brasilbus-sg/caiobaterrestre.jpg 2 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/caiobaterrestre.jpg
+//admin/snhxc/Shijian.asp 1 https://www.baidu.com
+//images/images/img/cache.asp 1 https://www.baidu.com
+/img/descubripaises/ce/pages/5-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/career 1 http://www.canadaviajes.com.py/vacancies
+//images/Sql.asp 2 https://www.baidu.com
+//uploads/newfile.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9191 1 https://www.baidu.com
+//xk_com.asp 1 https://www.baidu.com
+//111.asp 1 https://www.baidu.com
+//images/iocn/cache.asp 1 https://www.baidu.com
+//admin/DA.asp 1 https://www.baidu.com
+//uploads/flink/hgxn.php 1 https://www.baidu.com
+//test404.php 1 https://www.baidu.com
+//images/upload.asp 1 https://www.baidu.com
+//weian/DA.asp 1 https://www.baidu.com
+//plus/mytag_js.php 34 https://www.baidu.com
+//yjh.asp 1 https://www.baidu.com
+//plus/erraddsave.php 1 http://www.canadaviajes.com.py/
+/tel:+59571127188 2 http://www.nanduti.com.py
+//yjh6.PHP 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9013 1 https://www.baidu.com
+/web2015/html/js/lightbox.js 2 http://www.canadaviajes.com.py/web2015/html/fitpar2015/fitpar2015.htm
+//inuwuy/shuru.asp 2 https://www.baidu.com
+//yishuihan/china-ysh.asp 1 https://www.baidu.com
+/img/galeria/southafrica/southafrica2.jpg 9 http://www.canadaviajes.com.py/en/index.html
+//email/index.php 1 http://www.canadaviajes.com.py/
+//shell.php 5 https://www.baidu.com
+//11.php 1 https://www.baidu.com
+//bbs/config/val.php 1 https://www.baidu.com
+//admin/images/style.aspx 1 https://www.baidu.com
+//user.php 4 45ea207d7a2b68c49582d2d22adf953aads|a:2:{s:3:\"num\"
+//WebEdit/Images/shle.asp 1 https://www.baidu.com
+//wenl.asp 1 https://www.baidu.com
+//plus/DA.asp 1 https://www.baidu.com
+/wp/wp-admin/install.php 6 -
+/img/sujetoadisponibilidad/europa/europa3.jpg 18 http://www.canadaviajes.com.py/en/index.html
+/img/galeria/southafrica/southafrica3.jpg 9 http://www.canadaviajes.com.py/en/index.html
+//sdfsd.asp 1 https://www.baidu.com
+/img/descubripaises/ca/pages/4-regions.json 2 http://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+//inc.asp 1 https://www.baidu.com
+//include/js/jquery/ui.tabs.js.php 1 https://www.baidu.com
+//include/helperss/filter.helpear.php 3 https://www.baidu.com
+//ckeditor/index.asp 1 https://www.baidu.com
+/tel:+59521211192 2 http://www.nanduti.com.py
+//plus/mytag_j.php 3 https://www.baidu.com
+//Admin/Images/Sql.asp 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/pujjan.jpg 24 http://www.canadaviajes.com.py/en/index.html
+//config/AspCms_Config.asp 8 https://www.baidu.com
+//cache.asp 1 https://www.baidu.com
+//udf.php 2 https://www.baidu.com
+//index.php/module/action/param1/$%7B@print(eval($_POST%5Bc%5D))%7D/utility/convert/data/config.inc.php 1 https://www.baidu.com
+//nsb.asp 1 https://www.baidu.com
+//userfiles/image/shell.asp/crazy5.jpg 1 https://www.baidu.com
+/aleman/html/inicio_v1.htm 1 -
+//upload/uploaxsd.asp 1 https://www.baidu.com
+//images/temp/SqlIn.asp 1 https://www.baidu.com
+/img/galeria/cuba/cuba.jpg 8 http://www.canadaviajes.com.py/en/index.html
+/img/descubripaises/ce/pages/3-regions.json 5 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//admin/sbxjg/zxng/Shijian.asp 1 https://www.baidu.com
+//fuck.php 1 https://www.baidu.com
+//xbb.asp 1 https://www.baidu.com
+//Admin/Images/check.asp 2 https://www.baidu.com
+//dlxxy/Admin_.php 1 https://www.baidu.com
+/deu/+595981602583 4 -
+//mews/news.asp 1 https://www.baidu.com
+//asp.asp 2 https://www.baidu.com
+//djo.asp 1 https://www.baidu.com
+/img/descubripaises/pe/pages/4-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//userr.asp 1 https://www.baidu.com
+//5t/images/css_js.php 1 https://www.baidu.com
+//gig89l.asp 1 https://www.baidu.com
+//plus/advancedsearch.php 1 http://www.canadaviajes.com.py/
+//i.php 3 -
+//wp-content/plugins/wp-db-ajax-made1/md5.php 2 https://www.baidu.com
+/img/descubripaises/ce/pages/1-large.jpg 2 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//userfiles/ali.asp 2 https://www.baidu.com
+/bk/wp-admin/install.php 3 -
+//plus/ivxl.php 1 https://www.baidu.com
+//nevwsps/news.php 1 https://www.baidu.com
+//css/xm.asp 1 https://www.baidu.com
+//cache/cachee.php 1 https://www.baidu.com
+//plus/pmo.php 2 https://www.baidu.com
+//too.asp 1 https://www.baidu.com
+/wp-json/wp/v2/users/ 12 -
+/admin/index.php 1 -
+//kk.asp 1 https://www.baidu.com
+//com3.indexlx.asp 1 https://www.baidu.com
+/web2015/html/caribe.html 20 -
+/en/tel:+59581970815 12 http://www.canadaviajes.com.py/en/index.html
+/new/wp-admin/install.php 5 -
+/wp-admin/admin-ajax.php 2 -
+//index.php/Index/index/name/$%7B@print(eval($_POST%5Bc%5D))%7D 1 https://www.baidu.com
+//aspsql.asp 1 https://www.baidu.com
+/img/toursdestacados/europatd/europatd.jpg 3 http://www.canadaviajes.com.py/en/
+//plus/ms.php 1 https://www.baidu.com
+//ffhxv57111.asp 1 https://www.baidu.com
+//basedata/11.asp 1 https://www.baidu.com
+//test.asp 1 https://www.baidu.com
+/img/descubripaises/ca/pages/3-regions.json 2 http://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+//system/config/database.php 1 http://www.canadaviajes.com.py/
+//utility/convert/include/rom2823.php 1 https://www.baidu.com
+//ltpnes/news.asp 1 https://www.baidu.com
+//images/qq/common.asp 1 https://www.baidu.com
+//xms.asp 1 https://www.baidu.com
+/wp-content/plugins/easyrotator-for-wordpress/cache.php 4 -
+/web2015/pics/banner-pic-7.jpg 1 http://www.waimaosou.com/service/crawl/searchResult_card.asp
+//config/AspCms_Config.asp,ysh 1 https://www.baidu.com
+//long/css/css.asp 1 https://www.baidu.com
+//plus/e7xue.php 5 https://www.baidu.com
+//daswf/concon.asp 2 https://www.baidu.com
+//admin/Image/check.asp 1 https://www.baidu.com
+//Wap/Plus/martin.asp 1 https://www.baidu.com
+/en/img/sujetoadisponibilidad/caribe/SAMANA.jpg 14 http://www.canadaviajes.com.py/en/index.html
+//images/mager.asp 1 https://www.baidu.com
+//imgers/news.asp 1 https://www.baidu.com
+//plus/css/imgee.php 1 https://www.baidu.com
+//wp-content/themes/twentyfourteen/pagess.php 1 https://www.baidu.com
+//e.php 1 https://www.baidu.com
+//zx.asp 1 https://www.baidu.com
+//bbs/xm.asp 1 https://www.baidu.com
+/img/salidasgarantizadas/brasil-sg/maragogisg.jpg 17 http://www.canadaviajes.com.py/en/
+//c8.asp 1 https://www.baidu.com
+//xvghj/sdfg.php 1 https://www.baidu.com
+/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf 1 http://www.canadaviajes.com.py/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf
+//l0s4r.php 2 https://www.baidu.com
+//seo.php 2 https://www.baidu.com
+//lcwm/news.php 1 https://www.baidu.com
+//template/uploxsyad.asp 1 https://www.baidu.com
+//imgnewsup/image/cache.asp 1 https://www.baidu.com
+//plus/mumaasp.asp 1 https://www.baidu.com
+/wp-login.php 6 -
+//images/css.asp 1 https://www.baidu.com
+//546.asp 1 https://www.baidu.com
+//date/js/v5/v5she.php 1 https://www.baidu.com
+//xxcc.asp 2 https://www.baidu.com
+//data/s.php 1 https://www.baidu.com
+//member/share.php 1 http://www.canadaviajes.com.py/
+//research.asp 1 http://www.canadaviajes.com.py/
+//include/code/mp.php 6 https://www.baidu.com
+//upload/uploxawad.asp 1 https://www.baidu.com
+/pics/logo_aero/logo3.jpg 36 -
+//data/index.asp 1 https://www.baidu.com
+//iislog.asp 1 https://www.baidu.com
+//userfiles/image/shell.asp/crazy2.jpg 1 https://www.baidu.com
+//av.asp 1 https://www.baidu.com
+//bbs/convert/data/config.inc.php 1 https://www.baidu.com
+//tagsl/imgarl.php 1 https://www.baidu.com
+//soso/Inc/cache.asp 1 https://www.baidu.com
+//plus/xnbg/index.php 1 https://www.baidu.com
+//5t/fhd/diy.asp 1 https://www.baidu.com
+//plus/mycak.php 2 https://www.baidu.com
+//config.asp 1 https://www.baidu.com
+//home/cache/cachedata.end.php 1 https://www.baidu.com
+//sqzr.asp 1 https://www.baidu.com
+/img/sujetoadisponibilidad/canada/canada5.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//1.php 3 https://www.baidu.com
+//lang/cn/system.php 2 https://www.baidu.com
+//data/DASA.asp 1 https://www.baidu.com
+/img/sujetoadisponibilidad/canada/rockymountaineer.jpg 19 http://www.canadaviajes.com.py/en/index.html
+//beijia.asp 1 https://www.baidu.com
+//7.asp 1 https://www.baidu.com
+//install/install.php 1 http://www.canadaviajes.com.py/
+//administrator/components/com_joomlaupdate/cons.php 1 https://www.baidu.com
+/web2015/html/informaciones.htm 18 -
+//js.asp 1 https://www.baidu.com
+//gpxcy94994.asp 1 https://www.baidu.com
+//web.php 1 https://www.baidu.com
+//data.asp 1 https://www.baidu.com
+/beta/wp-content/themes/AdvanceImage5/functions.php 1 -
+//htmm/DA.asp 1 https://www.baidu.com
+//sd6/bc/jty.aSpX 1 https://www.baidu.com
+//images/com3.indexlx.asp 1 https://www.baidu.com
+/web2015/pics/banner-pic-1.jpg 1 http://www.waimaosou.com/service/crawl/searchResult_card.asp
+//inc/iis.asp 1 https://www.baidu.com
+//config.inc.php 1 https://www.baidu.com
+/post-a-job/ 1 http://www.canadaviajes.com.py/post-a-job/
+/pics/logo_aero/logo4.jpg 36 -
+/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela\xf1o.jpg
+//web.asp 1 https://www.baidu.com
+//wap/good.php 1 https://www.baidu.com
+//usshiuig/concon.asp 2 https://www.baidu.com
+//5220521ll,lo.asp 1 https://www.baidu.com
+//system/config/shell.php 1 http://www.canadaviajes.com.py/
+//data/DA.asp 1 https://www.baidu.com
+//wp-content/test.php 1 https://www.baidu.com
+//xsser.php 1 https://www.baidu.com
+//wp-content/plugins/myshe.php 2 https://www.baidu.com
+//xup.asp 1 https://www.baidu.com
+//indx.php 1 https://www.baidu.com
+//jz.php 1 https://www.baidu.com
+//concnn.asp 1 https://www.baidu.com
+//me/index.php 1 https://www.baidu.com
+//fckeditor/editor/filemanager/upload/php/upload.php 1 http://www.canadaviajes.com.py//fckeditor/editor/filemanager/upload/php/upload.php
+/html/Congreso/html/acreditacion.htm 8 -
+//admin/snhxg/Shijian.asp 1 https://www.baidu.com
+//yjryrf/news.php 1 https://www.baidu.com
+//comdiy.asp 1 https://www.baidu.com
+/img/sujetoadisponibilidad/argentina/calafate2.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//date/js/v5/v5she.aSpX 1 https://www.baidu.com
+//templets/good.php 1 https://www.baidu.com
+//admin/Databackup/1.asp 2 https://www.baidu.com
+//northsoft/unlocker/index.asp 2 https://www.baidu.com
+//utility/convert/index.php 1 http://www.canadaviajes.com.py/
+//components/com_banners/models/css.php 1 https://www.baidu.com
+//plus/images/index.php 1 https://www.baidu.com
+//lyq.asp 1 https://www.baidu.com
+//css/css_js.php 1 https://www.baidu.com
+//yt.asp 1 https://www.baidu.com
+/img/sujetoadisponibilidad/canada/estecanadiensecanada.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//admin/sxchg/xsbvah/Shijian.asp 1 https://www.baidu.com
+/img/descubripaises/ce/pages/1-regions.json 5 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//wp-content/uploads/ftp.php 1 https://www.baidu.com
+/web2015/html/Congreso/pdf/PAYMENT%20PROCEDURES.pdf 2 -
+//x.aspx 1 https://www.baidu.com
+//imag/bbb.asp 1 https://www.baidu.com
+//fdhy/index.asp 1 https://www.baidu.com
+//5t/css/mp.php 1 https://www.baidu.com
+/web2015/html/_pgtres/stm31.js 8 http://www.canadaviajes.com.py/web2015/html/fitpar2015/fitpar2015.htm
+//Somnus/Somnus.asp 3 https://www.baidu.com
+/wp-content/uploads/levoslideshow/1_uploadfolder/big/ 1 http://www.canadaviajes.com.py/wp-content/uploads/levoslideshow/1_uploadfolder/big/
+//admin/image/cache.asp 1 https://www.baidu.com
+//wp-content/themes/cons.php 1 https://www.baidu.com
+//Databackup/x.asp 1 https://www.baidu.com
+//components/com_banners/css.php 1 https://www.baidu.com
+//css/index.asp 1 https://www.baidu.com
+//plus/mytag_j.phpaid=6022 1 https://www.baidu.com
+//shijian.asp 1 https://www.baidu.com
+//components/com_banners/models/cons.php 1 https://www.baidu.com
+//index1.php 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/puntacanatd.jpg 4 http://www.canadaviajes.com.py/en/
+//huayu.asp 1 https://www.baidu.com
+//jkjh/news.php 1 https://www.baidu.com
+//5t/images/Reg.aspx 1 https://www.baidu.com
+//images/imgs.asp 1 https://www.baidu.com
+//xinwen.asp 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/punfeb.jpg 25 http://www.canadaviajes.com.py/en/index.html
+//admin_login.php 3 https://www.baidu.com
+/img/salidasgarantizadas/brasil-sg/natalsg2.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//plus/task/img/cache.asp 1 https://www.baidu.com
+//plus/mytag_js.phpaid=909 1 https://www.baidu.com
+//hack.php 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/pujfebrero.jpg 26 http://www.canadaviajes.com.py/en/index.html
+//base/install/inc.php 1 https://www.baidu.com
+//dxyylc/md5.php 4 https://www.baidu.com
+/web2015/html/Congreso/pic/banner_superior.jpg 1 http://www.waimaosou.com/service/crawl/searchResult_card.asp
+//images/mp.php 1 https://www.baidu.com
+//public/DA.asp 1 https://www.baidu.com
+//plus/qingtian.php 1 https://www.baidu.com
+//xiaober.asp 1 https://www.baidu.com
+//data/images/1120.asp 1 https://www.baidu.com
+/vacancies 1 -
+//userfiles/image/shell.asp/crazy3.jpg 1 https://www.baidu.com
+/pics/logo_aero/logo6.jpg 37 -
+//plus/shijian.php 1 https://www.baidu.com
+//windows.asp 1 https://www.baidu.com
+//js/inc/css/xianf.ASP 1 https://www.baidu.com
+//data/config_data.php 1 https://www.baidu.com
+//A-LlobetPics.rar.asp 1 https://www.baidu.com
+//upload/DA.asp 1 https://www.baidu.com
+//admin/snhxc/date.php 1 https://www.baidu.com
+/html/promociones.htm 8 -
+//plus/error_reporting.php 1 https://www.baidu.com
+/img/descubripaises/ce/pages/1-thumb.jpg 3 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/img/descubripaises/pe/pages/5-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//sitemap/templates/met/yjh.asp 1 https://www.baidu.com
+/ss/index.php 3 -
+//images/lurd/check.asp 2 https://www.baidu.com
+//sqzr.php 1 https://www.baidu.com
+//ma1/index_.asp 1 https://www.baidu.com
+/web2015/html/contactenos.htm 78 -
+//uploads/pingx.php 1 https://www.baidu.com
+//edits.php 2 https://www.baidu.com
+//statics/images/cache.asp 2 https://www.baidu.com
+//SqlIn.asp 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/pujene.jpg 24 http://www.canadaviajes.com.py/en/index.html
+//gbk.asp 1 https://www.baidu.com
+/apple-touch-icon-152x152-precomposed.png 9 -
+//idr.asp 1 https://www.baidu.com
+//admin/shijian/Shijian.asp 1 https://www.baidu.com
+//b.asp 1 https://www.baidu.com
+//june.asp 1 https://www.baidu.com
+//s/5v10/v5she.php 1 https://www.baidu.com
+//class.php 1 https://www.baidu.com
+/wordpress/wp-admin/setup-config.php 2 -
+//ok.php 1 https://www.baidu.com
+//condiy.asp 2 https://www.baidu.com
+//plus/md5.php 1 https://www.baidu.com
+//vv..asp 1 https://www.baidu.com
+//wp-content/plugins/wp-db-backup-made/login.php 1 https://www.baidu.com
+//book/story_dod_hjkdsafon.php 2 https://www.baidu.com
+//tegs.asp 1 https://www.baidu.com
+//admin/sxchg/xsbvah/date.php 1 https://www.baidu.com
+//include/payment/good.php 1 https://www.baidu.com
+//wxl1.php 1 https://www.baidu.com
+/pics/logo_aero/logo7.jpg 36 -
+//admin/index.asp 1 https://www.baidu.com
+//whoami.php 1 https://www.baidu.com
+//rewwr.asp 1 https://www.baidu.com
+/img/salidasgarantizadas/brasil-sg/maceiosg.jpg 19 http://www.canadaviajes.com.py/en/index.html
+//Admin/xm.asp 1 https://www.baidu.com
+//xyt/images/1.asp 1 https://www.baidu.com
+//newfile.php 1 https://www.baidu.com
+//admin/snhxg/date.php 1 https://www.baidu.com
+/wordpress/wp-login.php 1 -
+//indx.asp 2 https://www.baidu.com
+/shop/index.php 3 -
+//components/com_banners/cons.php 1 https://www.baidu.com
+//img/xfw/xianf.asp 1 https://www.baidu.com
+//z.asp 1 https://www.baidu.com
+//css/DA.asp 1 https://www.baidu.com
+//plugins/weathermap/configs/config.php 1 https://www.baidu.com
+//wp-admin/install.php 3 -
+//nel.asp 1 https://www.baidu.com
+//sert/bnnr.asp 1 https://www.baidu.com
+//images/isagml/index.asp 1 https://www.baidu.com
+//caches/error_ches.php 2 https://www.baidu.com
+//wisd.asp 1 https://www.baidu.com
+//board_img/editor/img.asp 1 https://www.baidu.com
+//ves.php 1 https://www.baidu.com
+//data/404test.php 1 https://www.baidu.com
+//adm1n/md5.asp 2 https://www.baidu.com
+//stap.asp 1 https://www.baidu.com
+//wp-content/plugins/wp-db-ajax-made/md5.php 2 https://www.baidu.com
+//l0s4rcom.asp 1 https://www.baidu.com
+//image/check.asp 2 https://www.baidu.com
+//565.asp 1 https://www.baidu.com
+//sin.asp 1 https://www.baidu.com
+//uploads/DASA.asp 1 https://www.baidu.com
+//grejhyt/news.asp 1 https://www.baidu.com
+//x.asp 1 https://www.baidu.com
+/img/galeria/machupichu/machupichu.jpg 11 http://www.canadaviajes.com.py/en/index.html
+//imgst/imgarl.php 1 https://www.baidu.com
+/old/wp-admin/install.php 3 -
+//pp.asp 1 https://www.baidu.com
+//admin/dnhx/sdfg.asp 1 https://www.baidu.com
+//Include/Const.asp 1 https://www.baidu.com
+//v5she/v5she.php 1 https://www.baidu.com
+//plus/winge.php 1 https://www.baidu.com
+//kinouea/concon.asp 2 https://www.baidu.com
+//images/images.php 1 https://www.baidu.com
+//data/cache/t.php 3 https://www.baidu.com
+/img/descubripaises/pe/pages/1-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//images/search_info_ico.gif.asp 1 https://www.baidu.com
+//yell/Admin_.asp 1 https://www.baidu.com
+//dxyylc/1208.php 1 https://www.baidu.com
+//whg.asp 1 https://www.baidu.com
+/web2015/pics/texto_inicio.jpg 1 http://www.waimaosou.com/service/crawl/searchResult_card.asp
+//webdav.asp 1 https://www.baidu.com
+//dgbv/jmnb/shijian.asp 1 https://www.baidu.com
+//zuoshou.php 1 https://www.baidu.com
+//imgevs/news.php 1 https://www.baidu.com
+//struts2-showcase/filedownload/index.action 2 https://www.baidu.com
+/blog/wp-admin/install.php 4 -
+/deu/img/toursdestacados/perutd/cuscovinivunca.jpg 1 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/cuscovinivunca.jpg
+//plugins/weathermap/editor.php 1 http://www.canadaviajes.com.py/
+/wp-admin/install.php 3 -
+//plus/mytag_js.php%20aid=9090 1 https://www.baidu.com
+//dfsad/index.php 1 https://www.baidu.com
+/web2015/html/Congreso/pdf/Post%20Tour%20Paraguay-Argentina-Brazil%20Mayo%202015.pdf 1 -
+//fhlch52910.asp 1 https://www.baidu.com
+/img/descubripaises/ce/pages/5-thumb.jpg 3 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/robots.txt.php 2 -
+//wkwcy62868.asp 1 https://www.baidu.com
+//zixi.asp 2 https://www.baidu.com
+/wp-json/oembed/1.0/embed 9 -
+//js/DA.asp 1 https://www.baidu.com
+/en/tel:+59521211192 12 http://www.canadaviajes.com.py/en/index.html
+//images/isxbg/date.php 1 https://www.baidu.com
+//convert/data/config.inc.php 2 https://www.baidu.com
+//search.php 3 http://www.canadaviajes.com.py/
+/deu/img/sujetoadisponibilidad/caribe/samana.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/samana.jpg
+//jiuge.asp 1 https://www.baidu.com
+//xx.txt.asp 1 https://www.baidu.com
+//UploadFiles/DA.asp 1 https://www.baidu.com
+/web2015/html/europa.html 2 -
+//sitema.php 1 https://www.baidu.com
+/,192.185.31.77 1 -
+//media/system/login.php 1 https://www.baidu.com
+//formmail.php 1 https://www.baidu.com
+/img/galeria/bolivia/bolivia3.jpg 10 http://www.canadaviajes.com.py/en/index.html
+//css/css.asp 1 https://www.baidu.com
+//install/gg.php 1 https://www.baidu.com
+//images/good.php 1 https://www.baidu.com
+//UserFiles/Image/shell.asp/crazy6.jpg 1 https://www.baidu.com
+/img/sujetoadisponibilidad/canada/canada2.jpg 19 http://www.canadaviajes.com.py/en/index.html
+//goj.asp 1 https://www.baidu.com
+/img/salidasgarantizadas/brasilbus-sg/rioterrestre.jpg 2 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/rioterrestre.jpg
+//news/2016/gou.php 1 https://www.baidu.com
+/img/descubripaises/ce/pages/3-large.jpg 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//xz.asp 1 https://www.baidu.com
+/deu/img/toursdestacados/perutd/perutd2.jpg 2 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/perutd2.jpg
+//sbs.asp 1 https://www.baidu.com
+//plugins/weathermap/configs/test404.php 1 https://www.baidu.com
+/img/salidasgarantizadas/cancun-sg/cancunene19.jpg 1 http://www.canadaviajes.com.py/img/salidasgarantizadas/cancun-sg/cancunene19.jpg
+/deu/img/sujetoadisponibilidad/caribe/sanandrestodoela%C3%B1o.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/sanandrestodoela\xf1o.jpg
+//wer.asp 2 https://www.baidu.com
+//jycpcx.asp 1 https://www.baidu.com
+//jerry.asp 1 https://www.baidu.com
+//cons.php 1 https://www.baidu.com
+//Templates/test.asp 2 https://www.baidu.com
+//918team.asp 1 https://www.baidu.com
+//4.php 1 https://www.baidu.com
+//dim.next.asp 1 https://www.baidu.com
+//Dom/Images/check.asp 2 https://www.baidu.com
+/img/descubripaises/pe/pages/2-regions.json 4 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//plus/mybak.php 3 https://www.baidu.com
+//wp-content/plugins/info.php 1 https://www.baidu.com
+//tmp/md5.php 1 https://www.baidu.com
+//plus/mysql.php 1 https://www.baidu.com
+//diy.asp 1 https://www.baidu.com
+/img/descubripaises/pe/pages/2-large.jpg 2 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+/img/galeria/bolivia/bolivia2.jpg 8 http://www.canadaviajes.com.py/en/index.html
+//admin/imagies/date.php 1 https://www.baidu.com
+//plus/mcds.asp 1 https://www.baidu.com
+//hack.asp 3 https://www.baidu.com
+//install/modurnlecscache.php 2 https://www.baidu.com
+/deu/img/toursdestacados/perutd/cuscomachupichu.jpg 1 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/cuscomachupichu.jpg
+//saa/index.asp 1 https://www.baidu.com
+//plus/1208.php 1 https://www.baidu.com
+//xmlrpc.php 1 -
+//index.php/Index/index/name/$%7B@eval($_POST%5Bc%5D)%7D 1 https://www.baidu.com
+//fdh/index.asp 1 https://www.baidu.com
+//Admin/images/cache.asp 2 https://www.baidu.com
+//osi.asp 1 https://www.baidu.com
+//dede/actionsearch_class.php 1 https://www.baidu.com
+//nfpath./common.asp 1 https://www.baidu.com
+//dxyylc/md5.asp 3 https://www.baidu.com
+/img/toursdestacados/puntacatd/puntanatd2.jpg 23 http://www.canadaviajes.com.py/en/index.html
+/img/toursdestacados/argentinatd/puertomont.jpg 22 http://www.canadaviajes.com.py/en/index.html
+//gitshe.asp 1 https://www.baidu.com
+//5t/data/mp.php 1 https://www.baidu.com
+//data/admin/sky.php 1 https://www.baidu.com
+//me/index.asp 1 https://www.baidu.com
+/en/img/toursdestacados/perutd/cuscomachupichu.jpg 1 http://www.canadaviajes.com.py/en/img/toursdestacados/perutd/cuscomachupichu.jpg
+//inc/zcon.asp 1 https://www.baidu.com
+//admin_UploadDataHandler.ashx 1 http://www.canadaviajes.com.py//admin_UploadDataHandler.ashx
+//nevvs7./index.asp 1 https://www.baidu.com
+//plus/spider.php 2 https://www.baidu.com
+/img/descubripaises/pe/pages/4-large.jpg 1 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+/web2015/html/cir_especiales.htm 14 -
+/web2015/html/Congreso/html/programa.htm 1 -
+/pics/logo_aero/logo5.jpg 37 -
+//5t/css/Reg.aspx 2 https://www.baidu.com
+/img/salidasgarantizadas/otrasplayas-sg/cartagenaybarusg.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//cg.asp 1 https://www.baidu.com
+//data/diy.asp 1 https://www.baidu.com
+//Ac2.asp 1 https://www.baidu.com
+/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php 1 http://www.canadaviajes.com.py/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php
+//wp-content/plugins/wp-db-ajax-made/cons.php 2 https://www.baidu.com
+//shehuirenma.php 1 https://www.baidu.com
+/img/galeria/otawa/otawa2.jpg 9 http://www.canadaviajes.com.py/en/index.html
+//admin/snxb/index.asp 1 https://www.baidu.com
+/img/descubripaises/pe/pages/1-large.jpg 2 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//userfiles/media/ali.asp/ali.jpg 1 https://www.baidu.com
+//Ecms.asp 1 https://www.baidu.com
+//admin/images/cache.asp 2 https://www.baidu.com
+/wp-content/plugins/temp.php 2 -
+/web2015/html/js/scriptaculous.js 2 http://www.canadaviajes.com.py/web2015/html/fitpar2015/fitpar2015.htm
+//plug/collect/AspCms_CollectFun.asp 1 https://www.baidu.com
+//jmnb/shijian.asp 1 https://www.baidu.com
+//images/img.asp 1 https://www.baidu.com
+//admin/sdfg.asp 2 https://www.baidu.com
+//include/ckeditor/plugins/app/inCahe.php 1 https://www.baidu.com
+//images/uploadfile.asp 1 https://www.baidu.com
+//24d0F6kmP4VyOw9k.php 3 -
+//zsgljs/news.php 1 https://www.baidu.com
+//images/css/sqlin.asp 1 https://www.baidu.com
+//wp-content/uploads/info.php 2 https://www.baidu.com
+/web2015/html/Congreso/pdf/Registration.pdf 1 -
+//wp-content/plugins/resd.php 1 https://www.baidu.com
+//zptthf.asp 1 https://www.baidu.com
+//images/shijian/index.asp 1 https://www.baidu.com
+/img/descubripaises/ce/pages/4-large.jpg 5 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//a/xm.asp 1 https://www.baidu.com
+//languages/zh_cn/fuck.php 1 https://www.baidu.com
+//kaili/DA.asp 1 https://www.baidu.com
+/img/toursdestacados/argentinatd/ushtd2.jpg 21 http://www.canadaviajes.com.py/en/index.html
+/img/descubripaises/ce/pages/3-thumb.jpg 3 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//Images/search_info_ico.gif.asp 2 https://www.baidu.com
+/img/salidasgarantizadas/otrasplayas-sg/sanandresotrasg.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//tianya/index.asp 1 https://www.baidu.com
+//images/Reg.aspx 1 https://www.baidu.com
+//plus/baidu.php 1 https://www.baidu.com
+//zhihuiGuan.asp 1 https://www.baidu.com
+//mim.asp 1 https://www.baidu.com
+//login_wall.php 1 https://www.baidu.com
+//uploadfile/userfiles/media/confg.inc.php 1 https://www.baidu.com
+/wp-includes/wlwmanifest.xml 13 -
+/img/sujetoadisponibilidad/brasil/brasil1.jpg 18 http://www.canadaviajes.com.py/en/index.html
+/en/img/toursdestacados/perutd/perutd2.jpg 18 http://www.canadaviajes.com.py/en/index.html
+/img/descubripaises/hu/hu.html 1 -
+//news/confings.asp 1 https://www.baidu.com
+//one/conn.php 1 https://www.baidu.com
+//se.coage.asp 1 https://www.baidu.com
+//skdx.php 1 https://www.baidu.com
+//news/DA.asp 1 https://www.baidu.com
+//kuw/confings.asp 2 https://www.baidu.com
+//date/js/v5/v5she.asp 1 https://www.baidu.com
+//imgs/img/xfw/xianf.asp 1 https://www.baidu.com
+/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela\xf1o.jpg
+//uploads/media/index.php 1 https://www.baidu.com
+//cms/DA.asp 1 https://www.baidu.com
+//sjurj54220.asp 1 https://www.baidu.com
+//index.asp 1 https://www.baidu.com
+//ujytjt/news.asp 1 https://www.baidu.com
+//jg.asp 1 https://www.baidu.com
+//dfvdr.asp 2 https://www.baidu.com
+//language/overrides/cons.php 1 https://www.baidu.com
+//images/check.asp 2 https://www.baidu.com
+//fdhy/diy.asp 1 https://www.baidu.com
+//images/receipt/cache.asp 1 https://www.baidu.com
+//admin/lvke.asp 1 https://www.baidu.com
+//languages/zh_cn/convert/shopex49.php 1 https://www.baidu.com
+//admin/imagies/Shijian.asp 1 https://www.baidu.com
+/jobs 1 http://www.canadaviajes.com.py/career
+//zzz.asp 1 https://www.baidu.com
+//test.php 2 https://www.baidu.com
+//plus/mytag_js.phpaid=999 1 https://www.baidu.com
+//rosoft/overfill/index.asp 2 https://www.baidu.com
+//is.test.jsp 1 https://www.baidu.com
+//modules/mod_login/cons.php 1 https://www.baidu.com
+//codepage.asp 1 https://www.baidu.com
+//plus/mytag_js.phpaid=1 4 https://www.baidu.com
+/img/galeria/japon/japon3.jpg 12 -
+//sitemap/templates/met/SqlIn.asp 2 https://www.baidu.com
+//install/m7lrv.php 3 https://www.baidu.com
+//resd.php 2 https://www.baidu.com
+//myship.php 2 https://www.baidu.com
+//Adin/Admin_.php 2 https://www.baidu.com
+//plus/JWsscuv.php 1 https://www.baidu.com
+/img/sujetoadisponibilidad/argentina/calafate.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//admin/sdngc/index.asp 1 https://www.baidu.com
+//plus/5541ploijji.php 1 https://www.baidu.com
+//html/confings.asp 1 https://www.baidu.com
+//install/includes/configure.php 1 http://www.canadaviajes.com.py/
+/web2015/html/Congreso/pic/1.jpg 1 http://www.waimaosou.com/service/crawl/searchResult_card.asp
+/img/sujetoadisponibilidad/brasil/costadesauipebra.jpg 19 http://www.canadaviajes.com.py/en/index.html
+//admin/sbxjg/zxng/date.php 1 https://www.baidu.com
+//html/DA.asp 1 https://www.baidu.com
+/web2015/html/canada.html 1 -
+//ssd.asp 1 https://www.baidu.com
+//a/DASA.asp 1 https://www.baidu.com
+//config/AspCms_config.asp 1 https://www.baidu.com
+//aaaaaaaaaaaaaa.asp 1 https://www.baidu.com
+//12345.asp 2 https://www.baidu.com
+//gfg.php 1 https://www.baidu.com
+/img/galeria/cuba/cuba2.jpg 8 http://www.canadaviajes.com.py/en/index.html
+//hxgs.php 1 https://www.baidu.com
+//W.asp 1 https://www.baidu.com
+/yt.php 1 -
+//admin/admin_ping.php 1 http://www.canadaviajes.com.py/
+//new/zixun/web1.asp 1 https://www.baidu.com
+//jiuuesd.asp 1 https://www.baidu.com
+//admin/xm.asp 1 https://www.baidu.com
+//advs/xm.asp 1 https://www.baidu.com
+/web2015/html/arme_circuito.htm 11 -
+/backup/wp-admin/install.php 3 -
+//all.asp 1 https://www.baidu.com
+//images/isagmin/index.asp 1 https://www.baidu.com
+//en.asp 3 https://www.baidu.com
+//plus/laobiao.php 5 https://www.baidu.com
+/en/tel:+59571127188 12 http://www.canadaviajes.com.py/en/index.html
+/en/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//images/error_reporting.php 1 https://www.baidu.com
+//admin_login.asp 1 https://www.baidu.com
+//email/shell.php 1 https://www.baidu.com
+//sert/imgarl.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9090 1 https://www.baidu.com
+/new/wp-admin/setup-config.php 2 -
+//netlink_Main/CheckCode/Sql.asp 1 https://www.baidu.com
+//Templates/f1kj/html/error.asp 1 https://www.baidu.com
+/rss/order/new/ 1 -
+//px.php 1 https://www.baidu.com
+//fdh/Reg.aspx 1 https://www.baidu.com
+//zhG.asp 1 https://www.baidu.com
+//plus/l0s4r.php 1 https://www.baidu.com
+//boss/Image/Sql.asp 1 https://www.baidu.com
+//admin/Databackup/x.asp 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/puntacanafeb.jpg 29 http://www.canadaviajes.com.py/en/index.html
+//imager.asp 1 https://www.baidu.com
+//data/img/css/xianf.ASP 2 https://www.baidu.com
+//plus/djxx/index.php 1 https://www.baidu.com
+//images/good/date.php 1 https://www.baidu.com
+/web2015/html/medio_oriente.html 12 -
+/en/img/sujetoadisponibilidad/caribe/samana.jpg 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/samana.jpg
+//kj.asp 1 https://www.baidu.com
+//data/data/1120.asp 1 https://www.baidu.com
+/admin/login.php 1 -
+//11111.jsp 1 https://www.baidu.com
+//rsgt/md5.php 1 https://www.baidu.com
+//inc/DA.asp 1 https://www.baidu.com
+//admin/Admin_Ta.asp 2 https://www.baidu.com
+//plus/mytag_js.phpaid=7888 1 https://www.baidu.com
+//7.php 1 https://www.baidu.com
+//ads/admin/admin.lnc.php 2 https://www.baidu.com
+//weki.asp 3 https://www.baidu.com
+//system/images/check.asp 1 https://www.baidu.com
+//manage/Images/Sql.asp 2 https://www.baidu.com
+//mua.php 1 https://www.baidu.com
+//1.asp 2 https://www.baidu.com
+//jkjh/news.asp 1 https://www.baidu.com
+//daswff/concon.asp 2 https://www.baidu.com
+//imgs/img/xf/xianf.asp 1 https://www.baidu.com
+//images/ad/index.asp 2 https://www.baidu.com
+//admin/admin_.php 1 https://www.baidu.com
+//sa.asp 1 https://www.baidu.com
+//incdata/admin_inc_data.asp 1 https://www.baidu.com
+//fdsg/diy.asp 1 https://www.baidu.com
+/web2015/html/servicios.htm 37 -
+//wp-content/uploads/samplc.php 2 https://www.baidu.com
+//bbs/utility/convert/data/config.inc.php 5 https://www.baidu.com
+//plus/mytag_js.phpaid=9999 1 https://www.baidu.com
+//templates/system/html/css.php 1 https://www.baidu.com
+//admin/images/Sql.asp 2 https://www.baidu.com
+//inc1.asp 2 https://www.baidu.com
+//inc/miandg/index.asp 1 https://www.baidu.com
+//index.php 14 -
+//images/Thumb.asp 2 https://www.baidu.com
+//utility/convert/data/config.inc.php 8 https://www.baidu.com
+//include/data/words/words.php 1 https://www.baidu.com
+/web2015/html/asia.html 1 -
+//jnh/confings.asp 2 https://www.baidu.com
+//.asp 2 https://www.baidu.com
+//userfiles/DA.asp 1 https://www.baidu.com
+/html/fitpar2013_ant.htm 9 -
+//in.linq.php 1 https://www.baidu.com
+//data/%23data.asp 1 https://www.baidu.com
+/wordpress/wp-admin/install.php 6 -
+//admin/images/check.asp 2 https://www.baidu.com
+//data/cache/log.asp 1 https://www.baidu.com
+//I_Inc/flash.asp 1 https://www.baidu.com
+//member/winge.php 1 https://www.baidu.com
+//_Temp/com.aspx 1 https://www.baidu.com
+//dxyylc/1ndex.php 1 https://www.baidu.com
+//admin_int.asp 1 https://www.baidu.com
+//fdh/diy.asp 1 https://www.baidu.com
+//wskf.php 1 https://www.baidu.com
+//Person/1/600.asp 1 https://www.baidu.com
+//plus/x.php 2 https://www.baidu.com
+/img/salidasgarantizadas/brasil-sg/natalsg.jpg 17 http://www.canadaviajes.com.py/en/
+//modules/mod_banners/login.php 1 https://www.baidu.com
+//igbyd39940.asp 1 https://www.baidu.com
+//log.asp 1 https://www.baidu.com
+/en/img/sujetoadisponibilidad/caribe/sanandrestodoela%C3%B1o.jpg 1 http://www.canadaviajes.com.py/en/img/sujetoadisponibilidad/caribe/sanandrestodoela\xf1o.jpg
+//5t/fhd/Reg.aspx 1 https://www.baidu.com
+//conn1.asp 1 https://www.baidu.com
+/img/toursdestacados/puntacatd/caaribeec.jpg 23 http://www.canadaviajes.com.py/en/index.html
+//admin/Image/cache.asp 2 https://www.baidu.com
+//wspath./okd.asp 1 https://www.baidu.com
+//upload/file/nett.php 1 https://www.baidu.com
+/img/descubripaises/ce/pages/2-thumb.jpg 3 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/img/sujetoadisponibilidad/argentina/ushuaia2.jpg 1 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/argentina/ushuaia2.jpg
+/img/sujetoadisponibilidad/canada/esenciasdeloestecanada.jpg 1 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/canada/esenciasdeloestecanada.jpg
+//eWebEditor/sysimage/cache.asp 1 https://www.baidu.com
+//dang3.php 1 https://www.baidu.com
+//check.asp 1 https://www.baidu.com
+//cni.asp 1 https://www.baidu.com
+//jnh/1208.asp 1 https://www.baidu.com
+/web2015/html/exc_inter.htm 2 -
+//pass.asp 1 https://www.baidu.com
+/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 3 http://www.canadaviajes.com.py/en/
+//vendor/phpunit/phpunit/src/Util/PHP/asd.php 1 http://www.canadaviajes.com.py/
+//uploads/2015/diretory.php 2 https://www.baidu.com
+//nsimg77576.asp 1 https://www.baidu.com
+//wp-content/themes/twentyfourteen/cons.php 1 https://www.baidu.com
+//2016/gou.asp 1 https://www.baidu.com
+//plus/css_js.php 1 https://www.baidu.com
+//strs/md5.asp 1 https://www.baidu.com
+//wp-includes/fonts/login.php 1 https://www.baidu.com
+//config.css.php 1 https://www.baidu.com
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 http://www.canadaviajes.com.py/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php
+//lc.asp 1 https://www.baidu.com
+/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 14 http://www.canadaviajes.com.py/en/index.html
+/web2015/html/exc_nac.htm 9 -
+/en/img/toursdestacados/perutd/cuscovinivunca.jpg 1 http://www.canadaviajes.com.py/en/img/toursdestacados/perutd/cuscovinivunca.jpg
+//yjryrf/news.asp 1 https://www.baidu.com
+//language/overrides/md5.php 1 https://www.baidu.com
+//best.php 1 https://www.baidu.com
+//stlytime.asp 1 https://www.baidu.com
+//ing/css/admin_login.asp 1 https://www.baidu.com
+/img/toursdestacados/argentinatd/mendoza.jpg 21 http://www.canadaviajes.com.py/en/index.html
+//admin.php/code/mod 1 http://www.canadaviajes.com.py/
+//SqlOut.asp 1 https://www.baidu.com
+//conn.asp 1 https://www.baidu.com
+//media/login.php 1 https://www.baidu.com
+//usergl/diy.asp 1 https://www.baidu.com
+//CenterWeb/include/Informatases.asp 1 https://www.baidu.com
+//uploads/DA.asp 1 https://www.baidu.com
+//install.php 1 http://www.canadaviajes.com.py//install.php
+//5t/data/Reg.aspx 1 https://www.baidu.com
+//liunian.php 1 https://www.baidu.com
+//data/data/css.asp 1 https://www.baidu.com
+//sd6/ewt/dfh.asp 1 https://www.baidu.com
+//e5f5g.asp 1 https://www.baidu.com
+//kdatebase/index_.asp 2 https://www.baidu.com
+//1111.jsp 1 https://www.baidu.com
+//houmen.asp 1 https://www.baidu.com
+//is/test.jsp 1 https://www.baidu.com
+//configa.asp 1 https://www.baidu.com
+//Images/cache.asp 2 https://www.baidu.com
+//link.php 1 https://www.baidu.com
+//plus/date.php 1 https://www.baidu.com
+//inc/config.asp 7 https://www.baidu.com
+/img/descubripaises/ce/pages/2-regions.json 6 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//vedioes.php 1 https://www.baidu.com
+//nevvs8./index.asp 1 https://www.baidu.com
+//imagas.asp 1 https://www.baidu.com
+//sys.php 1 https://www.baidu.com
+//cache/wooyun.php 1 https://www.baidu.com
+/web2015/html/inicio.htm 30 -
+/img/salidasgarantizadas/brasil-sg/salvadorbahia.jpg 17 http://www.canadaviajes.com.py/en/
+//Images/hou.asp 1 https://www.baidu.com
+//plus/bakup.php 2 https://www.baidu.com
+//hhb.asp 1 https://www.baidu.com
+//admin-manage/Databackup/mixian.asp 2 https://www.baidu.com
+//ip_adminlogin/iug_suuv.asp 1 https://www.baidu.com
+//dxyylc/indesax.asp 1 https://www.baidu.com
+//uploads/c13.php 1 https://www.baidu.com
+/index.php 2 http://www.canadaviajes.com.py/index.php
+//inc/myql.asp 1 https://www.baidu.com
+//ltpnes/news.php 1 https://www.baidu.com
+/pics/logo_aero/logo10.jpg 35 -
+/components/com_sexycontactform/fileupload/index.php 1 http://www.canadaviajes.com.py/components/com_sexycontactform/fileupload/index.php
+//data/plus/1120.asp 1 https://www.baidu.com
+//images/7.asp 1 https://www.baidu.com
+//images/inc.asp 1 https://www.baidu.com
+//imgers/news.php 1 https://www.baidu.com
+//uploads/tools.php 1 https://www.baidu.com
+//admin/d5.asp 1 https://www.baidu.com
+//conf1g.asp 1 https://www.baidu.com
+//dbhbf19911.asp 1 https://www.baidu.com
+//plus/ad_js.php 5 https://www.baidu.com
+//tools/life/jz.php 1 https://www.baidu.com
+//plus/service.php 1 https://www.baidu.com
+/upload/server/php/ 1 http://www.canadaviajes.com.py/upload/server/php/
+//admin/inc/jiuge.asp 1 https://www.baidu.com
+//mytag_js.asp 1 https://www.baidu.com
+//plus/digg.php 2 https://www.baidu.com
+//type.php 2 -
+//siteweb.asp 1 https://www.baidu.com
+//5t/plus/diy.asp 1 https://www.baidu.com
+/img/salidasgarantizadas/brasilbus-sg/flnterrestre.jpg 2 http://www.canadaviajes.com.py/img/salidasgarantizadas/brasilbus-sg/flnterrestre.jpg
+//plus/xcnc/index.php 1 https://www.baidu.com
+//tags.php 1 https://www.baidu.com
+/wp-content/themes/AdvanceImage5/header.php 2 -
+/deu/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 1 http://www.canadaviajes.com.py/deu/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg
+//kaian/DA.asp 1 https://www.baidu.com
+/newsite/wp-admin/install.php 1 -
+//index.php/module/action/param1/%7B$%7Beval($_POST%5Bthinkphp%5D)%7D%7D 1 https://www.baidu.com
+//wp-content/plugins/cons.php 1 https://www.baidu.com
+//wp-content/plugins/wp-db-ajax-made/1208.php 1 https://www.baidu.com
+/img/galeria/otawa/otawa.jpg 9 http://www.canadaviajes.com.py/en/index.html
+/img/sujetoadisponibilidad/europa/europa2.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//data/s.asp 2 https://www.baidu.com
+/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 14 http://www.canadaviajes.com.py/en/index.html
+//concon.asp 2 https://www.baidu.com
+/img/salidasgarantizadas/argentina-sg/buenosaires.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//admin_aspcms/_system/AspCms_SiteSetting.asp 1 http://www.canadaviajes.com.py/
+//fckeditor/editor/filemanager/upload/aspx/upload.aspx 1 http://www.canadaviajes.com.py//fckeditor/editor/filemanager/upload/aspx/upload.aspx
+/img/sujetoadisponibilidad/argentina/bariloche2.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//5t/images/index.asp 1 https://www.baidu.com
+//ewebeditor/include/hackseo.asp 1 https://www.baidu.com
+/pics/logo_aero/logo11.jpg 35 -
+//dasefw/concon.asp 1 https://www.baidu.com
+//zzy.asp 1 https://www.baidu.com
+//advs/newfile.php 1 https://www.baidu.com
+//plus/m7lrv.php 1 https://www.baidu.com
+//images/date.php 1 https://www.baidu.com
+//plus/zdqd.php 1 https://www.baidu.com
+//asy.asp 1 https://www.baidu.com
+//administrator/components/com_admin/cons.php 1 https://www.baidu.com
+//news_bak.asp 1 https://www.baidu.com
+//index.php/module/action/param1/$%7B@eval($_POST%5Bc%5D)%7D 1 https://www.baidu.com
+/pics/logo_aero/logo2.jpg 36 -
+/img/descubripaises/ca/pages/1-regions.json 1 http://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+//img/css/xianf.asp 1 https://www.baidu.com
+/pics/logo_aero/logo9.jpg 35 -
+//bosg.asp 1 https://www.baidu.com
+//include/data/fonts/uddatasql.php 3 https://www.baidu.com
+//plus/mytag_js.phpaid=6022 1 https://www.baidu.com
+//wp-content/themes/twentyeleven/cons.php 1 https://www.baidu.com
+//sss.php 1 https://www.baidu.com
+//nevvs6./index.asp 1 https://www.baidu.com
+//CacheFlle.class.php 1 https://www.baidu.com
+/img/sujetoadisponibilidad/canada/ESENCIASDELOESTECANADA.jpg 17 http://www.canadaviajes.com.py/en/index.html
+//newr/news.php 1 https://www.baidu.com
+/xmlrpc.php 5 -
+//wp-content/plugins/prism-highlight/css.php 1 https://www.baidu.com
+//xiaolei.php 1 https://www.baidu.com
+//editplus.asp 2 https://www.baidu.com
+//lcwm/news.asp 1 https://www.baidu.com
+/+595981602583 17 http://www.canadaviajes.com.py
+/sunshop/index.php 3 -
+//yc.asp 1 https://www.baidu.com
+/img/sujetoadisponibilidad/caribe/SAMANA.jpg 3 http://www.canadaviajes.com.py/en/
+//plus/mytag_js.phpaid=9521 6 https://www.baidu.com
+/img/descubripaises/ce/pages/4-thumb.jpg 3 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//css/ing/css/md5.asp 1 https://www.baidu.com
+//idicn81016.asp 1 https://www.baidu.com
+//wp-login.php 1 http://www.google.com.hk
+//index.php/Index/index/name/%24%7B@print%28eval%28%24_POST%5Bc%5D%29%29%7D 1 https://www.baidu.com
+//admin/nbgx/index.php 1 https://www.baidu.com
+//css/img/down.asp 1 https://www.baidu.com
+//wt.asp 1 https://www.baidu.com
+//admin/cache.asp 1 https://www.baidu.com
+/pics/logo_aero/logo1.jpg 36 -
+//xinet/xinnet.asp 2 https://www.baidu.com
+//data/config.php 2 https://www.baidu.com
+//Admin/images/Sql.asp 1 https://www.baidu.com
+//11m.php 1 https://www.baidu.com
+//imagies/SqlIn.asp 1 https://www.baidu.com
+//i.asp 1 https://www.baidu.com
+/img/toursdestacados/europatd/europavacacionestd.jpg 198 http://www.canadaviajes.com.py/
+//Thumb.asp 1 https://www.baidu.com
+//admin/sivog/SqlIn.asp 1 https://www.baidu.com
+/apple-touch-icon-precomposed.png 11 -
+//cache/label/909.php 2 https://www.baidu.com
+//sb.asp 2 https://www.baidu.com
+//sk/xiaoliang.asp 1 https://www.baidu.com
+/img/descubripaises/pe/pages/3-large.jpg 2 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+/img/toursdestacados/europatd/semanasantaeuropa2019.jpg 201 http://www.canadaviajes.com.py/
+//Pcalss/Plcss.asp 1 https://www.baidu.com
+//admin/Inc/Logout.asp 1 https://www.baidu.com
+//plus/90sec.php/plus/90sec.php 1 https://www.baidu.com
+//Inedata/system.asp 1 https://www.baidu.com
+//images/conns.php 1 https://www.baidu.com
+/openings 1 http://www.canadaviajes.com.py/jobs
+/web2015/html/qsomos.htm 31 -
+/web2015/html/css/lightbox.css 1 http://www.canadaviajes.com.py/web2015/html/fitpar2015/fitpar2015.htm
+/web2015/html/sudamerica.html 10 -
+/img/descubripaises/ce/pages/2-large.jpg 1 http://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+//images/css/Thumb.asp 3 https://www.baidu.com
+//fdh/mp.php 1 https://www.baidu.com
+//tagsl/bnnr.asp 1 https://www.baidu.com
+//index.php/module/action/param1/$%7B@print(eval($_POST%5Bc%5D))%7D 1 https://www.baidu.com
+//admin2015.asp 1 https://www.baidu.com
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 http://www.canadaviajes.com.py/
+//ppap/DA.asp 1 https://www.baidu.com
+//plus/windos.php 1 https://www.baidu.com
+//images/link/cache.asp 1 https://www.baidu.com
+//install/md5.php 1 https://www.baidu.com
+//editor/Include/C1ass.asp 2 https://www.baidu.com
+/img/sujetoadisponibilidad/canada/canada4.jpg 20 http://www.canadaviajes.com.py/en/index.html
+//userfiles/image/shell.asp/crazy4.jpg 1 https://www.baidu.com
+/img/toursdestacados/argentinatd/ushtd.jpg 4 http://www.canadaviajes.com.py/en/
+//UploadFile/index.asp 1 https://www.baidu.com
+/img/quienes-somos2.jpg 3 http://www.canadaviajes.com.py/en/
+/api/.env 1 -
+/img/sujetoadisponibilidad/brasil/brasilimbatible.jpg 18 http://www.canadaviajes.com.py/en/index.html
+//data/cache_template/rss.tpl.php 1 -
+/img/sujetoadisponibilidad/argentina/USHUAIA2.jpg 17 http://www.canadaviajes.com.py/en/index.html
+/tel:+59581970815 2 http://www.nanduti.com.py
+//admin/SqlIn.asp 1 https://www.baidu.com
+//images/DA.asp 1 https://www.baidu.com
+//uploads/indax.php 1 https://www.baidu.com
+/img/galeria/bariloche/.jpg 5 http://www.canadaviajes.com.py/img/descubripaises/pe/pe.html
+//dlxxy/Admin_.asp 1 https://www.baidu.com
+//plus/backup.php 1 https://www.baidu.com
+//zxxw.asp 1 https://www.baidu.com
+//wp-includes/SimplePie/conns.php 2 https://www.baidu.com
+/apple-touch-icon-152x152.png 9 -
+//data/data/includ.php 1 https://www.baidu.com
+//11m.asp 1 https://www.baidu.com
+//tp.asp 1 https://www.baidu.com
+//Edit/fsoimg/heo.asp 1 https://www.baidu.com
+/img/galeria/machupichu/machupichu2.jpg 9 http://www.canadaviajes.com.py/en/index.html
+/apple-touch-icon.png 11 -
+//admin.php/module/action/param1/$%7B@eval($_POST%5Bc%5D)%7D 1 https://www.baidu.com
+//Admin/Admin_.php 2 https://www.baidu.com
+//include/inc/date.php 1 https://www.baidu.com
+//wp-includes/theme-compat/login.php 1 https://www.baidu.com
+//mews/news.php 1 https://www.baidu.com
+//mysql.php 1 https://www.baidu.com
+/web2015/pics/banner_canada.jpg 2 https://www.google.com/
+//da.php 1 http://www.canadaviajes.com.py//da.php
+//555.asp 1 https://www.baidu.com
+//read.php 1 https://www.baidu.com
+//admin/ping.php 1 https://www.baidu.com
+//data/css_js.php 1 https://www.baidu.com
+/deu/img/sujetoadisponibilidad/caribe/costaricatodoela%C3%B1o.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/costaricatodoela\xf1o.jpg
+//vaf/vaf.jsp 1 https://www.baidu.com
+//9tu.asp 1 https://www.baidu.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 456
+35.198.31.56 140 408 105086486 20190531234534
+13.209.87.86 17 17 1408800 20190517140703
+66.249.85.31 16 517 106683029 20190531115927
+181.40.122.42 11 620 79948905 20190527154008
+190.128.183.14 10 335 68015618 20190528114847
+138.186.60.26 10 600 98527846 20190529084008
+181.122.253.231 9 506 106981665 20190522212440
+66.249.85.3 9 538 103710894 20190531115934
+66.249.85.1 8 539 114119066 20190528185444
+67.60.137.219 7 23 4571890 20190531083601
+190.128.250.158 7 334 70269297 20190517130045
+209.251.23.235 7 39 7802039 20190506175533
+60.191.38.77 7 7 631274 20190523074021
+144.76.100.150 7 7 0 20190527235028
+122.49.28.44 7 205 20706194 20190511213758
+165.227.62.167 6 38 7718224 20190514043526
+165.227.184.35 6 26 792162 20190515155412
+159.89.178.195 6 26 509442 20190530234838
+45.55.255.88 6 26 792162 20190510203107
+159.203.94.91 6 24 788231 20190505164737
+159.89.43.244 6 26 803320 20190526010544
+77.87.228.69 6 179 38132907 20190502090211
+177.251.80.148 6 77 7652912 20190506125512
+8.38.238.212 6 22 4838414 20190524091738
+46.101.80.192 6 6 372918 20190520134150
+181.124.172.122 0 2 441210 
+170.51.52.101 3 155 32620028 20190517121806
+181.127.144.127 3 65 6584797 20190517141945
+195.154.61.206 1 1 88588 20190508015401
+34.222.22.128 1 1 88588 20190507232328
+200.108.136.46 3 153 32076782 20190502180852
+200.45.134.156 2 69 7206415 20190515155640
+34.231.241.191 1 1 88588 20190510113852
+35.222.226.83 1 1 88588 20190508130103
+24.232.211.237 3 157 32572045 20190510133843
+18.236.220.237 1 1 88588 20190507230300
+186.22.196.211 0 1 166784 
+3.86.165.80 1 1 88588 20190502005322
+190.52.129.212 1 51 7345149 20190529133558
+118.113.212.34 3 151 31872685 20190506211910
+54.190.200.76 1 1 94167 20190527212513
+54.166.184.127 4 4 359931 20190525221527
+201.206.203.213 3 83 8150303 20190517182457
+170.51.54.135 1 76 9472637 20190506152640
+187.188.213.4 1 1 88588 20190515213606
+54.224.113.39 1 1 88588 20190508001155
+190.104.131.183 3 156 33666453 20190523220056
+52.90.235.182 1 1 88588 20190507112404
+34.222.166.51 1 1 88588 20190510071526
+80.108.168.241 0 1 13053 
+190.216.231.38 3 153 32616097 20190521083038
+190.104.131.3 5 174 40450812 20190512221252
+189.58.148.86 3 159 33345265 20190520124140
+189.144.94.55 0 1 753944 
+185.70.186.135 1 1 94167 20190522130626
+181.67.182.177 5 174 40800099 20190517151707
+54.189.6.189 1 1 94167 20190530080501
+198.143.158.82 1 1 94167 20190517103116
+34.217.48.30 1 1 88588 20190502091436
+66.249.88.74 4 153 25989089 20190507201657
+142.93.71.105 1 22 525997 20190503112358
+200.63.105.142 0 1 753944 
+190.104.131.16 4 157 32404480 20190523182024
+34.220.92.119 1 1 88588 20190510213517
+148.240.65.249 0 1 753944 
+187.153.131.237 0 1 260563 
+184.160.187.29 2 154 32058933 20190515151129
+34.213.183.251 1 1 94167 20190525070209
+88.253.34.6 0 1 212208 
+190.104.131.238 0 5 10446 
+5.62.154.89 0 25 12155115 
+177.107.128.158 1 1 83815 20190510201958
+181.126.100.8 1 99 19016802 20190531145259
+18.237.137.134 1 1 88588 20190504211945
+66.102.6.204 1 84 12080098 20190524174543
+66.102.6.190 1 54 11205052 20190530160742
+54.221.52.155 1 1 88588 20190509021927
+54.190.169.217 1 1 94167 20190522075347
+54.213.199.151 1 1 94167 20190520214337
+37.115.184.19 2 2 188334 20190517065811
+54.172.118.182 3 3 271343 20190529114508
+177.251.219.218 3 158 32621957 20190520082814
+52.59.102.42 1 1 94167 20190522102345
+190.12.67.65 0 1 753944 
+186.141.228.59 0 1 276025 
+201.137.131.106 0 1 134209 
+35.202.128.160 2 2 188334 20190530215128
+212.180.208.122 1 1 94167 20190524204440
+177.250.251.174 3 158 32082642 20190501145827
+78.188.61.80 3 155 32620028 20190523032854
+187.72.98.225 3 155 32620028 20190521084300
+52.91.61.38 1 1 88588 20190507232752
+176.8.89.65 3 3 282501 20190528144506
+45.7.238.242 1 1 94167 20190522100633
+34.222.96.189 1 1 88588 20190507032642
+186.136.234.221 3 154 32350705 20190524193045
+103.225.206.22 0 1 325175 
+181.40.73.130 1 150 31583448 20190502134016
+177.250.92.119 0 1 133137 
+77.67.54.52 1 1 88588 20190503085655
+54.81.86.186 1 1 88588 20190507221304
+64.140.132.156 1 1 83815 20190507085510
+186.87.4.33 1 104 20756990 20190524141631
+80.120.86.242 1 1 83815 20190508131211
+34.216.107.232 1 1 88588 20190507233825
+66.249.88.190 4 261 52835513 20190523071632
+178.239.147.131 1 12 2552802 20190502233155
+34.220.120.52 1 1 94167 20190519055444
+64.140.132.132 1 1 83815 20190507085616
+52.70.146.155 1 1 88588 20190501094319
+35.174.109.175 2 2 177176 20190502103416
+52.11.199.231 1 1 94167 20190526054121
+187.223.59.150 0 1 212208 
+190.104.131.53 1 1 0 20190520170841
+52.12.196.134 1 1 88588 20190507090525
+190.104.183.213 1 150 32122763 20190520122418
+181.122.157.111 5 189 43918371 20190527210354
+186.50.98.219 0 1 940502 
+185.124.31.192 3 135 31756712 20190511115725
+104.148.64.26 1 1 88588 20190503202649
+91.219.100.6 0 1 439316 
+200.84.34.152 1 1 88588 20190507132946
+172.58.203.74 3 154 32376955 20190520163942
+54.200.240.98 1 1 18774 20190531220859
+181.40.122.242 1 150 31508027 20190531090912
+177.251.108.127 3 101 10861819 20190524111725
+95.211.209.158 1 1 88588 20190512230407
+170.251.220.163 0 1 296074 
+54.202.46.113 1 1 88588 20190512075942
+84.83.40.72 3 155 32203335 20190504144824
+35.222.65.93 1 15 2589962 20190504144500
+177.251.215.202 0 54 21916475 
+54.37.235.13 1 1 83815 20190504223512
+190.104.131.60 3 153 32349123 20190527111922
+190.128.153.230 4 169 36046780 20190527105313
+186.28.88.149 0 1 487080 
+181.127.49.139 3 156 32950648 20190525175254
+181.124.182.52 3 172 36972486 20190502151313
+200.3.255.234 1 113 27266379 20190507144451
+69.70.145.174 3 163 34507589 20190516123228
+35.202.222.116 1 1 88588 20190508134657
+181.127.50.217 3 155 32620028 20190519122955
+181.45.187.16 3 105 11299644 20190507114656
+190.104.131.226 0 1 260563 
+190.16.104.83 3 157 33137412 20190530083920
+190.40.199.139 3 153 32076782 20190503122557
+190.0.175.107 0 1 940502 
+190.104.176.196 0 6 0 
+187.216.79.34 1 126 31400758 20190521172315
+54.202.149.41 2 2 177176 20190507100940
+142.127.194.61 3 154 32376955 20190529012309
+181.124.10.102 0 1 199146 
+199.127.56.236 2 151 32566485 20190526113944
+181.127.95.53 0 5 10446 
+193.70.34.209 1 1 94167 20190524110433
+54.190.9.91 1 1 94167 20190524071640
+35.245.108.66 2 19 4305232 20190512085342
+54.202.225.77 1 1 88588 20190507090539
+66.102.8.225 0 56 16880209 
+181.124.180.21 1 1 7 20190504054306
+181.40.19.149 2 110 12768025 20190502095844
+34.216.7.90 1 1 88588 20190511071605
+34.220.223.122 1 1 88588 20190507215802
+190.104.183.110 3 155 32620028 20190528151228
+34.220.13.94 1 1 94167 20190525214326
+177.12.161.220 1 1 88588 20190509142544
+69.58.178.59 3 3 272149 20190522233415
+145.219.8.170 3 158 32205264 20190503031134
+54.185.28.220 1 1 94167 20190526214345
+181.49.66.10 0 1 247551 
+181.126.42.251 3 132 22553266 20190504190210
+79.202.105.134 4 156 32080720 20190515052920
+181.49.115.217 0 2 1050018 
+54.94.191.131 1 1 94167 20190529144258
+35.247.192.15 2 2 188334 20190531142307
+190.210.152.219 0 1 186098 
+167.114.233.118 1 1 88588 20190516053641
+178.143.35.1 4 174 37237339 20190516071609
+34.219.86.189 1 1 88588 20190504083214
+185.48.57.173 1 1 88588 20190509152544
+212.92.112.51 2 2 188334 20190527085054
+109.234.34.218 1 1 18774 20190530135337
+109.236.211.186 0 1 325175 
+131.161.254.35 0 27 0 
+116.203.39.80 4 4 354352 20190510234920
+186.64.180.157 2 39 2069602 20190508114113
+66.102.7.158 0 2 758344 
+54.188.160.107 1 1 94167 20190519214553
+46.99.164.2 1 1 83815 20190502031725
+52.89.211.142 1 1 94167 20190528072150
+54.203.12.150 1 1 88588 20190508073649
+75.74.65.120 0 1 1392765 
+200.92.250.50 0 1 396535 
+54.213.138.216 1 1 94167 20190525214548
+187.156.129.68 0 1 276025 
+143.255.154.46 1 1 94167 20190522130624
+66.249.88.164 4 276 56666975 20190523071638
+178.137.84.233 4 4 354352 20190511100739
+18.206.100.205 1 1 88588 20190507104024
+54.185.175.216 1 1 88588 20190502072922
+181.126.81.29 0 1 23459 
+194.63.141.189 1 1 94167 20190526032839
+34.208.235.9 1 1 88588 20190507095709
+51.15.191.250 2 2 182755 20190516221545
+181.126.210.17 2 154 32058933 20190507100901
+190.147.220.97 3 155 32620028 20190516132106
+201.217.5.166 0 27 715807 
+52.13.170.224 1 1 94167 20190521073034
+66.102.7.157 0 4 1629724 
+35.202.155.80 1 1 88588 20190508181557
+54.190.3.97 1 1 94167 20190528064701
+148.226.203.106 2 154 31983512 20190531123949
+113.35.251.98 1 1 88588 20190506144318
+34.216.31.142 1 1 88588 20190513213933
+194.93.59.17 4 4 354352 20190508022350
+66.102.6.164 0 52 7668719 
+54.191.198.137 1 1 94167 20190517073254
+38.127.197.68 4 10 319762 20190513100926
+190.128.231.54 3 159 33453449 20190523151909
+201.217.52.30 3 119 19166966 20190528204921
+34.216.9.20 1 1 88588 20190509080349
+34.220.203.147 1 1 88588 20190513213934
+190.144.75.130 4 198 34245610 20190510130716
+190.128.184.9 0 1 451345 
+34.219.35.35 1 1 94167 20190518072138
+51.68.152.26 1 1 88588 20190504202432
+18.237.232.31 1 1 94167 20190519080754
+189.216.129.67 0 1 260953 
+181.40.83.254 2 63 5667618 20190527105845
+77.67.54.61 1 1 94167 20190520082038
+70.168.114.139 3 155 32080713 20190514151451
+190.104.148.34 4 154 32019571 20190530141753
+181.124.171.108 5 107 10967553 20190515201008
+190.104.191.224 4 307 64629349 20190516091330
+181.126.150.174 3 164 37415923 20190506140202
+184.94.240.92 3 3 271343 20190531021233
+66.102.8.253 0 38 7114348 
+34.223.3.172 1 1 88588 20190509212902
+34.221.154.157 1 1 94167 20190517211755
+181.122.24.194 5 187 37004635 20190514172454
+190.130.44.117 0 1 396535 
+45.33.136.22 2 153 32570416 20190521145008
+94.220.187.100 2 49 3300196 20190513001301
+104.222.33.170 1 1 88588 20190507084120
+181.120.156.230 3 161 33357490 20190526163809
+23.97.211.187 2 2 188334 20190519031603
+186.4.241.5 0 3 1780887 
+181.120.152.153 3 155 32620028 20190528160515
+45.229.170.113 2 154 32598248 20190523091150
+34.222.86.202 1 1 94167 20190521220404
+104.144.216.208 1 1 88588 20190502174938
+54.186.253.239 1 1 94167 20190522215026
+34.212.39.19 1 1 94167 20190523074416
+190.140.172.172 0 1 16988 
+168.227.54.10 1 1 94167 20190523120802
+54.218.150.169 1 1 94167 20190526073721
+34.215.169.171 1 1 94167 20190527212048
+35.226.117.79 4 4 376668 20190531095620
+110.172.132.71 0 1 68713 
+163.172.119.161 1 1 94167 20190517182727
+46.160.110.146 1 1 88588 20190504071603
+190.202.145.19 1 33 4262901 20190509172120
+34.217.17.223 1 1 88588 20190501214800
+190.104.136.186 3 164 33591532 20190509122432
+207.161.140.47 3 158 32621957 20190529214355
+54.213.90.19 1 1 94167 20190520072630
+77.87.224.99 0 3 373595 
+190.52.188.116 1 7 0 20190520144458
+18.237.237.78 1 1 94167 20190527054528
+3.91.98.58 1 1 88588 20190502103344
+93.182.108.19 4 4 280437 20190519094829
+200.61.237.37 1 82 10856331 20190502150835
+107.6.183.162 1 1 94167 20190526094659
+181.126.51.45 2 154 32598248 20190524092840
+3.80.125.37 1 1 88588 20190511162710
+190.104.148.41 1 150 32122763 20190523081919
+177.223.58.68 1 1 83815 20190523033442
+66.249.83.221 4 441 96667363 20190523164034
+181.123.217.71 3 159 33007250 20190530144055
+34.235.154.136 1 1 88588 20190505231339
+190.104.176.113 3 154 32376955 20190519204406
+34.220.41.181 1 1 88588 20190513080324
+52.28.3.120 2 33 950227 20190522110617
+138.197.111.105 1 22 531576 20190520034332
+179.12.194.120 3 155 32080713 20190509105614
+123.207.254.4 1 1 83815 20190507090005
+54.213.9.151 1 1 94167 20190529081445
+185.124.31.153 1 82 10837458 20190511061731
+187.189.181.239 0 1 781143 
+2.139.66.77 0 1 260563 
+186.120.31.178 0 1 186098 
+181.40.122.122 1 49 7906289 20190516152236
+138.197.111.192 1 22 525997 20190507104305
+104.199.212.16 2 2 188334 20190531200107
+193.70.52.233 1 1 83815 20190521113913
+145.226.158.85 3 155 32203335 20190513035739
+177.251.221.232 3 161 32844027 20190516082633
+181.127.49.0 0 1 753944 
+202.152.40.28 1 1 83815 20190525221057
+202.166.211.143 0 2 432573 
+34.220.151.96 1 1 88588 20190504040745
+5.153.178.48 1 1 94167 20190518071429
+34.66.132.220 1 1 88588 20190508160502
+186.176.96.103 0 1 753944 
+54.203.90.36 1 1 88588 20190515213953
+189.239.195.118 0 1 166784 
+41.79.67.1 1 20 4458681 20190501000029
+190.224.92.224 3 63 5250096 20190530203147
+190.0.5.74 0 1 678261 
+181.115.143.157 2 43 2251760 20190527090034
+3.15.24.88 2 152 32594317 20190522102329
+116.203.22.185 2 2 188334 20190523020132
+34.217.88.17 1 1 88588 20190514062245
+34.221.134.138 1 1 94167 20190529223121
+138.197.111.48 1 22 525997 20190511150152
+212.112.93.105 1 1 94167 20190523001850
+54.214.126.191 1 1 94167 20190518214727
+172.72.65.253 0 3 2140004 
+34.217.144.250 1 1 88588 20190514111320
+66.249.83.222 5 432 81038151 20190525175158
+34.216.224.181 1 1 88588 20190511214337
+34.222.15.173 1 1 88588 20190506212239
+54.189.17.175 1 1 88588 20190508214622
+102.165.35.214 2 2 188334 20190519130436
+182.92.105.136 1 19 4420911 20190510194659
+83.58.139.181 0 1 199146 
+66.102.6.161 0 42 11415324 
+180.182.194.204 0 1 195561 
+159.65.32.144 6 26 803320 20190520145414
+190.23.17.66 4 179 36507115 20190508072357
+58.10.204.36 1 1 83815 20190511102708
+138.197.111.36 2 44 1063152 20190528223958
+181.120.83.221 0 1 721516 
+181.51.34.211 4 308 64117866 20190515181816
+194.61.24.29 2 2 177176 20190514103034
+45.228.60.76 3 125 20155064 20190502163536
+190.23.169.232 2 127 21398979 20190522183112
+110.87.3.189 1 1 88588 20190510042724
+5.164.38.217 3 36 1072117 20190502220824
+187.157.53.178 0 2 481409 
+187.111.160.29 1 1 83815 20190527223903
+138.201.249.86 4 4 0 20190517222123
+54.149.149.103 1 1 88588 20190514214151
+138.197.111.27 1 22 525997 20190515082723
+212.210.138.138 1 1 83815 20190504171715
+18.206.250.72 2 2 177176 20190508170539
+191.88.210.221 0 1 220605 
+54.212.95.213 1 1 94167 20190523213731
+201.217.56.79 3 158 32137240 20190507135039
+181.115.96.228 0 1 753944 
+62.4.14.198 2 2 177176 20190508060203
+54.189.158.77 1 1 88588 20190512214330
+176.53.43.49 1 1 88588 20190504001635
+34.211.107.80 1 1 88588 20190512214510
+181.124.180.78 3 134 23259828 20190501182513
+198.11.15.11 3 155 32080713 20190501090421
+64.246.165.190 1 1 88588 20190516043132
+24.232.59.73 4 317 65512505 20190514101340
+181.127.85.185 0 1 396535 
+35.238.241.225 1 1 88588 20190508152712
+177.8.37.247 1 1 83815 20190505201449
+181.124.32.110 3 159 32540409 20190505164906
+181.40.119.146 0 1 487080 
+66.249.88.71 2 152 34861711 20190507134750
+18.206.159.236 2 2 177176 20190507235642
+170.51.49.31 1 5 282806 20190522063115
+66.102.6.202 1 71 16529754 20190523170625
+54.188.97.68 1 1 88588 20190505085417
+179.28.75.145 0 1 260953 
+142.161.28.174 2 24 2066177 20190501172904
+52.32.161.6 1 1 18774 20190530212213
+4.53.111.79 1 1 88588 20190503072645
+54.189.37.233 1 1 94167 20190529222952
+66.102.8.227 1 49 5806169 20190514113836
+66.249.88.76 2 157 34588300 20190507201700
+54.189.23.222 1 1 88588 20190506073036
+66.249.88.161 5 244 54939735 20190523164035
+201.141.193.7 1 1 94167 20190525201506
+181.122.83.208 0 1 667773 
+181.124.14.233 3 155 32620028 20190520131245
+170.51.52.210 3 155 31839222 20190507132932
+177.66.72.178 3 154 32376955 20190520183734
+54.213.159.191 1 1 88588 20190501081935
+152.173.133.205 0 1 166784 
+54.212.1.47 1 1 83815 20190510150333
+27.116.51.115 1 1 83815 20190509200303
+190.129.127.41 3 156 32078711 20190507105020
+18.237.42.216 1 1 18774 20190531044320
+54.187.13.165 1 1 94167 20190516215017
+186.91.193.126 0 1 642282 
+177.228.132.59 0 1 260953 
+18.212.42.148 2 2 182755 20190529090806
+194.59.249.132 1 1 94167 20190527200031
+198.91.242.118 0 2 428575 
+181.122.64.59 0 2 271022 
+181.121.253.228 3 156 32081576 20190513111110
+186.182.83.5 3 154 32052881 20190513095515
+201.217.42.62 0 1 27832 
+190.194.118.171 0 1 667773 
+186.227.88.37 1 1 83815 20190526101755
+212.145.153.141 2 36 1611828 20190522052940
+34.213.197.243 1 1 94167 20190524214948
+190.52.167.33 0 1 27762 
+54.213.198.192 1 1 94167 20190523052755
+201.217.28.43 3 159 33156612 20190523143729
+66.249.83.220 1 409 102581037 20190504231607
+195.206.106.73 1 1 94167 20190530001408
+190.85.35.243 0 1 642282 
+170.51.49.98 1 1 7 20190502082224
+93.114.205.109 0 1 753944 
+52.90.210.212 1 1 88588 20190504040633
+181.124.186.229 0 1 753944 
+190.52.171.188 1 121 29891785 20190530091228
+184.151.231.138 3 154 32376955 20190528210457
+177.228.133.59 0 2 557027 
+178.137.82.147 2 2 177176 20190505082658
+181.49.85.30 2 153 32704486 20190527210559
+177.250.71.115 3 141 24287419 20190507154206
+181.122.38.19 0 1 721516 
+54.218.231.14 1 1 18774 20190530211826
+34.66.95.149 1 13 3567482 20190524173243
+190.23.208.230 0 1 27832 
+187.178.79.55 0 1 225164 
+172.241.170.104 1 1 94167 20190523052121
+34.215.46.244 1 1 88588 20190502212129
+54.185.217.143 1 1 88588 20190515093904
+47.106.121.52 2 151 32027170 20190509060635
+190.128.232.26 6 311 66028448 20190529114440
+52.13.49.21 1 1 88588 20190515213946
+34.217.58.119 1 1 94167 20190517071957
+200.117.25.18 0 1 781143 
+46.254.217.54 1 1 83815 20190520230743
+181.126.84.29 0 2 1662018 
+177.251.174.123 3 155 32080713 20190508063933
+189.203.45.82 0 1 10928 
+54.212.2.137 1 1 94167 20190528212510
+159.203.81.93 1 1 94167 20190525201650
+23.100.232.233 4 156 6498732 20190523093721
+181.126.83.37 1 150 31583448 20190503101416
+47.112.130.182 3 151 31872685 20190515025131
+177.251.139.42 0 5 10446 
+195.34.90.121 1 1 83815 20190504014323
+34.222.24.94 1 1 88588 20190507221853
+54.186.96.54 1 1 88588 20190505214339
+181.49.93.107 4 154 32637877 20190522193412
+181.127.141.186 3 157 32380579 20190525170411
+190.128.162.238 1 148 31579517 20190510105938
+18.218.99.86 4 38 325552 20190531061610
+18.237.243.14 1 1 88588 20190516080046
+66.102.6.200 2 87 13070568 20190524174543
+181.123.54.65 3 156 32747533 20190511152225
+35.162.167.152 1 1 88588 20190503214814
+188.165.243.162 0 1 678261 
+18.206.38.103 2 2 182755 20190525221405
+190.128.203.190 1 150 31583448 20190507111349
+187.151.33.162 0 1 753944 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190501 16 501 95686753 9
+20190502 36 1203 220798023 21
+20190503 12 495 97426797 8
+20190504 24 610 119512905 19
+20190505 17 199 34697927 9
+20190506 33 971 161913974 12
+20190507 58 1803 333614225 41
+20190508 25 400 77602600 18
+20190509 21 815 166042060 13
+20190510 33 883 171463670 18
+20190511 24 764 129834298 12
+20190512 13 200 45563597 7
+20190513 24 849 166450255 10
+20190514 23 690 141032582 12
+20190515 31 847 148987863 15
+20190516 30 1373 279466734 16
+20190517 54 1100 222483437 21
+20190518 7 8 1136544 5
+20190519 23 925 198986997 15
+20190520 45 1643 336394987 20
+20190521 19 961 171002426 12
+20190522 30 855 168214631 19
+20190523 43 2164 433390524 24
+20190524 24 730 136763432 13
+20190525 15 468 97013116 11
+20190526 19 357 69901095 11
+20190527 29 935 187584531 15
+20190528 22 773 152623192 12
+20190529 19 686 141665249 11
+20190530 66 1001 214077269 17
+20190531 131 874 176843804 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 5
+0s-30s 410
+5mn-15mn 9
+30s-2mn 24
+1h+ 2
+30mn-1h 2
+2mn-5mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 545 46651395 406 270
+/fonts/fontawesome-webfont.woff2 135 10339440 13 42
+/fonts/Linearicons-Free.woff2 106 2243340 10 88
+/en/ 76 6106148 27 32
+/deu/ 42 3404674 1 1
+/img/descubripaises/ce/ce.html 21 162988 0 9
+/img/descubripaises/pe/pe.html 17 135835 1 7
+/img/descubripaises/ca/ca.html 7 52412 0 1
+/php/form-modal.php 5 35 2 4
+/fonts/fontawesome-webfont.eot 4 662968 0 0
+/fonts/Linearicons-Free.eot 4 223280 0 4
+/fonts/fontawesome-webfont.woff 2 196048 0 1
+/fonts/Linearicons-Free.woff 1 55696 0 1
+/php/form-process.php 1 7 1 1
+END_SIDER

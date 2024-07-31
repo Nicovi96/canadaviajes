@@ -1,0 +1,1999 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202301 will be lost/reset.
+# Last config file used to build this data file was /home2/canadavi/tmp/awstats/ssl/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2704                
+POS_VISITOR 37010               
+POS_DAY 71818               
+POS_DOMAIN 3704                
+POS_LOGIN 4632                
+POS_ROBOT 4787                
+POS_WORMS 5849                
+POS_EMAILSENDER 5980                
+POS_EMAILRECEIVER 6123                
+POS_SESSION 72791               
+POS_SIDER 72995               
+POS_FILETYPES 6258                
+POS_DOWNLOADS 6567                
+POS_OS 6838                
+POS_BROWSER 7375                
+POS_SCREENSIZE 10556               
+POS_UNKNOWNREFERER 10630               
+POS_UNKNOWNREFERERBROWSER 11732               
+POS_ORIGIN 12292               
+POS_SEREFERRALS 12440               
+POS_PAGEREFS 12809               
+POS_SEARCHWORDS 13260               
+POS_KEYWORDS 13447               
+POS_MISC 2368                
+POS_ERRORS 13543               
+POS_CLUSTER 4488                
+POS_SIDER_404 13744               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230201013401 730 210112 16221323502048
+FirstTime 20230101005743
+LastTime 20230131231726
+LastUpdate 20230201062918 730 0 729 0 0
+TotalVisits 831                 
+TotalUnique 690                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 935                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 7 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 33 139 5356626 99 158 2871546
+1 48 559 103767481 123 274 4789926
+2 16 354 70285735 115 293 4061448
+3 44 543 106174237 172 237 6532105
+4 76 2039 428508323 148 605 7124075
+5 72 1528 304848675 106 302 2819145
+6 50 1738 336980991 163 437 8213038
+7 60 2299 469984800 252 438 11008662
+8 113 2856 570399353 219 534 8781260
+9 70 1572 312142251 103 379 8668352
+10 46 1818 373032378 232 354 6305333
+11 82 3527 714109699 138 542 8875783
+12 209 2897 590082524 125 464 8675346
+13 80 2655 545783637 137 399 10327059
+14 71 2730 562261851 149 509 9528659
+15 40 1208 205423476 127 531 5489449
+16 70 2085 415436111 75 421 7797936
+17 29 667 135428095 73 145 2630624
+18 87 3113 643136167 263 550 5856729
+19 43 1547 308567598 228 592 10797341
+20 46 1143 209113412 267 437 13475175
+21 54 1171 230115318 125 269 10732323
+22 70 761 144459067 141 230 8224814
+23 32 1034 208470748 167 299 6359443
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 43
+us 603 6262 1143698556
+py 267 14249 2943241540
+ar 228 11457 2327926299
+ca 77 577 105401301
+vn 55 55 1029341
+ru 41 213 34512619
+cn 40 1415 289450548
+de 38 773 142149606
+ma 34 1644 342248348
+in 24 334 63591094
+ie 14 543 124767004
+sc 13 13 242639
+br 11 491 99125212
+gb 9 168 33623357
+se 8 8 235788
+es 7 335 66276693
+hn 6 6 112386
+it 6 165 33131170
+mx 6 395 68428125
+id 5 164 33032547
+ua 5 5 197075
+lt 5 9 132103
+nl 4 5 248129
+cr 4 165 34018446
+pl 4 4 78380
+ni 1 11 2401762
+fr 2 3 519115
+ec 0 2 732970
+sv 0 1 132464
+be 2 4 94854
+ro 3 163 33214677
+zz 1 1 19595
+pt 3 163 33236430
+th 1 1 83815
+co 0 2 516891
+jo 2 2 37462
+il 2 2 37462
+pe 1 5 1630327
+cl 3 6 1128090
+jp 3 159 32964036
+au 1 1 100351
+ao 1 1 19595
+eu 1 1 100351
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+bingbot/ 640 85321505 20230131214559 0
+Googlebot/ 412 4964233 20230131071102 0
+facebookexternalhit/ 324 12556366 20230131150431 0
+Apache\-HttpClient/ 171 3350745 20230128232305 0
+Googlebot\-Image/ 132 23818388 20230131212847 0
+YandexBot/ 45 627315 20230131042612 0
+unknown 36 884 20230127064538 36
+Applebot/ 16 6758628 20230129101658 0
+YandexImages/ 11 2277235 20230127064527 0
+Go\-http\-client/ 11 215545 20230131014106 0
+link 10 122232 20230128075348 0
+no_user_agent 10 691440 20230131011218 0
+bingpreview 9 694440 20230130091515 0
+seek 7 452837 20230113064120 0
+bot[\s_+:,\.\;\/\\-] 6 722424 20230127165418 0
+Konqueror/ 5 64322 20230123224837 0
+MixrankBot 5 77969 20230119053755 0
+DuckDuckGo\-Favicons\-Bot/ 4 94854 20230122131641 0
+CFNetwork 3 75259 20230122085556 0
+curl 3 1486714 20230131231649 0
+Velen 3 55579 20230115182508 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 19595 20230107111929 0
+Mail\.RU_Bot/ 1 19595 20230110170011 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+pdf 35 13430794 0 0
+php 10 270 0 0
+ttf 1 165548 0 0
+jpg 23419 7610289787 0 0
+js 5127 38882508 0 0
+css 2954 16169319 0 0
+gif 497 169006638 0 0
+html 1135 29189254 0 0
+woff2 393 20665980 0 0
+woff 2 196048 0 0
+png 6406 95823513 0 0
+txt 4 48894 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/img/visa/imm5257e2.pdf 30 0 19337780
+/img/visa/requisitosvisaaustralia.pdf 11 0 1867640
+/img/visa/nuevazelanda.pdf 11 0 2975580
+/img/visa/imm5645e.pdf 4 0 206139
+/.well-known/security.txt 2 0 24453
+/security.txt 2 0 24441
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 31
+winnt 2 1
+linuxubuntu 26 23
+android 8060 190
+androidlollipop 34 1
+winxp 158 8
+macosx10 2 2
+macosx14 82 9
+linux 3731 216
+androidpie 496 15
+win8.1 652 35
+bsdfreebsd 1 1
+ios_ipad 4 3
+bsdopenbsd 1 0
+androidnougat 537 18
+androidoreo 2266 42
+ios_iphone 3781 86
+androidmarshmallow 6 4
+macosx9 1 1
+win10 14791 510
+macosx13 138 3
+win8 2 2
+macosx11 19 19
+win2000 8 8
+macosx6 1 1
+winunknown 1 1
+macosx15 824 45
+macosx 76 61
+macosx8 2 2
+android10 2789 76
+Unknown 457 91
+win7 1035 67
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 146
+chrome79.0.3945.88 1 1
+chrome94.0.4606.85 1 0
+Unknown 278 72
+safari15.4 8 8
+firefox47.0 31 31
+chrome41.0.2226.0 1 1
+firefox74.0 1 1
+msie9.0 5 5
+chrome32.0.1664.3 1 1
+chrome101.0.4951.61 4 4
+chrome109.0.5414.117 161 3
+chrome106.0.5249.79 2 0
+chrome90.0.4430.93 1 1
+chrome59.0.3071.125 52 7
+chrome66.0.3359.117 5 5
+safari16.0 170 5
+chrome105.0.5195.79 1 0
+chrome106.0.5249.208 162 3
+chrome99.0.4859.172 1 1
+chrome79.0.3945.79 1 1
+chrome103.0.5060.114 3 3
+chrome103.0.5060.134 162 2
+firefox58.0 1 1
+chrome85.0.4183.121 1 1
+opera89.0.4447.51 28 28
+chrome100.0.4896.75 2 0
+safari 983 19
+chrome39.0.2171.95 2 2
+chrome100.0.4896.127 494 11
+safari15.6 1 1
+firefox108.0 833 19
+chrome95.0.4638.69 2 0
+opera62.5.2254.61243 1 1
+chrome101.0.4951.67 1 1
+chrome104.0.0.0 163 3
+msie11.0 6 6
+safari5.1 1 1
+iphone 483 9
+chrome100.0.4895.86 1 1
+chrome101.0.0.0 11 1
+chrome37.0.2049.0 2 0
+safari15.6.3 2 1
+safari14.1.2 346 6
+chrome35.0.2309.372 1 1
+safari7.2.1.0 1 1
+firebird 8 8
+chrome109.0.0.0 12023 232
+firefox102.0 47 47
+edge44 8 8
+firefox25.0 1 1
+chrome108.0.5359.128 572 12
+chrome96.0.4664.92 325 8
+firefox103.0 1 1
+chrome108.0.0.0 12861 251
+firefox43.0 19 19
+chrome87.0.4280.88 1251 21
+opera93.0.0.0 490 9
+chrome60.0.3112.91 1 1
+firefox94.0 9 9
+chrome78.0.3904.108 6 6
+chrome10.0.648.204 1 1
+chrome96.0.4664.110 5 5
+safari16.2 925 26
+edge13 2 2
+safari15.1 1 1
+chrome87.0.4280.101 1 0
+chrome68.0.3427.1 155 0
+chrome83.0.4103.97 117 117
+chrome84.0.4147.105 10 10
+firefox89.0 1 1
+sonyericsson 1 1
+chrome57 4 4
+chrome80.0.3987.116 1 1
+chrome102.0.5005.125 830 19
+chrome60.0.3112.90 5 5
+chrome88.0.4324.93 153 3
+safari16.1 1047 22
+chrome55.0.2883.87 4 4
+chrome91.0.4472.114 151 15
+chrome79.0.3945.130 1 1
+chrome72.0.3626.121 3 3
+chrome109.0.5412.0 162 3
+chrome65.0.3325.181 1 0
+chrome83.0.4103.14 1 1
+chrome75.0.3770.80 1 1
+chrome36.0.1985.125 1 0
+msie10.0 4 4
+chrome36.0.1985.67 1 0
+chrome109.0.5414.85 1 0
+chrome105.0.5195.136 1 0
+chrome83.0.4103.116 79 6
+chrome55.0.2883.91 1 0
+chrome52.0.3233.98 1 1
+chrome106.0.0.0 3 3
+chrome94.0.4606.61 6 6
+chrome109.0.5414.86 199 5
+firefox92.0 659 11
+chrome92.0.4515.107 1 1
+chrome80.0.3987.162 1 1
+chrome60.0.3112.107 1 1
+chrome98.0.4758.102 1 1
+chrome104.0.5112.101 641 9
+firefox52.0 152 3
+chrome103.0.0.0 102 102
+chrome63.0.3239.132 8 3
+chrome105.0.0.0 3 3
+firefox80.0 1 0
+chrome71.0.3578.98 6 6
+safari12.1 1 1
+chrome99.0.4812.0 1 1
+chrome34.0.1847.137 1 1
+safari15.5 159 3
+chrome109.0.5414.74 159 2
+chrome99.0.4844.84 140 2
+chrome59.0.3071.115 22 2
+chrome99.0.4844.51 53 2
+safari11.0 1 1
+chrome60.0.3112.113 2 2
+chrome76.0.3809.100 289 4
+chrome100.0.4896.88 1 1
+chrome91.0.4472.124 1 1
+chrome43.0.2357.125 26 26
+chrome66.0.3359.181 44 44
+chrome44.0.2403.157 4 4
+chrome99.0.4844.88 166 4
+safari12.0.3 1 1
+firefox72.0 3 0
+chrome74.0.3729.169 43 43
+chrome101.0.4951.41 3 3
+chrome79.0.3945.93 673 13
+netscape5.0 1 1
+chrome107.0.0.0 102 5
+chrome26.0.1410.65 1 1
+firefox109.0 182 5
+chrome75.0.3770.100 1 1
+safari9.0.2 8 8
+msie8.0 1 1
+mozilla 183 23
+safari15.6.1 165 5
+chrome108.0.5359.79 1 0
+chrome80.0.3987.132 6 6
+chrome95.0.4638.74 34 1
+chrome102.0.0.0 3 3
+chrome81.0.4044.138 4 4
+opera9.61 1 1
+arora 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230131121034
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131044828
+WhatsApp/2.23.1.76_A 20230130044909
+WhatsApp/2.22.24.78_A 20230120195626
+WhatsApp/2.22.15.74_A 20230106090838
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230110134313
+cortex/1.0 20230129182929
+Mozilla/5.0_(PlayBook;_U;_RIM_Tablet_OS_2.1.0;_en-US)_AppleWebKit/536.2__(KHTML_like_Gecko)_Version/7.2.1.0_Safari/536.2_ 20230108090235
+test 20230126150811
+Mozilla/5.0_(compatible;_ips-agent) 20230118055029
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230116213023
+SonyEricssonK750i/R1CA_Browser/SEMC-Browser/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20230102094515
+WhatsApp/2.22.24.81_i 20230104165942
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+WhatsApp/2.22.24.81_i 20230104165942
+test 20230126150811
+cortex/1.0 20230129182929
+WhatsApp/2.22.15.74_A 20230106090838
+WhatsApp/2.23.1.76_A 20230130044909
+WhatsApp/2.22.24.78_A 20230120195626
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131044828
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 601 1377
+From1 1 1
+From2 207 277
+From3 70 233
+From4 662 38095
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 12
+www_google_com_ar 1 1
+www_google_com_py 12 16
+duckduckgo 1 1
+baidu 8 8
+www_google_es 1 1
+www_google_com_br 5 5
+www_google_de 1 1
+startpage 1 1
+www_google_com 168 227
+www_google_com_mx 0 1
+www_google_ca 3 3
+www_bing_com 6 12
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://mail.canadaviajes.com.py 39 39
+http://192.185.31.77:80 14 14
+https://l.instagram.com 8 8
+https://l.wl.co 7 7
+https://mail.canadaviajes.com.py/css/font-awesome.min.css 1 1
+http://mail.canadaviajes.com.py 1 1
+https://mail.canadaviajes.com.py 0 161
+https://mail.canadaviajes.com.py/css/main.css 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//www.canadaviajes.com.py/ 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//www.canadaviajes.com.py/ 4
+https 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+206 231 12271504
+500 124 782192
+400 136 6812
+406 288 65088
+409 64 5312
+401 222 10779
+301 4 966
+403 3 18249
+404 6375 22267516
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 484
+/phpmyadmin.php 1 -
+/wp-content/themes/seotheme/mar.php 1 http://www.canadaviajes.com.py//wp-content/themes/seotheme/mar.php
+/img/galeria/bolivia/bolivia2.jpg 1 -
+/adminer-4.7.6-mysql.php 1 -
+/wp-blog.php 5 -
+/en/galerialink 9 -
+/wp-content/plugins/wpzip/wpzip.php 1 -
+/wp-admin/setup-config.php 2 http://canadaviajes.com.py//wp-admin/setup-config.php
+/adminer-4.7.8/ 1 -
+/manager/adminer.php 1 -
+/wp-config.inc 1 -
+/wordpress 42 http://canadaviajes.com.py/wordpress
+/adminer/adminer.php 1 -
+/deu/+595981602583 3 https://www.canadaviajes.com.py/deu/
+/admin/controller/extension/wpm.php 1 http://canadaviajes.com.py//admin/controller/extension/wpm.php
+/img/salidasgarantizadas/argentina-sg/gar1.jpg 282 https://www.canadaviajes.com.py/
+/xlt.php 1 http://canadaviajes.com.py//xlt.php
+/web2015/html/inicio.htm 10 -
+/wp-content/plugins/wpputty/wpputty.php 1 -
+/deu/galerialink 5 https://www.canadaviajes.com.py/deu/
+/img/galeria/machupichu/machupichu.jpg 26 https://www.canadaviajes.com.py/deu/
+/backup 42 http://canadaviajes.com.py/backup
+/assets/plugins/elfinder/elfinder.html 1 -
+/old 42 http://canadaviajes.com.py/old
+/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 2 -
+/en/img/sujetoadisponibilidad/caribe/SAMANA.jpg 3 -
+/wp-includes/class-index-wordpress.php 1 -
+/Test 39 http://mail.canadaviajes.com.py/Test
+/html/Congreso/html/programa.htm 1 -
+/data/adminer.php 1 -
+/wp 42 http://canadaviajes.com.py/wp
+/img/galeria/machupichu/machupichu2.jpg 1 -
+/wp-cc.php 1 -
+/adminer-4.7.5-en.php 1 -
+/sitio 39 http://mail.canadaviajes.com.py/sitio
+/symlink.php 4 -
+/wp-content/plugins/seoplugins/mar.php 1 http://www.canadaviajes.com.py//wp-content/plugins/seoplugins/mar.php
+/alwso.php 4 -
+/new 42 http://canadaviajes.com.py/new
+/img/salidasgarantizadas/brasil-sg/brasilalnatalinclusive.jpg 26 https://www.canadaviajes.com.py/deu/
+/reminder.php 1 http://canadaviajes.com.py//reminder.php
+/img/sujetoadisponibilidad/europa/europa1.jpg 26 https://www.canadaviajes.com.py/deu/
+/wp-admin/priv8.php 1 http://canadaviajes.com.py//wp-admin/priv8.php
+/img/salidasgarantizadas/brasilbus-sg/bannerbrasilbus.jpg 28 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/puntacatd/pujfeb.jpg 25 https://www.canadaviajes.com.py/deu/
+/sito 39 http://mail.canadaviajes.com.py/sito
+/minimo.php 4 -
+/adminer-4.7.4-mysql.php 1 -
+/img/toursdestacados/puntacatd/punfeb.jpg 25 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ar2/ar.html 3 -
+/owa/auth/logon.aspx 27 -
+/b.php 4 -
+/uploads/up.php 1 http://canadaviajes.com.py//uploads/up.php
+/2018 39 http://mail.canadaviajes.com.py/2018
+/SITE 39 http://mail.canadaviajes.com.py/SITE
+/tel:+59581970815 1 https://www.canadaviajes.com.py/
+/eventos/COICOM%202011%20-%20CANADA%20VIAJES%20mayo%202011.pdf 1 -
+/apple-touch-icon.png 1 -
+/demo 39 http://mail.canadaviajes.com.py/demo
+/wp-login.php 2 http://canadaviajes.com.py/wp-login.php
+/img/sujetoadisponibilidad/canada/canada5.jpg 26 https://www.canadaviajes.com.py/deu/
+/adminer-4.6.1.php 1 -
+/adminer-4.7.3-mysql.php 1 -
+//feed/ 3 -
+/priv8.php 5 -
+/img/sujetoadisponibilidad/europa/europa2.jpg 27 https://www.canadaviajes.com.py/deu/
+/marijuana.php 1 http://canadaviajes.com.py//marijuana.php
+/assets/js/kcfinder/upload.php 1 -
+/lock360.php 1 http://canadaviajes.com.py//lock360.php
+/wp-config.txt 1 -
+/Www 39 http://mail.canadaviajes.com.py/Www
+/debug/default/view 1 -
+/admin.php 5 http://canadaviajes.com.py//admin.php
+/img/sujetoadisponibilidad/argentina/USHUAIA2.jpg 26 https://www.canadaviajes.com.py/deu/
+/css/nivo-lightbox/loading@2x.gif 2 https://www.canadaviajes.com.py/css/nivo-lightbox/lightbox-theme.css
+/BACKUP 39 http://mail.canadaviajes.com.py/BACKUP
+/WordPress 39 http://mail.canadaviajes.com.py/WordPress
+/img/salidasgarantizadas/brasilbus-sg/GUAATUBATERRESTRE.jpg 27 https://www.canadaviajes.com.py/deu/
+/wp-admin/xleet.php 1 http://canadaviajes.com.py//wp-admin/xleet.php
+/adminer.php 3 http://canadaviajes.com.py/adminer.php
+/1h6j5.php 1 http://canadaviajes.com.py//1h6j5.php
+/img/salidasgarantizadas/otrasplayas-sg/sanandresotrasg.jpg 26 https://www.canadaviajes.com.py/deu/
+/baindex.php 5 -
+/img/toursdestacados/argentinatd/puertomont.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/galeria/bolivia/bolivia3.jpg 2 -
+/adminer-4.7.8.php 1 -
+/img/sujetoadisponibilidad/argentina/calafate2.jpg 25 https://www.canadaviajes.com.py/deu/
+/img/galeria/japon/japon.jpg 27 https://www.canadaviajes.com.py/deu/
+/adminer-4.7.5-mysql.php 1 -
+/DKIZ.php 1 http://canadaviajes.com.py//DKIZ.php
+/img/descubripaises/ca/bannerbo.jpg 33 -
+/css/owl.video.play.png 1 -
+/New 39 http://mail.canadaviajes.com.py/New
+/backup.zip 1 -
+/mininew.php 1 http://canadaviajes.com.py//mininew.php
+/shell.php 5 -
+/deu/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 1 -
+/wp-includes/pomo/umpomone.php 1 -
+/img/toursdestacados/argentinatd/mendoza.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ce/pages/4-thumb.jpg 4 -
+/api/search 1 -
+/img/descubripaises/ce/pages/2-large.jpg 1 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/img/quienes-somos2.jpg 13 -
+/img/salidasgarantizadas/brasilbus-sg/FLNTERRESTRE.jpg 26 https://www.canadaviajes.com.py/deu/
+/srx.php 1 http://canadaviajes.com.py//srx.php
+/.vscode/sftp.json 1 -
+/img/descubripaises/ar/pages/1-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ar/ar.html
+/WWW 39 http://mail.canadaviajes.com.py/WWW
+/img/toursdestacados/puntacatd/caaribeec.jpg 25 https://www.canadaviajes.com.py/deu/
+/1.php 5 -
+/m.php 4 -
+/adminer-4.6.3-mysql.php 1 -
+/v.php 3 -
+/403.php 5 -
+/haxor.php 1 http://canadaviajes.com.py//haxor.php
+/web2015/html/contactenos.htm 1 -
+/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 25 https://www.canadaviajes.com.py/deu/
+/adminer-4.7.1.php 1 -
+/wi.php 4 -
+/Public/home/js/check.js 3 -
+/img/toursdestacados/europatd/europatd.jpg 32 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasil-sg/maceiosg.jpg 26 https://www.canadaviajes.com.py/deu/
+/wso.php 5 -
+/img/descubripaises/ce/pages/3-large.jpg 1 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/alfa.php 5 -
+/crypted.php 1 http://canadaviajes.com.py//crypted.php
+/qindex.php 4 -
+/adminer-4.6.3-mysql-en.php 1 -
+/www 39 http://mail.canadaviajes.com.py/www
+/ads.txt 6 http://canadaviajes.com.py/ads.txt
+/adminer-4.6.2-mysql.php 1 -
+/pics/logo_aero/logo10.jpg 1 -
+/img/descubripaises/ar/pages/3-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ar/ar.html
+/v2/_catalog 1 -
+/good.php 1 http://canadaviajes.com.py//good.php
+/img/galeria/southafrica/southafrica.jpg 26 https://www.canadaviajes.com.py/deu/
+/wp-admin/ 3 http://canadaviajes.com.py/wp-login.php
+/js/kcfinder/upload.php 1 -
+/adminer-4.7.7-mysql.php 1 -
+/imagesvuln.php 4 -
+/wp-content/plugins/wpyii2/wpyii2.php 1 -
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/apple-touch-icon-120x120.png 1 -
+/adminer-mysql.php 1 -
+/autoload_classmap.php 5 -
+/img/sujetoadisponibilidad/canada/canada3.jpg 27 https://www.canadaviajes.com.py/deu/
+/bac 39 http://mail.canadaviajes.com.py/bac
+/img/salidasgarantizadas/otrasplayas-sg/cartagenaybarusg.jpg 27 https://www.canadaviajes.com.py/deu/
+/404.php 5 -
+/admin 6 https://canadaviajes.com.py/
+/wp-plain.php 1 www.google.com
+/adminer-4.7.1-mysql-en.php 1 -
+/2021 39 http://mail.canadaviajes.com.py/2021
+/img/toursdestacados/puntacatd/puntacanatd.jpg 35 -
+/image/screenshot_1.php 1 http://canadaviajes.com.py//image/screenshot_1.php
+/admin/filemanager/dialog.php 1 -
+/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 2 -
+/xox.php 4 -
+/img/toursdestacados/puntacatd/pujjan.jpg 25 https://www.canadaviajes.com.py/deu/
+/adminer-4.8.0-en.php 1 -
+/wp-content/themes/wp-pridmag/init.php 1 http://canadaviajes.com.py//wp-content/themes/wp-pridmag/init.php
+/sitemap.xml 2 -
+/4price.php 1 http://canadaviajes.com.py//4price.php
+/_ignition/health-check/ 4 http://canadaviajes.com.py/_ignition/health-check/
+/xx.php 5 -
+/admin/adminer.php 1 -
+/img/descubripaises/ar/pages/2-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ar/ar.html
+/wp-admin/fx.php 1 http://canadaviajes.com.py//wp-admin/fx.php
+/wp-content/class-index-wordpress.php 1 -
+/img/toursdestacados/europatd/europavacacionestd.jpg 298 -
+/img/toursdestacados/puntacatd/puntanatd2.jpg 25 https://www.canadaviajes.com.py/deu/
+/WORDPRESS 39 http://mail.canadaviajes.com.py/WORDPRESS
+/login.action 4 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/Blog 39 http://mail.canadaviajes.com.py/Blog
+/wp-admin/rss.php 1 http://canadaviajes.com.py//wp-admin/rss.php
+/img/descubripaises/ce/pages/5-thumb.jpg 4 -
+/site.zip 1 -
+/adminer-4.6.2-en.php 1 -
+/shop 39 http://mail.canadaviajes.com.py/shop
+/V3.php 4 -
+/img/sujetoadisponibilidad/canada/canada2.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/galeria/otawa/otawa.jpg 27 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/argentina/bariloche2.jpg 26 https://www.canadaviajes.com.py/deu/
+/wp-2022.php 1 http://canadaviajes.com.py//wp-2022.php
+/pics/logo_aero/logo11.jpg 1 -
+/Wordpress 39 http://mail.canadaviajes.com.py/Wordpress
+/assets/plugins/filemanager/dialog.php 1 -
+/en/img/toursdestacados/perutd/perutd2.jpg 3 -
+/wikindex.php 6 -
+/img/sujetoadisponibilidad/canada/otawa1.jpg 31 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/brasil/brasilimbatible.jpg 26 https://www.canadaviajes.com.py/deu/
+/robots.txt 220 -
+/adm.php 1 -
+/wp-content/plugins/masterx/wpx.php 1 http://canadaviajes.com.py//wp-content/plugins//masterx/wpx.php
+/tools/adminer.php 1 -
+/img/descubripaises/ce/pages/5-regions.json 3 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/site 39 http://mail.canadaviajes.com.py/site
+/adminer-4.7.0-mysql.php 1 -
+/test 39 http://mail.canadaviajes.com.py/test
+/wp-includes/assets/pi.php 1 http://canadaviajes.com.py//wp-includes/assets/pi.php
+/adminer-4.7.1/ 1 -
+/html.zip 1 -
+/img/galeria/bolivia/bolivia.jpg 27 https://www.canadaviajes.com.py/deu/
+/tel:+59571127188 1 https://www.canadaviajes.com.py/
+/img/sujetoadisponibilidad/canada/canada4.jpg 26 https://www.canadaviajes.com.py/deu/
+/Wp 39 http://mail.canadaviajes.com.py/Wp
+/NEW 39 http://mail.canadaviajes.com.py/NEW
+/img/descubripaises/ce/pages/2-regions.json 3 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/img/toursdestacados/argentinatd/ushtd2.jpg 26 https://www.canadaviajes.com.py/deu/
+/adminer-4.7.7-en.php 1 -
+/sql.php 1 -
+/wp-2020.php 1 http://canadaviajes.com.py//wp-2020.php
+/img/sujetoadisponibilidad/canada/ESENCIASDELOESTECANADA.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ca/pages/2-regions.json 1 https://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+/config.json 1 -
+/public/_ignition/health-check/ 4 http://canadaviajes.com.py/public/_ignition/health-check/
+/adm/adminer.php 1 -
+/wp-22.php 1 http://canadaviajes.com.py//wp-22.php
+/filemanager/filemanager/dialog.php 1 -
+/img/toursdestacados/argentinatd/ushtd.jpg 34 https://www.canadaviajes.com.py/deu/
+/sym403.php 4 -
+/google.php 1 http://canadaviajes.com.py//google.php
+/adminer-4.8.0-mysql.php 1 -
+/a.php 4 -
+/index.html 24 -
+/img/salidasgarantizadas/cancun-sg/cancunotrassg2.jpg 25 https://www.canadaviajes.com.py/deu/
+/doc.php 5 -
+/img/toursdestacados/europatd/semanasantaeuropa2019.jpg 299 https://www.canadaviajes.com.py/
+/adminer-4.7.7.php 1 -
+/img/sujetoadisponibilidad/caribe/SAMANA.jpg 26 https://www.canadaviajes.com.py/deu/
+/style.php 4 -
+/canadaviajes.zip 1 -
+/wp-includes/customize/class-wp-customize-nav-menu.php 1 http://canadaviajes.com.py//wp-includes/customize/class-wp-customize-nav-menu.php
+/img/salidasgarantizadas/cancun-sg/CANCUNENE19.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/galeria/japon/japon2.jpg 2 -
+/wp-content/plugins/fighter/fk.php 1 http://canadaviajes.com.py//wp-content/plugins/fighter/fk.php
+/wp-admin/admin-ajax.php 1 https://www.canadaviajes.com.py
+/assets/scripts/filemanager/dialog.php 1 -
+/login 1 -
+/img/salidasgarantizadas/cancun-sg/cancunanonuevo.jpg 26 https://www.canadaviajes.com.py/deu/
+/wp-x.php 1 http://canadaviajes.com.py//wp-x.php
+/img/salidasgarantizadas/argentina-sg/buenosaires.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ce/pages/4-regions.json 4 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/wp_wrong_datlib.php 5 -
+/new-index.php 5 -
+/100.php 4 -
+/img/galeria/japon/japon3.jpg 2 -
+/old.zip 1 -
+/.git/config 3 -
+/wp-content/plugins/easybusy/wp-blog.php 1 http://canadaviajes.com.py//wp-content/plugins/easybusy/wp-blog.php
+/web2015/html/exc_inter.htm 2 -
+/bc 42 http://canadaviajes.com.py/bc
+/777.php 4 -
+/img/descubripaises/ce/pages/1-thumb.jpg 4 -
+/Backup 39 http://mail.canadaviajes.com.py/Backup
+/wp-content/themes/seotheme/db.php 6 -
+/wp-content/plugins/indeed-membership-pro/classes/PaymentGateways/mollie/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/en/tel:+59571127188 4 https://www.canadaviajes.com.py/en/index.html
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/Makhdamx.php 1 -
+/wxo.php 1 http://canadaviajes.com.py//wxo.php
+/pics/logo_aero/logo8.jpg 1 -
+/root.php 3 -
+/old-index.php 5 -
+/wp-commentin.php 2 -
+/_adminer.php 1 -
+/.well-known/traffic-advice 10 -
+/img/toursdestacados/puntacatd/pujene.jpg 25 https://www.canadaviajes.com.py/deu/
+/adminer-4.7.1-mysql.php 1 -
+/adminer-4.6.3.php 1 -
+/en/tel:+59521211192 4 https://www.canadaviajes.com.py/en/index.html
+/hehe.php 1 http://canadaviajes.com.py//hehe.php
+/adminer-4.8.0/ 1 -
+/mad.php 1 http://canadaviajes.com.py//mad.php
+/adminer-4.6.2.php 1 -
+/wp-god.php 1 http://canadaviajes.com.py//wp-god.php
+/adminer-4.8.0-mysql-en.php 1 -
+/2022 39 http://mail.canadaviajes.com.py/2022
+/en/tel:+59581970815 4 https://www.canadaviajes.com.py/en/index.html
+/radio.php 1 http://canadaviajes.com.py//radio.php
+/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 26 https://www.canadaviajes.com.py/deu/
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/lufix.php 1 http://canadaviajes.com.py//lufix.php
+/www.php 4 -
+/mysql.php 1 -
+/apple-touch-icon-precomposed.png 1 -
+/z.php 3 -
+/images/vuln.php 1 http://canadaviajes.com.py//images/vuln.php
+/FoxWSO.php 4 -
+/XxX.php 1 http://canadaviajes.com.py//XxX.php
+/img/toursdestacados/puntacatd/puntacanafeb.jpg 26 https://www.canadaviajes.com.py/deu/
+/wp-includes/class-wordpress-license.php 1 -
+/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 4 -
+/.sts.php 1 -
+/deu/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 2 -
+/img/galeria/bariloche/.jpg 3 -
+/img/counter.jpg 1 -
+/adminer-4.6.3/ 1 -
+/wp-content/plugins/dos2unix/dos2unix.php 1 -
+/wp-admin/css/ 2 binance.com
+/old-site 39 http://mail.canadaviajes.com.py/old-site
+/adminer-4.7.0.php 1 -
+/ALFA_DATA/alfacgiapi/ups.php 1 http://canadaviajes.com.py//ALFA_DATA/alfacgiapi/ups.php
+/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 25 https://www.canadaviajes.com.py/deu/
+/telescope/requests 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/payout.php 1 http://canadaviajes.com.py//payout.php
+/about 1 -
+/xmlrqc.php 1 http://canadaviajes.com.py//xmlrqc.php
+/img/salidasgarantizadas/otrasplayas-sg/otrasplayasbanner.jpg 29 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/brasil/brasil1.jpg 27 https://www.canadaviajes.com.py/deu/
+/adminer-4.6.2/ 1 -
+/3x.php 1 http://canadaviajes.com.py//3x.php
+/adminer-4.8.0.php 1 -
+/img/salidasgarantizadas/brasilbus-sg/CAMBOIUTERRESTRE.jpg 26 https://www.canadaviajes.com.py/deu/
+/.well-known/security.txt 4 -
+/bk 42 http://canadaviajes.com.py/bk
+/+595981602583 21 -
+/x.php 5 -
+/3index.php 5 -
+/WP 39 http://mail.canadaviajes.com.py/WP
+/up-kon.php 1 http://canadaviajes.com.py//up-kon.php
+/filemanager/dialog.php 1 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-2021.php 1 http://canadaviajes.com.py//wp-2021.php
+/scripts/filemanager/dialog.php 1 -
+/02.php 1 http://canadaviajes.com.py//02.php
+/pics/logo_aero/logo1.jpg 1 -
+/img/salidasgarantizadas/argentina-sg/arg.jpg 29 https://www.canadaviajes.com.py/deu/
+/img/galeria/cuba/cuba2.jpg 1 -
+/1index.php 6 -
+/img/descubripaises/ce/pages/2-thumb.jpg 4 -
+/wp-2018.php 1 http://canadaviajes.com.py//wp-2018.php
+/img/toursdestacados/perutd/perutd2.jpg 25 https://www.canadaviajes.com.py/deu/
+/shx.php 4 -
+/assets/plugins/kcfinder/upload.php 1 -
+/adminer-4.7.7-mysql-en.php 1 -
+/wp-old 39 http://mail.canadaviajes.com.py/wp-old
+/adminer-4.7.7/ 1 -
+/img/salidasgarantizadas/argentina-sg/gar2.jpg 282 https://www.canadaviajes.com.py/
+/img/salidasgarantizadas/cancun-sg/cancundeciembre.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/RIOTERRESTRE.jpg 27 https://www.canadaviajes.com.py/deu/
+/SHOP 39 http://mail.canadaviajes.com.py/SHOP
+/wp-2019.php 1 http://canadaviajes.com.py//wp-2019.php
+/img/sujetoadisponibilidad/argentina/calafate.jpg 26 https://www.canadaviajes.com.py/deu/
+/static/admin/javascript/hetong.js 3 -
+/img/descubripaises/ce/pages/1-regions.json 3 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/sym.php 4 -
+/2020 39 http://mail.canadaviajes.com.py/2020
+/alfacgiapi/perl.alfa 2 www.google.com
+/777554543598768/optout 2 -
+/img/sujetoadisponibilidad/canada/canada.jpg 26 https://www.canadaviajes.com.py/deu/
+/V5.php 4 -
+/security.txt 3 -
+/new.php 4 -
+/wordpress/wp-admin/setup-config.php 1 -
+/img/galeria/southafrica/southafrica2.jpg 1 -
+/wp-includes/1index.php 1 http://canadaviajes.com.py//wp-includes/1index.php
+/adminer-4.7.8-en.php 1 -
+/asset/kcfinder/upload.php 1 -
+/img/galeria/southafrica/southafrica3.jpg 2 -
+/tel:+59521211192 1 https://www.canadaviajes.com.py/
+/img/sujetoadisponibilidad/europa/europa3.jpg 26 https://www.canadaviajes.com.py/deu/
+/s/7373e21333e2538313e2239313/_/ 1 -
+/canadaviajes.com.py.zip 1 -
+/html/Congreso/pdf/Pre-Tour%20Pantal%20World%20Congress%202015%20Santa%20Gertrudis%20%2017%20-%2022%20Mai%2015%20starting%20at%20Facenda%20San%20Francisco.pdf 1 -
+/adminer-4.7.4.php 1 -
+/deu/img/toursdestacados/perutd/perutd2.jpg 2 -
+/BLOG 39 http://mail.canadaviajes.com.py/BLOG
+/c.php 5 -
+/info.php 2 -
+/www.zip 1 -
+/0byte.php 4 -
+/xl.php 2 http://canadaviajes.com.py//xl.php
+/plugins/kcfinder/upload.php 1 -
+/0z.php 1 http://canadaviajes.com.py//0z.php
+/Shop 39 http://mail.canadaviajes.com.py/Shop
+/bak 39 http://mail.canadaviajes.com.py/bak
+/img/salidasgarantizadas/brasil-sg/natalsg2.jpg 26 https://www.canadaviajes.com.py/deu/
+/Old 39 http://mail.canadaviajes.com.py/Old
+/wp-easy.php 1 http://canadaviajes.com.py//wp-easy.php
+/screenshot_1.php 1 http://canadaviajes.com.py//screenshot_1.php
+/wpx.php 1 http://canadaviajes.com.py//wpx.php
+/.DS_Store 1 -
+/up.php 5 -
+/uploads/xleet.php 1 http://canadaviajes.com.py//uploads/xleet.php
+/pi.php 1 http://canadaviajes.com.py//pi.php
+/wp-content/upload.php 1 http://canadaviajes.com.py//wp-content/upload.php
+/adminer1.php 1 -
+//wp-includes/ID3/license.txt 3 -
+/about.php 1 http://canadaviajes.com.py//about.php
+/img/salidasgarantizadas/brasil-sg/barasil0.jpg 30 https://www.canadaviajes.com.py/deu/
+/img/galeria/cuba/cuba.jpg 27 -
+/img/salidasgarantizadas/cancun-sg/cancunotrassg3.jpg 25 https://www.canadaviajes.com.py/deu/
+/01.php 1 http://canadaviajes.com.py//01.php
+/ini.php 1 http://canadaviajes.com.py//ini.php
+/pics/logo_aero/logo3.jpg 1 -
+/Site 39 http://mail.canadaviajes.com.py/Site
+/main 42 http://canadaviajes.com.py/main
+/fw.php 5 -
+/wp_logx.php 1 http://canadaviajes.com.py//wp_logx.php
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/img/salidasgarantizadas/brasil-sg/maragogisg.jpg 26 https://www.canadaviajes.com.py/deu/
+/2019 39 http://mail.canadaviajes.com.py/2019
+/sindex.php 4 -
+/adminer-4.7.6.php 1 -
+/edit-form.php 4 -
+/ups.php 5 -
+/admin/ 4 -
+/wp-includes/class-wp-page-icon.php 1 -
+/wp-info.php 1 http://canadaviajes.com.py//wp-info.php
+/adminer-4.6.2-mysql-en.php 1 -
+/wp-admin/style.php 4 -
+/stindex.php 4 -
+/home 3 http://canadaviajes.com.py/home
+/mar.php 3 -
+/img/galeria/japon/japon4.jpg 2 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-wso.php 4 -
+/f.php 4 -
+/tinymce/filemanager/dialog.php 1 -
+/img/salidasgarantizadas/brasil-sg/natalsg.jpg 27 https://www.canadaviajes.com.py/deu/
+/wp-adminincludesclass-wp-media-list-data.php 4 -
+/php.php 1 -
+/media-admin.php 5 -
+/adminer-4.7.5.php 1 -
+/small.php 1 http://canadaviajes.com.py//small.php
+/defau1t.php 4 -
+/img/salidasgarantizadas/brasilbus-sg/CAIOBATERRESTRE.jpg 26 https://www.canadaviajes.com.py/deu/
+/adminer-4.7.8-mysql.php 1 -
+/en/+595981602583 82 https://www.canadaviajes.com.py/en/
+/wp-includes/wp-system-cloud.php 1 -
+/img/salidasgarantizadas/brasil-sg/salvadorbahia.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/brasil/costadesauipebra.jpg 26 https://www.canadaviajes.com.py/deu/
+/TEST 39 http://mail.canadaviajes.com.py/TEST
+/img/descubripaises/ce/pages/3-thumb.jpg 5 -
+/o.php 4 -
+/assets/kcfinder/upload.php 1 -
+/C.php 1 http://canadaviajes.com.py//C.php
+/OLD 39 http://mail.canadaviajes.com.py/OLD
+/img/salidasgarantizadas/argentina-sg/gar3.jpg 279 https://www.canadaviajes.com.py/
+/upload.php 2 http://canadaviajes.com.py//upload.php
+/xml.php 1 http://canadaviajes.com.py//xml.php
+/oldsite 39 http://mail.canadaviajes.com.py/oldsite
+/wp-content/fw.php 1 http://canadaviajes.com.py//wp-content/fw.php
+/2index.php 6 -
+/wp.php 5 -
+/img/salidasgarantizadas/cancun-sg/cancunbanner.jpg 28 https://www.canadaviajes.com.py/deu/
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/img/sujetoadisponibilidad/canada/estecanadiensecanada.jpg 26 https://www.canadaviajes.com.py/deu/
+/11index.php 4 -
+/assets/elfinder/elfinder.html 1 -
+/assets/filemanager/dialog.php 1 -
+/adminer/ 1 -
+/data.php 4 -
+/img/toursdestacados/puntacatd/pujfebrero.jpg 25 https://www.canadaviajes.com.py/deu/
+/adminer-4.7.2.php 1 -
+/qubxteaf.php 1 www.google.com
+/xwxx.php 1 http://canadaviajes.com.py//xwxx.php
+/mini.php 5 -
+/admin/index.php 3 -
+/img/sujetoadisponibilidad/brasil/brasil-natal.jpg 32 -
+/img/descubripaises/ca/pages/1-regions.json 1 https://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+/g.php 3 -
+/img/galeria/otawa/otawa2.jpg 1 -
+/img/salidasgarantizadas/cancun-sg/cancunotrassg.jpg 25 https://www.canadaviajes.com.py/deu/
+/humans.txt 4 http://canadaviajes.com.py/humans.txt
+/deu/img/sujetoadisponibilidad/caribe/SAMANA.jpg 2 -
+/img/salidasgarantizadas/otrasplayas-sg/arubaenero2019.jpg 26 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 26 https://www.canadaviajes.com.py/deu/
+/archive.zip 1 -
+/blog 39 http://mail.canadaviajes.com.py/blog
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 1 http://canadaviajes.com.py//Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
+/adminer-4.7.4/ 1 -
+/phpinfo.php 1 -
+/adminer-4.7.3.php 1 -
+/nee.php 3 -
+/img/sujetoadisponibilidad/canada/rockymountaineer.jpg 26 https://www.canadaviajes.com.py/deu/
+/1337.php 1 http://canadaviajes.com.py//1337.php
+/utchiha.php 1 http://canadaviajes.com.py//utchiha.php
+/img/descubripaises/ce/pages/3-regions.json 3 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/kcfinder/upload.php 1 -
+/xleet.php 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 935
+20.78.39.118 39 39 0 20230118194428
+171.224.180.26 36 36 674316 20230130173547
+104.194.196.13 22 22 272751 20230123224849
+5.182.17.244 18 18 352710 20230114161958
+159.48.53.105 17 178 33643258 20230111044906
+190.104.150.42 16 810 164187356 20230116113343
+173.213.84.156 14 14 193700 20230116044312
+181.120.37.115 13 673 128999749 20230109182616
+171.224.180.176 11 11 205177 20230117110403
+181.126.35.197 11 350 76429316 20230129084316
+24.178.156.240 10 10 187310 20230117010018
+181.120.156.197 8 366 84533626 20230118164820
+172.121.218.72 8 8 116695 20230123224843
+27.115.124.109 7 596 123186547 20230107233034
+149.56.150.112 7 7 393477 20230110134246
+185.217.127.65 7 7 96850 20230123002818
+104.232.39.100 7 7 113916 20230113082324
+101.68.211.2 7 7 577633 20230130093126
+172.121.222.251 7 7 113916 20230103053948
+185.168.9.187 7 179 33700463 20230111042728
+189.4.77.52 6 166 33297400 20230130113622
+3.143.236.32 6 74 590219 20230118065859
+138.197.10.60 6 79 6699348 20230126201817
+3.139.79.45 6 74 590219 20230110002230
+191.97.126.199 6 168 34277114 20230122184341
+190.104.177.167 1 1 19595 20230130132207
+185.9.52.172 2 2 37462 20230107033800
+45.237.45.118 3 164 33237293 20230125132040
+34.78.171.236 1 1 100351 20230121134614
+191.97.124.26 3 167 35393150 20230108125241
+205.210.31.20 1 1 100351 20230128184105
+107.172.146.67 2 2 37462 20230116000924
+37.201.144.190 4 165 33450108 20230105022956
+88.99.87.67 2 2 200702 20230113042353
+190.220.142.250 3 132 18676816 20230123083039
+87.236.176.219 0 1 27832 
+186.12.185.197 3 163 32994939 20230104115044
+172.241.171.244 3 3 23404 20230123181834
+181.124.165.119 3 162 32993357 20230105044140
+52.40.189.218 1 1 19595 20230111122444
+52.38.186.33 2 2 39190 20230131121408
+66.220.149.6 0 12 4427343 
+31.13.127.1 0 1 451345 
+31.13.115.118 0 1 180268 
+154.9.200.190 2 2 37462 20230117214126
+37.201.184.0 4 163 33012952 20230118083529
+54.189.70.222 1 1 19595 20230106121749
+190.128.250.34 3 164 33237293 20230111073510
+35.90.166.21 1 1 19595 20230126122923
+31.13.127.118 0 46 8719699 
+52.88.88.157 1 1 19595 20230130224546
+205.210.31.167 1 1 100351 20230112140437
+190.193.244.18 3 163 33236430 20230124192752
+131.161.252.202 1 158 32739165 20230109131555
+205.210.31.45 1 1 100351 20230113231257
+69.171.251.16 0 1 189789 
+45.5.67.87 1 1 12212 20230103053926
+45.237.45.142 3 163 33236430 20230109053017
+69.63.184.119 0 2 1007248 
+64.124.8.51 0 2 468333 
+198.235.24.56 1 1 100351 20230115133427
+190.104.177.16 0 2 705006 
+103.247.151.114 2 2 37462 20230111083624
+18.237.211.174 1 1 19595 20230109124755
+177.250.252.228 2 160 32943745 20230106104234
+181.94.105.231 3 163 33236430 20230102131343
+72.14.201.197 1 1 19595 20230122101344
+69.171.251.3 0 2 466795 
+54.188.182.153 1 1 19595 20230114121640
+173.252.111.119 0 1 183559 
+198.235.24.179 1 1 100351 20230106230820
+198.235.24.21 3 3 301053 20230123225252
+181.94.226.249 1 1 0 20230102091415
+69.63.184.17 0 1 451345 
+186.17.233.236 3 159 29658007 20230120191636
+34.140.107.62 2 2 200702 20230131011500
+190.122.89.251 4 164 33209461 20230123195814
+35.88.173.61 1 1 19595 20230125122300
+181.124.132.186 0 1 376981 
+191.95.56.81 0 2 516891 
+181.126.80.220 3 164 33264262 20230116112630
+88.14.172.6 3 162 32993357 20230127114537
+190.128.238.222 3 165 34127019 20230110053124
+31.13.127.9 0 14 5621679 
+2.55.5.214 2 2 37462 20230104091423
+66.249.85.73 1 1 19595 20230105082241
+31.13.127.3 0 3 119956 
+45.90.222.55 2 2 138290 20230113162915
+173.252.83.18 0 1 451345 
+198.235.24.42 1 1 100351 20230108221512
+34.222.94.248 1 1 19595 20230128121956
+31.221.188.87 1 11 74738 20230108124754
+104.211.13.166 0 1 240128 
+35.88.168.55 1 1 19595 20230118121928
+54.214.117.40 1 1 19595 20230129121832
+173.252.87.119 0 1 161791 
+186.122.104.210 3 164 33237293 20230128092638
+172.241.137.185 2 2 37462 20230103144300
+181.124.144.13 3 152 33284712 20230113083415
+54.188.38.171 1 1 19595 20230123122454
+147.78.130.16 3 162 33284842 20230111052325
+40.94.89.31 0 1 27832 
+173.252.95.13 0 1 286527 
+205.210.31.27 1 1 100351 20230114013904
+191.97.126.237 1 1 0 20230101183829
+35.90.223.87 1 1 19595 20230117121208
+66.78.32.82 2 2 37462 20230127051815
+191.97.123.244 3 84 6937711 20230131163039
+186.182.82.34 5 202 37651820 20230112231658
+152.231.35.126 1 11 2401762 20230103183927
+79.81.179.246 2 2 37462 20230124042142
+190.128.244.222 3 178 40074253 20230120145901
+198.235.24.18 1 1 100351 20230129151445
+34.74.56.113 2 158 32942256 20230115011434
+66.102.7.138 1 18 149346 20230109091624
+72.14.201.207 1 1 19595 20230122184312
+93.159.230.89 1 1 19595 20230130131625
+31.13.103.4 0 1 240128 
+64.124.8.31 0 2 302185 
+181.127.165.19 1 158 32739165 20230118064732
+104.164.161.37 2 2 100351 20230128030749
+186.2.206.59 3 161 32965525 20230113220002
+69.171.249.18 0 1 363201 
+190.104.174.165 3 132 32872932 20230115093319
+190.104.149.158 1 158 32739165 20230124060539
+93.119.227.91 1 1 100351 20230131015201
+64.124.8.53 0 5 951788 
+54.203.173.151 1 1 19595 20230107122021
+66.220.149.15 0 2 1711456 
+209.99.146.45 1 3 2545526 20230122141200
+69.171.230.118 0 1 286527 
+181.94.230.201 0 1 376981 
+45.237.44.235 3 161 32965525 20230109091554
+45.135.17.105 1 1 19595 20230131205328
+181.94.227.117 3 163 33487962 20230120054853
+137.184.59.77 1 1 0 20230118095625
+201.217.54.125 2 2 39190 20230130073833
+18.236.75.39 1 1 19595 20230109124730
+181.126.206.200 3 163 33236430 20230116193451
+47.89.193.239 1 1 19595 20230131131301
+31.13.115.23 0 1 304103 
+5.79.66.19 1 1 19595 20230120094428
+190.128.228.126 2 8 3578488 20230116125237
+173.252.127.20 1 58 11325761 20230125100817
+104.164.161.144 4 4 44727 20230123224836
+181.124.19.179 3 162 32993357 20230126181407
+64.227.184.83 1 1 0 20230108231822
+81.43.2.117 3 162 33208598 20230125211729
+190.104.131.8 4 163 33012952 20230107145937
+163.116.129.119 0 1 481653 
+45.83.130.236 2 2 37462 20230102103259
+31.13.127.15 0 12 2256640 
+18.237.97.83 1 1 19595 20230116122836
+181.94.225.68 4 184 42725270 20230107132846
+173.252.95.116 0 1 855728 
+190.139.93.181 4 164 33236457 20230127084451
+35.166.55.30 1 1 19595 20230131025007
+52.41.108.6 1 1 19595 20230116122945
+35.91.166.68 1 1 19595 20230109125140
+184.82.11.161 1 1 17867 20230112092430
+173.252.111.116 0 1 855728 
+95.215.146.140 1 1 19595 20230110204028
+54.190.1.148 1 1 19595 20230118122026
+154.92.118.69 2 2 37462 20230108061955
+190.128.183.14 5 118 14141720 20230110113944
+199.244.88.228 1 1 19595 20230127030753
+173.252.111.24 0 1 304103 
+54.201.52.181 1 1 19595 20230107123733
+191.97.123.7 3 162 32993357 20230123151244
+45.5.67.63 2 2 100351 20230110180935
+173.252.87.1 1 56 11749859 20230113142816
+35.205.236.220 1 1 100351 20230114113117
+171.224.178.44 4 4 74924 20230107012141
+190.139.72.95 2 142 25802894 20230128150508
+104.239.116.175 4 4 75174 20230130081115
+18.237.128.218 1 1 19595 20230114123626
+181.90.122.230 0 1 317071 
+35.90.79.125 1 1 19595 20230125123115
+198.235.24.25 1 1 37939 20230103132336
+64.124.8.24 0 6 1035876 
+181.120.130.32 1 158 32739165 20230113045854
+205.210.31.174 1 1 100351 20230103145826
+170.203.128.17 2 2 0 20230118192501
+83.240.208.94 3 163 33236430 20230102135603
+159.65.242.189 1 1 19595 20230124081743
+20.185.190.233 0 1 608985 
+68.69.184.202 3 3 58785 20230121041731
+91.250.157.236 3 163 33214677 20230121045724
+178.208.165.133 1 1 0 20230131092845
+37.159.29.149 3 162 32993357 20230115060548
+190.112.169.53 4 168 34195749 20230123105507
+107.173.209.108 2 2 37462 20230101050831
+34.217.19.122 1 1 19595 20230128123344
+35.80.33.183 1 1 19595 20230109124926
+31.13.127.8 0 3 1460969 
+181.94.224.31 1 47 2085216 20230124203054
+66.220.149.7 1 20 2356739 20230105141422
+54.186.2.132 1 1 19595 20230119122510
+173.252.127.117 0 2 1065992 
+172.121.222.224 2 2 100351 20230110180936
+104.164.161.61 1 1 12216 20230113082255
+54.200.54.158 1 1 19595 20230108121633
+173.252.111.6 0 1 855728 
+181.214.226.126 1 1 19595 20230120013317
+47.92.152.150 2 2 19595 20230131000604
+181.124.129.121 0 1 317071 
+66.220.149.14 0 1 855728 
+189.216.169.186 3 163 33236430 20230102100510
+177.231.25.115 0 2 757808 
+37.201.187.230 3 162 32993357 20230114035805
+18.237.163.217 1 1 19595 20230129121434
+177.251.53.160 4 228 58096614 20230110045506
+66.220.149.19 0 2 1711456 
+54.189.33.192 1 1 19595 20230125122551
+173.252.95.112 0 48 9336287 
+170.64.129.36 1 1 100351 20230103140512
+185.180.143.147 2 2 39190 20230123095754
+198.235.24.185 2 2 138290 20230128091155
+35.90.78.133 1 1 19595 20230129121749
+34.222.132.42 1 1 19595 20230131124140
+186.123.15.220 3 162 33208598 20230126120301
+35.89.173.188 1 1 19595 20230115122623
+45.155.69.210 2 2 37462 20230113220418
+192.3.166.19 2 2 37462 20230111084618
+35.86.165.47 1 1 19595 20230129122340
+104.143.88.223 3 3 36764 20230103053933
+186.111.159.10 3 162 32993357 20230114211018
+138.186.60.11 0 1 279364 
+172.241.118.17 4 4 27927 20230130081116
+190.104.128.170 3 161 32965525 20230102125004
+205.210.31.163 1 1 100351 20230120122124
+54.187.174.8 1 1 19595 20230130121607
+181.94.227.7 0 2 653942 
+209.141.36.112 0 1 4113 
+173.252.111.19 0 2 295246 
+68.183.132.1 1 1 2758 20230102134912
+34.220.5.143 1 1 19595 20230116123258
+186.158.200.117 0 5 8855 
+181.94.226.37 3 163 33236430 20230111090644
+66.220.149.4 1 57 10818440 20230122112006
+34.217.83.167 1 1 19595 20230131000705
+50.3.88.135 2 2 37462 20230118214727
+65.21.151.3 1 1 19595 20230125222340
+69.171.251.11 0 2 420528 
+87.236.176.24 0 1 27832 
+181.120.164.58 3 163 33236430 20230119113134
+177.250.252.76 3 161 32965525 20230122101438
+181.124.132.216 5 165 33827810 20230112183248
+69.171.249.17 0 2 590630 
+172.241.187.5 4 4 73446 20230123181829
+69.171.251.4 0 2 429917 
+35.91.80.206 1 1 19595 20230119122816
+181.214.202.134 1 1 19595 20230118085903
+173.252.127.3 0 1 111687 
+23.95.184.187 2 2 37462 20230114194509
+181.94.225.234 3 163 32994939 20230102123450
+173.252.127.118 0 4 957748 
+170.51.49.209 5 164 33012979 20230123162807
+186.2.208.94 4 163 33012952 20230111140120
+54.244.42.28 1 1 19595 20230108121647
+198.235.24.54 2 2 200702 20230119212501
+186.2.201.44 3 161 32965525 20230128093922
+35.89.115.154 1 1 19595 20230115123304
+198.103.184.76 5 166 33469453 20230127095526
+190.220.147.186 3 163 33236430 20230107054235
+181.121.56.238 3 163 33236430 20230127210058
+35.166.96.193 1 1 19595 20230111123006
+95.142.121.58 2 2 138290 20230125060450
+45.237.44.209 5 217 54431838 20230120073349
+54.212.233.52 1 1 19595 20230131012337
+205.210.31.28 1 1 100351 20230115054457
+45.228.138.192 3 162 32993357 20230117203516
+69.63.184.116 0 1 286527 
+35.87.130.166 1 1 19595 20230116123044
+172.226.104.77 3 162 32993357 20230116073402
+39.103.187.166 2 2 19595 20230101015411
+69.171.251.19 0 6 259024 
+190.112.170.48 3 77 4198276 20230102150829
+54.218.106.119 1 1 19595 20230118122035
+172.121.218.87 2 2 100351 20230128030757
+181.94.208.78 3 162 32993357 20230130044909
+190.128.190.162 2 199 46489066 20230116122434
+69.171.251.8 0 4 46761 
+104.168.40.99 2 2 100351 20230110200716
+24.114.49.211 0 2 538772 
+66.220.149.1 1 42 6562018 20230105141410
+185.181.60.12 1 1 19595 20230122171300
+52.27.129.88 1 1 19595 20230105121112
+69.171.251.14 0 1 27832 
+72.14.201.193 2 2 39190 20230127170134
+35.86.75.172 1 1 19595 20230115123705
+173.252.87.117 1 61 12330523 20230124121847
+170.51.53.233 3 161 32965525 20230125132807
+149.56.150.236 2 159 33185329 20230110134313
+14.225.241.249 4 4 74924 20230116113043
+189.229.255.75 1 34 242272 20230125152006
+34.209.27.2 1 1 19595 20230118125004
+173.252.83.17 0 1 855728 
+128.14.209.250 1 1 19595 20230121135625
+181.126.197.174 3 163 33236430 20230117084318
+35.85.59.96 1 1 19595 20230108121613
+69.171.251.7 1 11 1481134 20230116124356
+69.127.113.140 2 2 39190 20230131231726
+27.115.124.70 3 158 32836616 20230111182450
+20.185.184.34 0 1 1120505 
+69.171.251.117 1 18 925864 20230123222023
+201.222.54.194 3 163 33236430 20230124064706
+54.244.43.237 1 1 19595 20230116123222
+209.99.152.234 2 137 32081704 20230122141148
+18.237.220.211 1 1 19595 20230109125804
+35.93.161.117 1 1 19595 20230129120827
+205.210.31.155 1 1 100351 20230117072013
+171.96.38.61 1 1 83815 20230103140600
+181.124.167.251 0 1 378904 
+173.252.107.11 0 1 286527 
+54.191.36.36 1 1 19595 20230129120528
+54.190.80.88 1 1 19595 20230123123746
+35.86.102.126 1 1 19595 20230128121705
+64.124.8.55 0 4 2141817 
+191.97.121.127 3 161 32965525 20230122050441
+173.252.111.5 0 1 451345 
+173.252.87.8 0 1 27832 
+66.220.149.22 0 1 111687 
+31.13.127.26 0 5 1744666 
+181.124.163.101 0 1 378904 
+160.152.79.220 4 4 401404 20230106211205
+185.220.100.253 1 1 19595 20230117172655
+95.142.121.69 2 2 138290 20230124015307
+173.252.111.15 0 2 590630 
+191.97.123.79 3 245 56014741 20230110181621
+69.171.249.10 0 1 69187 
+31.13.103.22 0 1 451345 
+45.120.51.75 2 2 37462 20230110184714
+170.51.61.228 3 89 8290532 20230130073937
+205.210.31.19 1 1 37927 20230107121924
+31.13.127.117 0 38 6990578 
+54.189.5.49 1 1 19595 20230128121642
+181.209.91.146 3 164 33238012 20230122144132
+31.13.127.5 1 57 11706635 20230121230538
+186.17.217.240 2 162 33214650 20230123101840
+205.210.31.23 1 1 37927 20230113014838
+171.22.116.123 1 1 17867 20230105175126
+190.128.220.179 2 143 26466940 20230105124717
+205.210.31.14 1 1 100351 20230127163641
+172.106.171.233 1 1 17867 20230112081834
+52.27.37.187 1 1 19595 20230115122609
+35.90.231.204 1 1 19595 20230130214852
+173.252.107.117 0 1 183559 
+34.210.52.103 1 1 19595 20230118121918
+31.13.115.5 0 1 183559 
+54.188.140.244 1 1 19595 20230111123558
+172.121.223.234 2 2 100351 20230128030750
+185.39.144.147 1 1 19595 20230124110039
+198.235.24.10 1 1 100351 20230108121251
+35.92.138.161 1 1 19595 20230111123137
+186.179.52.226 2 2 37462 20230101053051
+173.252.87.11 0 2 649728 
+173.252.87.4 1 2 323698 20230113142813
+154.206.94.111 1 1 19595 20230111085955
+34.79.114.255 1 1 100351 20230105003239
+154.92.118.76 2 2 37462 20230109003014
+173.252.127.8 0 54 11979585 
+139.162.7.175 1 1 0 20230131011236
+201.217.56.79 2 162 33214650 20230111083658
+186.158.200.37 3 161 32965525 20230102184429
+167.94.138.47 2 3 67022 20230131121034
+104.222.46.174 2 2 100351 20230128030754
+181.120.215.175 3 163 33236430 20230118054753
+66.102.7.133 2 15 124037 20230109091624
+69.171.251.15 0 1 210264 
+35.88.212.0 1 1 19595 20230128121815
+177.250.252.224 2 161 33195062 20230125094032
+172.121.208.42 1 1 19595 20230113082255
+77.74.177.119 1 1 19595 20230110205503
+34.221.243.19 1 1 19595 20230113123723
+68.69.184.210 1 1 83815 20230104211319
+173.252.127.12 2 111 22085928 20230129182848
+31.13.127.27 0 4 1643747 
+181.94.244.111 1 158 32739165 20230113142042
+186.179.6.10 2 2 37462 20230101095804
+31.13.127.28 0 2 919325 
+181.94.230.173 0 1 378904 
+181.66.151.175 0 2 587010 
+181.127.204.19 0 1 317071 
+190.211.242.210 0 1 317071 
+31.13.127.12 0 6 95609 
+31.17.251.143 4 164 33207035 20230109125139
+186.139.135.5 3 164 33237293 20230112074953
+209.141.55.120 0 2 8662 
+173.252.95.2 0 1 363201 
+69.171.230.4 0 1 363201 
+104.144.172.8 2 2 37462 20230121000543
+35.89.217.142 1 1 19595 20230127121503
+1.192.195.11 1 1 19595 20230124062405
+186.17.235.51 3 162 32993357 20230130071706
+35.84.208.25 2 2 39190 20230119123129
+205.210.31.6 1 1 100351 20230107023145
+209.141.41.193 1 3 23404 20230113014125
+31.13.127.24 0 41 11321059 
+170.51.19.4 1 34 242272 20230101220249
+205.210.31.134 1 1 100351 20230106053817
+173.252.111.21 0 2 455623 
+173.252.83.12 0 1 855728 
+193.186.4.199 1 1 19595 20230122095324
+173.252.83.120 0 2 1711456 
+179.109.100.130 3 163 32613162 20230119140318
+31.13.127.20 0 3 804982 
+165.232.104.202 1 1 2779 20230101005743
+66.220.149.20 0 2 1045517 
+193.118.55.162 1 1 19595 20230104014904
+198.235.24.55 1 1 100351 20230108051230
+34.221.105.56 1 1 19595 20230116123118
+199.244.88.220 1 1 19595 20230111083253
+201.252.228.250 3 161 32965525 20230102222135
+205.210.31.132 1 1 100351 20230103231246
+31.13.127.32 2 68 13709967 20230126130407
+207.90.20.36 2 137 32081704 20230122141155
+52.32.84.117 2 2 39190 20230118121950
+198.235.24.166 1 1 100351 20230124083555
+213.196.211.136 3 76 4036235 20230114151346
+103.121.62.84 3 153 30030866 20230103181140
+104.129.41.163 2 2 37462 20230101070108
+186.158.200.253 3 162 32993357 20230116211238
+173.252.127.16 0 1 111687 
+181.94.227.198 0 1 317071 
+186.158.200.14 1 158 32739165 20230117213314
+196.196.47.44 2 2 37462 20230112175508
+66.220.149.3 0 18 5530290 
+205.210.31.184 2 2 138278 20230130180001
+18.236.102.214 1 1 19595 20230116121313
+172.121.219.179 3 3 41969 20230113082323
+35.93.157.230 1 1 19595 20230121122204
+54.70.228.215 1 1 19595 20230131123324
+87.236.176.144 1 1 19595 20230116213023
+200.120.20.158 0 1 376981 
+104.194.196.227 1 1 19595 20230128030813
+181.94.228.236 3 163 33660177 20230104170008
+52.13.5.183 1 1 19595 20230115122556
+181.124.165.214 0 1 376981 
+66.220.149.119 0 5 2319934 
+199.127.56.236 2 159 33185329 20230120122653
+35.89.143.87 1 1 19595 20230109124915
+66.220.149.118 0 54 11497968 
+181.46.57.40 3 161 32965525 20230106213305
+176.53.218.160 1 1 19595 20230131222607
+191.97.124.146 5 204 50435353 20230114114824
+181.122.49.155 3 153 29704676 20230106074851
+18.236.65.204 1 1 19595 20230131123306
+35.88.31.140 1 1 19595 20230130174509
+181.166.32.114 3 163 33236430 20230124064552
+34.216.125.7 1 1 19595 20230108121744
+69.171.230.117 0 1 111687 
+34.215.207.143 1 1 19595 20230109124929
+181.126.248.76 2 162 33214650 20230125161238
+45.137.43.0 2 2 37462 20230105212738
+23.239.11.118 6 6 63911 20230106163719
+185.27.99.121 1 1 19595 20230123150035
+190.104.233.172 0 1 378904 
+18.236.102.6 1 1 19595 20230122122519
+143.255.140.73 0 1 137987 
+121.5.231.252 1 1 19595 20230127104100
+205.210.31.186 1 1 100351 20230110153957
+190.128.183.62 0 5 8855 
+45.155.69.2 2 2 37462 20230104100849
+50.3.82.205 2 2 37462 20230131085705
+173.252.127.14 0 49 10244852 
+45.189.58.49 3 163 33236430 20230109233327
+34.222.205.51 1 1 19595 20230121121926
+54.218.33.158 1 1 19595 20230112124516
+31.13.127.19 0 4 1628252 
+137.184.41.233 1 1 2758 20230101122123
+34.220.50.68 1 1 19595 20230126122742
+188.166.151.36 1 1 100351 20230131011221
+176.113.42.39 1 1 19595 20230131222601
+23.108.191.240 2 2 138290 20230125074914
+124.223.193.80 1 1 19595 20230108001235
+104.243.33.125 1 1 100351 20230119135315
+173.252.127.18 0 1 304103 
+137.184.230.42 1 1 2779 20230105195414
+186.139.156.116 5 165 33226630 20230104162001
+198.235.24.168 2 2 200702 20230122190806
+31.13.127.29 0 1 286527 
+35.87.203.43 1 1 19595 20230116123043
+54.212.67.88 1 1 19595 20230118122633
+186.16.204.126 1 2 47427 20230116135005
+69.171.249.14 0 1 183559 
+198.235.24.169 1 1 37927 20230106174638
+34.79.230.17 1 1 100351 20230109180029
+69.171.249.8 0 1 363201 
+177.251.42.61 1 153 29562409 20230129201706
+181.94.229.71 2 161 32973762 20230122095337
+54.201.48.183 1 1 19595 20230131123412
+35.83.253.39 1 1 19595 20230108121637
+189.162.194.242 0 3 1190093 
+181.232.189.134 0 2 753962 
+186.158.200.22 5 164 33032547 20230102160329
+181.124.205.1 3 164 33237293 20230118151636
+198.235.24.140 1 1 37927 20230114051204
+69.171.249.7 0 1 240128 
+198.235.24.57 1 1 37927 20230129032325
+31.13.127.34 0 1 189789 
+34.222.42.65 1 1 19595 20230129120707
+52.39.201.137 1 1 19595 20230123123711
+66.220.149.116 0 1 855728 
+173.252.83.11 0 1 855728 
+173.252.111.11 0 1 183559 
+181.94.226.119 3 163 33236430 20230117101042
+93.159.230.88 2 2 39190 20230130111628
+54.201.255.94 1 1 19595 20230118121845
+173.252.83.4 0 2 998852 
+72.14.201.196 2 2 39190 20230130044834
+31.13.127.30 0 29 4726127 
+173.252.79.15 0 1 286527 
+173.252.83.7 0 1 855728 
+172.121.216.127 2 2 100351 20230128030752
+190.104.151.162 1 1 27 20230116122632
+66.220.149.5 0 1 189789 
+103.90.156.248 2 2 37462 20230115230801
+181.95.45.150 0 1 317071 
+181.124.133.56 3 161 32965525 20230118101455
+181.124.175.126 0 1 378904 
+104.232.199.126 1 1 19595 20230103053926
+69.171.251.17 0 2 1065992 
+207.32.135.56 1 52 3787049 20230122141255
+205.210.31.177 1 1 37927 20230124021039
+193.186.4.213 1 1 19595 20230124224433
+95.142.121.60 2 2 138290 20230125155947
+173.252.83.14 0 1 855728 
+173.252.95.117 0 1 111687 
+100.20.87.69 1 1 19595 20230121122249
+193.233.56.30 1 1 19595 20230117150421
+198.235.24.155 1 1 100351 20230127135651
+34.76.242.182 1 1 100351 20230116201847
+186.122.104.199 3 164 33237293 20230120140245
+52.41.74.250 1 1 0 20230122105618
+173.252.127.6 0 1 240128 
+173.252.87.10 0 1 161791 
+173.252.83.8 0 1 363201 
+181.94.226.122 6 194 44378809 20230126122146
+31.13.127.10 1 24 4609553 20230111133245
+31.13.115.14 0 1 451345 
+45.5.67.7 2 2 100351 20230128030800
+181.124.40.181 0 1 378904 
+205.210.31.51 1 1 100351 20230124211745
+181.94.209.190 5 178 40018877 20230112084201
+181.94.228.167 4 166 33772916 20230110094228
+91.227.68.179 1 1 0 20230101235244
+31.13.127.14 0 14 5659415 
+31.13.115.10 0 1 304103 
+104.131.7.124 1 1 0 20230131043101
+169.62.93.78 4 4 276580 20230130083427
+35.165.219.58 1 1 19595 20230130155500
+185.181.60.39 2 2 39190 20230113105041
+181.9.180.214 1 1 19595 20230109134100
+18.246.1.88 2 2 39190 20230109125804
+173.252.95.19 0 1 304103 
+45.237.44.238 5 194 44922048 20230120195429
+181.199.153.250 0 1 317071 
+200.48.237.137 0 2 1025450 
+190.112.169.35 3 162 32993357 20230122113757
+173.252.95.23 0 1 240128 
+198.235.24.147 1 1 100351 20230102134839
+66.102.7.143 2 17 230226 20230109091625
+181.126.234.80 1 158 32739165 20230124132803
+34.220.100.16 1 1 19595 20230114121612
+188.120.226.195 1 1 0 20230101235250
+186.43.243.54 0 1 251317 
+181.94.228.126 1 158 32739165 20230105115354
+18.237.88.24 1 1 19595 20230130155800
+200.108.131.142 2 162 33565722 20230124131712
+181.122.197.98 1 36 5035565 20230113122059
+181.94.237.16 3 164 33903250 20230104082403
+181.94.227.245 0 1 317071 
+52.36.185.152 1 1 19595 20230114121612
+31.13.127.22 0 1 183559 
+172.121.216.110 1 1 19595 20230123224818
+35.88.253.198 1 1 19595 20230130174809
+31.13.127.18 0 14 4537354 
+173.252.127.116 0 1 304103 
+35.91.242.220 1 1 19595 20230126122405
+20.62.145.15 3 160 14518154 20230113191003
+34.77.246.194 1 1 100351 20230107091500
+173.252.79.6 0 1 286527 
+190.7.13.213 3 164 33237293 20230129060231
+102.176.94.245 5 164 33032547 20230123161443
+31.13.127.17 0 1 855728 
+190.53.120.168 0 1 132464 
+52.32.170.20 3 164 33262077 20230110200729
+198.235.24.50 2 2 138278 20230119175223
+173.252.95.4 0 1 27832 
+173.252.111.2 0 3 824693 
+190.211.243.18 3 164 33237293 20230112105633
+52.40.139.6 1 1 19595 20230126122631
+35.90.124.67 1 1 19595 20230114122747
+45.237.45.157 2 61 6376755 20230128164746
+181.120.164.14 1 144 32702723 20230112223328
+35.161.182.205 1 1 19595 20230116123120
+104.200.76.100 1 1 12219 20230123224818
+45.92.28.56 4 4 74924 20230111082234
+181.94.209.31 0 1 317071 
+104.237.245.246 3 3 41969 20230113082321
+191.97.126.142 3 161 32965525 20230129124105
+190.96.21.178 0 1 317071 
+99.237.53.23 3 161 32963340 20230104165942
+186.141.225.203 0 1 481653 
+201.217.40.174 3 163 33236430 20230123131928
+181.94.210.18 6 318 66388241 20230123074450
+95.142.121.33 2 2 138290 20230101032416
+201.217.5.166 2 165 34439735 20230104075622
+172.91.118.60 4 164 33206785 20230114010835
+47.88.87.97 1 1 19595 20230131131301
+47.88.6.178 1 1 19595 20230131131301
+34.23.61.129 2 160 32943745 20230109195603
+94.102.49.190 1 2 128183 20230103181137
+54.245.3.38 1 1 19595 20230131012638
+173.252.95.6 0 52 12233653 
+170.51.52.127 0 1 378904 
+31.13.127.16 0 2 746010 
+54.187.1.194 2 2 39190 20230106121433
+45.5.67.56 2 2 100351 20230110145850
+20.241.233.77 1 129 20412259 20230103133547
+181.9.200.41 4 164 33256025 20230131125839
+66.220.149.18 0 1 855728 
+69.171.251.12 0 63 14599698 
+69.171.251.120 0 5 632455 
+190.128.217.126 2 162 33214650 20230125055627
+181.30.218.78 3 163 33236430 20230112163154
+209.126.86.35 1 1 0 20230124063151
+190.128.230.78 1 158 32739165 20230120112642
+200.55.121.23 3 162 32993357 20230106112201
+170.51.53.220 0 1 378904 
+205.185.121.69 1 3 25529 20230113014116
+190.173.164.5 2 160 32943745 20230106141144
+44.234.63.159 1 1 19595 20230131123320
+69.171.251.9 1 21 3341257 20230123222024
+181.215.169.76 1 1 17867 20230120013309
+190.112.168.46 4 240 54062901 20230107183723
+34.220.140.67 1 1 19595 20230130214552
+54.149.117.81 2 162 33214650 20230128030804
+173.252.79.14 0 1 855728 
+173.252.79.8 0 2 301476 
+64.124.8.25 0 6 669166 
+185.200.117.222 2 2 200702 20230104100126
+173.252.79.19 0 1 363201 
+34.209.173.75 1 1 19595 20230111122949
+181.126.205.152 0 1 378904 
+69.171.249.6 0 1 855728 
+87.236.176.227 1 1 19595 20230116005552
+173.252.127.119 0 1 210264 
+35.88.23.160 1 1 19595 20230108121308
+5.188.62.174 2 2 39190 20230121134227
+124.221.186.26 1 1 19595 20230124184036
+181.94.226.36 1 158 32739165 20230127062601
+107.180.109.52 2 2 200702 20230126022653
+34.219.87.248 1 1 19595 20230130194423
+200.85.60.250 3 163 32994220 20230109080809
+34.212.231.36 2 2 39190 20230131000405
+67.22.61.222 1 139 31884788 20230122141113
+35.161.210.180 1 1 19595 20230120124857
+27.115.124.45 1 1 19595 20230111182350
+34.221.214.141 1 1 19595 20230119123008
+104.168.124.159 2 2 100351 20230128030758
+69.171.251.2 1 62 12735925 20230116124400
+66.220.149.13 0 7 463195 
+95.111.246.11 2 2 39190 20230102094515
+172.121.222.234 1 1 19595 20230123224818
+198.235.24.31 1 1 100351 20230129201719
+92.240.212.151 1 1 19595 20230113021318
+42.236.10.93 4 318 66370658 20230104180057
+196.196.47.116 2 2 37462 20230116044718
+24.232.59.195 0 1 376981 
+45.155.69.125 2 2 37462 20230114175831
+170.51.53.187 0 1 378904 
+185.65.134.180 1 1 100351 20230125062026
+54.213.204.149 1 1 19595 20230124011805
+173.252.87.120 0 54 10003963 
+190.112.169.52 5 196 47356131 20230120164142
+205.210.31.173 1 1 100351 20230115000918
+173.252.79.117 0 1 183559 
+35.87.209.215 1 1 19595 20230130193823
+54.212.178.189 3 166 33282139 20230110180950
+181.124.132.22 0 1 378904 
+66.249.85.69 1 1 19595 20230109091623
+34.214.60.80 1 1 19595 20230108121550
+170.51.120.15 3 163 33236430 20230115182418
+34.219.102.66 2 2 39190 20230118121947
+130.255.166.98 1 1 19595 20230113030424
+181.126.219.204 5 173 33089272 20230124180914
+181.94.224.5 0 2 568388 
+181.120.238.10 4 164 33236430 20230123154940
+173.252.95.15 0 50 10987284 
+205.210.31.9 1 1 37939 20230121122931
+191.97.123.221 1 159 32866585 20230118195231
+66.220.149.21 0 2 967415 
+104.222.162.146 2 2 100351 20230128030755
+103.1.213.221 1 1 100351 20230105100311
+103.105.167.214 3 3 41969 20230103053945
+186.139.128.76 3 163 33236430 20230103082119
+34.219.75.199 1 1 19595 20230122122556
+173.252.83.6 0 2 1711456 
+23.229.113.138 2 2 39190 20230110095525
+201.217.49.2 3 164 33264262 20230110075657
+181.121.229.166 0 1 376981 
+181.40.67.62 4 178 39679395 20230125045412
+107.165.134.89 1 1 19595 20230103053926
+192.198.118.207 4 4 74924 20230122124202
+64.124.8.30 0 7 1814273 
+54.185.183.17 2 2 39190 20230106122624
+173.252.127.4 0 1 189789 
+35.86.204.215 1 1 19595 20230126122729
+69.171.251.21 0 51 14808406 
+31.13.127.120 0 3 2162801 
+184.148.97.253 4 4 74924 20230114181657
+69.171.249.118 0 1 210264 
+176.53.222.22 1 1 19595 20230131131848
+79.137.65.46 1 1 100351 20230112024459
+188.247.77.183 2 2 37462 20230121035630
+172.121.217.115 1 1 19595 20230123224818
+206.189.94.238 1 1 100351 20230112234922
+160.238.206.75 3 159 32964036 20230106172531
+199.244.88.222 1 1 19595 20230102221825
+205.169.39.63 4 164 34043397 20230131011229
+167.248.133.60 2 4 94854 20230123183623
+190.112.168.77 3 193 46477120 20230130073725
+205.210.31.180 1 1 100351 20230120161414
+54.185.227.162 1 1 19595 20230128122024
+45.5.65.153 1 1 19595 20230103053926
+34.220.250.32 1 1 19595 20230121122240
+107.165.134.254 1 1 19595 20230113082255
+64.124.8.28 0 1 192271 
+198.235.24.27 1 1 37927 20230103091138
+181.94.230.223 6 164 33293726 20230105082248
+181.124.209.9 0 1 378904 
+45.237.44.243 3 164 33903250 20230102111030
+45.228.138.184 3 161 32965525 20230103085727
+181.124.172.2 1 36 795504 20230128135350
+31.13.127.33 0 1 27832 
+69.171.251.24 0 1 210264 
+173.252.127.1 0 1 451345 
+34.222.145.55 1 1 19595 20230125122258
+181.188.232.19 0 1 481653 
+142.132.250.173 1 21 176332 20230102095314
+173.252.87.18 0 57 13022722 
+181.238.192.135 3 162 32993357 20230111110356
+172.121.208.107 3 3 41969 20230103053945
+72.14.201.194 1 1 19595 20230130054234
+209.99.152.193 2 53 3829588 20230122141157
+69.63.184.5 0 1 451345 
+173.252.83.3 0 1 855728 
+64.124.8.48 0 1 164771 
+69.63.184.117 0 1 286527 
+69.171.251.13 0 2 608117 
+66.220.149.2 0 1 855728 
+205.185.116.89 1 2 22502 20230113014118
+180.163.220.4 2 159 33185329 20230104175739
+186.179.40.102 2 2 37462 20230101211923
+190.228.83.44 4 263 61324448 20230126042627
+52.38.40.64 1 1 19595 20230125122310
+181.94.228.19 3 163 33236430 20230106204428
+198.235.24.148 1 1 100351 20230117145149
+40.94.89.28 2 161 33186818 20230112192852
+34.74.104.122 2 160 32943745 20230126184535
+35.89.67.99 3 167 33264083 20230110145906
+173.252.79.22 0 1 240128 
+205.210.31.60 1 1 100351 20230115185917
+193.186.4.134 1 1 19595 20230126203836
+52.11.248.62 1 1 19595 20230111122833
+37.139.53.82 1 1 100351 20230104012743
+23.108.43.9 2 2 37462 20230107033508
+190.128.197.46 3 164 33264262 20230106085753
+54.245.174.37 1 1 19595 20230119123018
+181.126.205.141 3 163 33660177 20230116214345
+173.252.95.3 4 122 21775556 20230115113735
+173.252.127.21 0 2 415790 
+35.91.123.222 1 1 19595 20230116121317
+191.97.126.226 4 163 32993384 20230120141123
+35.87.16.192 1 1 19595 20230118122341
+181.94.232.216 0 1 307615 
+104.194.192.38 2 2 100351 20230110145848
+66.220.149.9 1 74 16519912 20230122112009
+64.140.128.118 0 2 7007 
+181.176.211.243 1 1 17867 20230101030247
+205.210.31.178 1 1 100351 20230101173936
+31.13.127.116 0 3 339731 
+66.220.149.120 0 13 5151214 
+66.220.149.12 0 1 855728 
+34.209.39.204 1 1 19595 20230119123041
+170.51.49.30 0 1 378904 
+54.149.217.106 1 1 19595 20230130215152
+181.120.163.183 3 163 32994939 20230122192509
+52.37.156.136 1 1 19595 20230111123024
+45.237.44.193 4 196 36899256 20230121161112
+64.140.130.252 0 2 7007 
+205.210.31.56 1 1 100351 20230106214429
+52.26.64.40 1 1 19595 20230118122312
+64.124.8.54 0 3 309562 
+209.141.34.187 0 1 1903 
+31.13.115.116 0 1 210264 
+31.13.127.6 0 9 3969702 
+128.14.136.78 1 1 19595 20230116063522
+34.219.86.177 1 1 19595 20230123123616
+35.89.183.112 1 1 19595 20230108121723
+54.190.25.112 1 1 19595 20230120120606
+35.90.40.84 1 1 19595 20230123122532
+181.124.130.53 0 2 823095 
+173.252.127.17 1 57 11864548 20230125100819
+45.192.138.236 1 1 17867 20230113062944
+181.111.242.106 3 168 33752733 20230122202629
+170.84.175.1 5 223 46182944 20230130131222
+93.159.230.87 2 2 39190 20230114152530
+31.13.127.4 0 6 3624807 
+94.154.179.70 1 1 2758 20230122141231
+31.13.127.25 0 2 835608 
+209.141.49.169 1 3 17978 20230116015559
+35.92.73.198 1 1 19595 20230118122308
+198.235.24.58 1 1 37939 20230107170524
+34.213.40.246 1 1 19595 20230121121907
+181.94.231.167 3 162 32993357 20230104223418
+209.141.51.222 1 2 12565 20230122013243
+42.236.10.106 3 158 32836616 20230107233108
+44.234.49.109 1 1 19595 20230131123427
+209.141.33.65 1 2 28087 20230131012755
+104.227.145.13 2 2 19595 20230124015222
+181.78.27.198 3 162 33235804 20230102130529
+34.221.66.89 1 1 19595 20230129122323
+205.185.116.25 0 2 38905 
+181.40.85.66 0 1 317071 
+173.252.111.12 0 1 286527 
+35.93.5.162 1 1 19595 20230109125754
+31.13.127.13 1 21 2651346 20230126130403
+31.13.127.7 0 1 363201 
+54.187.58.246 1 1 19595 20230130224846
+72.14.201.195 2 2 39190 20230115133115
+176.53.221.186 1 1 19595 20230131205302
+80.187.111.116 1 24 5077614 20230112054516
+54.186.85.122 1 1 19595 20230129121000
+205.210.31.33 1 1 100351 20230131044828
+34.221.217.217 1 1 19595 20230118121954
+104.224.66.101 2 2 100351 20230110200717
+131.100.185.132 3 162 32993357 20230106045623
+172.226.104.76 0 5 8855 
+186.158.200.137 3 162 32993357 20230113034346
+185.27.99.135 1 1 19595 20230131192439
+190.137.27.52 0 1 481653 
+181.164.61.53 6 312 61582416 20230120074733
+54.68.11.140 1 1 19595 20230116121337
+88.198.65.172 1 1 19595 20230108214729
+34.211.56.209 1 1 19595 20230129120309
+173.252.127.13 0 1 240128 
+35.86.101.96 1 1 19595 20230116121351
+64.124.8.23 0 3 1185624 
+64.124.8.29 0 3 798855 
+35.87.179.166 1 1 19595 20230106121659
+31.13.127.11 1 27 5003255 20230121230540
+153.33.198.27 3 163 33236430 20230129023133
+181.94.210.100 5 166 33520878 20230131062740
+173.252.87.116 1 43 7833573 20230124121845
+181.94.228.242 0 1 317071 
+198.235.24.22 1 1 100351 20230128201041
+205.210.31.5 1 1 100351 20230106113641
+205.210.31.185 1 1 37939 20230110062430
+31.13.115.11 0 1 240128 
+181.120.191.95 1 158 32739165 20230109110651
+64.124.8.49 0 7 848887 
+173.252.107.19 0 1 143124 
+35.88.75.126 1 1 19595 20230130160100
+72.143.219.11 3 162 32993357 20230105112325
+198.235.24.181 1 1 100351 20230122204354
+191.97.126.30 5 182 41523908 20230128090014
+190.190.206.120 3 163 33236430 20230123111012
+35.92.72.131 1 1 19595 20230130194122
+74.84.150.150 3 3 58785 20230126150811
+35.89.34.164 1 1 19595 20230107122058
+72.13.46.2 3 3 57057 20230118055029
+173.252.127.15 0 3 645151 
+198.235.24.165 1 1 100351 20230110200740
+18.144.133.201 1 1 19595 20230105115421
+190.5.184.234 0 1 192439 
+54.188.3.183 1 1 19595 20230109125615
+173.252.87.5 0 51 11441233 
+35.187.31.229 2 2 200702 20230119050047
+181.124.90.237 3 193 45336959 20230113125926
+187.237.217.82 1 158 32739165 20230131124417
+66.220.149.10 0 37 6916364 
+181.124.146.254 0 1 376981 
+201.148.120.235 2 162 33214650 20230127172811
+181.163.81.61 0 1 376981 
+173.252.79.119 0 1 183559 
+95.217.126.196 2 2 138290 20230116114404
+176.113.42.201 1 1 19595 20230131124207
+89.117.37.182 5 9 132103 20230108091338
+51.81.167.146 1 1 100351 20230131011122
+193.186.4.198 1 1 19595 20230125141454
+35.89.111.178 1 1 19595 20230122122217
+190.211.241.57 3 163 33209461 20230109120021
+31.13.127.31 0 12 1230906 
+198.235.24.44 1 1 100351 20230113230805
+205.210.31.25 1 1 37939 20230124042239
+190.104.176.206 4 163 33012952 20230122085554
+35.165.10.110 1 1 19595 20230131024707
+173.252.107.116 0 1 855728 
+191.97.121.124 0 1 304014 
+172.121.217.141 3 3 36756 20230113082302
+172.245.33.32 2 2 37462 20230102043332
+190.231.211.111 3 163 33236430 20230105150340
+181.124.37.212 3 163 33236430 20230113073913
+35.165.118.172 1 1 19595 20230121122052
+72.14.201.220 1 1 19595 20230123175414
+54.245.28.159 1 1 19595 20230123122712
+130.255.166.69 1 1 19595 20230102072842
+173.252.95.22 0 52 12372702 
+165.231.95.219 4 4 74924 20230123015234
+151.237.186.244 2 2 37462 20230106050059
+52.12.250.251 1 1 19595 20230120120636
+64.124.8.52 0 1 448250 
+201.119.107.13 1 34 242272 20230118193628
+69.171.251.5 0 20 6197688 
+35.162.103.171 1 1 19595 20230129120555
+183.136.225.46 4 7 190190 20230116093338
+209.126.77.67 1 1 0 20230110210518
+183.136.225.44 1 3 129794 20230124130824
+69.171.251.116 0 75 15117431 
+52.27.52.252 1 1 19595 20230111122759
+23.129.64.146 1 1 19595 20230124090151
+31.13.127.2 0 47 10450242 
+35.155.221.97 1 1 19595 20230111122430
+189.147.108.118 0 1 20085 
+181.123.131.68 0 1 317071 
+107.150.70.71 2 2 37462 20230126075140
+45.225.218.233 0 1 317071 
+173.252.107.24 0 1 240128 
+168.195.227.209 3 162 32993357 20230131045553
+34.219.141.151 1 1 19595 20230129121823
+104.222.46.189 1 1 19595 20230113082255
+138.186.60.26 4 162 32985120 20230106144156
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230101 24 111 13168167 17
+20230102 56 2076 410002339 27
+20230103 43 539 102745457 23
+20230104 43 1959 402560822 17
+20230105 43 1553 306690541 22
+20230106 55 1656 334036964 26
+20230107 44 1557 328476460 20
+20230108 26 231 39374293 23
+20230109 53 1840 363822155 32
+20230110 80 2020 397764297 33
+20230111 74 1819 363631696 32
+20230112 50 1566 323065699 28
+20230113 70 1430 291854573 43
+20230114 49 801 154552414 27
+20230115 37 820 173864397 25
+20230116 67 1418 291646717 40
+20230117 27 743 134024970 18
+20230118 61 1508 285341829 34
+20230119 19 366 66964395 13
+20230120 54 2243 479126625 22
+20230121 34 556 107290005 22
+20230122 67 2205 447521053 36
+20230123 116 2377 463691446 38
+20230124 46 1398 276907971 28
+20230125 38 1382 280337538 22
+20230126 35 1045 218534384 19
+20230127 30 988 199884529 17
+20230128 56 1074 209812825 29
+20230129 28 880 180993900 21
+20230130 56 871 168689645 34
+20230131 60 951 177490447 43
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 737
+30mn-1h 4
+30s-2mn 50
+15mn-30mn 8
+5mn-15mn 10
+2mn-5mn 22
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 940 26018889 715 598
+/fonts/fontawesome-webfont.woff2 219 16898040 14 50
+/fonts/Linearicons-Free.woff2 174 3767940 5 126
+/en/ 116 2270416 86 15
+/deu/ 39 772657 2 10
+/img/descubripaises/ca/ca.html 19 58168 4 10
+/img/descubripaises/ce/ce.html 17 52416 3 11
+/php/form-modal.php 8 216 1 5
+/img/descubripaises/pe/pe.html 3 13905 0 1
+/fonts/fontawesome-webfont.woff 2 196048 0 1
+/php/form-process.php 2 54 0 2
+/fonts/fontawesome-webfont.ttf 1 165548 0 1
+/img/descubripaises/ar/ar.html 1 2803 1 1
+END_SIDER

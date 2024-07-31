@@ -1,0 +1,1269 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202110 will be lost/reset.
+# Last config file used to build this data file was /home2/canadavi/tmp/awstats/ssl/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2705                
+POS_VISITOR 48058               
+POS_DAY 62661               
+POS_DOMAIN 3645                
+POS_LOGIN 4250                
+POS_ROBOT 4405                
+POS_WORMS 4843                
+POS_EMAILSENDER 4974                
+POS_EMAILRECEIVER 5117                
+POS_SESSION 63579               
+POS_SIDER 63788               
+POS_FILETYPES 5252                
+POS_DOWNLOADS 5570                
+POS_OS 5812                
+POS_BROWSER 6049                
+POS_SCREENSIZE 8319                
+POS_UNKNOWNREFERER 8393                
+POS_UNKNOWNREFERERBROWSER 8925                
+POS_ORIGIN 9366                
+POS_SEREFERRALS 9512                
+POS_PAGEREFS 9774                
+POS_SEARCHWORDS 10117               
+POS_KEYWORDS 10269               
+POS_MISC 2368                
+POS_ERRORS 10328               
+POS_CLUSTER 4106                
+POS_SIDER_404 10504               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211101000550 513 146328 18384158363568
+FirstTime 20211001025433
+LastTime 20211031200012
+LastUpdate 20211101073315 513 0 512 0 0
+TotalVisits 344                 
+TotalUnique 324                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 376                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 13 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 21 398667 10 58 7201267
+1 2 2 20287 91 127 6980636
+2 11 185 35256081 188 236 7520144
+3 79 79 954859 173 221 10629524
+4 5 9 977327 183 204 5332524
+5 12 495 100057058 184 239 7789706
+6 31 678 133743596 192 317 11984891
+7 22 936 198609140 206 288 13467705
+8 37 1822 373113227 188 294 6895961
+9 31 1154 228282072 120 216 9386056
+10 7 299 68218407 28 97 6385407
+11 31 1414 282347405 45 184 7362742
+12 24 564 101261395 39 116 9260717
+13 182 2027 383268551 44 234 7561501
+14 31 1302 265373129 68 159 5250351
+15 10 378 53949598 51 111 7839766
+16 34 1698 341732207 31 149 7329311
+17 17 486 97947187 38 97 7848389
+18 12 441 97127213 47 104 6856996
+19 86 562 101015850 34 113 11999237
+20 24 798 155308771 39 110 7362501
+21 10 307 62380306 49 107 4173332
+22 5 125 23518049 33 97 11368434
+23 7 200 33772997 28 81 7124241
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 393 1414 197396450
+py 149 7657 1560516998
+ar 87 4324 858459392
+ru 20 25 2430396
+ma 18 873 184267185
+gr 13 13 1049494
+do 6 308 63863518
+pa 6 128 29407378
+cl 5 165 33564859
+in 5 148 30909351
+cn 4 4 39882
+co 4 100 9465768
+de 3 164 33262077
+tw 3 161 32965525
+cr 3 166 33238359
+br 3 162 32993357
+fr 2 3 13103
+ca 2 2 39190
+ch 1 1 19595
+ec 1 158 32739165
+pl 1 1 19595
+gt 0 1 378904
+pe 0 4 1593838
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 667 21987340 20211031235453 0
+bingbot/ 594 146060227 20211031214556 0
+Googlebot\-Image/ 196 15909314 20211031153240 0
+unknown 11 208 20211029144823 11
+no_user_agent 6 473820 20211029023636 0
+bingpreview 3 340732 20211006070745 0
+oBot/ 2 1384 20211031134513 0
+Konqueror/ 1 19595 20211011005548 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+cgi 28 27762 0 0
+png 2555 37851031 0 0
+css 1190 6397422 0 0
+txt 1 11719 0 0
+html 535 11111238 0 0
+jpg 9273 2985613871 0 0
+php 2 14 0 0
+woff 2 196048 0 0
+env 2 23412 0 0
+pdf 19 11255217 0 0
+woff2 160 8148540 0 0
+gif 190 62852118 0 0
+js 2025 15144987 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+/img/visa/imm5257e2.pdf 16 0 10669120
+/img/visa/nuevazelanda.pdf 2 0 661240
+/img/visa/imm5645e.pdf 1 0 68713
+/img/visa/requisitosvisaaustralia.pdf 1 0 186764
+/.well-known/security.txt 1 0 11719
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+win10 7415 174
+winxp 10 10
+win2000 4 4
+Unknown 37 36
+ios_iphone 1329 32
+win8.1 163 3
+linuxandroid 4872 133
+win7 1016 30
+macosx 472 136
+win8 3 3
+macosx11 3 3
+linux 658 165
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 105
+chrome86.0.4240.183 2 2
+firefox72.0 1 1
+safari14.1.2 328 6
+android 19 19
+firefox74.0 3 3
+chrome80.0.3987.99 405 7
+opera10.54 5 5
+firefox82.0 1 1
+chrome92.0.4515.131 163 3
+safari14.0.3 1 0
+opera11.00 5 5
+firefox84.0 2 2
+chrome77.0.3865.90 2 2
+chrome95.0.4638.69 162 3
+chrome90.0.4430.72 10 10
+chrome87.0.4280.88 2 2
+chrome89.0.4389.114 3 3
+firefox73.0 1 1
+chrome89.0.4389.128 11 11
+firefox85.0 1 1
+chrome80.0.3987.106 1 1
+chrome70.0.3538.110 238 3
+chrome80.0.3987.87 7 7
+chrome85.0.4183.102 4 4
+chrome88.0.4324.146 1 1
+opera10.00 6 6
+firefox83.0 3 3
+firefox91.0 522 12
+chrome84.0.4147.105 15 15
+chrome90.0.4430.210 162 3
+edge13 3 3
+chrome94.0.4606.71 3070 62
+chrome78.0.3904.96 156 3
+safari 689 22
+opera11.11 5 5
+chrome93.0.4577.82 164 2
+chrome86.0.4240.75 2 2
+chrome84.0.4147.125 2 2
+chrome66.0.3359.181 1 1
+chrome66.0.3359.117 4 4
+chrome85.0.4183.121 1 1
+chrome79.0.964.14 1 1
+chrome87.0.4280.66 1 1
+chrome71.0.3578.99 162 3
+chrome95.0.4638.54 496 9
+firefox92.0 831 14
+firefox43.0 7 7
+firefox78.0 2 2
+chrome84.0.4147.135 1 1
+chrome83.0.4103.97 141 141
+chrome59.0.3071.125 100 8
+chrome86.0.4240.198 2 1
+chrome91.0.4472.114 4 4
+firefox81.0 3 3
+chrome95.0.4638.50 165 6
+safari15.0 1 0
+chrome92.0.4515.159 165 5
+chrome94.0.4606.81 2235 39
+firefox93.0 692 13
+chrome88.0.4324.96 1 1
+chrome92.0.4515.107 2 2
+chrome80.0.3987.122 4 4
+firefox80.0 1 1
+mozilla 1 1
+chrome94.0.4606.61 1580 41
+safari11.0 159 3
+chrome90.0.4430.212 163 3
+safari14.1.1 1 1
+chrome74.0.3729.169 3 3
+chrome85.0.4183.127 1 0
+chrome87.0.4280.141 369 14
+chrome89.0.4389.105 163 3
+msie9.0 16 0
+chrome93.0.4577.63 3 0
+chrome71.0.3578.98 1 1
+chrome94.0.4606.80 291 5
+chrome80.0.3987.132 160 3
+chrome81.0.4044.129 4 4
+firefox47.0 4 4
+firefox76.0 2 2
+safari13.1.2 177 4
+msie11.0 3 3
+opera11.50 3 3
+chrome88.0.4324.190 2 2
+firebird 4 4
+firefox86.0 3 3
+chrome81.0.4044.122 3 3
+chrome83.0.4103.106 1 1
+Unknown 36 35
+opera10.10 6 6
+chrome80.0.3987.163 1 1
+chrome79.0.3945.74 7 7
+chrome42.0.2311.90 1 1
+chrome47.0.2526.106 1 1
+chrome43.0.2357.125 2 2
+chrome81.0.4044.113 2 2
+firefox77.0 5 5
+chrome92.0.0.0 1 1
+chrome81.0.4044.138 3 3
+chrome94.0.4606.85 1442 33
+firefox87.0 1 1
+safari12.1.2 153 2
+chrome55.0.2883.91 1 0
+chrome80.0.3987.116 1 1
+chrome81.0.4044.92 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Go_http_package 20211031200012
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211028204740
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20211029023637
+Go-http-client/1.1 20211031144846
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211029171244
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20211031144846
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211029171244
+Go_http_package 20211031200012
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211028204740
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 423 530
+From1 2 4
+From2 120 177
+From3 4 165
+From4 180 15106
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google_com 0 1
+www_google_com 110 165
+www_google_com_py 5 6
+www_google_es 2 2
+www_google_com_hk 1 1
+www_google_de 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://lab.onsec.ru 2 2
+https://l.wl.co 1 1
+https://mail.canadaviajes.com.py/css/font-awesome.min.css 1 1
+https://mail.canadaviajes.com.py 0 159
+https://mail.canadaviajes.com.py/css/main.css 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 13 634701
+302 234 62572
+406 135 30510
+401 297 132542
+404 1219 9230885
+400 423 21996
+409 40 3320
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 435
+/https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+/%09/www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//root.canadaviajes.com.py.x.cm2.pW 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+////mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2%00.pW 1 https://www.canadaviajes.com.py/
+////canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+//3H6k7lIAiqjfNeN@www.canadaviajes.com.py+@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+///www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+/canadaviajes.com.py.r.cm2.pW/canadaviajes.com.py 1 https://canadaviajes.com.py/
+///www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+/www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+/https://%5cwww.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/img/descubripaises/ca/pages/1-large.jpg 1 https://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+//www.canadaviajes.com.py@https:///www.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://www.canadaviajes.com.py/
+////mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+/https://canadaviajes.com.py/https://canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+//www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/redirect 3 https://www.canadaviajes.com.py/
+///canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW%5c.www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW/www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+/www.canadaviajes.com.py/%2F..%0D%0ASet-Cookie:x=z.json 2 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW:80%23@canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW%3F.mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py@https:///canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://canadaviajes.com.py/
+/https:/canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+////canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+/img/salidasgarantizadas/argentina-sg/gar1.jpg 114 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW:80 1 https://www.canadaviajes.com.py/
+/https://prerender.www.canadaviajes.com.py.x.cm2.pW 1 https://www.canadaviajes.com.py/
+////mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+////%5cwww.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/%5cr%5cnSet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https%0a%0dmail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+/https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://canadaviajes.com.py/
+//%09/mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW:80 1 https://mail.canadaviajes.com.py/
+/https://.canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+////www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+///canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+////canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+/https://%09/canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2%00.pW 1 https://mail.canadaviajes.com.py/
+////%09/mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+////canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+///%5ccanadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+//https://canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+/contact%0d%0aSet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/%ff%0d%ff%0aSet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https:///mail.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+/https://www.canadaviajes.com.py%2ewww.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW%5c@www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+/https://3H6k7lIAiqjfNeN@www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW:80%23@canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2%00.pW 1 https://canadaviajes.com.py/
+/www.canadaviajes.com.py/%2E%2E%2F%0D%0ASet-Cookie:x=z.json 2 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW%3F.www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+//%2f%2fmail.canadaviajes.com.py.r.cm2.pW 2 https://mail.canadaviajes.com.py/
+////%5ccanadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+///canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+//3H6k7lIAiqjfNeN@mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py+&@canadaviajes.com.py.r.cm2.pW%23+@canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+/.canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW%3F.canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+/https://3H6k7lIAiqjfNeN@mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/%5ccanadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https%0a%0dwww.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//mail.canadaviajes.com.py/%2F%2E%2E%0D%0ASet-Cookie:x=z.json 2 https://mail.canadaviajes.com.py/
+/mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+/%3F%0D%0ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+///mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+////www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+/robots.txt 140 -
+/https://mail.canadaviajes.com.py+&@mail.canadaviajes.com.py.r.cm2.pW%23+@mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+/https:mail.canadaviajes.com.py.r.cm2.pW 2 https://mail.canadaviajes.com.py/
+/https://:@www.canadaviajes.com.py.r.cm2.pW%5c@www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW%5c@canadaviajes.com.py 1 https://canadaviajes.com.py/
+/%5cmail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+//https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2%E3%80%82pW 1 https://mail.canadaviajes.com.py/
+/https:///canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://canadaviajes.com.py/
+/img/descubripaises/ce/pages/5-thumb.jpg 2 -
+/https://canadaviajes.com.py+&@canadaviajes.com.py.r.cm2.pW%23+@canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+/https:///www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://www.canadaviajes.com.py/
+///canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+///mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-de.html 1 -
+/%09/canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/%EF%BC%8DSet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW%5c.canadaviajes.com.py 1 https://canadaviajes.com.py/
+/canadaviajes.com.py/%2F..%0D%0ASet-Cookie:x=z.json 2 https://canadaviajes.com.py/
+/mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+//mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/https://%0a%0dwww.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/https://%09/canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+///mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/render 3 https://www.canadaviajes.com.py/
+///www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/%25%30ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+///www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+//https://mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+/img/descubripaises/ar2/ar.html 1 -
+/www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+/https://.mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https:///www.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://www.canadaviajes.com.py/
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ar.html 1 -
+//mail.canadaviajes.com.py.r.cm2.pW:80%23@mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+///www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+//https://www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+////canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+////www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW%5ctwww.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+/screenshot/https://screenshot.www.canadaviajes.com.py.x.cm2.pW 1 https://www.canadaviajes.com.py/
+/https:/%5cmail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+////%09/canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/%2f%2fwww.canadaviajes.com.py.r.cm2.pW 2 https://www.canadaviajes.com.py/
+/https:// 3 https://www.canadaviajes.com.py/
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-zh.html 1 -
+/img/descubripaises/ce/pages/3-thumb.jpg 1 -
+/https:///www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW:80 1 https://www.canadaviajes.com.py/
+/https:///canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+//3H6k7lIAiqjfNeN@mail.canadaviajes.com.py+@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+//mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+////www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW/canary</script><svg/onload=confirm()> 1 https://canadaviajes.com.py/
+/https://%0a%0dmail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://mail.canadaviajes.com.py/
+/mail.canadaviajes.com.py.r.cm2.pW/mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+//%5cwww.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/%09/canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://www.canadaviajes.com.py/
+/https:/%5ccanadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+/%3c%3e//canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/.www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//https:///mail.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://mail.canadaviajes.com.py/
+/https://:@canadaviajes.com.py.r.cm2.pW%5c@canadaviajes.com.py 1 https://canadaviajes.com.py/
+////canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+//canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+////www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+///www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+/+595981602583 2 https://www.canadaviajes.com.py/
+///canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+///canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+/@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW%23.canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+/https:///mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://mail.canadaviajes.com.py/
+//3H6k7lIAiqjfNeN@www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/img/salidasgarantizadas/argentina-sg/gar2.jpg 113 https://www.canadaviajes.com.py/
+/render/https://render.mail.canadaviajes.com.py.x.cm2.pW 1 https://mail.canadaviajes.com.py/
+////mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/img/descubripaises/ce/pages/1-thumb.jpg 1 -
+///canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+///%5ccanadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-bg.html 1 -
+/https://www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+////mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+/@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://canadaviajes.com.py/
+////mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py/%2F%2E%2E%0D%0ASet-Cookie:x=z.json 2 https://canadaviajes.com.py/
+/https:/www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+///%5cmail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://%5ccanadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://%09/mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//%2f%2fwww.canadaviajes.com.py.r.cm2.pW 2 https://www.canadaviajes.com.py/
+////mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW/canadaviajes.com.py 1 https://canadaviajes.com.py/
+////%09/www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/https://%09/mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+/index.html 1 https://www.canadaviajes.com.py/
+/%%0A0ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW:80 1 https://mail.canadaviajes.com.py/
+/%5cwww.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+////%5ccanadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https:/mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/canadaviajes.com.py/%2E%2E%2F%0D%0ASet-Cookie:x=z.json 2 https://canadaviajes.com.py/
+/https:/%5cwww.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+//root.www.canadaviajes.com.py.x.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW%2f%2f.www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+/img/descubripaises/ce/pages/4-thumb.jpg 1 -
+/%5cmail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+////www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+/%23%0D%0ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+//%09/www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW:80%23@www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+////canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW%23.mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+////mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+///%5cwww.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/proxy.php 6 https://www.canadaviajes.com.py/
+///mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+/%2F..%0d%0aSet-Cookie:x=z.json 6 https://www.canadaviajes.com.py/
+/%09/mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/%3c%3e//mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+/screenshot/https://screenshot.mail.canadaviajes.com.py.x.cm2.pW 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+/\\r\\nSet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https:///canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+///www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+/img/toursdestacados/europatd/semanasantaeuropa2019.jpg 106 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW 2 https://www.canadaviajes.com.py/
+/%5cwww.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/%09/www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://3H6k7lIAiqjfNeN@mail.canadaviajes.com.py+@mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+//https:///canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py%2ecanadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+///%09/www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW/www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+////%5cmail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/img/descubripaises/ca/pages/1-regions.json 4 https://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+/https://www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/proxify 3 https://www.canadaviajes.com.py/
+/https:///canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py@https:///mail.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://mail.canadaviajes.com.py/
+//https://canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+//https://www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW%5c.mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+///mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+/https://3H6k7lIAiqjfNeN@canadaviajes.com.py+@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW%5ctcanadaviajes.com.py/ 1 https://canadaviajes.com.py/
+//%09/www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW%5ctmail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//%09/mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/////www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+///mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+/canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py/https://www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+///www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/https:///mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+/%u000ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+///mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+//3H6k7lIAiqjfNeN@canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW 2 https://canadaviajes.com.py/
+/%3c%3e//www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/canadaviajes.com.py 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py 1 https://canadaviajes.com.py/
+/////www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/img/toursdestacados/europatd/europavacacionestd.jpg 106 https://www.canadaviajes.com.py/
+///%09/www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https:///mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+///canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+/https://.www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW%2f%2f.canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+////www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+/https:///www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+/%2f%2e%2e%0d%0aSet-Cookie:x=z.json 6 https://www.canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW%5ctmail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+/https://%5cmail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+///canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+/https%0a%0dcanadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+//%09/canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/////canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+/%09/mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW%23.www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW/canary</script><svg/onload=confirm()> 1 https://www.canadaviajes.com.py/
+//https://mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+///%5cmail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+///%5cwww.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://prerender.mail.canadaviajes.com.py.x.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/https://prerender.canadaviajes.com.py.x.cm2.pW 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://mail.canadaviajes.com.py/
+/%2fmail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 2 https://mail.canadaviajes.com.py/
+//www.canadaviajes.com.py+&@www.canadaviajes.com.py.r.cm2.pW%23+@www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+//%5cmail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/proxy 3 https://www.canadaviajes.com.py/
+//https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+/https://%0a%0dcanadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+////www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+///canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+//https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+//%5ccanadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py/https://mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/https://3H6k7lIAiqjfNeN@www.canadaviajes.com.py+@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+/https://:@mail.canadaviajes.com.py.r.cm2.pW%5c@mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+/mail.canadaviajes.com.py/%2E%2E%2F%0D%0ASet-Cookie:x=z.json 2 https://mail.canadaviajes.com.py/
+////canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+///www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/////mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://www.canadaviajes.com.py/
+/https://%5cmail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+////mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+//https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+//%5cwww.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+///%09/canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW%5ctcanadaviajes.com.py/ 1 https://canadaviajes.com.py/
+///mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/%2f%2fmail.canadaviajes.com.py.r.cm2.pW 2 https://mail.canadaviajes.com.py/
+/https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://www.canadaviajes.com.py/
+/https:www.canadaviajes.com.py.r.cm2.pW 2 https://www.canadaviajes.com.py/
+/render/https://render.www.canadaviajes.com.py.x.cm2.pW 1 https://www.canadaviajes.com.py/
+///mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/%2fcanadaviajes.com.py.r.cm2.pW/%2e%2e%2f 2 https://canadaviajes.com.py/
+/%E5%98%8A%E5%98%8D%0D%0ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/contact%E5%98%8D%E5%98%8ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+/%5ccanadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+//%09/canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+/https:canadaviajes.com.py.r.cm2.pW 2 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW%5c@mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+/proxy/proxypath.www.canadaviajes.com.py.x.cm2.pW 1 https://www.canadaviajes.com.py/
+/render/https://render.canadaviajes.com.py.x.cm2.pW 1 https://canadaviajes.com.py/
+////%09/www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://3H6k7lIAiqjfNeN@canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+////mail.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://mail.canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW/mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW:80 1 https://canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW 2 https://mail.canadaviajes.com.py/
+/https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+/www.canadaviajes.com.py.r.cm2.pW/www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+/.mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/%250ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/%2fwww.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW:80%23@mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW:80 1 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py+&@mail.canadaviajes.com.py.r.cm2.pW%23+@mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+/.well-known/traffic-advice 1 -
+//mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW%5c%5c.mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py.r.cm2%E3%80%82pW 1 https://www.canadaviajes.com.py/
+////%5cmail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+///%09/canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+///www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW:80%23@www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+/%0D%0A%09Set-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/mail.canadaviajes.com.py/%2F..%0D%0ASet-Cookie:x=z.json 2 https://mail.canadaviajes.com.py/
+/https://%5ccanadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+///%09/mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW/canadaviajes.com.py 1 https://canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2%E3%80%82pW 1 https://canadaviajes.com.py/
+//www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW/canary</script><svg/onload=confirm()> 1 https://mail.canadaviajes.com.py/
+/img/descubripaises/ca/pages/2-regions.json 4 https://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+//3H6k7lIAiqjfNeN@canadaviajes.com.py+@canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+//%5cmail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://%09/www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py 1 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py+&@www.canadaviajes.com.py.r.cm2.pW%23+@www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+////canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://canadaviajes.com.py/
+////www.canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://www.canadaviajes.com.py/
+//mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/////mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW%2f%2f.mail.canadaviajes.com.py/ 1 https://mail.canadaviajes.com.py/
+//https://mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW// 1 https://mail.canadaviajes.com.py/
+///%09/mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+//canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+///www.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://www.canadaviajes.com.py/
+/https://%09/www.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW%5ctwww.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+////%5cwww.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+///mail.canadaviajes.com.py@mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+//root.mail.canadaviajes.com.py.x.cm2.pW 1 https://mail.canadaviajes.com.py/
+////www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+////canadaviajes.com.py.r.cm2.pW/%2e%2e%2f 1 https://canadaviajes.com.py/
+/%2f%2fcanadaviajes.com.py.r.cm2.pW 2 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW%5c%5c.canadaviajes.com.py/ 1 https://canadaviajes.com.py/
+/https://canadaviajes.com.py.r.cm2.pW// 1 https://canadaviajes.com.py/
+/https://www.canadaviajes.com.py@www.canadaviajes.com.py.r.cm2.pW// 1 https://www.canadaviajes.com.py/
+///canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+/screenshot/https://screenshot.canadaviajes.com.py.x.cm2.pW 1 https://canadaviajes.com.py/
+/proxy/proxypath.mail.canadaviajes.com.py.x.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py%2email.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/////canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/proxy/proxypath.canadaviajes.com.py.x.cm2.pW 1 https://canadaviajes.com.py/
+/%25%30%61Set-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/img/salidasgarantizadas/argentina-sg/gar3.jpg 113 https://www.canadaviajes.com.py/
+///mail.canadaviajes.com.py.r.cm2.pW/%2f%2e%2e 1 https://mail.canadaviajes.com.py/
+/https://www.canadaviajes.com.py.r.cm2.pW%5c%5c.www.canadaviajes.com.py/ 1 https://www.canadaviajes.com.py/
+/%2e%2e%2f%0d%0aSet-Cookie:x=z.json 6 https://www.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py:80%40mail.canadaviajes.com.py.r.cm2.pW/ 1 https://mail.canadaviajes.com.py/
+/https://canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://canadaviajes.com.py/
+//%5ccanadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/owa/auth/logon.aspx 4 -
+//mail.canadaviajes.com.py.r.cm2.pW/%2f.. 1 https://mail.canadaviajes.com.py/
+/%25250ASet-Cookie:x=z.json 3 https://www.canadaviajes.com.py/
+/https://www.canadaviajes.com.py:80%40www.canadaviajes.com.py.r.cm2.pW/ 1 https://www.canadaviajes.com.py/
+//%2f%2fcanadaviajes.com.py.r.cm2.pW 2 https://canadaviajes.com.py/
+// 3 https://www.canadaviajes.com.py/
+//www.canadaviajes.com.py/%2F%2E%2E%0D%0ASet-Cookie:x=z.json 2 https://www.canadaviajes.com.py/
+/https://canadaviajes.com.py:80%40canadaviajes.com.py.r.cm2.pW/ 1 https://canadaviajes.com.py/
+////%09/canadaviajes.com.py@canadaviajes.com.py.r.cm2.pW 1 https://canadaviajes.com.py/
+/https://%5cwww.canadaviajes.com.py.r.cm2.pW 1 https://www.canadaviajes.com.py/
+//https:///www.canadaviajes.com.py.r.cm2.pW/%2e%2e 1 https://www.canadaviajes.com.py/
+////%09/mail.canadaviajes.com.py.r.cm2.pW 1 https://mail.canadaviajes.com.py/
+/https://mail.canadaviajes.com.py.r.cm2.pW/mail.canadaviajes.com.py 1 https://mail.canadaviajes.com.py/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 376
+3.84.246.100 77 77 915669 20211003031642
+18.232.77.51 77 77 915078 20211020190746
+34.138.82.5 14 14 274330 20211014064353
+190.104.176.42 9 263 67320253 20211023135910
+177.250.103.133 7 236 41317978 20211013091714
+181.94.226.255 6 298 51242045 20211005135117
+143.255.143.46 6 266 55710526 20211010145947
+190.102.56.140 6 128 29407378 20211018135058
+40.124.105.177 5 5 66417 20211008120535
+177.250.201.217 5 199 35699152 20211013084813
+3.15.220.55 4 4 2768 20211031084805
+190.104.131.19 4 164 33040784 20211018113448
+181.238.146.33 4 176 36198977 20211006200300
+190.104.176.69 4 5 156821 20211018175733
+181.124.60.68 4 177 35892971 20211011185908
+186.139.155.14 4 165 33237300 20211011090638
+45.237.45.118 4 165 33256888 20211019063412
+92.118.160.57 4 4 401404 20211018200109
+45.229.170.174 4 165 33922845 20211011113749
+104.223.85.249 4 4 273130 20211006221843
+181.94.230.205 4 4 2768 20211030093833
+170.51.4.146 4 172 35689087 20211016113045
+181.40.126.106 4 164 33236437 20211014125143
+190.128.176.170 4 254 59264179 20211022183049
+139.47.65.107 4 162 33254536 20211006113726
+18.236.89.159 1 1 19595 20211017130447
+157.55.39.4 0 1 782 
+52.27.153.180 1 1 19595 20211010132211
+52.88.74.236 1 1 19595 20211003132639
+186.139.18.220 2 35 261867 20211013235526
+66.102.8.11 0 14 76113 
+157.55.39.136 0 3 13294 
+181.127.146.123 3 161 32965525 20211022163810
+54.193.132.195 1 2 128183 20211020211906
+54.190.100.192 1 1 19595 20211019132645
+176.113.43.186 1 1 19595 20211011060516
+34.214.186.104 1 1 19595 20211028132256
+52.33.146.57 1 1 19595 20211022131028
+190.128.197.46 1 1 19595 20211004090911
+44.234.41.199 1 1 19595 20211014132516
+34.219.207.183 1 1 19595 20211015131742
+54.200.9.134 1 1 19595 20211006131524
+190.160.236.231 0 1 317071 
+104.128.19.64 3 3 41948 20211011005546
+181.10.201.30 3 163 33236430 20211019124952
+34.220.153.204 1 1 19595 20211004132434
+49.12.196.160 1 1 19595 20211002063537
+34.222.163.81 1 1 19595 20211015131815
+190.112.171.42 3 166 33238359 20211018051855
+40.77.167.107 0 1 1803 
+45.90.62.131 1 1 19595 20211018060255
+34.242.220.182 1 1 19595 20211014035617
+181.120.99.170 3 149 30891469 20211019170718
+54.184.16.142 1 1 19595 20211027131637
+34.217.211.115 1 1 19595 20211010133653
+34.219.252.140 1 1 19595 20211016132710
+93.197.131.51 2 163 33242482 20211020064112
+34.77.162.27 1 1 100351 20211015142504
+186.158.132.154 0 1 251317 
+186.16.161.198 3 162 32993357 20211018093308
+190.104.131.45 1 10 227224 20211028205336
+181.124.181.62 0 1 378904 
+176.113.42.67 1 1 19595 20211015063957
+181.94.224.44 2 145 30017444 20211011113636
+157.55.39.11 0 3 8022 
+181.94.225.80 3 168 33245285 20211018115944
+52.25.53.38 1 1 692 20211031131506
+181.124.167.91 2 2 1384 20211031122915
+100.20.64.14 1 1 19595 20211022133154
+177.250.144.231 3 166 9835034 20211025152506
+34.217.43.11 1 1 19595 20211013133548
+34.86.35.8 1 1 36214 20211028204740
+54.218.97.51 1 1 692 20211031132742
+34.208.41.151 1 1 19595 20211011134028
+104.128.19.164 1 1 19595 20211011005522
+54.184.185.61 1 1 19595 20211007132522
+66.249.85.45 1 1 19595 20211013075524
+190.104.176.108 3 96 39677233 20211013075522
+190.104.112.168 0 1 378904 
+35.80.29.63 2 2 39190 20211023133235
+181.94.228.154 3 164 33237293 20211003193155
+190.128.230.66 2 161 33186818 20211029083857
+128.14.209.242 1 1 19595 20211022000309
+181.124.178.201 0 1 376981 
+52.36.128.17 1 1 19595 20211008132010
+107.150.57.34 1 1 19595 20211019200259
+40.77.167.28 0 1 575 
+35.84.191.125 1 1 19595 20211020133708
+190.128.222.162 0 1 240128 
+52.12.51.180 1 1 692 20211031132929
+34.222.39.156 1 1 19595 20211023133107
+181.121.192.24 3 149 30891469 20211022143020
+190.104.131.129 0 1 378904 
+54.190.230.162 1 1 19595 20211007132345
+181.122.43.178 3 162 32993357 20211022110603
+181.120.249.14 0 1 317071 
+200.108.191.221 0 1 317071 
+185.237.102.182 0 1 317071 
+38.128.156.62 1 1 19595 20211011005518
+34.220.3.120 1 1 19595 20211015131808
+34.221.221.109 1 1 19595 20211006131708
+157.55.39.26 0 1 3128 
+104.222.46.161 1 1 19595 20211011005529
+54.190.18.115 1 1 19595 20211022133019
+34.222.78.121 1 1 19595 20211025132843
+176.53.217.186 1 1 19595 20211017060443
+34.208.184.22 1 1 19595 20211001130126
+176.113.42.37 2 2 39190 20211012060507
+54.201.186.67 1 1 19595 20211017130500
+45.229.170.169 0 1 378904 
+34.221.135.155 1 1 19595 20211005133935
+34.221.157.108 1 1 19595 20211029132725
+190.237.22.251 0 1 317071 
+34.222.106.133 3 3 2076 20211031133305
+54.189.197.100 1 1 19595 20211021133047
+190.128.231.54 3 163 33236430 20211027060427
+34.77.162.16 1 1 100351 20211019041326
+66.249.88.128 1 18 638782 20211013075525
+170.51.52.31 3 148 30871650 20211015214528
+34.216.6.0 1 1 19595 20211024133419
+35.166.205.201 1 1 19595 20211008131947
+34.219.109.238 1 1 19595 20211014131907
+190.128.162.238 3 168 33441990 20211006141643
+186.111.152.166 3 168 33319283 20211018064824
+192.200.16.81 1 1 19595 20211011005518
+190.104.131.33 3 238 40079910 20211011204615
+181.121.9.139 0 1 317071 
+44.242.154.190 1 1 19595 20211010133734
+190.104.177.118 0 1 317071 
+181.94.226.117 0 5 1590049 
+92.118.160.41 1 1 1991 20211031200012
+34.219.18.179 1 1 19595 20211029132759
+170.51.49.22 1 3 1353235 20211016160124
+34.86.35.29 2 2 200702 20211012204209
+104.128.22.217 1 1 19595 20211007163806
+45.234.32.7 2 120 22523325 20211012223251
+181.120.38.163 0 1 273993 
+54.186.73.99 1 1 692 20211031131448
+176.113.43.128 1 1 19595 20211005060956
+89.104.110.171 1 1 19595 20211008060531
+181.94.224.35 1 1 19595 20211004134900
+185.237.102.190 0 4 1721425 
+52.37.46.8 1 1 19595 20211014132519
+190.104.176.23 3 162 32993357 20211022090849
+54.189.109.161 1 1 19595 20211002132332
+181.122.108.135 3 161 32965525 20211008202542
+192.99.18.136 1 1 19595 20211014135012
+192.99.18.122 1 1 19595 20211006145436
+54.245.219.52 1 1 19595 20211020133618
+181.94.230.201 3 160 32821319 20211005080416
+34.219.158.171 3 165 33293979 20211007174006
+54.212.241.87 1 1 19595 20211009134343
+34.212.168.48 1 1 19595 20211027133258
+34.219.145.122 1 1 19595 20211005133913
+138.186.60.26 3 166 33238359 20211006081743
+181.238.164.55 3 163 33236430 20211019135930
+18.236.118.7 1 1 19595 20211012131226
+89.104.110.105 1 1 19595 20211014060857
+35.160.233.228 1 1 19595 20211007132415
+190.234.172.28 0 3 1276767 
+34.209.132.68 1 1 19595 20211014135506
+34.96.130.9 1 1 100351 20211022193049
+201.217.59.194 2 162 33214650 20211001163204
+54.187.189.101 1 1 19595 20211017131407
+34.210.3.142 1 1 19595 20211014132445
+18.237.224.255 2 2 39190 20211016133715
+35.81.168.197 1 1 19595 20211014215650
+190.52.171.188 1 158 32739165 20211027080744
+66.102.8.13 1 13 51235 20211017124601
+186.16.204.126 1 158 32739165 20211001071016
+92.118.160.61 1 1 100351 20211002025245
+207.46.13.30 0 3 13311 
+181.94.232.20 0 1 229184 
+191.101.102.68 1 1 19595 20211002051651
+45.189.184.34 3 146 30870161 20211002083350
+18.237.224.252 1 1 19595 20211027131656
+18.236.85.209 1 1 19595 20211027131401
+45.237.47.241 3 161 32965525 20211010131829
+200.108.133.5 0 3 1050041 
+66.102.8.15 2 21 277321 20211017124601
+181.212.15.10 3 162 33208598 20211021142615
+181.120.235.71 0 1 376981 
+54.212.178.111 1 1 19595 20211021133208
+190.23.168.187 3 162 33208598 20211009080252
+66.249.88.155 0 10 70188 
+181.94.226.25 3 163 33236430 20211028134335
+92.118.160.13 1 1 36214 20211029171244
+54.200.38.172 1 1 19595 20211028132216
+104.128.17.213 1 1 19595 20211011005547
+190.17.129.162 0 1 317071 
+167.248.133.59 1 1 19595 20211029023637
+54.200.38.6 1 1 19595 20211010133218
+92.118.160.5 2 2 108130 20211030190256
+35.161.115.130 1 1 19595 20211029133451
+34.208.132.224 1 1 19595 20211029132103
+34.211.204.120 1 1 19595 20211023133137
+54.214.231.205 1 1 19595 20211004132512
+34.210.225.150 2 163 33242482 20211007163821
+54.190.49.24 1 1 19595 20211029132027
+34.219.131.121 1 1 19595 20211012130835
+181.122.5.93 3 163 33236430 20211009161909
+54.201.49.241 3 173 33297140 20211008023938
+52.26.207.35 1 1 19595 20211020133200
+190.128.234.122 3 163 33236430 20211004135312
+190.112.169.40 3 162 32993357 20211029085107
+114.119.150.149 1 1 0 20211022125232
+34.96.130.29 1 1 100351 20211012153324
+34.221.110.235 1 1 19595 20211006132535
+181.40.112.218 0 1 317071 
+54.200.28.142 1 1 19595 20211007141527
+193.47.59.122 1 1 19595 20211007060902
+181.124.185.198 2 153 32819233 20211023191135
+34.215.228.164 1 1 19595 20211027131439
+181.40.78.178 3 164 33237293 20211027070420
+38.128.156.45 1 1 11700 20211011005518
+181.94.221.230 3 163 33236430 20211008065233
+92.118.160.17 1 1 100351 20211009045140
+45.237.45.139 0 1 376981 
+34.221.37.172 1 1 19595 20211014135535
+200.105.45.219 2 130 21990985 20211008163527
+54.186.176.47 1 1 19595 20211023133133
+181.126.91.116 3 162 32993357 20211026161335
+34.222.223.49 1 1 19595 20211018131442
+77.74.177.119 1 1 19595 20211016020917
+109.191.198.125 2 2 39190 20211028062332
+176.113.43.106 1 1 19595 20211003064407
+3.98.90.239 1 1 0 20211006200550
+5.180.50.120 1 1 19595 20211002061041
+34.218.250.126 1 1 19595 20211028131902
+54.218.55.83 1 1 19595 20211029132736
+54.202.20.61 1 1 19595 20211021132016
+190.104.176.43 0 2 705006 
+45.72.48.130 1 1 19595 20211012121913
+34.221.134.200 1 1 19595 20211020133231
+52.33.211.179 1 1 19595 20211016132647
+34.218.45.212 1 1 19595 20211002132112
+104.128.19.3 1 1 19595 20211008023918
+89.104.110.2 1 1 19595 20211016060238
+34.220.225.61 1 1 19595 20211011133536
+185.180.143.148 1 1 19595 20211016040817
+34.86.35.4 1 1 100351 20211026073708
+34.220.44.178 1 1 692 20211031132953
+54.245.200.20 1 1 19595 20211024133056
+23.90.160.138 1 1 19595 20211027202222
+54.212.168.237 1 1 19595 20211024133353
+92.118.160.9 2 2 200702 20211029135054
+181.123.60.100 3 164 33264262 20211018113317
+207.46.13.176 0 2 18782 
+45.230.8.33 0 1 317071 
+191.156.47.149 0 1 378904 
+54.201.245.158 1 1 19595 20211027133339
+35.86.158.199 1 1 19595 20211021131958
+181.120.139.115 3 165 33265125 20211003193753
+54.189.80.163 1 1 19595 20211019132634
+54.189.196.110 1 1 19595 20211017131344
+45.131.93.126 1 1 19595 20211010060523
+181.94.226.3 2 316 65478330 20211027104316
+181.28.83.221 2 2 1384 20211031170249
+54.214.218.118 1 1 19595 20211024132932
+52.33.26.144 1 1 19595 20211009134325
+34.96.130.22 1 1 100351 20211005092208
+34.86.35.28 1 1 100351 20211019160719
+54.186.137.37 1 1 19595 20211003132604
+104.128.16.94 1 1 19595 20211007173939
+54.213.137.166 1 1 19595 20211025132834
+36.150.60.24 1 1 692 20211031012127
+3.23.89.101 1 1 19595 20211019001724
+181.175.10.179 1 158 32739165 20211019141648
+54.185.67.134 2 2 39190 20211010133734
+66.249.88.131 2 21 245449 20211013075525
+35.164.244.109 1 1 19595 20211025132857
+104.128.22.32 3 3 35522 20211011005534
+181.127.94.153 0 3 1072956 
+34.209.41.26 1 1 19595 20211026140510
+200.108.138.14 3 164 33237293 20211005143610
+54.189.48.146 1 1 19595 20211027131436
+34.222.2.144 1 1 19595 20211009132236
+34.220.68.68 1 1 19595 20211001130202
+52.40.185.170 1 1 19595 20211002135009
+44.242.135.250 1 1 19595 20211012131245
+181.124.181.185 3 163 33209461 20211006133715
+18.237.159.68 1 1 19595 20211012131214
+191.101.88.246 1 1 19595 20211001054618
+35.81.168.249 1 1 19595 20211027131711
+181.13.214.70 0 3 1929 
+181.94.227.224 1 111 19221189 20211024164913
+34.96.130.8 1 1 100351 20211008005358
+200.10.229.188 0 1 317071 
+35.165.43.125 1 1 19595 20211021132007
+181.122.200.58 3 163 33209461 20211013202019
+181.126.41.81 3 164 33237293 20211008133115
+54.187.187.130 1 1 19595 20211029132852
+190.104.148.119 2 161 33186818 20211014053429
+200.10.231.220 0 2 516891 
+44.242.172.215 1 1 692 20211031132717
+181.40.112.70 3 163 33236430 20211029092457
+40.77.167.27 0 1 20062 
+201.245.241.63 0 1 317071 
+181.94.227.34 0 1 338712 
+34.210.51.221 1 1 19595 20211026132326
+52.13.63.142 1 1 19595 20211010132226
+34.209.17.238 1 1 19595 20211029133518
+185.180.143.142 1 1 19595 20211001025433
+34.215.28.80 1 1 19595 20211022130939
+34.217.113.154 1 1 19595 20211015131554
+37.187.96.15 2 3 13103 20211031144846
+181.124.39.160 3 148 30871650 20211024162722
+176.113.42.70 1 1 19595 20211003090650
+13.40.15.230 1 1 0 20211009142918
+181.238.244.160 3 164 33237293 20211004162938
+121.5.226.36 2 2 39190 20211014041107
+54.183.134.49 1 2 128183 20211020211907
+104.128.19.160 3 3 41969 20211011005557
+34.220.128.62 1 1 19595 20211009132325
+66.249.85.43 1 2 298959 20211017124600
+104.128.17.199 1 1 19595 20211011005552
+181.94.229.145 3 164 33237293 20211018121122
+190.166.7.247 3 159 32964036 20211015171016
+54.200.153.12 1 1 19595 20211009132257
+35.81.82.125 1 1 19595 20211013133627
+54.70.96.170 1 1 19595 20211025132925
+190.128.222.38 3 165 33971963 20211008143059
+18.236.252.54 1 1 19595 20211005132513
+54.214.59.153 1 1 19595 20211011133623
+181.94.225.147 0 1 317071 
+35.165.73.148 2 2 39190 20211020133212
+18.237.234.122 2 2 39190 20211024133125
+49.158.103.72 3 161 32965525 20211005075017
+190.104.173.210 1 155 32735873 20211028145722
+176.113.42.217 1 1 19595 20211001061031
+34.223.3.44 1 1 19595 20211028131844
+181.122.62.20 3 150 28573942 20211012201147
+181.121.211.181 0 1 450135 
+34.222.227.67 1 1 19595 20211012131311
+52.34.250.49 2 2 39190 20211018131313
+181.36.9.58 3 149 30899482 20211001163327
+34.217.54.204 1 1 19595 20211005132408
+179.109.102.2 3 162 32993357 20211014084543
+181.124.178.222 0 1 376981 
+186.12.60.93 3 162 32993357 20211014233733
+54.214.162.0 1 1 19595 20211012130846
+193.186.4.9 1 1 19595 20211018162149
+176.113.43.129 1 1 19595 20211001054616
+181.124.2.71 3 164 33553501 20211008162515
+54.188.192.167 1 1 19595 20211002135036
+200.126.197.38 0 1 317071 
+190.128.131.190 3 163 33236430 20211026054151
+92.118.160.1 1 1 100351 20211022162210
+177.251.130.69 0 1 317071 
+54.187.146.204 1 1 19595 20211007141555
+34.217.92.173 1 1 692 20211031133349
+52.37.241.130 1 1 19595 20211029132745
+181.118.176.3 0 1 317071 
+45.90.60.192 1 1 19595 20211013075319
+35.86.222.233 1 1 19595 20211029132100
+181.46.137.187 3 151 31209191 20211022214008
+181.94.226.83 3 162 32993357 20211028131019
+54.200.109.21 1 1 19595 20211018132628
+45.228.60.142 3 162 33208598 20211029080046
+34.217.106.33 1 1 19595 20211028132253
+45.228.62.253 2 97 27317048 20211002105117
+177.250.0.46 3 163 33209461 20211025093353
+181.122.203.211 0 1 317071 
+190.104.176.90 1 1 692 20211031192532
+176.113.43.112 1 1 19595 20211004121532
+181.45.80.195 3 156 32402397 20211015075327
+34.219.240.176 2 2 39190 20211016133643
+190.183.80.71 0 1 317071 
+191.156.47.28 4 98 8769793 20211023135917
+34.222.127.247 1 1 19595 20211021131933
+176.113.42.15 1 1 19595 20211009060510
+34.219.126.41 1 1 19595 20211026140453
+190.128.233.46 2 198 40347372 20211004100250
+34.216.109.17 1 1 19595 20211011134158
+52.41.165.227 1 1 19595 20211018132659
+170.51.51.172 1 2 686415 20211018120904
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20211001 12 476 97349771 9
+20211002 13 253 59120700 10
+20211003 87 410 67496467 7
+20211004 13 533 107827205 9
+20211005 21 792 151537464 10
+20211006 27 846 170031499 13
+20211007 21 356 66978214 13
+20211008 30 1137 223541390 13
+20211009 15 334 66763300 11
+20211010 17 440 90548940 10
+20211011 38 912 173814225 21
+20211012 15 282 52000984 12
+20211013 27 783 151477854 11
+20211014 31 668 132782274 17
+20211015 21 515 106407390 11
+20211016 14 185 37595658 9
+20211017 11 57 639870 9
+20211018 43 1466 297636815 20
+20211019 17 647 131771212 11
+20211020 88 409 67587732 10
+20211021 9 174 35564484 7
+20211022 28 1051 221860293 15
+20211023 16 480 100967637 8
+20211024 10 267 50778797 7
+20211025 10 335 43757017 6
+20211026 10 330 66767827 6
+20211027 18 654 132388131 14
+20211028 15 500 100623435 11
+20211029 24 661 132977313 17
+20211030 5 5 10547 2
+20211031 23 24 28934 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 8
+15mn-30mn 1
+5mn-15mn 11
+30mn-1h 4
+1h+ 2
+30s-2mn 22
+0s-30s 296
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 530 11097364 326 248
+/fonts/fontawesome-webfont.woff2 86 6558600 1 12
+/fonts/Linearicons-Free.woff2 74 1589940 0 58
+/cgi-sys/suspendedpage.cgi 28 27762 17 17
+/img/descubripaises/ca/ca.html 4 11116 0 4
+/.env 2 23412 0 0
+/fonts/fontawesome-webfont.woff 2 196048 0 2
+/php/form-modal.php 1 7 0 1
+/img/descubripaises/ce/ce.html 1 2758 0 1
+/php/form-process.php 1 7 0 1
+END_SIDER

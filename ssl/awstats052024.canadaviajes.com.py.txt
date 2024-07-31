@@ -1,0 +1,1744 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home2/canadavi/tmp/awstats/ssl/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2704                
+POS_VISITOR 51104               
+POS_DAY 69492               
+POS_DOMAIN 3664                
+POS_LOGIN 4458                
+POS_ROBOT 4613                
+POS_WORMS 5582                
+POS_EMAILSENDER 5713                
+POS_EMAILRECEIVER 5856                
+POS_SESSION 70414               
+POS_SIDER 70623               
+POS_FILETYPES 5991                
+POS_DOWNLOADS 6300                
+POS_OS 6513                
+POS_BROWSER 7007                
+POS_SCREENSIZE 9608                
+POS_UNKNOWNREFERER 9682                
+POS_UNKNOWNREFERERBROWSER 10785               
+POS_ORIGIN 11453               
+POS_SEREFERRALS 11599               
+POS_PAGEREFS 11914               
+POS_SEARCHWORDS 12301               
+POS_KEYWORDS 12453               
+POS_MISC 2368                
+POS_ERRORS 12512               
+POS_CLUSTER 4314                
+POS_SIDER_404 12724               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601000139 506 113034 11965082621875
+FirstTime 20240501005748
+LastTime 20240531233537
+LastUpdate 20240601071319 506 0 505 0 0
+TotalVisits 473                 
+TotalUnique 421                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 471                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 2 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 34 395 69692464 65 235 7783956
+1 30 631 121400178 77 428 7848160
+2 48 685 133751938 110 343 8619984
+3 24 24 628565 52 214 4719718
+4 18 218 35643162 57 171 9278450
+5 22 187 33543250 79 213 3950571
+6 18 356 68068160 62 307 5389128
+7 52 1129 213023144 113 380 9766066
+8 26 654 122474892 58 286 11451275
+9 75 2069 385910337 108 565 12794541
+10 37 878 175373633 213 838 53208086
+11 27 455 103827391 73 353 11015083
+12 24 508 104047321 239 623 13036018
+13 42 1484 300220047 87 245 6836088
+14 26 828 159526815 61 244 5142852
+15 67 1397 291915127 59 250 6496314
+16 22 419 56108064 37 130 7280406
+17 33 226 36340961 76 239 7940701
+18 32 845 166578741 73 231 7471626
+19 48 1688 326072010 76 320 7501124
+20 28 573 114124021 76 384 9512360
+21 34 869 166743436 70 251 10422681
+22 25 186 33909677 188 264 4676993
+23 43 45 1473285 41 144 7298624
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 35
+us 305 2644 449632709
+ar 88 4356 891977350
+cn 75 2196 435999936
+py 68 3065 601109405
+ca 66 972 193712262
+fr 31 31 3110881
+vn 22 22 496294
+in 20 338 66400728
+br 18 772 146740493
+ru 17 258 37504191
+de 14 269 56205907
+nl 12 12 190766
+cr 11 498 99971931
+se 10 16 362942
+sc 10 10 135071
+bg 10 11 879128
+ma 8 298 50611880
+tr 6 325 66445028
+cw 6 6 112386
+uy 5 171 33251337
+pa 5 5 237258
+eg 5 5 78380
+es 4 4 61833
+cl 4 4 73196
+ro 4 4 220297
+ie 0 1 855728
+jo 3 163 33236430
+ch 2 161 32971577
+be 1 125 16898693
+id 1 1 37691
+sv 0 1 378904
+gr 1 1 100351
+mx 0 1 336871
+gb 2 2 39190
+eu 1 1 19595
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+Googlebot/ 2498 51779008 20240531224420 0
+Googlebot\-Image/ 470 84892179 20240531180529 0
+bingbot/ 412 23717015 20240531103409 0
+bot[\s_+:,\.\;\/\\-] 265 4717792 20240527022012 0
+PhantomJS 161 33207682 20240510100715 0
+Applebot/ 141 3651715 20240528012657 0
+facebookexternalhit/ 118 16483739 20240531180259 0
+no_user_agent 43 3939109 20240531210736 0
+yandex 38 357991 20240526061318 0
+nutch 29 114364 20240509022341 0
+Konqueror/ 10 155864 20240522174020 0
+unknown 9 182 20240522173919 9
+Go\-http\-client/ 9 117423 20240521114811 0
+seek 7 452837 20240511171503 0
+YandexBot/ 6 117570 20240530124901 0
+Velen 5 93291 20240523174934 0
+yak 3 55579 20240524070925 0
+crawl 3 139541 20240522001724 0
+CFNetwork 1 27832 20240514214048 0
+curl 1 100351 20240521114508 0
+2345Explorer/ 1 19595 20240507202348 0
+YandexImages/ 1 317071 20240507052558 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jpg 9480 3050952941 0 0
+gif 205 66183275 0 0
+php 2 19622 0 0
+js 2263 17174317 0 0
+pdf 32 10558310 0 0
+png 2620 39107860 0 0
+css 1314 7168862 0 0
+html 672 20455361 0 0
+woff2 150 8340180 0 0
+woff 4 209416 0 0
+Unknown 5 60927 0 0
+ttf 2 165548 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/img/visa/imm5257e2.pdf 19 0 12669580
+/img/visa/requisitosvisaaustralia.pdf 18 0 3361752
+/img/visa/imm5645e.pdf 16 0 1099408
+/img/visa/nuevazelanda.pdf 15 0 4959300
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 29
+macosx14 2 2
+macosx7 3 1
+macosx13 32 31
+macosx12 2 1
+ios_iphone 1623 41
+winxp 7 7
+macosx 64 23
+androidpie 1 1
+androidmarshmallow 1928 25
+android10 3673 86
+androidhoneycomb 1 1
+win10 6579 307
+winunknown 3 3
+win8 7 7
+macosx10 1 0
+linux 1069 51
+androidnougat 243 9
+winlong 2 2
+androidkitkat 9 9
+win8.1 5 5
+win7 17 17
+macosx9 1 1
+androidoreo 194 3
+linuxubuntu 4 4
+winnt 1 1
+Unknown 907 113
+android 9 4
+macosx15 352 70
+win2000 10 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 125
+chrome86.0.1647 1 1
+chrome60.0.3112.113 3 3
+firefox52.8.1 1 1
+chrome120.0.0.0 360 17
+netscape 1 1
+safari5.0.2 1 1
+chrome30.0.1599.101 1 1
+chrome49.0.2567.0 1 1
+chrome80.0.3987.162 1 1
+safari15.6.6 162 4
+firefox63.0 1 1
+chrome66.0.3359.117 3 3
+firefox52.6.0 1 1
+firefox50.0.2 1 1
+chrome96.0.4664.110 30 20
+chrome98.0.4758.80 2 2
+chrome88.0.4324.192 2 2
+chrome87.0.4280.88 236 5
+firefox111.0 2 2
+safari12.1.2 1 0
+chrome109.0.0.0 164 3
+firefox47.0 3 3
+firefox114.0 17 17
+firefox125.0 327 5
+chrome17.0.963.56 3 1
+chrome92.0.4515.131 1 1
+firefox123 1 1
+firefox77.0 1 1
+chrome124.0.6367.179 2 0
+chrome88.0.4324.41 1 1
+safari16.1 162 3
+chrome108.0.0.0 1 1
+safari16.6 1 0
+opera51.0.2830.55 1 0
+chrome70.0.3538.77 1 1
+chrome86.0.1010 1 0
+mozilla 654 34
+chrome74.0.3729.169 22 22
+chrome124.0.6367.118 2 1
+chrome121.0.0.0 509 50
+chrome104.0.5112.101 476 6
+chrome119.0.0.0 66 3
+chrome63.0.3239.132 1 1
+chrome14.0.835.186 1 1
+msie11.0 24 24
+chrome67.0.3396.87 1 0
+Unknown 257 83
+android 10 10
+safari16.3 165 5
+chrome118.0.0.0 5 5
+firefox11.0 2 2
+firefox50.0 1 0
+chrome59.0.3071.125 94 6
+chrome117.0.0.0 1 1
+firefox20.0 1 1
+chrome50.0.2661.102 3 3
+chrome124.0.6367.201 1 0
+firefox66.0 1 1
+chrome19.0.1061.1 1 1
+chrome124.0.6367.159 1 0
+chrome44.0.2403.157 2 2
+chrome110.0.0.0 2 2
+chrome94.0.4590.2 147 2
+firefox38.9 1 1
+chrome65.0.3325.162 1 1
+chrome124.0.6367.204 5 0
+safari5.0 1 1
+opera89.0.4447.51 8 8
+chrome125.0.0.0 2125 42
+msie7.0 5 5
+chrome105.0.0.0 14 8
+chrome99.0.4859.172 1 1
+opera53.0.2907.68 1 1
+chrome100.0.4896.127 5 5
+firefox55.0.1 1 0
+chrome122.0.0.0 7 7
+firefox123.0 2 2
+safari17.0 6 6
+chrome121.0.6167.85 161 2
+chrome103.0.0.0 1 1
+edge44 9 9
+opera56.0.3051.36 1 1
+firefox53.0.2 1 0
+chrome76.0.3809.89 1 1
+firefox52.7.4 1 1
+safari11.0 154 2
+firefox52.7.0 1 0
+netscape5.0 2 2
+opera55.0.2994.44 1 0
+chrome114.0.0.0 51 51
+opera10.00 1 1
+chrome89.0.4389.114 16 8
+firebird 10 10
+chrome66.0.3359.181 8 8
+chrome91.0.4472.114 4 4
+chrome116.0.0.0 163 4
+safari17.4.1 728 13
+chrome64.0.3282.119 1 1
+chrome53.0.2785.104 1 1
+chrome113.0.0.0 1 1
+firefox122.0 1 1
+chrome78.0.3904.108 2 2
+safari10.0 1 1
+chrome75.0.3770.100 30 30
+chrome58.0.3029.110 1 1
+msie10.0 1 1
+chrome124.0.0.0 6619 154
+firefox56.0.2 1 0
+chrome125.0.6422.65 1 0
+chrome124.0.6367.123 3 0
+safari 380 8
+chrome84.0.4147.105 4 4
+chrome42.0.2311.152 1 1
+chrome76.0.3809 1 1
+chrome106.0.0.0 6 6
+chrome39.0.2146.0 1 1
+chrome112.0.5615.136 1 1
+firefox115.0 171 5
+chrome99.0.4844.51 1924 24
+msie8.0 4 4
+firefox126.0 140 2
+chrome115.0.0.0 1 1
+chrome60.0.3112.107 2 1
+msie9.0 4 4
+opera54.0.2952.64 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+cortex/1.0 20240529101308
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240522022706
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240531194131
+WordPress/6.4.1;_https://www.isitwp.com 20240510100711
+Mozilla/5.0_zgrab/0.x 20240523034303
+d 20240531024320
+Mozilla/4.0_(compatible;_ms-office;_MSOffice_16) 20240520133233
+i 20240531025343
+WhatsApp/2.23.20.0 20240501162908
+o 20240531025242
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240520131307
+a 20240531024109
+undici 20240531155018
+WhatsApp/2.2417.4_W 20240510094843
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/499;_U;_ru)_Presto/2.4.18_Version/10.00 20240506120513
+Mozilla/5.0_(compatible;_ips-agent) 20240518072904
+p 20240531024752
+Mozilla/5.0_(compatible;_woorankreview/2.0;__https://www.woorank.com/) 20240503015856
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+undici 20240531155018
+WhatsApp/2.2417.4_W 20240510094843
+p 20240531024752
+o 20240531025242
+WhatsApp/2.23.20.0 20240501162908
+i 20240531025343
+a 20240531024109
+Microsoft_Office_Excel_2014 20240526181957
+WordPress/6.4.1;_https://www.isitwp.com 20240510100711
+d 20240531024320
+cortex/1.0 20240529101308
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240531194131
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 453 729
+From1 0 0
+From2 84 102
+From3 14 808
+From4 284 15110
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 10
+search 1 1
+duckduckgo 1 1
+yandexcom 0 1
+www_google_com 60 71
+google_com 9 14
+www_google_com_br 2 2
+www_google_com_py 4 5
+baidu 2 2
+www_bing_com 2 2
+www_google_com_ar 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://mail.canadaviajes.com.py 7 7
+https://mail.canadaviajes.com.py/css/font-awesome.min.css 5 5
+https://www.balustrady.net 1 1
+https://l.wl.co 1 1
+https://mail.canadaviajes.com.py/css/main.css 0 10
+https://mail.canadaviajes.com.py 0 784
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+301 6 1436
+404 3010 14425175
+409 44 3652
+206 7 197080
+403 2 6217
+503 36 0
+421 1 322
+406 163 36838
+401 18 715
+400 54 2496
+500 49 309092
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 719
+/wp-content/plugins/WordPressCore/include.php 1 -
+/wp-includes/js/tinymce/langs/class.api.php 1 -
+/wp-includes/blocks/post-template/class.api.php 1 -
+/phpMyAdmin3/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin3/index.php
+/phpMyAdmin6/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin6/index.php
+/dbadmin/index.php 1 http://www.canadaviajes.com.py/dbadmin/index.php
+/plugins/jquery-file-upload/server/php/ 1 -
+/axis2/axis2-admin/ 2 -
+/web2015/html/inicio.htm 16 -
+/admin/index.php 1 http://www.canadaviajes.com.py/admin/index.php
+/phpmy-admin/index.php 1 http://www.canadaviajes.com.py/phpmy-admin/index.php
+/wp-includes/blocks/rss/index.php 1 -
+/wp-includes/css/dist/list-reusable-blocks/class.api.php 1 -
+/wp-includes/wp-cron.php 2 www.google.com
+/phpMyAdmin-5.2/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.2/index.php
+/wp-includes/fonts/class.api.php 1 -
+/img/galeria/bolivia/bolivia.jpg 9 https://www.canadaviajes.com.py/deu/
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/wp-admin/css/colors/ocean/index.php 1 -
+/_phpmyadmin_/index.php 1 http://www.canadaviajes.com.py/_phpmyadmin_/index.php
+/wp-includes/Requests/Response/index.php 1 -
+/jquery.magnific-popup.min.js 8 -
+/test/ 1 -
+/wp-includes/Requests/Transport/index.php 1 -
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.svg 1 -
+/xmlrpc.php 2 -
+/wp-includes/blocks/query/index.php 1 -
+/wp-includes/customize/class.api.php 1 -
+/img/toursdestacados/puntacatd/puntacanafeb.jpg 7 https://www.canadaviajes.com.py/deu/
+/img/galeria/southafrica/southafrica.jpg 9 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunotrassg2.jpg 9 -
+/wp-includes/images/wlw/class.api.php 1 -
+/wp-admin/images/class.api.php 1 -
+/wp-includes/blocks/button/class.api.php 1 -
+/wp-admin/css/colors/blue/class.api.php 1 -
+/wp-includes/blocks/post-terms/class.api.php 1 -
+/phpMyadmin/index.php 1 http://www.canadaviajes.com.py/phpMyadmin/index.php
+/wp-includes/blocks/table/class.api.php 1 -
+/wp-includes/SimplePie/XML/Declaration/class.api.php 1 -
+/img/salidasgarantizadas/cancun-sg/cancundeciembre.jpg 9 -
+/database/index.php 1 http://www.canadaviajes.com.py/database/index.php
+/wp-includes/blocks/legacy-widget/index.php 1 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/img/descubripaises/ca/pages/1-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+/wp-includes/blocks/gallery/class.api.php 1 -
+/wp-content/themes/twentystd/ 1 -
+/wp-content/plugins/uncode-core/includes/assets/js/uncode-featured-images.js 1 -
+/wp-content/themes/class.api.php 1 -
+/wp-includes/Requests/Auth/class.api.php 1 -
+/nivo-lightbox.js 8 -
+/jquery-min.js 8 -
+/wp-includes/js/dist/index.php 1 -
+/.git/ 1 -
+/media/system/js/core.js 1 http://canadaviajes.com.py/media/system/js/core.js
+/wp-includes/blocks/quote/class.api.php 1 -
+/bk 22 http://mail.canadaviajes.com.py/bk
+/wp-includes/customize/index.php 1 -
+/wp-includes/blocks/embed/index.php 1 -
+/wp-includes/blocks/post-title/class.api.php 1 -
+/old/wp-json/wp/v2/users 2 -
+/wp-includes/images/crystal/index.php 1 -
+/wp-includes/SimplePie/class.api.php 1 -
+/img/salidasgarantizadas/brasil-sg/salvadorbahia.jpg 8 -
+/admin/filemanager/dialog.php 1 -
+/mysql/db/index.php 1 http://www.canadaviajes.com.py/mysql/db/index.php
+/wp-admin/css/colors/index.php 1 -
+/wp-json/wp/v2/users 4 https://www.google.com
+/wp-content/wp-term.php 1 https://www.google.com
+/wp-includes/css/dist/list-reusable-blocks/index.php 1 -
+/img/salidasgarantizadas/brasil-sg/barasil0.jpg 12 -
+/_phpmyadmin/index.php 1 http://www.canadaviajes.com.py/_phpmyadmin/index.php
+/wp-content/upgrade/index.php 1 -
+/img/toursdestacados/argentinatd/ushtd.jpg 11 -
+/img/toursdestacados/puntacatd/pujfeb.jpg 7 https://www.canadaviajes.com.py/deu/
+/wp-includes/SimplePie/Net/class.api.php 1 -
+/cgi-bin/index.php 1 -
+/_phpMyAdmin/index.php 1 http://www.canadaviajes.com.py/_phpMyAdmin/index.php
+/temp/ 1 -
+/img/galeria/cuba/cuba2.jpg 5 http://www.canadaviajes.com.py/img/galeria/cuba/cuba2.jpg
+/wp-includes/certificates/class.api.php 1 -
+/db/dbweb/index.php 1 http://www.canadaviajes.com.py/db/dbweb/index.php
+/admin/phpMyAdmin/index.php 1 http://www.canadaviajes.com.py/admin/phpMyAdmin/index.php
+/wp-includes/blocks/site-tagline/class.api.php 1 -
+/wp-includes/blocks/text-columns/class.api.php 1 -
+/wp-includes/blocks/video/class.api.php 1 -
+/wp-includes/blocks/verse/class.api.php 1 -
+/img/sujetoadisponibilidad/europa/europa2.jpg 9 -
+/TywdYFQSK5tbWpRw/rbg9YeQuMftpdciQ 1 -
+/style.php 2 -
+/wp-includes/blocks/site-title/index.php 1 -
+/wp-includes/blocks/media-text/index.php 1 -
+/wp-includes/blocks/missing/class.api.php 1 -
+/phpMyAdmin/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin/index.php
+/shopdb/index.php 1 http://www.canadaviajes.com.py/shopdb/index.php
+/1phpmyadmin/index.php 1 http://www.canadaviajes.com.py/1phpmyadmin/index.php
+/wp-includes/js/jquery/index.php 1 -
+/wp-content/languages/index.php 1 -
+/wp-includes/Text/Diff/Renderer/index.php 1 -
+/form-validator.min.js 8 -
+/wp-admin/css/ 1 binance.com
+/wp-includes/blocks/spacer/index.php 1 -
+/admin/phpmyadmin/index.php 1 http://www.canadaviajes.com.py/admin/phpmyadmin/index.php
+/wp-includes/blocks/audio/index.php 1 -
+/img/galeria/cuba/cuba.jpg 9 https://www.canadaviajes.com.py/deu/
+/wordpress 22 http://mail.canadaviajes.com.py/wordpress
+/img/descubripaises/ce/pages/4-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/en/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 2 -
+/inputs.php 2 www.google.com
+/mailto:info@canadaviajes.com.py 2 http://www.canadaviajes.com.py
+/assets/backend/plugins/jquery-file-upload/server/php/ 1 -
+/admin/web/index.php 1 http://www.canadaviajes.com.py/admin/web/index.php
+/wp-includes/blocks/group/class.api.php 1 -
+/img/toursdestacados/europatd/europavacacionestd.jpg 114 https://www.canadaviajes.com.py/
+/img/salidasgarantizadas/otrasplayas-sg/sanandresotrasg.jpg 9 -
+/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%c3%b1o.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg
+/deu/img/sujetoadisponibilidad/caribe/SAMANA.jpg 4 -
+/wp-includes/css/dist/widgets/class.api.php 1 -
+/meta.json 7 -
+/wp-includes/blocks/query-pagination-numbers/class.api.php 1 -
+/wp-includes/blocks/legacy-widget/class.api.php 1 -
+/phpMyAdmin-latest/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-latest/index.php
+/wp-includes/blocks/post-content/index.php 1 -
+/wp-includes/blocks/gallery/index.php 1 -
+/wp-admin/css/colors/modern/class.api.php 1 -
+/%20595981602583 2 -
+/assets/jquery-file-upload/server/php/ 1 -
+/img/galeria/otawa/otawa.jpg 9 https://www.canadaviajes.com.py/deu/
+/wp-includes/css/class.api.php 1 -
+/img/salidasgarantizadas/argentina-sg/gar1.jpg 122 https://www.canadaviajes.com.py/
+/wp-json/litespeed/v1/cdn_status 5 -
+/phpMyAdmin-4.9.7/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-4.9.7/index.php
+/scripts/filemanager/dialog.php 1 -
+/phpMyAdmin-5.1.0/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.1.0/index.php
+/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 10 https://www.canadaviajes.com.py/deu/
+/db/phpmyadmin5/index.php 1 http://www.canadaviajes.com.py/db/phpmyadmin5/index.php
+/wp-includes/SimplePie/Cache/class.api.php 1 -
+/wp-includes/blocks/query-pagination/class.api.php 1 -
+/wp-content/plugins/class.api.php 1 -
+/bc 22 http://mail.canadaviajes.com.py/bc
+/wp-includes/blocks/latest-posts/class.api.php 1 -
+/phpmyadmin2020/index.php 1 http://www.canadaviajes.com.py/phpmyadmin2020/index.php
+/simple.php 2 www.google.com
+/wp-includes/blocks/site-logo/index.php 1 -
+/wp-includes/js/plupload/index.php 1 -
+/sqlmanager/index.php 1 http://www.canadaviajes.com.py/sqlmanager/index.php
+/phpMyAdmin-5.2.1/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.2.1/index.php
+/img/galeria/japon/japon2.jpg 1 http://www.canadaviajes.com.py/img/galeria/japon/japon2.jpg
+/sql/sql-admin/index.php 1 http://www.canadaviajes.com.py/sql/sql-admin/index.php
+/wp-includes/js/tinymce/plugins/charmap/class.api.php 1 -
+/Agradecemos 3 -
+/img/sujetoadisponibilidad/caribe/SanAndrestodoela%c3%b1o.jpg 1 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg
+/wp-includes/css/buttons.css 1 http://canadaviajes.com.py/wp-includes/css/buttons.css
+/wp-includes/Requests/Exception/class.api.php 1 -
+/wp-includes/blocks/post-title/index.php 1 -
+/wp-includes/Text/Diff/Engine/index.php 1 -
+/wp-includes/blocks/html/index.php 1 -
+/wp-includes/Requests/Proxy/index.php 1 -
+/images/index.php 1 -
+/wp-includes/Requests/Exception/index.php 1 -
+/wp-includes/SimplePie/HTTP/index.php 1 -
+/wp-includes/blocks/table/index.php 1 -
+/wp-includes/css/dist/customize-widgets/index.php 1 -
+/wp-includes/blocks/freeform/class.api.php 1 -
+/wp-login.php 11 -
+/db/phpmyadmin/index.php 1 http://www.canadaviajes.com.py/db/phpmyadmin/index.php
+/wp-includes/images/class.api.php 1 -
+/wp-admin/css/colors/midnight/class.api.php 1 -
+/phpmyadmin5/index.php 1 http://www.canadaviajes.com.py/phpmyadmin5/index.php
+/img/salidasgarantizadas/brasilbus-sg/CAMBOIUTERRESTRE.jpg 9 -
+/wp-includes/blocks/more/class.api.php 1 -
+/db/phpMyAdmin-3/index.php 1 http://www.canadaviajes.com.py/db/phpMyAdmin-3/index.php
+/wp-includes/blocks/categories/class.api.php 1 -
+/wp-includes/Requests/Utility/index.php 1 -
+/img/toursdestacados/perutd/perutd2.jpg 8 https://www.canadaviajes.com.py/deu/
+/mysql/pMA/index.php 1 http://www.canadaviajes.com.py/mysql/pMA/index.php
+/wp-includes/blocks/button/index.php 1 -
+/wp-includes/blocks/query-pagination-numbers/index.php 1 -
+/jquery.nav.js 8 -
+/wp-includes/SimplePie/Cache/index.php 1 -
+/img/toursdestacados/puntacatd/punfeb.jpg 7 https://www.canadaviajes.com.py/deu/
+/wp-includes/blocks/social-links/index.php 1 -
+/wp-admin/css/colors/midnight/index.php 1 -
+/wp-includes/Requests/Exception/HTTP/class.api.php 1 -
+/css/nivo-lightbox/loading@2x.gif 2 https://www.canadaviajes.com.py/css/nivo-lightbox/lightbox-theme.css
+/wp-includes/js/mediaelement/index.php 1 -
+/wp-includes/css/dist/format-library/class.api.php 1 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/sellers.json 2 -
+/wp-includes/SimplePie/Content/Type/index.php 1 -
+/wp-includes/PHPMailer/index.php 1 -
+/.vscode/sftp.json 1 -
+/img/toursdestacados/puntacatd/pujfebrero.jpg 7 https://www.canadaviajes.com.py/deu/
+/sql/phpMyAdmin/index.php 1 http://www.canadaviajes.com.py/sql/phpMyAdmin/index.php
+/img/salidasgarantizadas/otrasplayas-sg/arubaenero2019.jpg 9 -
+/wp-includes/js/jquery/ui/index.php 1 -
+/img/galeria/southafrica/southafrica2.jpg 5 http://www.canadaviajes.com.py/img/galeria/southafrica/southafrica2.jpg
+/wp-includes/blocks/quote/index.php 1 -
+/new 22 http://mail.canadaviajes.com.py/new
+/apple-touch-icon-precomposed.png 1 -
+/tinymce/filemanager/dialog.php 1 -
+/db/index.php 1 http://www.canadaviajes.com.py/db/index.php
+/wp-includes/blocks/latest-comments/class.api.php 1 -
+/chosen.php 1 -
+/wp-admin/user/index.php 1 -
+/manager/assets/modext/license.txt 1 -
+/wp-includes/certificates/index.php 1 -
+/sql/phpmy-admin/index.php 1 http://www.canadaviajes.com.py/sql/phpmy-admin/index.php
+/wp-admin/css/colors/ectoplasm/index.php 1 -
+/mysqlmanager/index.php 1 http://www.canadaviajes.com.py/mysqlmanager/index.php
+/img/toursdestacados/puntacatd/puntanatd2.jpg 7 https://www.canadaviajes.com.py/deu/
+/wp-admin/js/widgets/class.api.php 1 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-includes/index.php 1 -
+/wp-includes/js/swfupload/class.api.php 1 -
+/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php 1 http://www.canadaviajes.com.py/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
+/wp-includes/js/imgareaselect/class.api.php 1 -
+/wp-includes/blocks/site-logo/class.api.php 1 -
+/wp-includes/block-supports/index.php 1 -
+/wp-includes/blocks/social-link/index.php 1 -
+/phpmyAdmin/index.php 1 http://www.canadaviajes.com.py/phpmyAdmin/index.php
+/en/+595981602583 42 https://www.canadaviajes.com.py/
+/contact 1 https://canadaviajes.com.py/contact
+/ads.txt 4 -
+/wp-admin/css/colors/coffee/class.api.php 1 -
+/assets/kcfinder/upload.php 1 -
+/deu/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 6 -
+/wp-includes/blocks/calendar/index.php 1 -
+/assets/elfinder/elfinder.html 1 -
+/wp-includes/blocks/pullquote/class.api.php 1 -
+/js/jquery-file-upload/server/php/ 1 -
+/phpMyAdmin-5.1.3/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.1.3/index.php
+/img/toursdestacados/puntacatd/pujene.jpg 7 https://www.canadaviajes.com.py/deu/
+/img/galeria/japon/japon4.jpg 5 http://www.canadaviajes.com.py/img/galeria/japon/japon4.jpg
+/db/webdb/index.php 1 http://www.canadaviajes.com.py/db/webdb/index.php
+/app-ads.txt 2 -
+/deu/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 8 -
+/wp-includes/js/mediaelement/renderers/class.api.php 1 -
+/assets/js/kcfinder/upload.php 1 -
+/wp-includes/Requests/Auth/index.php 1 -
+/wp-includes/js/mediaelement/renderers/index.php 1 -
+/mysql/web/index.php 1 http://www.canadaviajes.com.py/mysql/web/index.php
+/wp-includes/blocks/archives/class.api.php 1 -
+/new/ 1 -
+/filemanager/dialog.php 1 -
+/wp-includes/blocks/class.api.php 1 -
+/html/Congreso/pdf/PROGRAMA%20DEL%20CONGRESO%20INTERNACIONAL%20SANTA%20GERTRUDIS%202015%20en%20Castellano%20e%20Ingles%2022%20dic%202014.pdf 1 -
+/wp-includes/blocks/post-date/class.api.php 1 -
+/wp-includes/ID3/index.php 1 -
+/en/%2B595981602583 1 https://google.com
+/wp-includes/blocks/embed/class.api.php 1 -
+/img/sujetoadisponibilidad/brasil/brasil1.jpg 9 -
+/wp-content/plugins/wp-term.php 1 https://www.google.com
+/wp-includes/blocks/page-list/class.api.php 1 -
+/wp-includes/Text/Diff/index.php 1 -
+/img/sujetoadisponibilidad/canada/rockymountaineer.jpg 9 -
+/wp-includes/js/jcrop/class.api.php 1 -
+/wp-includes/Text/Diff/Engine/class.api.php 1 -
+/phpmyadmin3/index.php 1 http://www.canadaviajes.com.py/phpmyadmin3/index.php
+/phpmyadmin6/index.php 1 http://www.canadaviajes.com.py/phpmyadmin6/index.php
+/wp-includes/blocks/site-title/class.api.php 1 -
+/wp-admin/css/colors/ocean/class.api.php 1 -
+/wp-includes/blocks/shortcode/index.php 1 -
+/wp-includes/IXR/index.php 1 -
+/phpMyAdmin5/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin5/index.php
+/wp-includes/js/imgareaselect/index.php 1 -
+/phpMyAdmin-latest-all-languages/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-latest-all-languages/index.php
+/wp-includes/blocks/latest-comments/index.php 1 -
+/wp-includes/blocks/site-tagline/index.php 1 -
+/wp-includes/js/class.api.php 1 -
+/phpMyAdmin6.0/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin6.0/index.php
+/wp-admin/user/class.api.php 1 -
+/wp-includes/blocks/categories/index.php 1 -
+/img/salidasgarantizadas/argentina-sg/gar2.jpg 124 https://www.canadaviajes.com.py/
+/data/admin/allowurl.txt 1 -
+/wp-includes/assets/index.php 1 -
+/sql/myadmin/index.php 1 http://www.canadaviajes.com.py/sql/myadmin/index.php
+/sql/phpmyadmin5/index.php 1 http://www.canadaviajes.com.py/sql/phpmyadmin5/index.php
+/wp-includes/js/crop/index.php 1 -
+/wp-includes/IXR/class.api.php 1 -
+/sql/phpmanager/index.php 1 http://www.canadaviajes.com.py/sql/phpmanager/index.php
+/img/galeria/southafrica/southafrica3.jpg 5 http://www.canadaviajes.com.py/img/galeria/southafrica/southafrica3.jpg
+/wp-content/uploads/class.api.php 1 -
+/assets/lib/jquery-file-upload/server/php/ 1 -
+/wp-admin/install.php 1 -
+/php-my-admin/index.php 1 http://www.canadaviajes.com.py/php-my-admin/index.php
+/img/salidasgarantizadas/otrasplayas-sg/cartagenaybarusg.jpg 9 -
+/sql/sqladmin/index.php 1 http://www.canadaviajes.com.py/sql/sqladmin/index.php
+/img/salidasgarantizadas/cancun-sg/cancunotrassg3.jpg 10 -
+/web2015/html/Congreso/html/contactenos.htm 1 -
+/wp-content/themes/xstore/js/portfolio.min.js 2 -
+/phpMyAdmin5.1/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin5.1/index.php
+/pma/index.php 1 http://www.canadaviajes.com.py/pma/index.php
+/wp-includes/css/dist/widgets/index.php 1 -
+/wp-includes/assets/class.api.php 1 -
+/wp-includes/Text/Diff/Renderer/class.api.php 1 -
+/wp-includes/blocks/list/class.api.php 1 -
+/wp-includes/blocks/social-links/class.api.php 1 -
+//weatherwidget.io/js/widget.min.js 8 -
+/__phpmyadmin/index.php 1 http://www.canadaviajes.com.py/__phpmyadmin/index.php
+/phpmyadmin2019/index.php 1 http://www.canadaviajes.com.py/phpmyadmin2019/index.php
+/img/sujetoadisponibilidad/canada/canada.jpg 8 -
+/wp-includes/SimplePie/Parse/class.api.php 1 -
+/admin/db/index.php 1 http://www.canadaviajes.com.py/admin/db/index.php
+/wp-includes/blocks/block/index.php 1 -
+/wp-includes/images/crystal/class.api.php 1 -
+/wp-includes/js/jquery/ui/class.api.php 1 -
+/img/galeria/machupichu/machupichu.jpg 9 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunotrassg.jpg 9 -
+/wp-includes/blocks/freeform/index.php 1 -
+/myadmin/index.php 1 http://www.canadaviajes.com.py/myadmin/index.php
+/js/bootstrap.min.js.map 4 -
+/wp-includes/blocks/separator/index.php 1 -
+/wp-includes/blocks/more/index.php 1 -
+/wp-content/plugins/wp-cron.php 1 www.google.com
+/wp-includes/Text/class.api.php 1 -
+/sitemap.xml 4 http://www.canadaviajes.com.py/sitemap.xml
+/apple-touch-icon-120x120-precomposed.png 1 -
+/img/toursdestacados/puntacatd/caaribeec.jpg 7 https://www.canadaviajes.com.py/deu/
+/wp-admin/images/index.php 1 -
+/wp-includes/Text/Diff/class.api.php 1 -
+/wp-admin/includes/index.php 1 -
+/phppma/index.php 1 http://www.canadaviajes.com.py/phppma/index.php
+/mysql/index.php 1 http://www.canadaviajes.com.py/mysql/index.php
+/wp/wp-json/wp/v2/users 2 -
+/wp-includes/blocks/search/class.api.php 1 -
+/deu/galerialink 4 https://google.com
+/wow.js 8 -
+/blog/wp-json/wp/v2/users 2 -
+/.wp-cli/class.api.php 1 -
+/wp-admin/includes/class.api.php 1 -
+/wp-includes/PHPMailer/class.api.php 1 -
+/img/salidasgarantizadas/brasil-sg/natalsg.jpg 8 https://www.canadaviajes.com.py/deu/
+/wp-includes/blocks/tag-cloud/class.api.php 1 -
+/wp-includes/blocks/loginout/index.php 1 -
+/db/phpMyAdmin/index.php 1 http://www.canadaviajes.com.py/db/phpMyAdmin/index.php
+/wp-includes/blocks/shortcode/class.api.php 1 -
+/wp-includes/Requests/Transport/class.api.php 1 -
+/wp-includes/Requests/Exception/Transport/class.api.php 1 -
+/wp-includes/blocks/paragraph/index.php 1 -
+/wp-includes/SimplePie/Net/index.php 1 -
+/wp-includes/js/dist/vendor/class.api.php 1 -
+/wp-includes/SimplePie/HTTP/class.api.php 1 -
+/img/salidasgarantizadas/argentina-sg/buenosaires.jpg 9 -
+/phpmyadmin/index.php 1 http://www.canadaviajes.com.py/phpmyadmin/index.php
+/wp-content/languages/class.api.php 1 -
+/admin/sqladmin/index.php 1 http://www.canadaviajes.com.py/admin/sqladmin/index.php
+/owl.carousel.js 8 -
+/.wp-cli/cache/class.api.php 1 -
+/phpmyadmin2017/index.php 1 http://www.canadaviajes.com.py/phpmyadmin2017/index.php
+/wp-includes/SimplePie/Decode/HTML/class.api.php 1 -
+/PMA/index.php 1 http://www.canadaviajes.com.py/PMA/index.php
+/400.shtml 1 http://www.canadaviajes.com.py/js/%url%
+/wp-includes/blocks/heading/class.api.php 1 -
+/img/sujetoadisponibilidad/caribe/SAMANA.jpg 9 -
+/mysql/mysqlmanager/index.php 1 http://www.canadaviajes.com.py/mysql/mysqlmanager/index.php
+/wp-includes/blocks/latest-posts/index.php 1 -
+/img/salidasgarantizadas/brasilbus-sg/FLNTERRESTRE.jpg 8 -
+/assets/plugins/filemanager/dialog.php 1 -
+/wp-includes/js/tinymce/langs/index.php 1 -
+/wp-includes/blocks/list/index.php 1 -
+/wp-admin/class.api.php 1 -
+/assets/plugins/kcfinder/upload.php 1 -
+/wp-includes/blocks/post-featured-image/index.php 1 -
+/wp-includes/images/media/index.php 1 -
+/img/salidasgarantizadas/otrasplayas-sg/otrasplayasbanner.jpg 11 https://www.canadaviajes.com.py/en/
+/axis2/ 2 -
+/img/sujetoadisponibilidad/europa/europa3.jpg 9 -
+/sql/phpmyadmin4/index.php 1 http://www.canadaviajes.com.py/sql/phpmyadmin4/index.php
+/wp-includes/block-patterns/index.php 1 -
+/img/descubripaises/ce/pages/5-thumb.jpg 5 http://www.canadaviajes.com.py/img/descubripaises/ce/pages/5-thumb.jpg
+/lib/jquery-file-upload/server/php/ 1 -
+/phpMyAdmin-5.2.1-english/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.2.1-english/index.php
+/robots.txt 419 -
+/sql/webdb/index.php 1 http://www.canadaviajes.com.py/sql/webdb/index.php
+/img/sujetoadisponibilidad/canada/canada2.jpg 9 -
+/wp-term.php 2 www.google.com
+/assets/scripts/filemanager/dialog.php 1 -
+/bootstrap.min.js 7 -
+/wp-add.php 2 www.google.com
+/assets/libs/jquery-file-upload/server/php/ 1 -
+/img/salidasgarantizadas/brasil-sg/maceiosg.jpg 9 -
+/wp-includes/blocks/query-pagination-previous/class.api.php 1 -
+/img/galeria/japon/japon.jpg 7 https://www.canadaviajes.com.py/deu/
+/phpmyadmin2022/index.php 1 http://www.canadaviajes.com.py/phpmyadmin2022/index.php
+/wp-includes/js/thickbox/index.php 1 -
+/phpmyadmin1/index.php 1 http://www.canadaviajes.com.py/phpmyadmin1/index.php
+/img/descubripaises/ar2/ar.html 1 -
+/wp-includes/blocks/page-list/index.php 1 -
+/wp-includes/blocks/spacer/class.api.php 1 -
+/phpMyAdmin4/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin4/index.php
+/wp-includes/css/dist/block-directory/index.php 1 -
+/img/descubripaises/ca/pages/2-regions.json 3 https://www.canadaviajes.com.py/img/descubripaises/ca/ca.html
+/wp-content/class.api.php 2 -
+/wp-includes/ID3/class.api.php 1 -
+/wp-includes/css/dist/editor/class.api.php 1 -
+/img/salidasgarantizadas/brasil-sg/natalsg2.jpg 8 -
+/contact-form-script.js 8 -
+/css/bootstrap.min.css.map 4 -
+/wp-includes/blocks/html/class.api.php 1 -
+/wp-includes/blocks/text-columns/index.php 1 -
+/img/toursdestacados/argentinatd/ushtd2.jpg 9 -
+/img/descubripaises/ce/pages/1-thumb.jpg 4 http://www.canadaviajes.com.py/img/descubripaises/ce/pages/1-thumb.jpg
+/wp-includes/Requests/index.php 1 -
+/wp-includes/css/dist/edit-post/index.php 1 -
+/wp-includes/blocks/query-pagination/index.php 1 -
+/sftp-config.json 1 -
+/phpmyadmin_/index.php 1 http://www.canadaviajes.com.py/phpmyadmin_/index.php
+/deu/%2B595981602583 1 -
+/wp-includes/blocks/cover/class.api.php 1 -
+/img/toursdestacados/europatd/europatd.jpg 10 https://www.canadaviajes.com.py/en/
+/wp-content/index.php 2 -
+/wp-includes/blocks/query-title/index.php 1 -
+/wp-includes/js/swfupload/index.php 1 -
+/phpMyAdmin-4.9.10-all-languages/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-4.9.10-all-languages/index.php
+/galerialink 1 -
+/wp-includes/blocks/social-link/class.api.php 1 -
+/img/sujetoadisponibilidad/brasil/brasil-natal.jpg 11 https://www.canadaviajes.com.py/en/
+/admin/sysadmin/index.php 1 http://www.canadaviajes.com.py/admin/sysadmin/index.php
+/wp-includes/Text/index.php 1 -
+/img/sujetoadisponibilidad/canada/canada5.jpg 9 -
+/enhance 2 -
+/wp-includes/css/dist/edit-widgets/class.api.php 1 -
+/wp-includes/blocks/post-excerpt/class.api.php 1 -
+/wp-includes/Requests/class.api.php 1 -
+/images/class.api.php 1 -
+/wp-includes/blocks/group/index.php 1 -
+/wp-admin/setup-config.php 1 -
+/img/toursdestacados/puntacatd/puntacanatd.jpg 12 -
+/.wp-cli/cache/index.php 1 -
+/jquery.vide.js 8 -
+/img/sujetoadisponibilidad/argentina/calafate.jpg 9 -
+/phpmyadmin2/index.php 1 http://www.canadaviajes.com.py/phpmyadmin2/index.php
+/scrolling-nav.js 7 -
+/wp-includes/blocks/separator/class.api.php 1 -
+/db/webadmin/index.php 1 http://www.canadaviajes.com.py/db/webadmin/index.php
+/wp-content/plugins/wp-ver.php 4 https://www.google.com
+/wp-content/plugins/wp-catcher/index.php 5 www.google.com
+/wp-content/themes/twentystd/index.php 1 -
+/phpMyAdmin-latest-english/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-latest-english/index.php
+/wp-includes/blocks/query-pagination-previous/index.php 1 -
+/kcfinder/upload.php 1 -
+/wp-includes/css/dist/components/index.php 1 -
+/.well-known/traffic-advice 18 -
+/wp-includes/blocks/file/class.api.php 1 -
+/wp-admin/maint/index.php 1 -
+/wp-content/plugins/index.php 1 -
+/wp 22 http://mail.canadaviajes.com.py/wp
+/wp-admin/index.php 1 -
+/img/salidasgarantizadas/brasilbus-sg/GUAATUBATERRESTRE.jpg 9 -
+/db/dbadmin/index.php 1 http://www.canadaviajes.com.py/db/dbadmin/index.php
+/mysql/pma/index.php 1 http://www.canadaviajes.com.py/mysql/pma/index.php
+/mysqladmin/index.php 1 http://www.canadaviajes.com.py/mysqladmin/index.php
+/img/quienes-somos2.jpg 6 https://www.canadaviajes.com.py/en/
+/wp-includes/js/tinymce/class.api.php 1 -
+/.well-known/wp-cron.php 1 www.google.com
+/wp-includes/blocks/heading/index.php 1 -
+/class.api.php 1 -
+/sql/php-myadmin/index.php 1 http://www.canadaviajes.com.py/sql/php-myadmin/index.php
+/img/galeria/bariloche/.jpg 6 -
+/wp-admin/css/class.api.php 1 -
+/img/galeria/bolivia/bolivia2.jpg 5 http://www.canadaviajes.com.py/img/galeria/bolivia/bolivia2.jpg
+/wp-includes/js/tinymce/index.php 1 -
+/wp-content/uploads/wp-cron.php 1 www.google.com
+/jquery.mixitup.js 8 -
+/phpMyAdmin-5.2.1-all-languages/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.2.1-all-languages/index.php
+/img/salidasgarantizadas/brasilbus-sg/bannerbrasilbus.jpg 10 https://www.canadaviajes.com.py/en/
+/wp-includes/blocks/media-text/class.api.php 1 -
+/wp-includes/css/index.php 1 -
+/img/sujetoadisponibilidad/canada/ESENCIASDELOESTECANADA.jpg 9 -
+/wp-includes/css/dist/components/class.api.php 1 -
+/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela%c3%b1o.jpg 1 http://www.canadaviajes.com.py/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg
+/wp-includes/Requests/Exception/Transport/index.php 1 -
+/img/salidasgarantizadas/argentina-sg/arg.jpg 11 -
+/apple-touch-icon.png 1 -
+/phpmy/index.php 1 http://www.canadaviajes.com.py/phpmy/index.php
+/img/descubripaises/ce/pages/1-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/wp-includes/blocks/code/index.php 1 -
+/img/sujetoadisponibilidad/canada/canada3.jpg 9 -
+/img/galeria/japon/japon3.jpg 5 http://www.canadaviajes.com.py/img/galeria/japon/japon3.jpg
+/img/galeria/bolivia/bolivia3.jpg 5 http://www.canadaviajes.com.py/img/galeria/bolivia/bolivia3.jpg
+/old 22 http://mail.canadaviajes.com.py/old
+/humans.txt 1 http://www.canadaviajes.com.py/humans.txt
+/wp-includes/images/media/class.api.php 1 -
+/wp-includes/blocks/columns/index.php 1 -
+/wp-includes/Requests/Response/class.api.php 1 -
+/img/salidasgarantizadas/cancun-sg/cancunbanner.jpg 11 https://www.canadaviajes.com.py/en/
+/wp-includes/SimplePie/XML/Declaration/index.php 1 -
+/smoothscroll.js 8 -
+/img/descubripaises/ca/bannerbo.jpg 11 -
+/wp-includes/blocks/rss/class.api.php 1 -
+/jquery.counterup.min.js 8 -
+/wp-content/plugins/fix/up.php 1 -
+/wp-includes/css/dist/reusable-blocks/class.api.php 1 -
+/img/salidasgarantizadas/brasilbus-sg/CAIOBATERRESTRE.jpg 9 -
+/wp-includes/SimplePie/Decode/HTML/index.php 1 -
+/en/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 2 -
+/owa/auth/logon.aspx 28 -
+/wp-includes/images/smilies/index.php 1 -
+/waypoints.min.js 8 -
+/wp-includes/css/dist/block-directory/class.api.php 1 -
+/en/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 1 -
+/wp-includes/css/dist/edit-post/class.api.php 1 -
+/sql/webadmin/index.php 1 http://www.canadaviajes.com.py/sql/webadmin/index.php
+/js/kcfinder/upload.php 1 -
+/2phpmyadmin/index.php 1 http://www.canadaviajes.com.py/2phpmyadmin/index.php
+/phpMyAdmin-4/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-4/index.php
+/js/popper.min.js.map 4 -
+/wp-includes/images/wlw/index.php 1 -
+/wp-includes/blocks/verse/index.php 1 -
+/.wp-cli/index.php 1 -
+/wp-includes/blocks/video/index.php 1 -
+/assets/filemanager/dialog.php 1 -
+/db/phpMyAdmin3/index.php 1 http://www.canadaviajes.com.py/db/phpMyAdmin3/index.php
+/wp-includes/blocks/pullquote/index.php 1 -
+/wp-includes/images/smilies/class.api.php 1 -
+/wp-includes/block-supports/class.api.php 1 -
+/wp-includes/SimplePie/index.php 1 -
+/web2015/html/formularios.htm 1 -
+/phpMyAdmin-5.1.2/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.1.2/index.php
+/asset/kcfinder/upload.php 1 -
+/old/ 1 -
+/wp-admin/network/class.api.php 1 -
+/wp-admin/js/class.api.php 1 -
+/backup/ 1 -
+/img/descubripaises/ce/pages/3-thumb.jpg 4 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-content/uploads/index.php 1 -
+/wp-admin/css/colors/ectoplasm/class.api.php 1 -
+/db/phpmyadmin3/index.php 1 http://www.canadaviajes.com.py/db/phpmyadmin3/index.php
+/wp-includes/blocks/nextpage/class.api.php 1 -
+/wp-includes/js/dist/class.api.php 1 -
+/wp-admin/css/colors/blue/index.php 1 -
+/wp-includes/SimplePie/Parse/index.php 1 -
+/filemanager/filemanager/dialog.php 1 -
+/img/toursdestacados/puntacatd/pujjan.jpg 7 https://www.canadaviajes.com.py/deu/
+/wp-includes/blocks/image/class.api.php 1 -
+/wp-content/themes/wp-cron.php 1 www.google.com
+/wp-includes/js/thickbox/class.api.php 1 -
+/phpMyAdmin2/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin2/index.php
+/wp-content/wp-ver.php 2 https://www.google.com
+/wp-content/wp-cron.php 2 www.google.com
+/wp-includes/Requests/Cookie/class.api.php 1 -
+/img/sujetoadisponibilidad/brasil/costadesauipebra.jpg 8 -
+/img/galeria/otawa/otawa2.jpg 5 http://www.canadaviajes.com.py/img/galeria/otawa/otawa2.jpg
+/wp-includes/Requests/Exception/HTTP/index.php 1 -
+/jquery.stellar.min.js 8 -
+/phpmyadmin2021/index.php 1 http://www.canadaviajes.com.py/phpmyadmin2021/index.php
+/img/toursdestacados/argentinatd/puertomont.jpg 7 https://www.canadaviajes.com.py/deu/
+/phpMyAdmin-3/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-3/index.php
+/sql/sqlweb/index.php 1 http://www.canadaviajes.com.py/sql/sqlweb/index.php
+/img/sujetoadisponibilidad/argentina/calafate2.jpg 9 -
+/wp-includes/blocks/query-pagination-next/index.php 1 -
+/wp-includes/block-patterns/class.api.php 1 -
+/wp-admin/ 4 http://canadaviajes.com.py/wp-admin/
+/wp-includes/css/dist/nux/class.api.php 1 -
+/sql/sql/index.php 1 http://www.canadaviajes.com.py/sql/sql/index.php
+/mysql/dbadmin/index.php 1 http://www.canadaviajes.com.py/mysql/dbadmin/index.php
+/img/sujetoadisponibilidad/brasil/brasilimbatible.jpg 8 -
+/deu/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 8 -
+/home 22 http://mail.canadaviajes.com.py/home
+/wp-includes/blocks/buttons/index.php 1 -
+/phpMyAdmin-5.2.0/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.2.0/index.php
+/plugins/kcfinder/upload.php 1 -
+/phpMyAdmin_/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin_/index.php
+/wp-includes/js/crop/class.api.php 1 -
+/wp-includes/blocks/query-pagination-next/class.api.php 1 -
+/wordpress/ 3 https://www.google.com
+/wp-includes/js/jquery/class.api.php 1 -
+/en/galerialink 7 -
+/html/Congreso/html/formulario-pago.htm 1 -
+/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%c3%b1o.jpg 1 http://www.canadaviajes.com.py/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg
+/apple-touch-icon-120x120.png 1 -
+/phpMyAdmin-5.1.1/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.1.1/index.php
+/sql/phpmyadmin3/index.php 1 http://www.canadaviajes.com.py/sql/phpmyadmin3/index.php
+/sample.php 1 www.google.com
+/wp-includes/Requests/Proxy/class.api.php 1 -
+/css/class.api.php 1 -
+/program/index.php 1 http://www.canadaviajes.com.py/program/index.php
+/mysql/admin/index.php 1 http://www.canadaviajes.com.py/mysql/admin/index.php
+/phpmyadmin4/index.php 1 http://www.canadaviajes.com.py/phpmyadmin4/index.php
+/wp-includes/blocks/cover/index.php 1 -
+/phpMyAdmin-5/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5/index.php
+/wp-includes/blocks/tag-cloud/index.php 1 -
+/wp-admin/maint/class.api.php 1 -
+/db/websql/index.php 1 http://www.canadaviajes.com.py/db/websql/index.php
+/img/descubripaises/ce/pages/2-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/wp-includes/js/codemirror/class.api.php 1 -
+/phpMyAdmin1/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin1/index.php
+/img/descubripaises/ce/pages/5-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/db/myadmin/index.php 1 http://www.canadaviajes.com.py/db/myadmin/index.php
+/admin/pma/index.php 1 http://www.canadaviajes.com.py/admin/pma/index.php
+/MyAdmin/index.php 1 http://www.canadaviajes.com.py/MyAdmin/index.php
+/wp-includes/blocks/query-title/class.api.php 1 -
+/wp-includes/blocks/preformatted/index.php 1 -
+/cgi-bin/class.api.php 1 -
+/jquery.easing.min.js 8 -
+/.well-known/class.api.php 1 -
+/db/phpMyAdmin-4/index.php 1 http://www.canadaviajes.com.py/db/phpMyAdmin-4/index.php
+/img/toursdestacados/europatd/semanasantaeuropa2019.jpg 115 https://www.canadaviajes.com.py/
+/web2015/html/exc_inter.htm 2 -
+/img/sujetoadisponibilidad/canada/canada4.jpg 7 https://www.canadaviajes.com.py/deu/
+/wp-content/plugins/woozone/lib/frontend/js/frontend.js 1 -
+/wp/ 1 -
+/wp-includes/blocks/buttons/class.api.php 1 -
+/css/index.php 1 -
+/wp-includes/blocks/post-featured-image/class.api.php 1 -
+/wp-includes/blocks/image/index.php 1 -
+/wp-includes/Requests/Cookie/index.php 1 -
+/wp-includes/css/dist/customize-widgets/class.api.php 1 -
+/backup 22 http://mail.canadaviajes.com.py/backup
+/wp-includes/js/dist/vendor/index.php 1 -
+/wp-includes/blocks/audio/class.api.php 1 -
+/mysql-admin/index.php 1 http://www.canadaviajes.com.py/mysql-admin/index.php
+/wp-includes/blocks/missing/index.php 1 -
+/phpMyAdmin5.2/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin5.2/index.php
+/assets/plugins/elfinder/elfinder.html 1 -
+/wp-content/upgrade/class.api.php 1 -
+/db/db-admin/index.php 1 http://www.canadaviajes.com.py/db/db-admin/index.php
+/e/data/js/ajax.js 1 -
+/wp-includes/blocks/block/class.api.php 1 -
+/wp-ver.php 3 https://www.google.com
+/img/salidasgarantizadas/cancun-sg/CANCUNENE19.jpg 9 -
+/wp-content/themes/index.php 1 -
+/wp-admin/js/index.php 1 -
+/wp-includes/css/dist/format-library/index.php 1 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/popper.min.js 8 -
+/wp-includes/blocks/preformatted/class.api.php 1 -
+/wp-includes/css/dist/edit-widgets/index.php 1 -
+/wp-includes/blocks/post-excerpt/index.php 1 -
+/main.js 8 -
+/axis2-admin/ 2 -
+/wp-includes/blocks/column/index.php 1 -
+/mysql/sqlmanager/index.php 1 http://www.canadaviajes.com.py/mysql/sqlmanager/index.php
+/security.txt 1 http://www.canadaviajes.com.py/security.txt
+/wp-includes/blocks/post-template/index.php 1 -
+/wp-cron.php 2 www.google.com
+/wp-includes/blocks/index.php 1 -
+/img/descubripaises/ce/pages/4-thumb.jpg 4 http://www.canadaviajes.com.py/img/descubripaises/ce/pages/4-thumb.jpg
+/wp-includes/blocks/calendar/class.api.php 1 -
+/img/sujetoadisponibilidad/europa/europa1.jpg 9 -
+/main 22 http://mail.canadaviajes.com.py/main
+/about.php 1 www.google.com
+/wp-admin/network/index.php 1 -
+/img/sujetoadisponibilidad/canada/estecanadiensecanada.jpg 8 -
+/wp-includes/blocks/columns/class.api.php 1 -
+/wp-includes/blocks/column/class.api.php 1 -
+/wp-includes/blocks/paragraph/class.api.php 1 -
+/wp-content/plugins/wp-photo-album-plus/wppa-admin-styles.css 1 -
+/wp-admin/css/colors/class.api.php 1 -
+/wp-includes/js/plupload/class.api.php 1 -
+/db/phpMyAdmin-5/index.php 1 http://www.canadaviajes.com.py/db/phpMyAdmin-5/index.php
+/deu/+595981602583 10 https://www.canadaviajes.com.py/deu/
+/wp-includes/SimplePie/Content/Type/class.api.php 1 -
+/img/descubripaises/ce/pages/3-regions.json 2 https://www.canadaviajes.com.py/img/descubripaises/ce/ce.html
+/wp-includes/blocks/loginout/class.api.php 1 -
+/jquery.slicknav.js 8 -
+/php-myadmin/index.php 1 http://www.canadaviajes.com.py/php-myadmin/index.php
+/wp-includes/images/index.php 1 -
+/wp-includes/css/dist/editor/index.php 1 -
+/ccx/index.php 1 -
+/img/salidasgarantizadas/brasilbus-sg/RIOTERRESTRE.jpg 8 -
+/wp-admin/css/colors/modern/index.php 1 -
+/wp-includes/blocks/post-date/index.php 1 -
+/wp-includes/blocks/post-terms/index.php 1 -
+/phpmyadmin2018/index.php 1 http://www.canadaviajes.com.py/phpmyadmin2018/index.php
+/sql/websql/index.php 1 http://www.canadaviajes.com.py/sql/websql/index.php
+/%2B595981602583 2 https://google.com
+/img/sujetoadisponibilidad/argentina/USHUAIA2.jpg 9 -
+/wp-includes/blocks/code/class.api.php 1 -
+/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 10 -
+/.well-known/index.php 1 -
+/wp-admin/css/index.php 1 -
+/wp-includes/css/dist/nux/index.php 1 -
+/wp-includes/fonts/index.php 1 -
+/en/img/sujetoadisponibilidad/caribe/SAMANA.jpg 1 -
+/bless.php 1 www.google.com
+/wp-content/plugins/ccx/index.php 1 -
+/contact-form-script-modal.js 8 -
+/new/wp-json/wp/v2/users 2 -
+/index.html 26 -
+/wp-includes/js/codemirror/index.php 1 -
+/img/toursdestacados/argentinatd/mendoza.jpg 9 -
+/img/descubripaises/ce/pages/2-thumb.jpg 4 http://www.canadaviajes.com.py/img/descubripaises/ce/pages/2-thumb.jpg
+/wp-admin/wp-cron.php 1 www.google.com
+/wp-includes/class.api.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/index.php 1 -
+/img/sujetoadisponibilidad/argentina/bariloche2.jpg 9 -
+/wp-includes/blocks/nextpage/index.php 1 -
+/.well-known/security.txt 2 -
+/wp-includes/Requests/Utility/class.api.php 1 -
+/wp-includes/blocks/archives/index.php 1 -
+/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 11 -
+/blog/ 1 -
+/wp-includes/blocks/query/class.api.php 1 -
+/deu/img/toursdestacados/perutd/perutd2.jpg 9 -
+/img/salidasgarantizadas/argentina-sg/gar3.jpg 121 https://www.canadaviajes.com.py/
+/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 9 https://www.canadaviajes.com.py/deu/
+/wp-includes/css/dist/reusable-blocks/index.php 1 -
+/img/galeria/machupichu/machupichu2.jpg 5 http://www.canadaviajes.com.py/img/galeria/machupichu/machupichu2.jpg
+/phpMyAdmin-5.2.0-all-languages/index.php 1 http://www.canadaviajes.com.py/phpMyAdmin-5.2.0-all-languages/index.php
+/wp-admin/js/widgets/index.php 1 -
+/wp-includes/js/index.php 1 -
+/wp-includes/blocks/search/index.php 1 -
+/img/salidasgarantizadas/cancun-sg/cancunanonuevo.jpg 9 -
+/img/salidasgarantizadas/brasil-sg/maragogisg.jpg 8 https://www.canadaviajes.com.py/deu/
+/.git/config 11 -
+/wp-includes/blocks/file/index.php 1 -
+/deu/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 2 -
+/sql/phpMyAdmin2/index.php 1 http://www.canadaviajes.com.py/sql/phpMyAdmin2/index.php
+/wp-includes/js/jcrop/index.php 1 -
+/img/salidasgarantizadas/brasil-sg/brasilalnatalinclusive.jpg 9 -
+/db/phpmyadmin4/index.php 1 http://www.canadaviajes.com.py/db/phpmyadmin4/index.php
+/wordpress/wp-json/wp/v2/users 2 -
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/+595981602583 24 -
+/wp-includes/js/mediaelement/class.api.php 1 -
+/wp-includes/blocks/post-content/class.api.php 1 -
+/img/sujetoadisponibilidad/canada/otawa1.jpg 11 https://www.canadaviajes.com.py/en/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 471
+34.28.9.50 30 194 50112164 20240531155007
+92.187.217.167 30 30 3010530 20240521011325
+27.79.209.242 12 12 224772 20240525210434
+191.188.65.107 10 330 66465486 20240526182006
+186.2.225.108 10 344 72930607 20240520154553
+144.217.135.214 8 8 493828 20240520131242
+138.186.60.26 8 334 66707669 20240513070700
+100.25.85.101 8 8 156760 20240503015840
+104.164.161.131 7 7 113916 20240509235719
+23.227.196.165 7 7 137165 20240526033517
+181.123.28.234 7 168 33507165 20240510100120
+186.158.200.23 7 322 66461645 20240510094843
+109.236.81.139 6 6 112386 20240528220334
+190.2.131.39 6 6 112386 20240526023856
+18.118.15.142 6 74 590219 20240516090136
+18.222.34.184 6 74 590219 20240524164146
+45.237.44.186 5 166 33467975 20240510095317
+181.94.228.164 5 205 48415431 20240525201102
+186.5.247.14 5 165 33034129 20240514214744
+176.7.170.209 5 218 55553970 20240503081613
+36.99.136.136 5 5 83139 20240527010307
+181.122.129.248 5 287 47371281 20240513100307
+200.40.34.107 5 171 33251337 20240514073746
+72.143.231.98 5 179 41081594 20240519205245
+181.127.41.13 4 162 32965525 20240522025625
+66.42.108.40 1 1 0 20240526051232
+172.121.223.45 2 2 100351 20240513002953
+128.14.211.194 1 1 19595 20240527073120
+121.230.218.189 1 1 100351 20240513090125
+165.227.124.72 1 1 12176 20240512213043
+88.238.45.25 3 162 33208598 20240514143044
+205.210.31.217 1 1 100351 20240517231213
+170.246.76.113 3 162 33208598 20240527091910
+181.124.128.44 0 1 450135 
+199.244.88.219 1 1 19595 20240527053812
+72.14.201.207 1 1 19595 20240530091824
+64.227.174.225 1 1 12171 20240527000457
+66.249.66.166 0 2 373528 
+104.232.39.215 3 3 41948 20240522174017
+198.235.24.224 1 1 37679 20240524051924
+162.55.94.175 1 22 176630 20240509211527
+154.13.116.11 0 2 255477 
+103.42.180.236 1 1 19595 20240525053757
+79.137.248.15 1 1 19595 20240518022343
+38.242.238.150 1 1 19595 20240513020016
+198.235.24.126 1 1 100351 20240513175821
+185.245.86.45 2 161 32973762 20240530091810
+138.59.246.10 3 162 33208598 20240527043649
+104.164.161.245 2 2 12175 20240509235622
+5.135.139.6 1 1 100351 20240515050505
+205.210.31.108 1 1 37679 20240514143527
+121.230.221.88 1 1 100351 20240519210145
+144.202.58.143 1 1 0 20240528070204
+209.160.116.210 1 1 0 20240507122337
+106.111.12.64 1 1 37691 20240513090121
+196.196.34.159 1 1 17867 20240528081647
+190.112.169.41 2 138 20267078 20240527161703
+180.163.30.100 1 1 100351 20240502201649
+111.7.96.171 2 24 224057 20240521164424
+83.147.52.42 2 2 24371 20240514225210
+173.211.16.128 1 1 19595 20240514175015
+190.104.148.238 3 163 33236430 20240522133941
+59.58.62.38 1 1 37691 20240520074723
+66.220.149.17 0 2 691473 
+181.123.108.245 4 168 33021807 20240506052634
+180.122.40.55 1 1 100351 20240516094143
+180.122.214.241 1 1 37691 20240509142625
+181.94.225.124 0 1 279364 
+128.14.211.190 1 1 19595 20240506092240
+198.235.24.202 1 1 100351 20240522040406
+34.73.244.179 2 158 32942256 20240507021913
+198.235.24.149 1 1 37691 20240525104735
+194.26.192.165 1 1 0 20240505060159
+5.133.192.199 1 1 19595 20240513032833
+64.226.71.176 1 1 19595 20240524061335
+91.92.247.141 4 4 401404 20240526223459
+172.121.217.194 2 2 100351 20240513024902
+154.36.162.137 1 1 19595 20240511230100
+91.92.250.201 2 2 200702 20240521090802
+103.105.167.46 3 3 36699 20240522173920
+64.23.224.68 1 1 100351 20240518201923
+205.210.31.131 1 1 37691 20240518103027
+89.248.174.9 1 1 19595 20240507044858
+181.124.130.5 0 1 378904 
+143.198.12.235 1 1 19595 20240520014205
+174.138.14.76 1 1 19595 20240524054622
+138.204.218.242 1 125 16898693 20240529190118
+64.23.183.187 1 1 12177 20240515050156
+194.230.146.171 2 161 32971577 20240527133108
+181.214.93.152 2 2 37462 20240531084346
+34.23.186.23 2 158 32942256 20240519062400
+172.58.183.43 2 2 37462 20240509183343
+111.7.100.30 1 1 12182 20240524161014
+172.121.216.198 3 3 41969 20240509235712
+66.146.233.42 1 2 333399 20240511191445
+140.82.12.100 1 1 0 20240526022816
+37.120.142.39 1 1 100351 20240503235047
+155.94.142.146 1 1 19595 20240531020156
+205.210.31.159 1 1 100351 20240517101144
+181.214.167.216 1 1 17867 20240503061641
+34.224.167.86 1 1 19595 20240501005748
+23.229.40.111 1 1 18117 20240511191414
+194.104.9.191 1 1 19595 20240503092100
+45.201.219.106 1 1 19595 20240520030500
+46.228.199.158 2 2 39190 20240513171036
+209.251.19.71 0 1 666820 
+154.36.152.130 1 1 19595 20240528103212
+154.36.158.149 1 1 19595 20240521043435
+199.45.155.38 1 2 47427 20240509095457
+177.231.18.173 0 1 336871 
+138.186.61.34 3 164 33264262 20240509095013
+36.99.136.137 4 7 139623 20240527010328
+35.94.50.134 2 2 39190 20240516033248
+201.217.52.178 3 166 34053123 20240503095649
+66.220.149.10 0 20 7487055 
+103.221.232.172 1 1 17867 20240525185227
+138.197.139.185 1 1 19595 20240504023110
+181.124.128.134 2 174 28933691 20240507142620
+111.7.96.153 1 1 12176 20240529235600
+23.81.127.196 1 1 17867 20240519033257
+14.232.67.201 4 4 78380 20240514221853
+94.247.172.129 1 1 19595 20240522064318
+185.129.105.43 3 44 2177901 20240520004056
+154.13.125.10 1 1 2779 20240511191446
+181.91.84.103 3 162 33208598 20240513071113
+104.251.82.107 1 1 19595 20240509113924
+69.58.72.8 2 2 20875 20240511191446
+205.210.31.86 1 1 100351 20240521032842
+172.105.103.28 2 2 37462 20240520042455
+23.106.192.113 1 1 19595 20240514082503
+205.210.31.152 1 1 37679 20240510083328
+198.235.24.180 1 1 100351 20240525021154
+65.154.226.168 2 2 39190 20240514092455
+34.222.26.112 0 2 174844 
+120.233.33.215 2 161 33186818 20240502154738
+106.111.29.86 1 1 100351 20240520114204
+121.230.28.22 1 1 100351 20240518021013
+156.236.145.5 1 1 19595 20240529114036
+190.104.176.191 3 161 32965525 20240526180805
+54.145.82.8 2 154 31752437 20240503015843
+172.241.137.125 2 2 37462 20240529210022
+180.122.120.231 1 1 100351 20240512194708
+172.59.192.55 2 2 37462 20240503154109
+198.235.24.36 1 1 37679 20240531020504
+38.152.14.10 1 1 2758 20240511191444
+45.125.245.54 1 1 17867 20240529004818
+198.235.24.116 1 1 100351 20240524233326
+178.128.26.24 1 1 100351 20240530130642
+72.14.201.215 1 1 19595 20240526002902
+100.24.71.128 1 1 19595 20240501211941
+66.42.118.168 1 1 0 20240524073054
+103.221.232.40 2 2 35734 20240525202945
+170.106.181.63 1 1 19595 20240507163924
+201.217.245.20 3 162 32352810 20240507100542
+77.74.177.119 2 2 39190 20240525145739
+205.210.31.55 2 2 200702 20240527172235
+45.61.161.66 2 2 37462 20240509023718
+128.199.21.177 1 1 19595 20240508230437
+54.224.65.6 2 147 26961723 20240503015842
+45.32.202.75 1 1 0 20240527042257
+198.235.24.84 1 1 100351 20240531194131
+45.88.186.76 1 1 0 20240506211118
+66.249.83.135 0 29 178118 
+190.62.6.11 0 1 378904 
+36.99.136.128 3 4 79201 20240529235650
+54.164.10.107 4 149 29277942 20240503015845
+38.250.133.28 0 1 139418 
+205.210.31.99 1 1 100351 20240517205411
+180.122.51.250 1 1 100351 20240514120248
+42.194.240.167 4 322 66373636 20240502212351
+201.251.115.253 0 1 378904 
+190.112.170.57 3 120 14773855 20240526085340
+147.185.132.33 1 1 100351 20240530191514
+66.220.149.120 0 9 906611 
+198.235.24.109 1 1 100351 20240510093749
+38.11.154.22 1 1 2779 20240525053818
+205.210.31.103 1 1 100351 20240502221413
+152.32.134.89 1 2 29842 20240521114758
+154.22.198.66 1 1 2779 20240529114044
+45.32.215.82 1 1 0 20240529050734
+172.59.193.148 2 2 37462 20240511064319
+181.124.131.195 2 161 32971577 20240531130333
+69.171.249.9 0 1 363201 
+185.230.138.123 1 1 19595 20240520090550
+93.176.140.61 1 1 19595 20240531130227
+173.252.95.25 0 1 183559 
+180.122.120.22 1 1 100351 20240510065632
+116.16.201.127 1 1 19595 20240503060124
+205.210.31.52 1 1 100351 20240511003146
+45.61.124.29 1 1 19595 20240524135012
+181.94.249.176 2 139 28439587 20240515193743
+93.174.93.127 1 1 19595 20240506220006
+196.199.104.51 1 1 17867 20240512151619
+179.109.100.138 1 114 13775610 20240516190610
+72.14.201.204 1 1 19595 20240530092344
+146.190.246.170 1 1 19595 20240510034909
+186.158.200.212 3 44 5005222 20240503203211
+172.58.183.91 2 2 37462 20240510233153
+192.177.58.178 2 2 19595 20240509235622
+27.79.240.236 2 2 37462 20240512014903
+183.60.225.196 2 161 33186818 20240502212741
+68.183.46.90 1 1 0 20240519050057
+142.93.237.61 1 1 19595 20240530033651
+172.121.208.137 2 2 19595 20240522173906
+156.236.139.169 1 1 19595 20240525104825
+64.176.223.223 1 1 0 20240529041342
+149.56.150.63 2 159 33185329 20240520131307
+154.64.0.43 1 1 2758 20240511230111
+198.235.24.110 1 1 37691 20240522060616
+14.152.91.206 2 161 33186818 20240502155304
+38.33.190.59 1 1 19595 20240526072110
+72.140.147.20 1 94 15482406 20240505115030
+45.230.8.33 2 108 16130295 20240507194805
+123.6.49.49 0 1 27832 
+199.45.155.45 1 2 47427 20240522022655
+178.254.29.124 1 1 19595 20240523104243
+66.249.83.136 3 30 211885 20240518071707
+3.99.220.126 1 1 19595 20240506120513
+138.229.98.60 1 1 19595 20240511191406
+103.225.84.83 1 1 19595 20240511205659
+34.1.23.115 2 10 123714 20240519124550
+181.91.86.157 3 162 32993357 20240523195030
+91.92.246.56 2 2 200702 20240516025047
+190.34.36.155 1 1 100351 20240512201208
+66.220.149.14 1 17 751244 20240529101122
+94.249.2.56 3 163 33236430 20240528025448
+181.124.133.245 1 23 1564350 20240507065646
+156.236.189.244 1 1 19595 20240530185805
+111.7.96.168 1 2 47427 20240524161044
+23.106.28.27 2 2 37462 20240528003655
+45.201.229.125 1 1 2758 20240524004417
+181.122.180.164 3 167 33002212 20240506093115
+66.249.66.168 1 2 204631 20240504135329
+172.121.219.61 2 2 100351 20240513024903
+144.76.159.253 1 22 176630 20240528091126
+186.73.19.250 1 1 100351 20240510113017
+130.255.166.115 1 1 19595 20240507160215
+198.235.24.248 1 1 100351 20240528021202
+149.102.140.44 1 1 19595 20240529225603
+45.201.241.125 1 1 2758 20240507202351
+66.220.149.12 0 10 451819 
+205.210.31.155 1 1 100351 20240501141302
+103.221.232.186 1 1 17867 20240526171500
+106.55.200.233 1 1 19595 20240502152458
+66.220.149.13 0 3 17092 
+104.232.39.195 3 3 41969 20240522174014
+66.249.83.134 3 35 417165 20240518071707
+186.2.221.43 0 1 450135 
+104.156.253.186 1 1 0 20240527051210
+103.105.167.227 2 2 19595 20240509235622
+54.184.11.125 0 1 13053 
+15.235.50.223 1 1 17867 20240510100855
+93.158.91.11 1 2 47427 20240507173140
+18.135.104.252 2 2 200702 20240530112452
+24.114.61.174 0 8 1396117 
+66.220.149.16 0 4 556822 
+172.59.194.188 2 2 37462 20240510090222
+49.85.142.219 1 1 37691 20240512194704
+34.219.89.62 0 1 10597 
+69.10.48.138 1 1 100351 20240529053253
+185.159.40.7 3 44 2177901 20240513041418
+175.27.64.249 2 161 33186818 20240502154300
+15.204.182.106 2 2 39190 20240507203717
+104.165.105.97 3 3 36690 20240509235638
+179.43.178.226 3 3 36556 20240523222815
+181.91.87.76 3 162 32993357 20240513124903
+142.93.222.227 1 1 12181 20240529013156
+117.94.128.108 1 1 37691 20240519210138
+49.85.67.112 1 1 37691 20240514120243
+38.154.7.36 2 2 37462 20240503223720
+181.124.128.80 3 23 11779230 20240517073440
+190.3.1.67 3 164 33237293 20240517094443
+184.144.228.118 1 1 19595 20240501162908
+64.227.159.54 1 1 19595 20240508024749
+103.221.232.217 1 1 17867 20240524080610
+172.58.180.17 2 2 37462 20240505103553
+181.94.226.37 2 163 33242482 20240512202811
+72.14.201.206 2 2 39190 20240530093120
+164.92.159.11 1 1 19595 20240502024700
+185.180.143.75 1 1 19595 20240522033704
+106.55.201.50 1 1 12501 20240502145250
+65.154.226.167 1 1 19595 20240529134540
+34.219.7.140 2 2 39190 20240508033605
+196.199.104.153 3 3 53601 20240528185304
+181.91.85.205 4 169 33688627 20240516095234
+186.158.200.128 0 1 161791 
+198.235.24.245 1 1 37691 20240501102201
+14.152.91.194 2 161 33186818 20240502212706
+102.90.57.74 1 1 37691 20240513030717
+167.160.68.26 2 2 37462 20240511191416
+144.202.29.9 1 1 0 20240526040941
+34.220.231.219 0 1 13053 
+181.124.131.20 0 6 77568 
+38.152.12.140 2 2 37462 20240509212237
+180.122.157.243 1 1 37691 20240516094138
+44.212.20.97 1 1 19595 20240503080357
+45.15.17.67 3 25 297827 20240506182107
+199.127.56.236 2 161 33186818 20240516000155
+136.243.94.103 2 2 200702 20240507130641
+34.23.70.10 2 160 32943745 20240531010438
+24.114.60.136 3 162 32993357 20240502122212
+5.133.192.171 1 2 47427 20240519130533
+185.12.250.104 1 1 19595 20240518175126
+117.99.108.71 2 162 33214650 20240501062120
+209.160.115.155 1 1 0 20240516114104
+52.128.31.141 1 2 348487 20240511191413
+190.112.169.57 4 179 41282291 20240516101158
+154.36.172.219 1 1 2779 20240521043444
+199.244.88.226 1 1 19595 20240506040225
+66.220.149.22 0 18 3066728 
+31.13.127.19 0 1 855728 
+35.87.241.36 1 1 100351 20240511000050
+206.189.153.155 1 1 0 20240519004324
+64.23.211.173 1 1 19595 20240516013308
+205.210.31.135 1 1 37679 20240522110634
+117.72.75.131 1 1 19595 20240513221226
+106.55.255.207 4 318 66370658 20240502193546
+66.220.149.15 1 7 58148 20240529101119
+66.220.149.3 0 23 7587622 
+201.182.108.245 3 161 32965525 20240502105627
+27.115.124.113 0 1 27832 
+190.112.170.38 3 114 13927087 20240527082508
+181.94.230.170 1 66 26936679 20240524112834
+123.6.49.15 3 194 35446078 20240514174524
+104.234.204.220 2 2 200702 20240529075834
+66.220.149.9 0 1 151520 
+38.152.7.21 0 1 186764 
+104.194.196.154 2 2 19595 20240522173906
+108.61.86.49 1 1 0 20240523093518
+205.210.31.138 1 1 37691 20240506190357
+205.210.31.84 1 1 100351 20240525055209
+181.124.133.37 4 164 33660204 20240516073508
+172.58.181.109 2 2 37462 20240513005214
+101.32.245.91 1 1 19595 20240523113327
+103.105.167.103 2 2 19595 20240522173906
+34.79.230.17 1 1 100351 20240522141750
+91.92.253.94 1 1 19595 20240512153645
+205.210.31.96 1 1 100351 20240514071435
+66.220.149.4 0 5 852485 
+35.203.210.198 1 1 37691 20240510235607
+205.210.31.93 1 1 100351 20240508114939
+45.76.166.8 1 1 0 20240528094102
+65.154.226.170 1 1 19595 20240510200412
+162.244.145.109 1 1 19595 20240511191408
+152.171.0.67 2 162 33214650 20240519091905
+1.52.110.60 1 1 100351 20240514192943
+194.26.192.16 1 1 0 20240506025955
+104.248.128.110 1 1 12176 20240501070743
+91.92.241.108 1 2 56725 20240505180123
+38.11.133.136 1 1 2758 20240526072134
+72.14.201.205 1 1 19595 20240530092815
+143.244.136.68 1 1 19595 20240506034316
+181.91.87.238 2 162 33214650 20240519203537
+151.115.47.90 1 1 19595 20240523180518
+107.190.52.176 3 161 32965525 20240518071724
+42.194.192.163 4 318 66370658 20240502212821
+78.182.138.114 3 163 33236430 20240528075339
+23.22.81.221 1 1 19595 20240529235905
+5.133.192.135 1 2 47427 20240531055710
+172.56.51.94 2 2 37462 20240510221942
+146.148.12.228 1 1 100351 20240502161719
+159.203.59.181 1 1 19595 20240514033158
+45.87.62.113 1 1 17867 20240512084451
+181.94.230.7 4 163 33012952 20240522195822
+5.133.192.108 1 2 47427 20240513150806
+59.58.60.84 1 1 100351 20240520074728
+66.135.16.45 1 1 0 20240524010104
+199.45.155.22 1 2 47427 20240509123921
+123.6.49.46 1 1 19595 20240502090641
+181.124.133.31 1 50 3205424 20240530122104
+198.235.24.194 1 1 37691 20240504061125
+181.124.134.227 0 1 378904 
+66.220.149.11 0 23 2871607 
+104.224.66.144 2 2 100351 20240513002951
+34.217.52.9 0 2 0 
+206.81.2.118 1 1 19595 20240526013120
+35.93.109.95 1 1 19595 20240531233537
+152.170.196.20 3 162 32993357 20240512143446
+193.29.15.252 1 1 19595 20240523034303
+205.210.31.223 1 1 100351 20240531035142
+198.235.24.26 1 1 37691 20240514043123
+36.99.136.129 1 2 40009 20240509074747
+34.22.161.106 1 1 100351 20240511123719
+205.210.31.254 1 1 100351 20240508074918
+196.196.34.14 1 1 17867 20240523231758
+66.84.90.60 0 1 666820 
+111.7.96.158 1 1 12179 20240521164418
+207.148.1.58 1 1 0 20240531085709
+54.188.120.253 4 324 66429300 20240513024913
+5.133.192.88 1 2 47427 20240501203814
+198.235.24.144 1 1 100351 20240515074508
+205.210.31.250 1 1 100351 20240502215651
+186.13.204.40 4 162 32985120 20240513112919
+205.210.31.249 1 1 37679 20240529105523
+186.158.200.85 3 150 29204539 20240502141502
+35.93.45.49 0 1 11710 
+191.101.114.22 1 1 17867 20240513171233
+172.56.54.46 2 2 37462 20240509232407
+45.156.128.32 1 1 19595 20240522182817
+181.78.94.196 2 100 32327778 20240503125948
+172.59.193.134 2 2 37462 20240507121852
+181.124.138.217 1 23 1079214 20240503105717
+178.62.231.33 1 1 19595 20240522024531
+45.201.227.109 1 1 2758 20240525053800
+179.218.8.97 4 164 33256025 20240508134146
+134.122.16.62 1 1 19595 20240510035643
+198.235.24.205 1 1 100351 20240510000033
+181.127.34.158 3 163 33660177 20240509082835
+142.93.145.232 1 1 19595 20240523033621
+180.122.64.37 1 1 37691 20240520114201
+88.17.174.96 2 2 37462 20240529193119
+198.235.24.240 1 1 37679 20240517093401
+192.185.4.40 1 1 19595 20240510101104
+200.3.255.234 3 163 33236430 20240509071545
+223.152.17.201 1 1 19595 20240502090441
+89.149.39.154 1 1 100351 20240516113926
+34.76.242.182 1 1 100351 20240513175103
+45.163.191.192 3 161 32965525 20240506182339
+34.42.162.46 1 1 19595 20240510100711
+186.12.184.2 0 1 293347 
+193.233.231.64 1 1 17867 20240503092055
+128.90.43.44 1 1 0 20240511035229
+34.212.141.124 0 1 11236 
+190.112.169.39 3 167 33676802 20240506132522
+35.89.196.136 2 2 39190 20240528033203
+103.197.170.32 1 1 17867 20240517154951
+35.93.204.31 4 4 57057 20240531025343
+173.252.83.26 0 1 855728 
+172.121.217.140 2 2 19595 20240509235623
+49.85.67.36 1 1 100351 20240509142628
+178.254.38.45 1 1 19595 20240531075314
+198.235.24.193 1 1 37691 20240531082622
+158.69.23.79 1 1 19595 20240522001847
+201.17.82.201 3 164 33243372 20240520133216
+69.171.251.12 0 1 189789 
+137.220.59.39 1 1 0 20240527072701
+158.69.164.188 2 159 33185329 20240515183317
+149.20.245.3 0 1 68713 
+190.112.168.45 0 1 450135 
+72.13.62.43 3 3 57057 20240518072904
+173.252.79.1 0 1 111687 
+35.90.140.97 0 1 11236 
+65.154.226.169 1 1 19595 20240523061754
+190.103.213.176 0 1 113880 
+172.56.25.173 2 2 37462 20240507001856
+154.36.150.147 1 1 19595 20240524004244
+193.161.2.220 2 2 19595 20240523020207
+158.69.164.185 2 159 33185329 20240515181546
+66.220.149.18 0 22 8455897 
+209.38.72.79 1 1 19595 20240524020431
+120.233.33.173 2 161 33186818 20240502162947
+165.22.116.205 1 1 19595 20240510051437
+198.235.24.70 1 1 37691 20240506191809
+143.198.118.237 1 1 19595 20240528015718
+1.53.72.49 3 3 55329 20240514001601
+200.3.249.89 3 163 33236430 20240513154126
+145.220.91.19 1 1 19595 20240507044057
+156.238.5.104 2 2 19595 20240524113401
+35.91.22.195 2 2 39190 20240504033309
+185.180.143.11 2 2 39190 20240531051840
+45.228.139.34 1 24 1013610 20240506150047
+181.124.90.40 3 162 32993357 20240525223023
+104.194.196.3 2 2 12175 20240522173906
+173.249.40.22 1 1 19595 20240526213208
+205.210.31.220 1 1 100351 20240527234340
+5.133.192.127 1 2 47427 20240525095322
+142.93.196.45 1 1 19595 20240518012511
+190.112.171.42 3 163 33236430 20240510140602
+49.85.154.186 1 1 37691 20240518021007
+144.76.164.62 1 22 176630 20240531180428
+161.35.141.249 1 1 19595 20240512024744
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240501 9 171 33807951 8
+20240502 42 2409 494437720 23
+20240503 44 1043 216692307 21
+20240504 5 5 114343 4
+20240505 7 54 9427461 6
+20240506 27 701 133952105 18
+20240507 28 802 145601724 18
+20240508 12 174 33874077 8
+20240509 49 714 134299407 23
+20240510 45 1005 200842090 21
+20240511 21 30 3341066 18
+20240512 15 335 66598794 11
+20240513 45 1180 216766360 26
+20240514 34 711 135606363 17
+20240515 9 461 95209888 6
+20240516 30 876 156759217 13
+20240517 15 198 46303968 10
+20240518 19 265 34164619 11
+20240519 19 705 144837579 11
+20240520 70 924 178155786 21
+20240521 12 35 890558 8
+20240522 40 528 101161215 22
+20240523 17 176 33210225 13
+20240524 32 167 28072183 22
+20240525 29 390 82529302 21
+20240526 24 460 82133781 15
+20240527 23 749 134081367 15
+20240528 25 367 67481805 16
+20240529 22 327 56359765 19
+20240530 14 230 36963484 11
+20240531 52 557 116720109 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 6
+5mn-15mn 15
+30mn-1h 3
+0s-30s 417
+30s-2mn 21
+2mn-5mn 9
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 568 18855210 395 343
+/fonts/fontawesome-webfont.woff2 93 7098720 2 38
+/en/ 68 1263037 55 27
+/fonts/Linearicons-Free.woff2 57 1241460 1 34
+/img/descubripaises/ce/ce.html 15 46900 6 11
+/img/descubripaises/ca/ca.html 10 33157 5 7
+/deu/ 9 229147 2 3
+/.git/config 5 60927 5 5
+/fonts/Linearicons-Free.woff 2 111392 0 1
+/fonts/fontawesome-webfont.ttf 2 165548 0 1
+/fonts/fontawesome-webfont.woff 2 98024 0 0
+/php/form-process.php 1 27 0 1
+/index.php 1 19595 1 1
+/img/descubripaises/pe/pe.html 1 8315 0 0
+// 1 19595 1 1
+END_SIDER

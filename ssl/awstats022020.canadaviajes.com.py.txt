@@ -1,0 +1,494 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home/canadavi/tmp/awstats/ssl/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2680                
+POS_VISITOR 15058               
+POS_DAY 17311               
+POS_DOMAIN 3443                
+POS_LOGIN 3861                
+POS_ROBOT 4016                
+POS_WORMS 4399                
+POS_EMAILSENDER 4530                
+POS_EMAILRECEIVER 4673                
+POS_SESSION 17999               
+POS_SIDER 18157               
+POS_FILETYPES 4808                
+POS_DOWNLOADS 5022                
+POS_OS 5104                
+POS_BROWSER 5312                
+POS_SCREENSIZE 5961                
+POS_UNKNOWNREFERER 6035                
+POS_UNKNOWNREFERERBROWSER 6380                
+POS_ORIGIN 6514                
+POS_SEREFERRALS 6651                
+POS_PAGEREFS 6890                
+POS_SEARCHWORDS 7038                
+POS_KEYWORDS 7190                
+POS_MISC 2344                
+POS_ERRORS 7249                
+POS_CLUSTER 3717                
+POS_SIDER_404 7399                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200301012856 4 525 6585481136252
+FirstTime 0
+LastTime 20200229201244
+LastUpdate 20200301061957 4 0 3 0 0
+TotalVisits 88                  
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 63                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 1 68713 0 2 348649
+1 14 14 1290224 20 29 772360
+2 6 6 98090 2 6 797044
+3 2 171 34846492 4 16 1100114
+4 2 2 19618 7 17 2671828
+5 4 4 58833 3 13 1216072
+6 2 3 22382 3 7 859250
+7 10 12 441255 3 16 1351979
+8 5 9 1341968 4 18 2224152
+9 2 6 927277 10 23 850987
+10 2 171 34846462 7 16 934604
+11 1 4 804938 1 13 1915706
+12 2 4 735050 2 10 600930
+13 15 874 152383617 7 199 2006360
+14 3 5 634142 1 6 1116772
+15 5 9 1543064 3 9 1993382
+16 3 3 22376 20 60 1602104
+17 0 1 193264 0 8 1672448
+18 2 4 793198 4 11 1138787
+19 15 15 0 1 9 455565
+20 12 13 421535 3 7 508766
+21 0 1 378904 7 45 1650077
+22 1 1 19618 5 22 2629169
+23 2 2 104249 1 8 856266
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 89 950 154073198
+de 10 348 69777615
+eu 6 6 625494
+cn 4 4 230844
+ru 1 1 19618
+ge 0 1 22382
+cr 0 1 376981
+ca 0 1 376981
+cl 0 1 68713
+ar 0 2 634142
+py 0 17 4987443
+in 0 1 313730
+ch 0 1 109224
+mx 0 1 378904
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bingbot/ 131 25763800 20200228055821 0
+bingpreview 68 1855942 20200226213434 0
+bot[\s_+:,\.\;\/\\-] 16 1652856 20200228220908 0
+link 7 103651 20200228101258 0
+facebookexternalhit/ 5 98090 20200218052558 0
+[\s_+:,\.\;\/\\-]bot 1 19609 20200224071133 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 179 1368085 0 0
+jpg 727 223733532 0 0
+html 104 2483053 0 0
+gif 5 3859 0 0
+png 213 3120129 0 0
+woff 6 588144 0 0
+css 99 561041 0 0
+pdf 2 137426 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/img/visa/imm5645e.pdf 2 0 137426
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win10 10 6
+win7 13 9
+macosx12 3 3
+Unknown 934 75
+win8.1 3 2
+ios_iphone 8 3
+macosx 2 2
+macosx11 2 2
+linuxandroid 16 2
+ios_ipad 1 1
+linux 343 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+edge18 1 0
+firefox50.0 340 2
+opera55.0.2955.0 1 0
+chrome80.0.3987.87 3 0
+safari10.0 3 3
+chrome80.0.3987.99 3 0
+safari13.0.5 1 0
+chrome80.0.3987.117 1 0
+chrome79.0.3945.136 6 0
+chrome80.0.3987.119 1 0
+chrome66.0.3359.117 3 3
+chrome71.0.3578.99 1 0
+mozilla 3 3
+safari13.0.4 1 0
+opera53.0.2907.57 1 0
+safari12.1.2 2 0
+msie11.0 5 4
+chrome64.0.3282.186 4 4
+Unknown 930 71
+safari11.0.3 1 1
+safari7.0 1 1
+safari 1 0
+chrome40.0.2214.85 6 6
+chrome40.0.2214.89 2 2
+chrome71.0.3578.98 1 1
+chrome79.0.3945.130 4 0
+firefox47.0 2 2
+firefox58.0 2 2
+chrome75.0.3770.142 2 2
+chrome58.0.3029.110 2 2
+netscape5.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20200224154618
+Go-http-client/1.1 20200229201244
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200221081112
+'' 20200208133455
+Mozilla/5.0_zgrab/0.x 20200219182246
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+'' 20200208133455
+Go-http-client/1.1 20200229201244
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 104 444
+From1 0 0
+From2 0 26
+From3 0 0
+From4 6 865
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com_ar 0 1
+www_google_com_py 0 2
+www_google_com_br 0 1
+www_google_com 0 21
+bing 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+409 2 166
+400 8 312
+403 13 1742
+406 12 2712
+401 24 460254
+404 283 1314237
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 88
+/img/toursdestacados/puntacatd/caaribeec.jpg 2 https://www.canadaviajes.com.py/deu/
+/robots.txt 77 -
+/img/salidasgarantizadas/brasil-sg/barasil0.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/ESENCIASDELOESTECANADA.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunbanner.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/brasil/costadesauipebra.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/argentina-sg/buenosaires.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/perutd/CUSCOVINIVUNCA.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/otrasplayas-sg/sanandresotrasg.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/caribe/SAMANA.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/otrasplayas-sg/otrasplayasbanner.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/europatd/europavacacionestd.jpg 8 https://www.canadaviajes.com.py/
+/img/toursdestacados/puntacatd/pujfebrero.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/otawa1.jpg 4 https://www.canadaviajes.com.py/deu/
+/img/galeria/otawa/otawa.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/galeria/southafrica/southafrica.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/argentina-sg/arg.jpg 4 https://www.canadaviajes.com.py/deu/
+/app-ads.txt 1 -
+/img/sujetoadisponibilidad/canada/canada.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunotrassg2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/galeria/bolivia/bolivia.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunanonuevo.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ca/bannerbo.jpg 4 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ar/pages/1-regions.json 1 https://www.canadaviajes.com.py/img/descubripaises/ar/ar.html
+/img/descubripaises/ar/pages/3-regions.json 1 https://www.canadaviajes.com.py/img/descubripaises/ar/ar.html
+/img/toursdestacados/argentinatd/ushtd.jpg 4 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasil-sg/brasilalnatalinclusive.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/canada4.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/canada5.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/otrasplayas-sg/arubaenero2019.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/otrasplayas-sg/cartagenaybarusg.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/puntacatd/puntacanafeb.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/argentina/USHUAIA2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/CANCUNENE19.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/argentina-sg/gar3.jpg 6 https://www.canadaviajes.com.py/
+/img/salidasgarantizadas/brasil-sg/maceiosg.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/brasil/brasilimbatible.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/GUAATUBATERRESTRE.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/europatd/europatd.jpg 4 https://www.canadaviajes.com.py/deu/
+/index.html 2 -
+/img/toursdestacados/puntacatd/pujene.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/canada2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/puntacatd/pujfeb.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/canada3.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/argentinatd/puertomont.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/estecanadiensecanada.jpg 2 https://www.canadaviajes.com.py/deu/
+/ads.txt 1 -
+/img/toursdestacados/puntacatd/pujjan.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/CAMBOIUTERRESTRE.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/argentinatd/mendoza.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancundeciembre.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/perutd/perutd2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ar/pages/2-regions.json 1 https://www.canadaviajes.com.py/img/descubripaises/ar/ar.html
+/img/galeria/cuba/cuba.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/caribe/COSTARICAtodoela%C3%B1o.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/FLNTERRESTRE.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasil-sg/salvadorbahia.jpg 2 https://www.canadaviajes.com.py/deu/
+/+595981602583 1 -
+/img/toursdestacados/perutd/CUSCOMACHUPICHU.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/RIOTERRESTRE.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/europa/europa3.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/europa/europa1.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/puntacatd/puntanatd2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/argentina-sg/gar1.jpg 6 https://www.canadaviajes.com.py/
+/img/galeria/japon/japon.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/europa/europa2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/descubripaises/ar2/ar.html 3 -
+/img/sujetoadisponibilidad/caribe/SanAndrestodoela%C3%B1o.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/CAIOBATERRESTRE.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/argentina/calafate2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/argentina-sg/gar2.jpg 6 https://www.canadaviajes.com.py/
+/img/quienes-somos2.jpg 1 https://www.canadaviajes.com.py/en/
+/img/toursdestacados/argentinatd/ushtd2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/europatd/semanasantaeuropa2019.jpg 8 https://www.canadaviajes.com.py/
+/img/salidasgarantizadas/brasil-sg/natalsg2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/brasil/brasil1.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/canada/rockymountaineer.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/puntacatd/puntacanatd.jpg 4 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasilbus-sg/bannerbrasilbus.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/argentina/calafate.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasil-sg/natalsg.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunotrassg3.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/brasil/brasil-natal.jpg 4 https://www.canadaviajes.com.py/deu/
+/img/galeria/machupichu/machupichu.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/brasil-sg/maragogisg.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/sujetoadisponibilidad/argentina/bariloche2.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/salidasgarantizadas/cancun-sg/cancunotrassg.jpg 2 https://www.canadaviajes.com.py/deu/
+/img/toursdestacados/puntacatd/punfeb.jpg 2 https://www.canadaviajes.com.py/deu/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 63
+54.197.234.188 13 872 152364020 20200208133453
+52.41.211.72 11 11 0 20200228080635
+52.37.211.217 11 11 0 20200228194823
+35.162.141.144 8 8 0 20200224194431
+35.162.214.175 8 8 0 20200229201244
+52.34.24.33 7 7 0 20200226152748
+138.246.253.5 6 6 0 20200224113412
+69.4.87.74 3 3 312747 20200210014334
+93.119.227.91 3 3 312747 20200210014225
+69.4.89.106 3 3 312747 20200210014624
+93.119.227.19 3 3 312747 20200210014751
+18.217.197.58 2 2 39194 20200228072052
+137.226.113.21 2 340 69653748 20200223102136
+38.99.62.94 2 2 204716 20200224154618
+60.191.38.77 2 2 208498 20200204154025
+35.162.70.167 2 2 0 20200223234953
+96.126.103.73 1 1 19618 20200202040644
+150.249.214.253 1 1 19618 20200219054412
+44.233.220.223 1 1 19618 20200223032241
+209.58.129.99 1 1 19618 20200219164325
+159.138.152.14 1 1 19618 20200220224210
+137.226.113.28 1 1 19618 20200221081112
+34.222.175.6 1 1 19618 20200206021439
+107.6.183.226 1 1 19597 20200225055009
+93.159.230.28 1 1 19618 20200211185711
+181.120.133.28 0 1 297668 
+131.196.192.42 0 1 376981 
+170.51.55.55 0 1 317071 
+83.77.199.179 0 1 109224 
+190.104.176.169 0 2 516891 
+45.173.180.10 0 1 313730 
+181.122.31.108 0 1 376981 
+177.247.115.186 0 1 378904 
+181.124.165.130 0 1 193264 
+181.124.191.44 0 1 288047 
+104.144.153.133 0 1 68713 
+191.101.144.252 0 1 68713 
+40.128.67.136 0 1 313730 
+138.186.60.89 0 1 376981 
+114.119.166.205 1 1 19588 20200224102859
+44.226.207.15 1 1 19618 20200211025028
+190.104.161.206 0 2 708789 
+198.143.158.82 1 1 19618 20200207202957
+198.108.66.240 1 1 19618 20200219182246
+150.249.214.249 1 1 19618 20200219054410
+181.124.186.150 0 3 842381 
+190.104.174.33 0 1 251317 
+52.40.249.52 1 1 19597 20200227131406
+52.37.234.217 1 1 19618 20200219013112
+35.167.96.210 1 1 19618 20200212013107
+52.40.192.247 1 1 19618 20200214021155
+52.24.132.190 1 1 19618 20200217071929
+18.237.125.118 1 1 19618 20200218021439
+91.151.136.134 0 1 22382 
+193.30.121.226 1 1 104249 20200219231706
+181.125.70.194 0 1 317071 
+54.203.14.193 1 1 19618 20200221022257
+190.224.38.119 0 1 317071 
+3.89.84.155 1 1 104249 20200208202828
+181.127.141.224 0 2 500982 
+181.126.104.112 0 1 317071 
+181.124.169.166 0 1 376981 
+114.119.134.72 1 1 2758 20200217161935
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200201 2 3 288047 2
+20200202 3 3 19618 3
+20200203 2 3 376981 2
+20200204 4 5 401762 3
+20200205 2 2 0 2
+20200206 2 3 333348 2
+20200207 4 7 861999 4
+20200208 16 877 152969251 4
+20200209 1 2 109224 1
+20200210 16 19 2146783 8
+20200211 3 4 356307 3
+20200212 2 2 19618 2
+20200213 2 3 376981 2
+20200214 2 2 19618 2
+20200215 2 2 0 2
+20200216 2 3 317071 2
+20200217 3 3 22376 3
+20200218 2 3 317286 2
+20200219 7 7 202339 7
+20200220 4 5 396599 4
+20200221 4 5 460556 4
+20200222 2 3 251317 2
+20200223 6 345 69742079 6
+20200224 5 9 1228207 5
+20200225 3 3 19597 3
+20200226 2 4 382443 2
+20200227 2 2 19597 2
+20200228 4 5 356265 3
+20200229 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 87
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 100 2441508 87 86
+/fonts/fontawesome-webfont.woff 6 588144 0 1
+/img/descubripaises/ar/ar.html 1 2803 0 0
+/img/descubripaises/ce/ce.html 1 2758 1 1
+/en/ 1 17867 0 0
+/deu/ 1 18117 0 0
+END_SIDER

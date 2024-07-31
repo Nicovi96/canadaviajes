@@ -1,0 +1,425 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202009 will be lost/reset.
+# Last config file used to build this data file was /home2/canadavi/tmp/awstats/ssl/awstats.canadaviajes.com.py.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2686                
+POS_VISITOR 8460                
+POS_DAY 11671               
+POS_DOMAIN 3413                
+POS_LOGIN 3806                
+POS_ROBOT 3961                
+POS_WORMS 4251                
+POS_EMAILSENDER 4382                
+POS_EMAILRECEIVER 4525                
+POS_SESSION 12355               
+POS_SIDER 12523               
+POS_FILETYPES 4660                
+POS_DOWNLOADS 4781                
+POS_OS 4985                
+POS_BROWSER 5146                
+POS_SCREENSIZE 5584                
+POS_UNKNOWNREFERER 5658                
+POS_UNKNOWNREFERERBROWSER 5762                
+POS_ORIGIN 5861                
+POS_SEREFERRALS 5995                
+POS_PAGEREFS 6159                
+POS_SEARCHWORDS 6307                
+POS_KEYWORDS 6459                
+POS_MISC 2350                
+POS_ERRORS 6518                
+POS_CLUSTER 3662                
+POS_SIDER_404 6653                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201001002812 13 2594 12057128125088
+FirstTime 0
+LastTime 20200930131812
+LastUpdate 20201001072921 13 0 12 0 0
+TotalVisits 87                  
+TotalUnique 65                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 88                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 200702 10 11 172667
+1 0 0 0 0 9 32739
+2 1 1 36230 10 14 551158
+3 3 3 19595 330 340 32375478
+4 2 3 169064 13 15 671099
+5 4 4 139541 8 16 412368
+6 0 0 0 5 12 602510
+7 4 12 3055895 10 16 693364
+8 2 4 475646 8 11 206484
+9 7 8 729786 8 10 54150
+10 1 1 0 5 12 380998
+11 3 4 453664 3 11 63851
+12 3 3 136593 8 14 315566
+13 46 47 1091686 10 13 14764
+14 5 5 58785 11 14 20763
+15 2 4 468591 5 9 39016
+16 0 2 695975 5 12 282614
+17 1 2 292841 5 6 121604
+18 0 1 378904 0 5 87895
+19 3 3 136593 4 10 145494
+20 0 1 317071 0 6 28062
+21 1 6 1680622 11 16 482749
+22 1 2 398499 4 13 484621
+23 3 3 19595 4 11 631107
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 62 69 4185250
+de 18 18 0
+fr 7 8 642940
+ru 6 6 312376
+se 1 1 2795
+py 0 7 2534040
+ar 0 2 717616
+cl 0 1 193264
+ro 0 1 416503
+ec 0 3 833962
+mx 0 1 151520
+co 0 3 648541
+in 0 1 317071
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[\s_+:,\.\;\/\\-] 358 33548181 20200930141812 0
+bingbot/ 21 4055908 20200930104924 0
+no_user_agent 5 501755 20200929161714 0
+curl 3 50892 20200928163318 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+pdf 5 1321630 0 0
+html 94 2460425 0 0
+jpg 22 7173823 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/img/visa/imm5645e.pdf 2 0 137426
+/img/visa/nuevazelanda.pdf 1 0 330620
+/img/visa/imm5257e2.pdf 1 0 666820
+/img/visa/requisitosvisaaustralia.pdf 1 0 186764
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx 13 3
+linux 9 9
+linuxandroid 5 0
+macosx8 1 1
+win7 22 18
+winxp 1 1
+Unknown 5 5
+win10 65 57
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+firefox58.0 5 5
+firefox47.0 6 6
+chrome61.0.3163.79 1 1
+chrome83.0.4103.97 1 1
+chrome85.0.4183.102 9 2
+firefox30.0 2 2
+firefox80.0 1 0
+chrome85.0.4183.127 2 0
+chrome85.0.4183.81 2 0
+chrome85.0.4183.83 4 0
+chrome71.0.3578.98 2 2
+chrome40.0.2214.85 18 18
+chrome84.0.4147.111 1 0
+chrome57.0.2987.133 12 3
+chrome84.0.4147.135 1 0
+chrome66.0.3359.117 1 1
+chrome66.0.3359.181 48 48
+Unknown 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+\ 20200929044521
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+\ 20200929044521
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 92 93
+From1 0 0
+From2 0 18
+From3 0 0
+From4 2 10
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 0 18
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 28 892
+400 20 832
+404 154 709677
+409 6 498
+406 11 2486
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/img/salidasgarantizadas/argentina-sg/gar1.jpg 1 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ar.html 1 -
+/wp-content/plugins/wp-file-manager/lib/files/xxx.php 4 -
+/img/toursdestacados/europatd/semanasantaeuropa2019.jpg 1 https://www.canadaviajes.com.py/
+/wp-content/plugins/wp-file-manager/lib/files/x.php 4 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 9 -
+/index.html 1 https://www.canadaviajes.com.py/
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-el.html 1 -
+/img/toursdestacados/europatd/europavacacionestd.jpg 1 https://www.canadaviajes.com.py/
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-zh.html 1 -
+/img/descubripaises/ar2/ar.html 7 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html 1 -
+/robots.txt 89 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-de.html 1 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-es.html 1 -
+//wordpress/ 1 -
+//wp/ 1 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-it.html 1 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-bg.html 1 -
+/ads.txt 8 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ko.html 1 -
+/img/descubripaises/canada/canada.html 1 -
+/app-ads.txt 8 -
+/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ja.html 1 -
+/img/salidasgarantizadas/argentina-sg/gar2.jpg 2 -
+/owa/auth/logon.aspx 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 88
+138.246.253.15 18 18 0 20200926215459
+3.81.245.94 5 5 373525 20200929044521
+109.70.236.21 4 4 273186 20200930125621
+62.4.14.206 3 3 236944 20200928094351
+188.165.211.206 2 2 200702 20200919001806
+18.216.120.79 2 2 39190 20200930054036
+172.93.189.35 2 2 136593 20200918114420
+54.218.174.97 1 1 19595 20200922135043
+34.219.148.238 1 1 19595 20200902130846
+18.237.223.73 1 1 19595 20200909033818
+54.191.103.239 1 1 19595 20200921132310
+34.221.114.119 1 1 19595 20200904133345
+54.201.154.249 1 1 19595 20200923131819
+54.187.49.217 1 1 19595 20200909132723
+18.237.205.20 1 1 19595 20200919132254
+34.217.18.179 1 1 19595 20200901132558
+52.34.163.65 1 1 19595 20200927131634
+54.202.17.161 1 1 19595 20200920131244
+46.246.122.34 1 1 2795 20200917074207
+34.221.239.36 1 1 19595 20200915132059
+52.37.200.199 1 1 19595 20200920135009
+54.218.254.244 1 1 19595 20200930131812
+35.163.5.229 1 1 19595 20200924133041
+62.4.14.198 1 1 36230 20200928093828
+18.236.168.112 1 1 19595 20200908131632
+181.199.50.38 0 3 833962 
+181.94.228.162 0 1 338712 
+181.126.69.42 0 2 825019 
+76.117.170.246 0 1 356104 
+181.124.172.247 0 1 317071 
+37.120.154.37 0 1 416503 
+70.112.82.153 0 1 68713 
+205.185.223.123 0 1 666820 
+191.102.199.125 0 1 192490 
+54.213.245.169 1 1 19595 20200915131504
+23.254.29.77 0 1 330620 
+77.74.177.113 1 1 19595 20200911091927
+24.20.233.182 0 1 563297 
+52.34.72.225 1 1 19595 20200914133117
+77.74.177.114 1 1 19595 20200925092251
+52.25.74.153 1 1 19595 20200922131738
+181.238.213.131 0 1 378904 
+34.208.120.102 1 1 19595 20200929132246
+189.203.101.213 0 1 151520 
+181.127.99.82 0 1 317071 
+173.244.36.69 1 1 19595 20200917074129
+54.149.151.211 1 1 19595 20200913133459
+34.218.253.136 1 1 19595 20200925143953
+186.86.32.36 0 2 456051 
+34.220.67.152 1 1 19595 20200904131054
+34.211.93.14 1 1 19595 20200903143709
+35.165.162.170 1 1 19595 20200928131849
+35.165.211.232 1 1 19595 20200921131513
+34.72.241.74 1 1 19595 20200909135955
+35.163.196.10 1 1 19595 20200909223517
+54.203.192.199 1 1 19595 20200923134404
+34.221.0.159 1 1 19595 20200909131323
+34.222.124.152 1 1 19595 20200924131703
+34.221.247.80 1 1 19595 20200928133006
+18.237.197.13 1 1 19595 20200906131703
+52.36.17.16 1 1 19595 20200917132100
+191.116.196.218 0 1 193264 
+34.217.120.18 1 1 19595 20200925132920
+34.216.180.121 1 1 19595 20200918131554
+45.72.17.212 0 1 441905 
+54.190.153.189 1 1 19595 20200905134953
+34.216.78.163 1 1 19595 20200929132152
+181.122.10.16 0 1 378904 
+35.165.41.25 1 1 19595 20200926134134
+212.83.146.233 1 1 100351 20200928093320
+34.220.59.42 1 1 19595 20200910082451
+54.200.204.35 1 1 19595 20200907130329
+52.12.153.2 1 1 19595 20200930130827
+54.201.152.0 1 1 19595 20200918134855
+62.210.80.16 0 1 68713 
+54.187.123.67 1 1 19595 20200927133245
+52.38.81.124 1 1 19595 20200926132319
+50.5.8.70 1 1 2779 20200917074140
+107.6.183.162 1 1 19595 20200924230756
+190.23.104.24 0 1 378904 
+75.84.165.242 0 1 186764 
+34.212.197.119 1 1 19595 20200912132759
+45.179.193.74 0 1 317071 
+190.128.238.14 0 1 317071 
+54.213.6.43 1 1 19595 20200919132254
+34.209.129.22 1 1 19595 20200919132706
+34.219.219.133 1 1 19595 20200911131231
+54.186.75.71 1 1 19595 20200917145006
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200901 1 3 715570 1
+20200902 1 1 19595 1
+20200903 2 2 19595 2
+20200904 5 6 518445 5
+20200905 3 5 844614 3
+20200906 1 3 467212 1
+20200907 1 1 19595 1
+20200908 1 2 336666 1
+20200909 5 5 97975 5
+20200910 3 6 853557 3
+20200911 2 2 39190 2
+20200912 4 6 551571 4
+20200913 1 1 19595 1
+20200914 1 2 212085 1
+20200915 2 2 39190 2
+20200917 6 14 3095085 6
+20200918 7 7 276134 6
+20200919 5 5 259487 4
+20200920 3 3 75432 3
+20200921 2 2 39190 2
+20200922 4 6 631834 3
+20200923 2 2 39190 2
+20200924 3 3 58785 3
+20200925 6 7 375856 6
+20200926 4 4 39190 4
+20200927 3 3 75420 3
+20200928 7 7 412715 5
+20200929 3 5 608132 3
+20200930 6 6 214973 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 85
+5mn-15mn 1
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 90 2254149 84 84
+// 2 200702 1 1
+/img/descubripaises/pe/pe.html 1 2795 1 1
+/img/descubripaises/ca/ca.html 1 2779 1 1
+END_SIDER
